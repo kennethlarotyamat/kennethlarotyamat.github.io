@@ -1,1 +1,29 @@
 p{color:green;}
+.div2o01  {
+         font-family: Courier, monospace, ocr-a; 
+}
+.div2o02
+{
+         text-align: center;  
+         color: rgb(44,22,255)
+}
+.div2o03
+{
+         text-align: center;
+         color: rgb(120,134,255)
+}
+.div2o04
+{
+         text-align: center;  
+         color: hsl(120, 50%, 50%)
+}
+.div2o05
+{
+         margin: auto;  
+         color: rgb(0,0,255)
+}
+
+ul li 
+{  
+color : green ;
+}
