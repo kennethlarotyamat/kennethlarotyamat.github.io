@@ -205,7 +205,7 @@ a {
 .aside-one:hover {
   transform: scale(1.02);
 }
-
+ 
 .aside-two {
   grid-area: aside-two;
   background-color: #ffffbf;
