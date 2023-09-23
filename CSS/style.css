@@ -23,6 +23,15 @@
   padding: 1vw;
     
   }
+
+  .subheadercenterheadertextbutton {
+    text-align: center;
+    vertical-align: middle;
+  grid-area: sbhead;
+  background-color: #ffefea;
+  padding: 1vw;
+    
+  }
   
 
 
