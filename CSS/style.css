@@ -248,7 +248,7 @@ h1 {
   width: 100%;
   place-content: center;
   gap: 1rem;
-  text-align: center;
+  text-align: left;
 }
 
 
@@ -258,8 +258,8 @@ h1 {
   display: inline-block;
   width: 3.75rem;
   height: 2.13rem;
-  margin-bottom: 0.63rem;
-  margin-inline: auto;
+  margin-bottom: 0.1rem;
+  margin-inline: left;
 }
 
 .toggle-switch input {
