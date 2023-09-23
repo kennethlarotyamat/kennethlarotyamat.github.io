@@ -102,12 +102,13 @@ h2 {
     "footer footer footer footer footer";
   min-height: 80vh;
   margin-top: 4rem;
-  gap: 0.5rem;
+  gap: 1.15rem;
 }
 
 .grid-item {
 
   padding: 1rem;
+  margin: 0rem;
 }
 
 
