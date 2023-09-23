@@ -329,14 +329,14 @@ input:checked + .slider:before {
 
 
 
-  .dark-mode[style] {
+  .dark-mode {
     background-color: #ffffff;
-    color:  #000000 !important;
+    color:  #000000 ;
     transition: all 0.4s ease-in;
   }
   .dark-modebsbuttons {
     background-color: silver;
     border-color: gray;
-    color:  #000000 !important;
+    color:  #000000 ;
     transition: all 0.4s ease-in;
   }

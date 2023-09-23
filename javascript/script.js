@@ -27,26 +27,26 @@ let modeToggle = document.getElementById('mode-toggle');
 let modeStatus = document.querySelector('.mode-status');
 
 function toggleMode() {  
-  body.classList.toggle('dark-mode');
-  footer.classList.toggle('dark-mode');
-  main.classList.toggle('dark-mode');
-  aside.classList.toggle('dark-mode');
-  asideTwo.classList.toggle('dark-mode');
-  subheadercenterheadertextbutton.classList.toggle('dark-mode');
-  header.classList.toggle('dark-mode');
-  contentouter.classList.toggle('dark-mode');
-  sidebarouter.classList.toggle('dark-mode');
-  bootstrapbuttonone.classList.toggle('dark-modebsbuttons');
-  bootstrapbuttontwo.classList.toggle('dark-modebsbuttons');
-  bootstrapbuttonthree.classList.toggle('dark-modebsbuttons');
-  bootstrapbuttonfour.classList.toggle('dark-modebsbuttons');
-  bootstrapbuttonfive.classList.toggle('dark-modebsbuttons');
+  body.classList.toggle('dark-mode[style]');
+  footer.classList.toggle('dark-mode[style]');
+  main.classList.toggle('dark-mode[style]');
+  aside.classList.toggle('dark-mode[style]');
+  asideTwo.classList.toggle('dark-mode[style]');
+  subheadercenterheadertextbutton.classList.toggle('dark-mode[style]');
+  header.classList.toggle('dark-mode[style]');
+  contentouter.classList.toggle('dark-mode[style]');
+  sidebarouter.classList.toggle('dark-mode[style]');
+  bootstrapbuttonone.classList.toggle('dark-modebsbuttons[style]');
+  bootstrapbuttontwo.classList.toggle('dark-modebsbuttons[style]');
+  bootstrapbuttonthree.classList.toggle('dark-modebsbuttons[style]');
+  bootstrapbuttonfour.classList.toggle('dark-modebsbuttons[style]');
+  bootstrapbuttonfive.classList.toggle('dark-modebsbuttons[style]');
   
 
 
 
 
-  let modeMessage = body.classList.contains('dark-mode') ?
+  let modeMessage = body.classList.contains('dark-mode[style]') ?
     'Grayscale' 
     : "Color";
 
