@@ -10,10 +10,14 @@ $(function(){
 
 let body = document.querySelector(" body");
 let footer = document.querySelector(" footer");
-let main = document.querySelector(" main");
+let main = document.querySelector(" .main");
 let aside = document.querySelector(" aside");
 let asideTwo = document.querySelector(".aside-two");
 let subheadercenterheadertextbutton = document.querySelector(".subheadercenterheadertextbutton");
+let header = document.querySelector(".header");
+let contentouter = document.querySelector(".contentouter");
+let sidebarouter = document.querySelector(".sidebarouter");
+let bootstrapbuttonone = document.querySelector(".bootstrapbuttonone");
 
 let modeToggle = document.getElementById('mode-toggle');
 let modeStatus = document.querySelector('.mode-status');
@@ -25,6 +29,11 @@ function toggleMode() {
   aside.classList.toggle('dark-mode');
   asideTwo.classList.toggle('dark-mode');
   subheadercenterheadertextbutton.classList.toggle('dark-mode');
+  header.classList.toggle('dark-mode');
+  contentouter.classList.toggle('dark-mode');
+  sidebarouter.classList.toggle('dark-mode');
+  bootstrapbuttonone.classList.toggle('dark-modebsbuttons');
+  
 
 
 

@@ -334,3 +334,8 @@ input:checked + .slider:before {
     color:  #000000;
     transition: all 0.4s ease-in;
   }
+  .dark-modebsbuttons {
+    background-color: silver;
+    color:  #000000;
+    transition: all 0.4s ease-in;
+  }
