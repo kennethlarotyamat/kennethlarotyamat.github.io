@@ -28,6 +28,7 @@
     vertical-align: middle;
     grid-area: sbhead;
     background-color: #ffefea;
+    padding: 2vh;
     
   }
   
@@ -281,7 +282,7 @@ h1 {
   left: 0;
   right: 0;
   bottom: 0;
-  background-color: #2196f3;
+  background-color: #aad9ff;;
   transition: all 0.4s ease-in;
   border-radius: 2.13rem;
 }
@@ -304,7 +305,7 @@ input:checked + .slider {
 }
 
 input:focus + .slider {
-  background-color: #2196f3;
+  background-color: #aad9ff;
   
   
 }
