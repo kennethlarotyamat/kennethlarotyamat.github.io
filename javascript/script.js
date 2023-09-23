@@ -13,6 +13,7 @@ let footer = document.querySelector(" footer");
 let main = document.querySelector(" main");
 let aside = document.querySelector(" aside");
 let asideTwo = document.querySelector(".aside-two");
+let subheadercenterheadertextbutton = document.querySelector(".subheadercenterheadertextbutton");
 
 let modeToggle = document.getElementById('mode-toggle');
 let modeStatus = document.querySelector('.mode-status');
@@ -23,6 +24,7 @@ function toggleMode() {
   main.classList.toggle('dark-mode');
   aside.classList.toggle('dark-mode');
   asideTwo.classList.toggle('dark-mode');
+  subheadercenterheadertextbutton.classList.toggle('dark-mode');
 
 
 
