@@ -8,16 +8,20 @@ $(function(){
 });  
 
 
-const body = document.querySelector('body');
-const modeToggle = document.getElementById('mode-toggle');
-const modeStatus = document.querySelector('.mode-status');
+let body = document.querySelector("body");
+
+let footer = document.querySelector("footer");
+
+let modeToggle = document.getElementById('mode-toggle');
+let modeStatus = document.querySelector('.mode-status');
 
 function toggleMode() {
   body.classList.toggle('dark-mode');
+  footer.classList.toggle('dark-mode');
 
-  const modeMessage = body.classList.contains('dark-mode') ?
+  let modeMessage = body.classList.contains('dark-mode') ?
     'Grayscale' 
-    : "Color"
+    : "Color";
 
   modeStatus.innerText =  modeMessage;
 }
