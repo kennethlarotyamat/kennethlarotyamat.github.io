@@ -19,6 +19,7 @@ let contentouter = document.querySelector(".contentouter");
 let sidebarouter = document.querySelector(".sidebarouter");
 let bootstrapbuttonone = document.querySelector(".bootstrapbuttonone");
 let bootstrapbuttontwo = document.querySelector(".bootstrapbuttontwo");
+let bootstrapbuttonthree = document.querySelector(".bootstrapbuttonthree");
 
 let modeToggle = document.getElementById('mode-toggle');
 let modeStatus = document.querySelector('.mode-status');
@@ -35,6 +36,7 @@ function toggleMode() {
   sidebarouter.classList.toggle('dark-mode');
   bootstrapbuttonone.classList.toggle('dark-modebsbuttons');
   bootstrapbuttontwo.classList.toggle('dark-modebsbuttons');
+  bootstrapbuttonthree.classList.toggle('dark-modebsbuttons');
   
 
 
