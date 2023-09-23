@@ -7,7 +7,7 @@ $(function(){
   });
 });  
 
-
+ 
 let body = document.querySelector(" body");
 let footer = document.querySelector(" footer");
 let main = document.querySelector(" .main");
