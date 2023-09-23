@@ -28,7 +28,6 @@
     vertical-align: middle;
     grid-area: sbhead;
     background-color: #ffefea;
-    padding: 1vw;
     
   }
   
@@ -172,10 +171,11 @@ a {
   flex-basis: 0;
   flex-grow: 1;
   flex-shrink: 1;
-
   background-color: #e6e6fa;
+  margin: 1vh;
+  padding: 1vh;
 
-  padding: 16px;
+
 }
 
 .sidebarouter {
@@ -183,12 +183,11 @@ a {
   flex-grow: 0;
   flex-shrink: 0;
   background-color: #ffdfbe;
-  padding: 16px;
+  padding: 1vh;
 }
 
 .containeroverouter {
   width: 98%;
-
   background-color: #ffffff;
 }
 
@@ -282,7 +281,7 @@ h1 {
   left: 0;
   right: 0;
   bottom: 0;
-  background-color: #ccc;
+  background-color: #2196f3;
   transition: all 0.4s ease-in;
   border-radius: 2.13rem;
 }
@@ -300,12 +299,22 @@ h1 {
 }
 
 input:checked + .slider {
-  background-color: #2196f3;
+  background-color: #ccc;
+
 }
 
 input:focus + .slider {
-  box-shadow: 0 0 2px #2196f3;
+  background-color: #2196f3;
+  
+  
 }
+
+input:checked:focus + .slider {
+  background-color: #ccc;
+  
+  }
+
+
 
 input:checked + .slider:before {
   transform: translateX(1.63rem);
