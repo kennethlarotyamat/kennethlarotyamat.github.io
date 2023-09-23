@@ -36,15 +36,15 @@ let modeToggle = document.getElementById('mode-toggle');
 let modeStatus = document.querySelector('.mode-status');
  
 function toggleMode() {  
-  bodyA.classList.toggle('dark-mode');
-  footer.classList.toggle('dark-mode');
-  main.classList.toggle('dark-mode');
-  aside.classList.toggle('dark-mode');
-  asideTwo.classList.toggle('dark-mode');
-  subheadercenterheadertextbutton.classList.toggle('dark-mode');
-  header.classList.toggle('dark-mode');
+  bodyA.classList.toggle('dark-modefields');
+  footer.classList.toggle('dark-modefields');
+  main.classList.toggle('dark-modefields');
+  aside.classList.toggle('dark-modefields');
+  asideTwo.classList.toggle('dark-modefields');
+  subheadercenterheadertextbutton.classList.toggle('dark-modefields');
+  header.classList.toggle('dark-modefields');
   contentouter.classList.toggle('dark-mode');
-  sidebarouter.classList.toggle('dark-mode');
+  sidebarouter.classList.toggle('dark-modefields');
   bootstrapbuttonone.classList.toggle('dark-modebsbuttons');
   bootstrapbuttontwo.classList.toggle('dark-modebsbuttons');
   bootstrapbuttonthree.classList.toggle('dark-modebsbuttons');
@@ -55,7 +55,7 @@ function toggleMode() {
 
 
 
-  let modeMessage = bodyA.classList.contains('dark-mode') ?
+  let modeMessage = bodyA.classList.contains('dark-modefields') ?
     'Grayscale' 
     : "Color";
 
