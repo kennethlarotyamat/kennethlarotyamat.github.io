@@ -8,7 +8,7 @@ $(function(){
 });  
 
  
-let body = document.querySelector(" body");
+let bodya = document.querySelector(" .bodya");
 let footer = document.querySelector(" footer");
 let main = document.querySelector(" .main");
 let aside = document.querySelector(" aside");
@@ -27,7 +27,7 @@ let modeToggle = document.getElementById('mode-toggle');
 let modeStatus = document.querySelector('.mode-status');
 
 function toggleMode() {  
-  body.classList.toggle('dark-mode');
+  bodya.classList.toggle('dark-mode');
   footer.classList.toggle('dark-mode');
   main.classList.toggle('dark-mode');
   aside.classList.toggle('dark-mode');
@@ -46,7 +46,7 @@ function toggleMode() {
 
 
 
-  let modeMessage = body.classList.contains('dark-mode') ?
+  let modeMessage = bodya.classList.contains('dark-mode') ?
     'Grayscale' 
     : "Color";
 
