@@ -21,6 +21,7 @@ let bootstrapbuttonone = document.querySelector(".bootstrapbuttonone");
 let bootstrapbuttontwo = document.querySelector(".bootstrapbuttontwo");
 let bootstrapbuttonthree = document.querySelector(".bootstrapbuttonthree");
 let bootstrapbuttonfour = document.querySelector(".bootstrapbuttonfour");
+let bootstrapbuttonfive = document.querySelector(".bootstrapbuttonfive");
 
 let modeToggle = document.getElementById('mode-toggle');
 let modeStatus = document.querySelector('.mode-status');
@@ -39,6 +40,7 @@ function toggleMode() {
   bootstrapbuttontwo.classList.toggle('dark-modebsbuttons');
   bootstrapbuttonthree.classList.toggle('dark-modebsbuttons');
   bootstrapbuttonfour.classList.toggle('dark-modebsbuttons');
+  bootstrapbuttonfive.classList.toggle('dark-modebsbuttons');
   
 
 
