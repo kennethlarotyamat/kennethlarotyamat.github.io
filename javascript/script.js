@@ -17,7 +17,7 @@ function toggleMode() {
 
   const modeMessage = body.classList.contains('dark-mode') ?
     'Grayscale' 
-    : "Color"
+    : "Color";
 
   modeStatus.innerText = modeMessage;
 }
