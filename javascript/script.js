@@ -25,7 +25,7 @@ let bootstrapbuttonfive = document.querySelector(".bootstrapbuttonfive");
 
 let modeToggle = document.getElementById('mode-toggle');
 let modeStatus = document.querySelector('.mode-status');
-
+ 
 function toggleMode() {  
   bodya.classList.toggle('dark-mode');
   footer.classList.toggle('dark-mode');

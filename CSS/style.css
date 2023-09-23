@@ -314,7 +314,7 @@ input:checked + .slider:before {
     "bottomtablerow";
   place-items: center;
   }
-
+ 
   tr[name="toptablerow"] {
     place-items: center;
     text-align: center;
