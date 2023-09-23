@@ -5,7 +5,7 @@ $(function(){
       $(iframe).attr("src", $(iframe).attr("src"));
     });
   });
-}); 
+});  
 
 
 const body = document.querySelector('body');
