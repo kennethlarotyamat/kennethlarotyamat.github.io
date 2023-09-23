@@ -12,7 +12,7 @@ let body = document.querySelector(" body");
 let footer = document.querySelector(" footer");
 let main = document.querySelector(" main");
 let aside = document.querySelector(" aside");
-let asideTwo = document.querySelector(".aside-two");
+let asideTwo = document.querySelector("aside-two");
 let asideTwoColorToggler00 = document.querySelector("#bodyid1651231");
 let asideTwoColorToggler01 = document.querySelector("#subheadercenterheadertextbutton");
 let asideTwoColorToggler02 = document.querySelector(".header");
@@ -24,6 +24,7 @@ let asideTwoColorToggler07 = document.querySelector(".aside-two");
 let asideTwoColorToggler08 = document.querySelector("body");
 let asideTwoColorToggler09 = document.querySelector(".footer");
 let asideTwoColorToggler10 = document.querySelector("footer");
+let asideTwoColorToggler11 = document.querySelector("backgroundcolortoggler");
 
 let modeToggle = document.getElementById('mode-toggle');
 let modeStatus = document.querySelector('.mode-status');
@@ -45,6 +46,7 @@ function toggleMode() {
   asideTwoColorToggler08.classList.toggle('dark-mode');
   asideTwoColorToggler09.classList.toggle('dark-mode');
   asideTwoColorToggler10.classList.toggle('dark-mode');
+  asideTwoColorToggler11.classList.toggle('dark-mode');
 
 
   let modeMessage = body.classList.contains('dark-mode') ?
