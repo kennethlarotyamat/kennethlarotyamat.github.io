@@ -1,0 +1,72 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+#headertable{
+  
+display: grid;
+  grid-template-columns: 3fr auto;
+  
+}
+#headertable{
+  
+display: grid;
+  grid-template-columns: 3fr auto;
+  
+}
+
+.headerbutton{
+  
+border-style: outset;border-width: thick;border-color: pink;  padding: 1px 6px;  
+  
+}
+.headerbutton:hover{
+  
+border-style: inset;border-width: thick;  border-color: pink;  padding: 1px 6px; 
+  
+}
+
+
+   *  {
+      box-sizing: border-box;
+      font-family: Roboto, apple-system, BlinkMacSystemFont, 'Segoe UI', Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+      }
+
+.wrap {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(365px, 1fr));
+  grid-gap: 20px;
+      }
+
+
+
+div {
+  text-align:center;
+
+    }
+
+.hamburgerportrait {
+  height: 250px ;
+  border-style: outset;border-width: thick;border-color: silver; 
+    }
+
+.hamburgerportrait:hover {
+
+border-style: inset;border-width: thick;border-color: silver;
+
+                      }
+
+h2 {
+  background-color: PaleGreen;  
+  text-align:center;
+  border-style: outset;border-width: thick;border-color:pink;
+   }
+    
+h2:hover {
+
+border-style: inset;border-width: thick;border-color:pink;
+
+         }
+
+a {
+text-decoration: none; 
+color:black
+  }
