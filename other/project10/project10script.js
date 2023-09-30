@@ -13,7 +13,7 @@ $(function(){
       $(iframe).attr("src", $(iframe).attr("src"));
     });
   });
-});  
+});   
 
 // can create a new claass and use query selector all in the fucntion use a for each or for each loop use for each and selector all function create branch to try alternative approach
  

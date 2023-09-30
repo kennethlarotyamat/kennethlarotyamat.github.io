@@ -377,7 +377,7 @@ input:checked + .slider:before {
     height: 100%;
     opacity: 0;
     transition: all 1s ease-in-out;
-  }
+  } 
 
   #sliderproject10 img.active {
     opacity: 1;
