@@ -365,8 +365,8 @@ input:checked + .slider:before {
 
   #sliderproject10 {
     position: relative;
-    width: 500px;
-    height: 400px;
+    width: 50vh;
+    height: 40vh;
   }
 
   #sliderproject10 img {
