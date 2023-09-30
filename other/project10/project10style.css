@@ -363,6 +363,14 @@ input:checked + .slider:before {
     transition: all 0.4s ease-in;
   }
 
+
+
+
+
+
+  
+
+
   #sliderproject10 {
     position: relative;
     width: 50vh;
@@ -377,7 +385,7 @@ input:checked + .slider:before {
     height: 100%;
     opacity: 0;
     transition: all 1s ease-in-out;
-  } 
+  }  
 
   #sliderproject10 img.active {
     opacity: 1;

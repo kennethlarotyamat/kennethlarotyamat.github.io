@@ -16,7 +16,7 @@ $(function(){
 });   
 
 // can create a new claass and use query selector all in the fucntion use a for each or for each loop use for each and selector all function create branch to try alternative approach
- 
+  
 let bodyA = document.querySelector(" .bodya");
 let footer = document.querySelector(" footer");
 let main = document.querySelector(" .main");
@@ -63,6 +63,15 @@ function toggleMode() {
 }
 
 modeToggle.addEventListener('click', toggleMode);
+
+
+
+
+
+
+
+
+
 
 
 const images = document.querySelectorAll('#sliderproject10 img');
