@@ -367,7 +367,7 @@ input:checked + .slider:before {
     position: relative;
     width: 50vh;
     height: 40vh;
-  }
+  }  
  
   #sliderproject10 img {
     position: absolute;
