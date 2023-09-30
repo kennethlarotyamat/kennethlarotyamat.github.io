@@ -373,8 +373,8 @@ input:checked + .slider:before {
 
   #sliderproject10 {
     position: relative;
-    width: 50vh;
-    height: 40vh;
+    width: 90vh;
+    height: 80vh;
   }  
  
   #sliderproject10 iframe {
