@@ -74,7 +74,7 @@ modeToggle.addEventListener('click', toggleMode);
 
 
 
-const images = document.querySelectorAll('#sliderproject10 img');
+const images = document.querySelectorAll('#sliderproject10 iframe');
 const previousImage = document.getElementById("prevproject10");
 const nextImage = document.getElementById("nextproject10");
 
