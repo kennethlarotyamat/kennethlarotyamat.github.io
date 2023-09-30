@@ -70,7 +70,7 @@ const previousImage = document.getElementById("prevproject10");
 const nextImage = document.getElementById("nextproject10");
 
 let currentIndex = 0;
-
+ 
 function reset() {
   for (let i = 0; i < images.length; i++) {
     images[i].classList.remove('active');
@@ -81,7 +81,7 @@ function initializeSlider() {
   reset();
   images[currentIndex].classList.add('active');
 }
-
+ 
 function slideLeft() {
   reset();
   currentIndex--;
@@ -90,7 +90,7 @@ function slideLeft() {
   }
   images[currentIndex].classList.add('active');
 }
-
+ 
 function slideRight() {
   reset();
   currentIndex++;

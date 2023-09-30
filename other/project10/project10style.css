@@ -368,7 +368,7 @@ input:checked + .slider:before {
     width: 50vh;
     height: 40vh;
   }
-
+ 
   #sliderproject10 img {
     position: absolute;
     top: 0;
@@ -383,18 +383,18 @@ input:checked + .slider:before {
     opacity: 1;
   }
 
-
+ 
   .buttonproject10 {
 
   }
-
+ 
   .buttonproject10:hover {
   }
 
   button#prevproject10 {
 
   }
-  
+   
   button#nextproject10 {
 
   }
