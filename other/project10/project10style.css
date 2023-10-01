@@ -134,9 +134,7 @@ h2 {
   grid-area: main;
   background-color: #ecdec9;
   margin: 1rem;
-  place-content: center;
-  align-items: center;
-  align-content: center;
+
 }
 
 
