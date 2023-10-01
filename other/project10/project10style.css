@@ -109,7 +109,7 @@ h2 {
     "aside-one main main main aside-two"
     "footer footer footer footer footer";
   min-height: 80vh;
-  margin-top: 4rem;
+  margin-top: 2rem;
   gap: 1.15rem;
 }
 
@@ -133,7 +133,9 @@ h2 {
 .main {
   grid-area: main;
   background-color: #ecdec9;
-  margin: auto;
+  margin: 1rem;
+
+  
 }
 
 
