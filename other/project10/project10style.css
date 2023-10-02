@@ -208,18 +208,23 @@ a {
 .aside-one {
   grid-area: aside-one;
   background-color: #cffdbc;
+  vertical-align: top;
+
+
 }
 
 
 
 .aside-one:hover {
   transform: scale(1.02);
+  vertical-align: top;
 }
  
 .aside-two {
   grid-area: aside-two;
   background-color: #ffffbf;
   vertical-align: top;
+
 }
 .aside-two:hover {
   transform: scale(1.02);
@@ -401,15 +406,34 @@ input:checked + .slider:before {
  
   .buttonproject10 {
 
+
+
+    
+
+
+
+
   }
  
   .buttonproject10:hover {
   }
 
   button#prevproject10 {
+    
+
 
   }
    
   button#nextproject10 {
+
+    
+
+  }
+  #nextproject10left{
+    
+
+  }
+  #nextproject10right{ 
+    
 
   }

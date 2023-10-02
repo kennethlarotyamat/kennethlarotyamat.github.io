@@ -16,7 +16,7 @@ display: grid;
 .headerbutton{
   
 border-style: outset;border-width: thick;border-color: pink;  padding: 1px 6px;  
-  
+    
 }
 .headerbutton:hover{
   

@@ -61,5 +61,5 @@ function toggleMode() {
 
   modeStatus.innerText =  modeMessage;
 }
-
+  
 modeToggle.addEventListener('click', toggleMode);

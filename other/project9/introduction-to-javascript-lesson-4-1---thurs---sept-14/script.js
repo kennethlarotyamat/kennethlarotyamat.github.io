@@ -11,5 +11,5 @@ function toggleMode() {
 
   modeStatus.innerText = "Currently in " + modeMessage;
 }
- 
+   
 modeToggle.addEventListener('click', toggleMode);
