@@ -133,7 +133,6 @@ h2 {
 .main {
   grid-area: main;
   background-color: #ecdec9;
-  margin: 1rem;
   vertical-align: top;
 
 }
