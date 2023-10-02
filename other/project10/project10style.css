@@ -375,8 +375,8 @@ input:checked + .slider:before {
 
   #sliderproject10 {
     position: relative;
-    width: 60vh;
-    height: 95vh;
+    width: 90vh;
+    height: 60vh;
   }  
  
   #sliderproject10 iframe {
