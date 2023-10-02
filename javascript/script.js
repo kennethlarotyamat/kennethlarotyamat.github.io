@@ -49,7 +49,7 @@ function toggleMode() {
   bootstrapbuttontwo.classList.toggle('dark-modebsbuttons');
   bootstrapbuttonthree.classList.toggle('dark-modebsbuttons');
   bootstrapbuttonfour.classList.toggle('dark-modebsbuttons');
-  bootstrapbuttonfive.classList.toggle('dark-modebsbuttons');
+  bootstrapbuttonfive.classList.toggle('dark-modebsbuttons'); 
   
 
     
