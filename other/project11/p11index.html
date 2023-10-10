@@ -174,7 +174,7 @@ In Kenneth's spare time he will often volunteer at his local church, the Church 
 
 
 
-  <form action="mailto:info@chestnutandhazel.com" target="" method="post">
+  <!-- <form action="mailto:info@chestnutandhazel.com" target="" method="post">
 
     <td style="width:20%; height: 20%;"> 
     First Name  <br> <input type="text" id="firstname" name="firstname"> <br><br> 
@@ -188,6 +188,62 @@ In Kenneth's spare time he will often volunteer at his local church, the Church 
     <button id="submitinformationcontactbutton" type="submit"   >
     Reach Out</button> </div>  </td>
   
+  </form> -->
+
+  <div id="form-submitted-msg">Form successfully submitted!</div>
+
+  <form id="exampleForm" novalidate>
+    <div class="input-group">
+      <label for="firstName" class="form-label">First name </label>
+      <input type="text" id="firstName" name="firstName" class="form-control" required>
+      <small class="error-msg invalid-feedback">Required</small>
+    </div>
+    <div class="input-group">
+      <label for="lastName" class="form-label">Last name </label>
+      <input type="text" id="lastName" name="lastName" class="form-control" required>
+      <small class="error-msg invalid-feedback">Required</small>
+    </div>
+    <div class="input-group">
+      <label for="email" class="form-label">Email </label>
+      <input type="email" id="email" name="email" class="form-control" required>
+      <small class="error-msg invalid-feedback">Required</small>
+    </div>
+    <div class="input-group">
+      <label for="password" class="form-label">Password </label>
+      <input type="password" id="password" name="password" class="form-control" required>
+      <small class="error-msg invalid-feedback">Required</small>
+    </div>
+    <div class="input-group select">
+      <label for="password" class="form-label">Select Account Type </label>
+      <select id="accountType" name="accountType" class="form-select" required>
+        <option value="Please select an option" selected class="text-muted">Please select an option</option>
+        <option value="Free Account">Free Account</option>
+        <option value="Premium Account">Premium Account</option>
+      </select>
+      <small class="error-msg invalid-feedback">Required</small>
+    </div>
+    <div class="input-group radio">
+      <div class="form-check">
+        <input type="radio" id="personal" name="purpose" value="Personal" class="form-check-input" required>
+        <label for="personal" class="form-check-label">Personal</label>
+        <small class="error-msg invalid-feedback">Required</small>
+      </div>
+  
+      <div class="form-check">
+        <input type="radio" id="business" name="purpose" value="Business" class="form-check-input" required>
+        <label for="business" class="form-check-label">Business</label>
+        <small class="error-msg invalid-feedback">Required</small>
+      </div>
+    </div>
+    <div class="input-group checkbox form-check">
+      <input type="checkbox" name="subscribe" id="subscribeYes" class="form-check-input" required>
+      <label for="subscribeYes" class="form-check-label">Subscribe to our newsletter?</label>
+      <small class="error-msg invalid-feedback">Required</small>
+    </div>
+    <div class="form-btns">
+      <button type="submit" class="btn btn-primary submit" disabled>SUBMIT</button>
+      <button type="reset" class="btn btn-secondary">CLEAR FORM</button>
+    </div>
   </form>
 
 
