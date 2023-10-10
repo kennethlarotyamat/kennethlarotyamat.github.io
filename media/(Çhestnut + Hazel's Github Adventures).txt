@@ -28,3 +28,9 @@ One of the things about the class is that, I'm much more open to distance learni
 or whatever, now that I've done it, back in 2018 or 2019 I think that I was really skeptical about it, and
 I kind of brushed off a recruiter for an online degree program, but um, I think that I'm more open to it now.
 
+I tried to get the favicon to work on GitHub, but, I can't seem to figure it out, and, since it's not an assignment,
+I really didn't pursue the thing past the point of absolute frustration.
+
+The favicon is more vanity than any kind of practical. Like I don't have a practical reason for setting up the favicon
+other than the desire to have one.
+
