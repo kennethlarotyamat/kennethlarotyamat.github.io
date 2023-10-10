@@ -1,0 +1,81 @@
+*, *::before, *::after {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .main {
+    width: 100%;
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+  }
+  
+  #form-submitted-msg {
+    margin-bottom: 3rem;
+    border-radius: 3px;
+    background-color: rgb(67, 161, 67);
+    padding: 0.5rem;
+    width: 40%;
+    text-align: center;
+    color: #fff;
+    display: none;
+  }
+  
+  #exampleForm {
+    width: 40%;
+  }
+  
+  .input-group {
+    margin-bottom: 1.5rem;
+  }
+  
+  .input-group:not(.radio):not(.checkbox) {
+    gap: 0.25rem;
+    flex-direction: column;
+  }
+  
+  .input-group:not(.radio):not(.checkbox) input {
+    width: 100%;
+    border-radius: 0.375rem !important;
+  }
+  
+  .input-group.checkbox {
+    gap: 1rem;
+  }
+  
+  .input-group.radio {
+    display: flex;
+    gap: 1.5rem;
+    width: 100%;
+  }
+  
+  .input-group.select select {
+    width: 100%;
+  }
+  
+  legend {
+    font-size: 1rem;
+    width: max-content;
+  }
+  
+  .form-btns {
+    display: flex;
+    width: 100%;
+    gap: 1rem;
+    margin-top: 2.5rem;
+  }
+  
+  .form-btns > button {
+    padding: 0.3rem 1.5rem;
+  }
+  
+  .form-btns > .submit {
+    padding-inline: 3rem;
+  }
+  
+  .error-msg {
+    display: none;
+  }
