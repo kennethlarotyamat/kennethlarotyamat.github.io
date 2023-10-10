@@ -11,3 +11,13 @@ starting to feel more "On Stage" when I write and post things there.
 
 Maybe a few years back it seemed, it felt like there wasn't anyone really, you know
 reading it.
+
+I need to be working on Project 11, but for some reason I'm just not really getting anything done.
+I've managed to figure out where my Contact Form is. It's something that I haven't really messed with
+in a while, but Project 11 entails messing with it. So. That's what I'm up to.
+
+There's a lot of cleaning up that needs to be done with the index page of my Github Repository,
+and a lot of that cleaning up, with the code, cleaning up the appearance of my code wouldn't
+really change the outward appearance of my page. It would just make it easier to change things around
+but, considering that the course is almost over, I'm not really sure how much it makes sense to really
+do anything about it.
