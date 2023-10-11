@@ -196,31 +196,40 @@ In Kenneth's spare time he will often volunteer at his local church, the Church 
 
   <div class="mainpll" id="form-submitted-msg">Form successfully submitted!</div>
 
-  <form id="exampleForm" action="mailto:info@chestnutandhazel.com" target="" method="post" novalidate>
+  <form id="exampleForm" autocomplete="off" action="mailto:info@chestnutandhazel.com" target="" method="post" novalidate>
     <div class="input-group">
       <label for="firstName" class="form-label">First name </label>
       <input type="text" id="firstName" name="firstName" class="form-control" required>
-      <small class="error-msg invalid-feedback">Required</small>
+      <small class="error-msg invalid-feedback">Example: Mark </small>
     </div>
     <div class="input-group">
       <label for="lastName" class="form-label">Last name </label>
       <input type="text" id="lastName" name="lastName" class="form-control" required>
-      <small class="error-msg invalid-feedback">Required</small>
+      <small class="error-msg invalid-feedback">Example: Rothko</small>
     </div>
     <div class="input-group">
       <label for="email" class="form-label">Email </label>
       <input type="email" id="email" name="email" class="form-control" required>
-      <small class="error-msg invalid-feedback">Required</small>
+      <small class="error-msg invalid-feedback">Format: username@domain.tld</small>
     </div>
     <div class="input-group">
-      <label for="telephone" class="form-label">Telephone </label>
-      <input type="tel" id="tel" name="tel" class="form-control" required>
-      <small class="error-msg invalid-feedback">Required</small>
+      <label for="phone" class="form-label">Telephone </label>
+      <input type="tel" id="phone" name="phone" class="form-control" pattern="[0-9]{3}-[0-9]{3}-[0-9]{4}" required>
+      <small class="error-msg invalid-feedback">Format: 555-555-5555</small>
     </div>
     <div class="input-group">
       <label for="mailingaddress" class="form-label">Mailing Address </label>
 
       <input style="width: 100%; height: auto; aspect-ratio: 8.68 / 2.14;" type="text" id="mailingaddress" name="mailingaddress" class="form-control"  required>
+
+<!-- I'm tired -->
+      
+      <small class="error-msg invalid-feedback">Format: <br> 555 Orange Grove ORCH, <br>Kumquatville, AK 55555</small>
+    </div>
+    <div class="input-group">
+      <label for="Comments" class="form-label">Comments </label>
+
+      <input style="width: 100%; height: auto; aspect-ratio: 8.68 / 2.14;" type="text" id="Comments" name="Comments" class="form-control"  >
 
 <!-- I'm tired -->
       
@@ -250,7 +259,7 @@ In Kenneth's spare time he will often volunteer at his local church, the Church 
     </div>
     <div class="input-group checkbox form-check">
       <input type="checkbox" name="subscribe" id="subscribeYes" class="form-check-input" required>
-      <label for="subscribeYes" class="form-check-label">Subscribe to our newsletter?</label>
+      <label for="subscribeYes" class="form-check-label">I am Jennifer Connelly</label>
       <small class="error-msg invalid-feedback">Required</small>
     </div>
     <div class="form-btns">
