@@ -214,15 +214,17 @@ In Kenneth's spare time he will often volunteer at his local church, the Church 
     </div>
     <div class="input-group">
       <label for="mailingaddress" class="form-label">Mailing Address </label>
-      <input type="text" id="mailingaddress" name="mailingaddress" class="form-control" required>
+      <textarea type="text" name="mailingaddress" id="mailingaddress"  rows="10" class="form-control"  required ></textarea>
+      
+
       <small class="error-msg invalid-feedback">Required</small>
     </div>
     <div class="input-group select">
-      <label for="password" class="form-label">Select Account Type </label>
+      <label for="password" class="form-label">Nature of Inquiry </label>
       <select id="accountType" name="accountType" class="form-select" required>
-        <option value="Please select an option" selected class="text-muted">Please select an option</option>
-        <option value="Free Account">Free Account</option>
-        <option value="Premium Account">Premium Account</option>
+        <option value="Please select an option" selected class="text-muted">Please Specify</option>
+        <option value="Free Account">Genuinely Sincere</option>
+        <option value="Premium Account">Sincerely Facetious</option>
       </select>
       <small class="error-msg invalid-feedback">Required</small>
     </div>
