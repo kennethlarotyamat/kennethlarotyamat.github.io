@@ -180,7 +180,7 @@ const handleSubmit = (e) => {
     // Hide the success message after 3 seconds
     setTimeout(() => {
       successMessage.style.display = 'none'
-    }, 3000)
+    }, 9000)
   }
 }
 

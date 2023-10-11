@@ -381,9 +381,11 @@ input:checked + .slider:before {
   #form-submitted-msg {
     margin-bottom: 3rem;
     border-radius: 3px;
-    background-color: rgb(67, 161, 67);
+    background-color: rgb(163, 199, 163);
     padding: 0.5rem;
-    width: 40%;
+    width: 100%;
+    height: auto; 
+    aspect-ratio: 10.05 / 4.16;
     text-align: center;
     color: #fff;
     display: none;
