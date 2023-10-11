@@ -189,5 +189,5 @@ formElements.forEach((element) => {
   element.addEventListener('change', handleChange)
 })
 
-// Add submit listener to the form
+// Add submit listener to the form 10102023 0806
 form.addEventListener('submit', (e) => handleSubmit(e))
