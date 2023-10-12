@@ -3,6 +3,14 @@ Adventure # 3 - 10/11/2023 21:16 - Originally Posted In CSS\style.css
 
 This is probably going to be the least user friendly blog ever. Tell me: are you reading this? Is it nice and user friendly?
 because I'm not sure I really care, you're basically reading my diary. Whether or not it's user friendly isn't really my problem.
+One of the issues I have with what I post on chestnutandhazel.com is that It's hosted, or whatever, it's really just an account
+on blogger.com, so since it's basically a social media account, I have to comply with the community guidles of blogger.com, and
+since I have adsense active on that page, I also have to comply with any adsense advertiser standards, so I have my hands tied 
+in many respects. chestnutandhazel.com continues to get flagged over and over and over, and in many cases I don't really want to 
+deal with it right away.
+
+the other issue is that I also have to post what I write somewhere, so that I can use the standard copyright registration form,
+rather than the unpublished copyright registration form, so, that's another issue. so you know, it's kind of whatever.
 
   /* 
 
