@@ -394,6 +394,11 @@ input:checked + .slider:before {
   #exampleForm {
     width: 100%;
   }
+  .exampleFormA {
+    color:red;
+    font-size: smaller;
+    
+  }
   
   .input-group {
     margin-bottom: 1.5rem;
@@ -408,7 +413,7 @@ input:checked + .slider:before {
     width: 100%;
     border-radius: 0.375rem !important;
   }
-  
+   
   .input-group.checkbox {
     gap: 1rem;
   }

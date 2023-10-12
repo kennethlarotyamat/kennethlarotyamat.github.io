@@ -67,7 +67,8 @@ modeToggle.addEventListener('click', toggleMode);
 
 // Write your code here
 // Get all the necessary DOM elements
-const form = document.getElementById('exampleForm')
+const form = document.getElementById('exampleForm',)
+const formA = document.getElementById('exampleFormA',)
 const submitButton = document.querySelector('.submit')
 const successMessage = document.getElementById('form-submitted-msg')
 
@@ -83,7 +84,7 @@ const allInputsValid = () => {
       return element.checkValidity()
     }
   })
-
+ 
 
   return valid
 }
@@ -100,8 +101,8 @@ const handleChange = () => {
           && element.type !== 'radio'
     ) {
       element.style.borderColor = 'red'
-      element.nextElementSibling.style.color = 'red'
-      element.nextElementSibling.style.display = 'block'
+      element.nextElementSibling.style.color = 'red' 
+      element.nextElementSibling.style.display = 'block' 
       element.previousElementSibling.style.color = 'red'
     }
 
