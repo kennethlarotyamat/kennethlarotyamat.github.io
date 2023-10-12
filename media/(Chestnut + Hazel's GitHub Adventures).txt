@@ -24,8 +24,10 @@ This is basically just a collage of different latin quotes. Famous ones. includi
 
 lorem ipsum.
 
-This is supposed to be funny. The most famous latin quote should be omnia vincit amor, but I don't think that it is, i mean, more
-well known than lorem ipsum.
+This is supposed to be funny. The most famous latin quote should be omnia vincit amor, love conquers all, but I don't think that it is, i mean, more
+well known than lorem ipsum. the other funny thing is that, delorem ipsum, is from, i guess, cicero, but his most famous line should actually be:
+
+Carthago delenda est
 
 anyway.
 
