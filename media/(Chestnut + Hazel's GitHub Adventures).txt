@@ -2,7 +2,7 @@
 Adventure # 3 - 10/11/2023 21:16 - Originally Posted In CSS\style.css
 
 This is probably going to be the least user friendly blog ever. Tell me: are you reading this? Is it nice and user friendly?
-because I'm not sure I really care, you're reading my diary. Whether or not it's user friendly isn't really my problem.
+because I'm not sure I really care, you're basically reading my diary. Whether or not it's user friendly isn't really my problem.
 
   /* 
 
