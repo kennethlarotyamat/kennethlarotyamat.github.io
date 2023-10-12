@@ -172,10 +172,11 @@ const handleChange = () => {
   })
 
 
-  // I Can't figure out how to change the colors of the buttons to be compatible with the greyscale toggler
+    // I Can't figure out how to change the colors of the buttons to be compatible with the greyscale toggler well, the blue Reach Out button anyway
+    //  one workaround is to change that button to a shade of bluish grey so that they are greyscale anyway.
 
 
-  // If all form elements are valid, enable the submit button; otherwise, disable it
+    // If all form elements are valid, enable the submit button; otherwise, disable it
   if (allInputsValid()) {
     submitButton.removeAttribute('disabled', '')
   } else {
@@ -183,7 +184,7 @@ const handleChange = () => {
   }
 }
 
-// Define a function to handle form submission
+    // Define a function to handle form submission
 const handleSubmit = (e) => {
   // Prevent the default form submission behavior
   e.preventDefault()
