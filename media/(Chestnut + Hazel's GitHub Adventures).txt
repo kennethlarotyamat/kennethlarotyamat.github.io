@@ -1,3 +1,21 @@
+
+Adventure # 2 - 10/10/2023 20:41 - Originally posted in style.css
+
+  /* 
+
+  i basically couldn't figure out how to do this in javascript, but since this is a styling concern, I don't feel the least bit bad
+  about styling it with Cascading Style Sheets:  HAHAHAHA!
+
+  https://www.w3schools.com/tags/tag_small.asp
+  https://www.w3schools.com/css/css_font_size.asp  
+  https://www.w3schools.com/css/css_font_size.asp
+
+  Currently Watching: https://www.youtube.com/watch?v=uyzZW6fpzik
+
+  
+  
+  */
+
 Adventure # 2 - 10/10/2023 20:41
 
 I'm more tired than ever. More than I can possibly imagine. Today was a long day. Small victories I guess.
