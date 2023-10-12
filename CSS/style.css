@@ -399,6 +399,17 @@ input:checked + .slider:before {
     font-size: smaller;
     
   }
+
+  /* 
+
+  i basically couldn't figure out how to do this in javascript, but since this is a styling concern, I don't feel the least bit bad
+  about styling it with Cascading Style Sheets:  HAHAHAHA!
+
+  https://www.w3schools.com/tags/tag_small.asp
+  https://www.w3schools.com/css/css_font_size.asp  
+  https://www.w3schools.com/css/css_font_size.asp
+  
+  */
   
   .input-group {
     margin-bottom: 1.5rem;
