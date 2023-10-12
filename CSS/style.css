@@ -379,7 +379,7 @@ input:checked + .slider:before {
   }
   
   #form-submitted-msg {
-    margin-top: 3rem;
+    margin-top: 2rem;
     border-radius: 3px;
     background-color: rgb(163, 199, 163);
     padding: 0.5rem;
