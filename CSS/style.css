@@ -357,18 +357,27 @@ input:checked + .slider:before {
     transition: all 0.4s ease-in;
   }
   .dark-modebsbuttons {
-    background-color: silver;
-    border-color: gray;
+    background-color: #899499;
+    border-color: silver;
     color:  #000000 ;
     transition: all 0.4s ease-in;
   }
 
-  *, *::before, *::after {
+
+
+
+  /* *, *::before, *::after {
     box-sizing: border-box;
     margin: 0;
     padding: 0;
-  }
+  } */
   
+
+
+
+
+
+
   .mainpll {
     width: 100%;
     min-height: 100vh;
@@ -377,7 +386,7 @@ input:checked + .slider:before {
     justify-content: center;
     flex-direction: column;
   }
-  
+   
   #form-submitted-msg {
     margin-top: 2rem;
     border-radius: 3px;
@@ -466,3 +475,5 @@ input:checked + .slider:before {
   .error-msg {
     display: none;
   }
+
+  .fontweightadjustment{ font-weight: 600; }

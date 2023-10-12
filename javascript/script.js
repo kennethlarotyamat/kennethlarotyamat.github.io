@@ -4,7 +4,7 @@
 
 
 
-
+// Start Iframe video auto shutoff
 
 $(function(){
   $("body").on('hidden.bs.modal', function (e) {
@@ -14,6 +14,11 @@ $(function(){
     });
   });
 });  
+
+// End Iframe video auto shutoff
+
+
+// Start Color Toggler
 
 // can create a new claass and use query selector all in the fucntion use a for each or for each loop use for each and selector all function create branch to try alternative approach
  
@@ -31,6 +36,8 @@ let bootstrapbuttontwo = document.querySelector(".bootstrapbuttontwo");
 let bootstrapbuttonthree = document.querySelector(".bootstrapbuttonthree");
 let bootstrapbuttonfour = document.querySelector(".bootstrapbuttonfour");
 let bootstrapbuttonfive = document.querySelector(".bootstrapbuttonfive");
+let bootstrapbuttonsix = document.querySelector(".bootstrapbuttonsix");
+let bootstrapbuttonseven = document.querySelector(".bootstrapbuttonseven");
 
 let modeToggle = document.getElementById('mode-toggle');
 let modeStatus = document.querySelector('.mode-status');
@@ -50,6 +57,8 @@ function toggleMode() {
   bootstrapbuttonthree.classList.toggle('dark-modebsbuttons');
   bootstrapbuttonfour.classList.toggle('dark-modebsbuttons');
   bootstrapbuttonfive.classList.toggle('dark-modebsbuttons'); 
+  bootstrapbuttonsix.classList.toggle('dark-modebsbuttons');
+  bootstrapbuttonseven.classList.toggle('dark-modebsbuttons');
   
 
     
@@ -64,6 +73,8 @@ function toggleMode() {
   
 modeToggle.addEventListener('click', toggleMode);
 
+// End Color Toggler
+
 
 // Write your code here
 // Get all the necessary DOM elements
@@ -71,7 +82,7 @@ const form = document.getElementById('exampleForm',)
 const formA = document.getElementById('exampleFormA',)
 const submitButton = document.querySelector('.submit')
 const successMessage = document.getElementById('form-submitted-msg')
-
+ 
 // Store all form elements in an array by spreading the elements property of the form
 const formElements = [ ...form.elements ]
 
@@ -156,8 +167,13 @@ const handleChange = () => {
       element.nextElementSibling.style.color = '#CED4DA'
       element.nextElementSibling.style.display = 'none'
       element.previousElementSibling.style.color = '#212529'
+
     }
   })
+
+
+  // I Can't figure out how to change the colors of the buttons to be compatible with the greyscale toggler
+
 
   // If all form elements are valid, enable the submit button; otherwise, disable it
   if (allInputsValid()) {
