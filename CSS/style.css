@@ -328,7 +328,8 @@ input:checked + .slider:before {
   display: grid;
   grid-template-areas:
     "toptablerow"
-    "bottomtablerow";
+    "bottomtablerow"
+    "bottomtablerow2";
   place-items: center;
   }
  
@@ -342,6 +343,17 @@ input:checked + .slider:before {
     text-align: center;
     justify-content: center;
   }
+  tr[name="bottomtablerow2"] {
+    /* width: 100%; */
+    /* width: 100%; */
+    /* padding:5%; */
+    place-items: center;
+    text-align: center;
+    justify-content: center;
+  }
+  .tryingtofixthis{width: 100%;padding: 5%;}
+
+  /* References: https://stackoverflow.com/questions/5219175/how-to-make-an-element-width-100-minus-padding */
 
 
 
