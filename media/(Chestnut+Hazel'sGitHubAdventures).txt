@@ -607,3 +607,7 @@ maybe you know the things that you haven't
 already learned so you will learn them.
 
 ...
+
+<!-- vscode test commit  testing a commit and sync directly from VS Code 10142023 0816-->
+
+...

@@ -332,6 +332,8 @@ input:checked + .slider:before {
     "bottomtablerow2";
   place-items: center;
   }
+
+  /* <!-- vscode test commit  testing a commit and sync directly from VS Code 10142023 0816--> */
  
   tr[name="toptablerow"] {
     place-items: center;
