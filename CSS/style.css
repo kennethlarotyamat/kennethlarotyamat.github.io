@@ -320,7 +320,7 @@ input:checked:focus + .slider {
 input:checked + .slider:before {
   transform: translateX(1.63rem);
 }
-
+ 
 .footer {
   text-align: center;
   background-color: #ffefea;
