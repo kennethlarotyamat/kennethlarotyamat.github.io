@@ -2,6 +2,8 @@
 
 *{font-weight: 600;font-family: 'Cinzel', "Century Schoolbook","Times New Roman", Times, Courier,"Georgia", serif;text-decoration: none;}
 
+h1{text-align: center;}
+
 p {  width: 40% ;}
 
 td {padding: .2rem;}
