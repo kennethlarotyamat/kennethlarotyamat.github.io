@@ -16,6 +16,15 @@ a:visited {
     color: black;
     text-decoration: none;
   }
+  a :hover {
+    color: blue;
+    text-decoration: none;
+    transform: scale(1.08);
+
+  }
+
+
+
 
 li {
     color: black;
@@ -27,8 +36,14 @@ li {
 li :hover {
     color: blue;
     text-decoration: none;
+    
 
   }
+
+  
+  /* .panchorlinkhover{    transform: scale(1.08); color: blue;
+  text-decoration: none;}   */
+  /* transform: scale(1.08); */
 
   /* transform: scale(1.08); */
 
