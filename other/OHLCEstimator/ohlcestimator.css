@@ -19,7 +19,7 @@ body {
   display: grid;
 grid-template-areas: 'mode-status mode-toggle';
   width: 5%;
-  min-height: calc(100vh - 4.25rem);
+  min-height: calc(20vh - 4.25rem);
 align-content: left;
   gap: 1rem;
   text-align: left;
@@ -91,3 +91,5 @@ input:focus + .slider {
 input:checked + .slider:before {
   transform: translateX(1.63rem);
 }
+
+#developmentnotes{ width: 30%;}
