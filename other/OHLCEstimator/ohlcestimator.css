@@ -29,8 +29,8 @@ align-content: left;
 /* align-content: space-evenly; */
 
 .dark-mode {
-  background-color: #333;
-  color: #f0f0f0;
+  background-color: #3c498f50;
+  color: #a1168f;
   transition: all 0.4s ease-in;
 }
 
