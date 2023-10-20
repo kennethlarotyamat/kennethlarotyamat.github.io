@@ -16,7 +16,7 @@ const svg = d3.select('#body')
   .attr('height', 500);
 
 // STEP 2: Create an array of data
-const data = [ , , , 50 , , ,  ];
+const data = [  ,50,50,50,   ];
 
 
 // STEP 3: Create a rectangle for each data point
@@ -32,7 +32,7 @@ svg.selectAll('rect') // Select all existing rect elements
   // Set the height of each rect element to the corresponding data value
   .attr('height', d => d)
   // STEP 4: Position each rectangle along the x-axis based on its index in the data array
-  .attr('x', (d, i) => i * 60)
+  .attr('x', (d, i) => i * 125)
   // Invert the y-axis and set the y-position of each rect element based on its data value
   .attr('y', d => 300 - d)
   // STEP 5: Set the fill color of each rectangle to blue using the style method
