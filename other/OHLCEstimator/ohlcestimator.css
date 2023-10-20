@@ -10,8 +10,8 @@
 
 body {
   
-  background-color: #f0f0f0;
-  color: #333;
+  background-color: #ffffff;
+  color: #000000;
   transition: all 0.4s ease-in;
 
 }
@@ -30,13 +30,7 @@ body {
 
 
 
-.candlestick-mode {
-
-
-
-    
-
-}
+.candlestick-mode { }
 
 
 
