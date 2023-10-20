@@ -11,6 +11,9 @@ body {
   background-color: #f0f0f0;
   color: #333;
   transition: all 0.4s ease-in;
+  /* border-style: solid;
+  border-color: white;
+  border-width: 2px; */
 }
 
 
@@ -29,9 +32,12 @@ align-content: left;
 /* align-content: space-evenly; */
 
 .dark-mode {
-  background-color: #3c498f50;
-  color: #a1168f;
+  background-color: black;
+  color: white;
   transition: all 0.4s ease-in;
+  /* border-style: solid;
+  border-color: white;
+  border-width: 2px; */
 }
 
 .toggle-switch {
