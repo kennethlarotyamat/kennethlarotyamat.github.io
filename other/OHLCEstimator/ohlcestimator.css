@@ -87,5 +87,3 @@ input:focus + .slider {
 input:checked + .slider:before {
   transform: translateX(1.63rem);
 }
-
-#developmentnotes{ width: 30%;}
