@@ -13,7 +13,7 @@ const svg = d3.select('#body')
   .append('svg')
   .style('border', '2px solid blue')
   .attr('width', 500)
-  .attr('height', 300);
+  .attr('height', 500);
 
 
 // STEP 2: Create an array of data
