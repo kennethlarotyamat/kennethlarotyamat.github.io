@@ -1,3 +1,5 @@
+This is hopless. I really don't know what to do about this. 
+ 
  as of 10/20/2023 @ 04:29 AM PST
  This project is on hold.
 
