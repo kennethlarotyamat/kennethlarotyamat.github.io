@@ -11,12 +11,10 @@ body {
   background-color: #f0f0f0;
   color: #333;
   transition: all 0.4s ease-in;
-  /* border-style: solid;
-  border-color: white;
-  border-width: 2px; */
+
 }
 
-
+ 
 
 .colortogglecontainer {
   display: grid;
@@ -28,26 +26,15 @@ align-content: left;
   text-align: left;
 }
 
-/*   grid-template-columns: auto auto; */
-/* align-content: space-evenly; */
+
 
 .dark-mode {
 
-    /* background-color: black;
-  color: white;
-  transition: all 0.4s ease-in;
-  border-style: solid;
-  border-color: white;
-  border-width: 2px; */
+    
 
 }
 
-  /* background-color: black;
-  color: white;
-  transition: all 0.4s ease-in;
-  border-style: solid;
-  border-color: white;
-  border-width: 2px; */
+
 
 .toggle-switch {
   position: absolute;
@@ -58,12 +45,6 @@ align-content: left;
   margin-inline: auto;
 }
 
-/* I'm trying to figure out how to align the toggler
-
-Reference:
-https://www.w3schools.com/css/css_positioning.asp */
-
-/* Okay it worked but now the toggler is over the mode status text */
 
 .toggle-switch input {
   opacity: 0;
