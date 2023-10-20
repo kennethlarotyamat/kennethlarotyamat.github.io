@@ -8,14 +8,14 @@ d3.select('#myDiv')
   .append('h1')
   .text('OHLC Estimator')
 
-// STEP 1: Create an SVG element with a width of 500, a height of 300, and a solid blue border 2 pixels wide
+
 const svg = d3.select('#body')
   .append('svg')
   .style('border', '2px solid black')
   .attr('width', 500)
   .attr('height', 500);
 
-// STEP 2: Create an array of data
+
 const data = [  ,50,50,50,   ];
 
 
