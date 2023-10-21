@@ -122,10 +122,7 @@ h2 {
   background-color: #d4e2eb;
   grid-area: header;
   display: grid;
-  grid-template-areas: 
-    "headerbuttoncenter headerbuttoncenter headerbuttoncenter headerbuttoncenter"
-    " subheadercenterheadertextbutton subheadercenterheadertextbutton subheadercenterheadertextbutton subheadercenterheadertextbutton";
-  grid-template-columns: 1fr 5fr 1fr;
+
 }
 
 .main {
