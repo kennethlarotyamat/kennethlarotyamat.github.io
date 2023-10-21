@@ -18,7 +18,7 @@ $(function(){
   // End Iframe video auto shutoff
   
   
-// Start Color Toggler
+// Start Color - Grayscale Toggler
 
 
 
@@ -55,16 +55,27 @@ modeStatus.innerText = modeMessage;
 
 modeToggle.addEventListener('click', toggleMode);
 
+// End Color - Grayscale Toggler
+
+// That was a total nightmare. What I did was I decided to use the outline of my landing page as a kind of outline for Project 12, but
+// so I deleted a whole bunch of stuff, buttons and DIV sections and whatever from my HTML Landing page, and used the shell here for
+// the project 12 quiz project. I don't even want to think about how much time I spent just trying to get this button to work again.
+// but basically, those items I deleted were part of the series of transactions that javascript performs to come up with the message: color grayscale,
+// one those html elemnts were removed, then javascript couldn't perform the final transaction that allows the message change.
+
+// Store all form elements in an array by spreading the elements property of the form
+  // Create function to check if all form elements are valid
+
 
   const form = document.getElementById('exampleForm',)
   const formA = document.getElementById('exampleFormA',)
   const submitButton = document.querySelector('.submit')
   const successMessage = document.getElementById('form-submitted-msg')
    
-  // Store all form elements in an array by spreading the elements property of the form
+  
   const formElements = [ ...form.elements ]
   
-  // Create function to check if all form elements are valid
+
   const allInputsValid = () => {
     const valid = formElements.every((element) => {
       if (element.nodeName === 'SELECT') {
