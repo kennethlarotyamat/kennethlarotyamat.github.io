@@ -59,6 +59,7 @@ modeToggle.addEventListener('click', toggleMode);
 
 
 
+// Start Exam Page Form 
 
   const form = document.getElementById('exampleForm',)
   const formA = document.getElementById('exampleFormA',)
@@ -189,7 +190,7 @@ modeToggle.addEventListener('click', toggleMode);
     element.addEventListener('change', handleChange)
   })
   
-  // Add submit listener to the form 10102023 0806
+
   form.addEventListener('submit', (e) => handleSubmit(e))
 
-  // End Form
+// Start Exam Page Form 
