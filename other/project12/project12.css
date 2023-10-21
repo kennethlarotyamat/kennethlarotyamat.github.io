@@ -173,13 +173,7 @@ a {
 
 }
 
-.sidebarouter {
-  flex-basis: 200px;
-  flex-grow: 0;
-  flex-shrink: 0;
-  background-color: #ffdfbe;
-  padding: 1vh;
-}
+
 
 .containeroverouter {
   width: 98%;
@@ -330,26 +324,7 @@ input:checked + .slider:before {
 
 
 
-  tr[name="toptablerow"] {
-    place-items: center;
-    text-align: center;
-    justify-content: center;
-  }
-  tr[name="bottomtablerow"] {
-    place-items: center;
-    text-align: center;
-    justify-content: center;
-  }
-  tr[name="bottomtablerow2"] {
-
-    
-
-    place-items: center;
-    text-align: center;
-    justify-content: center;
-  }
-  .tryingtofixthis{width: 100%;padding: 5%;}
-
+ 
 
 
 
@@ -466,3 +441,8 @@ input:checked + .slider:before {
   }
 
   .fontweightadjustment{ font-weight: 600; }
+
+  .mode-status{
+
+
+  }
