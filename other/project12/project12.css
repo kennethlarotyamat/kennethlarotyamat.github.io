@@ -348,6 +348,8 @@ input:checked + .slider:before {
     transition: all 0.4s ease-in;
   }
 
+  /* https://stackoverflow.com/questions/16813220/how-can-i-override-inline-styles-with-external-css  */
+
 
 
 
