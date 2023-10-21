@@ -51,40 +51,14 @@ $(function() {
 
 
 $(document).ready(function() {
-  const form = $('#exampleForm');
-  const formA = $('#exampleFormA');
-  const formB = $('#exampleFormB');
+  const form = $('.exampleForm');
   const submitButton = $('.submit');
   const successMessage = $('#form-submitted-msg');
 
   const formElements = form.find(':input');
-  const formElementsA = formA.find(':input');
-  const formElementsB = formB.find(':input');
 
   const allInputsValid = () => {
     const valid = formElements.toArray().every((element) => {
-      if (element.nodeName === 'SELECT') {
-        return element.value !== 'Please select an option';
-      } else {
-        return element.checkValidity();
-      }
-    });
-
-    return valid;
-  };
-  const allInputsValid = () => {
-    const valid = formElementsA.toArray().every((element) => {
-      if (element.nodeName === 'SELECT') {
-        return element.value !== 'Please select an option';
-      } else {
-        return element.checkValidity();
-      }
-    });
-
-    return valid;
-  };
-  const allInputsValid = () => {
-    const valid = formElementsB.toArray().every((element) => {
       if (element.nodeName === 'SELECT') {
         return element.value !== 'Please select an option';
       } else {
