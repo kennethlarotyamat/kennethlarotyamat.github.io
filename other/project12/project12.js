@@ -52,8 +52,7 @@ $(function() {
   modeToggle.click(toggleMode);
 });
 
-// https://www.javainuse.com/js2jq
-// This doesn't work perfectly, but it helps
+
 
 
 
