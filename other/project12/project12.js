@@ -21,6 +21,18 @@ $(function(){
 // Start Color - Grayscale Toggler
 
 
+let bodyA = document.querySelector(" .bodya");
+let footer = document.querySelector(" .footer");
+let main = document.querySelector(" .main");
+let aside = document.querySelector(" aside");
+let asideTwo = document.querySelector(".aside-two");
+let subheadercenterheadertextbutton = document.querySelector(".subheadercenterheadertextbutton");
+let header = document.querySelector(".header");
+let contentouter = document.querySelector(".contentouter");
+
+let modeToggle = document.getElementById('mode-toggle');
+let modeStatus = document.querySelector('.mode-status');
+ 
 function toggleMode() {  
   bodyA.classList.toggle('dark-modefields');
   footer.classList.toggle('dark-modefields');
