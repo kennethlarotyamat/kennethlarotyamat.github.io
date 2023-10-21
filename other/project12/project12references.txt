@@ -1,3 +1,24 @@
+The idea here is to adapt the contact form, and convert it into a quiz. I'm not sure that this will work.
+but I'm going to try it anyway.
+
+....
+
+I actually have an idea.
+
+...
+
+https://www.youtube.com/watch?v=gMcIgTb9RH8
+https://learn.jquery.com/
+
+well I guess I should be starting from scratch anyway. but now I'm really curious about one lesson 3.1 isn't working on GitHub.
+
+...
+
+I don't know what to do about this.
+
+like step one i'm already having problems.
+
+
 https://www.youtube.com/watch?v=nt5wk8FdZOY
 
 https://medium.com/@hakhoipham/the-beginners-guide-to-lodash-58f98599da54
