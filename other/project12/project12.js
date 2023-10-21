@@ -21,7 +21,26 @@ $(function(){
 // Start Color - Grayscale Toggler
 
 
+function toggleMode() {  
+  bodyA.classList.toggle('dark-modefields');
+  footer.classList.toggle('dark-modefields');
+  main.classList.toggle('dark-modefields');
+  aside.classList.toggle('dark-modefields');
+  asideTwo.classList.toggle('dark-modefields');
+  subheadercenterheadertextbutton.classList.toggle('dark-modefields');
+  header.classList.toggle('dark-modefields');
+  contentouter.classList.toggle('dark-mode');
 
+  
+const modeMessage = contentouter.classList.contains('dark-mode') ?
+'Grayscale' 
+: "Color";
+
+
+modeStatus.innerText = modeMessage;
+}
+
+modeToggle.addEventListener('click', toggleMode);
 
 
 
