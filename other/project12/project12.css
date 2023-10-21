@@ -27,6 +27,8 @@
     grid-area: sbhead;
     background-color: #ffefea;
     padding: 2vh;
+    font-size: 4vw;
+    
     
   }
   
@@ -331,18 +333,18 @@ input:checked + .slider:before {
 
   .dark-mode {
     background-color: #ffffff;
-    color:  #000000 ;
+    color:  #000000 !important;
     transition: all 0.4s ease-in;
   }
   .dark-modefields {
     background-color: #BCC2C2;
-    color:  #000000 ;
+    color:  #000000 !important;
     transition: all 0.4s ease-in;
   }
   .dark-modebsbuttons {
     background-color: #899499;
     border-color: silver;
-    color:  #000000 ;
+    color:  #000000 !important;
     transition: all 0.4s ease-in;
   }
 
