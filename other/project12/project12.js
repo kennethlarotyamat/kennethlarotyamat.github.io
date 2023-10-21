@@ -150,7 +150,7 @@ modeToggle.addEventListener('click', toggleMode);
         element.nextElementSibling.style.color = '#CED4DA'
         element.nextElementSibling.style.display = 'none'
         element.previousElementSibling.style.color = '#212529'
-        // <!-- vscode test commit  testing a commit and sync directly from VS Code 10142023 0816-->
+
       }
     })
   
