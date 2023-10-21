@@ -53,10 +53,13 @@ $(function() {
 $(document).ready(function() {
   const form = $('#exampleForm');
   const formA = $('#exampleFormA');
+  const formB = $('#exampleFormB');
   const submitButton = $('.submit');
   const successMessage = $('#form-submitted-msg');
 
   const formElements = form.find(':input');
+  const formElementsA = formA.find(':input');
+  const formElementsB = formB.find(':input');
 
   const allInputsValid = () => {
     const valid = formElements.toArray().every((element) => {
