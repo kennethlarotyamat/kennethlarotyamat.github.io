@@ -21,38 +21,39 @@ $(function(){
 // Start Color - Grayscale Toggler
 
 
-let bodyA = document.querySelector(" .bodya");
-let footer = document.querySelector(" .footer");
-let main = document.querySelector(" .main");
-let aside = document.querySelector(" aside");
-let asideTwo = document.querySelector(".aside-two");
-let subheadercenterheadertextbutton = document.querySelector(".subheadercenterheadertextbutton");
-let header = document.querySelector(".header");
-let contentouter = document.querySelector(".contentouter");
+$(function() {
+  "use strict";
 
-let modeToggle = document.getElementById('mode-toggle');
-let modeStatus = document.querySelector('.mode-status');
- 
-function toggleMode() {  
-  bodyA.classList.toggle('dark-modefields');
-  footer.classList.toggle('dark-modefields');
-  main.classList.toggle('dark-modefields');
-  aside.classList.toggle('dark-modefields');
-  asideTwo.classList.toggle('dark-modefields');
-  subheadercenterheadertextbutton.classList.toggle('dark-modefields');
-  header.classList.toggle('dark-modefields');
-  contentouter.classList.toggle('dark-mode');
+  let bodyA = $(".bodya");
+  let footer = $(".footer");
+  let main = $(".main");
+  let aside = $("aside");
+  let subheadercenterheadertextbutton = $(".subheadercenterheadertextbutton");
+  let header = $(".header");
+  let contentouter = $(".contentouter");
+  let modeToggle = $("#mode-toggle");
+  let modeStatus = $(".mode-status");
 
-  
-const modeMessage = contentouter.classList.contains('dark-mode') ?
-'Grayscale' 
-: "Color";
+  function toggleMode() {
+    bodyA.toggleClass("dark-modefields");
+    footer.toggleClass("dark-modefields");
+    main.toggleClass("dark-modefields");
+    aside.toggleClass("dark-modefields");
+    subheadercenterheadertextbutton.toggleClass("dark-modefields");
+    header.toggleClass("dark-modefields");
+    contentouter.toggleClass("dark-mode");
 
+    const modeMessage = contentouter.hasClass("dark-mode") ?
+      "Grayscale" : "Color";
 
-modeStatus.innerText = modeMessage;
-}
+    modeStatus.text(modeMessage);
+  }
 
-modeToggle.addEventListener('click', toggleMode);
+  modeToggle.click(toggleMode);
+});
+
+// https://www.javainuse.com/js2jq
+// This doesn't work perfectly, but it helps
 
 
 
