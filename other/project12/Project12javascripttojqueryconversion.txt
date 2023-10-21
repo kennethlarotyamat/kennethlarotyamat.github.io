@@ -1,0 +1,159 @@
+
+I'm using this tool to convert javascript to jquery. It's only possible to convert a few lines of javascript in jquery at a time using
+this tool
+
+
+
+
+// Start Exam Page Form 
+
+
+
+
+
+
+
+$(document).ready(function() {
+  "use strict";
+
+  const form = $('#exampleForm', 'div');
+  const formA = $('#exampleFormA', 'div');
+  const submitButton = $('.submit', 'div');
+  const successMessage = $('#form-submitted-msg', 'div');
+
+  const formElements = $(form).find('input, select, textarea');
+
+  const allInputsValid = function() {
+    const valid = formElements.each(function() {
+      if ($(this).is('select')) {
+        return $(this).val() !== 'Please select an option';
+      } else {
+        return $(this).val() !== '' && $(this).prop('validity') === true;
+      }
+    });
+
+    return valid;
+  };
+
+  // Example submit form function
+  const submitForm = function() {
+    if (allInputsValid()) {
+      successMessage.show();
+      form.submit();
+    } else {
+      alert('Form is not valid!');
+    }
+  };
+
+  submitButton.on('click', submitForm);
+});
+
+
+
+
+const handleChange = () => {
+
+  formElements.forEach((element) => {
+
+    if (!element.checkValidity()
+          && element.nodeName !== 'BUTTON'
+          && element.nodeName !== 'SELECT'  
+          && element.type !== 'checkbox'
+          && element.type !== 'radio'
+    ) {
+      element.style.borderColor = 'red'
+      element.nextElementSibling.style.color = 'red' 
+      element.nextElementSibling.style.display = 'block' 
+      element.previousElementSibling.style.color = 'red'
+    }
+
+
+    if (element.checkValidity()
+          && element.nodeName !== 'BUTTON'
+          && element.nodeName !== 'SELECT'
+          && element.type !== 'checkbox'
+          && element.type !== 'radio'
+    ) {
+      element.style.borderColor = '#CED4DA'
+      element.nextElementSibling.style.color = '#CED4DA'
+      element.nextElementSibling.style.display = 'none'
+      element.previousElementSibling.style.color = '#212529'
+    }
+
+
+    if (!element.checkValidity()
+          && (element.type === 'checkbox'
+              || element.type === 'radio')
+    ) {
+      element.style.borderColor = 'red'
+      element.nextElementSibling.style.color = 'red'
+    }
+
+
+    if (element.checkValidity()
+          && (element.type === 'checkbox'
+              || element.type === 'radio')
+    ) {
+      element.style.borderColor = '#CED4DA'
+      element.nextElementSibling.style.color = '#212529'
+    }
+
+
+    if (element.nodeName === 'SELECT'
+          && element.value === 'Please select an option'
+    ) {
+      element.style.borderColor = 'red'
+      element.nextElementSibling.style.color = 'red'
+      element.nextElementSibling.style.display = 'block'
+      element.previousElementSibling.style.color = 'red'
+    }
+
+
+    if (element.nodeName === 'SELECT'
+          && element.value !== 'Please select an option'
+    ) {
+      element.style.borderColor = '#CED4DA'
+      element.nextElementSibling.style.color = '#CED4DA'
+      element.nextElementSibling.style.display = 'none'
+      element.previousElementSibling.style.color = '#212529'
+
+    }
+  })
+
+
+
+  if (allInputsValid()) {
+    submitButton.removeAttribute('disabled', '')
+  } else {
+    submitButton.setAttribute('disabled', '')
+  }
+}
+
+
+const handleSubmit = (e) => {
+
+  e.preventDefault()
+
+
+  if (allInputsValid()) {
+    successMessage.style.display = 'block'
+    form.reset()
+    submitButton.setAttribute('disabled', '')
+
+
+    setTimeout(() => {
+      successMessage.style.display = 'none'
+    }, 9000)
+  }
+}
+
+
+formElements.forEach((element) => {
+  element.addEventListener('change', handleChange)
+})
+
+
+form.addEventListener('submit', (e) => handleSubmit(e))
+
+
+// Start Exam Page Form 

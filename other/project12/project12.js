@@ -4,7 +4,7 @@
 
 
 
-// Start Iframe video auto shutoff
+
 
 $(function(){
     $("body").on('hidden.bs.modal', function (e) {
@@ -15,10 +15,7 @@ $(function(){
     });
   });  
   
-  // End Iframe video auto shutoff
-  
-  
-// Start Color - Grayscale Toggler
+
 
 
 $(function() {
@@ -53,150 +50,117 @@ $(function() {
 });
 
 
+$(document).ready(function() {
+  const form = $('#exampleForm');
+  const formA = $('#exampleFormA');
+  const submitButton = $('.submit');
+  const successMessage = $('#form-submitted-msg');
 
-
-
-
-
-// End Color - Grayscale Toggler
-
-
-
-// Start Exam Page Form 
-
-
-
-
-
-
-  const form = document.getElementById('exampleForm',)
-  const formA = document.getElementById('exampleFormA',)
-  const submitButton = document.querySelector('.submit')
-  const successMessage = document.getElementById('form-submitted-msg')
-   
-  
-  const formElements = [ ...form.elements ]
-  
+  const formElements = form.find(':input');
 
   const allInputsValid = () => {
-    const valid = formElements.every((element) => {
+    const valid = formElements.toArray().every((element) => {
       if (element.nodeName === 'SELECT') {
-        return element.value !== 'Please select an option'
+        return element.value !== 'Please select an option';
       } else {
-        return element.checkValidity()
+        return element.checkValidity();
       }
-    })
-   
-  
-    return valid
-  }
-  
+    });
+
+    return valid;
+  };
 
   const handleChange = () => {
+    formElements.each(function() {
+      const element = $(this);
 
-    formElements.forEach((element) => {
-
-      if (!element.checkValidity()
-            && element.nodeName !== 'BUTTON'
-            && element.nodeName !== 'SELECT'  
-            && element.type !== 'checkbox'
-            && element.type !== 'radio'
+      if (
+        !element[0].checkValidity() &&
+        element[0].nodeName !== 'BUTTON' &&
+        element[0].nodeName !== 'SELECT' &&
+        element[0].type !== 'checkbox' &&
+        element[0].type !== 'radio'
       ) {
-        element.style.borderColor = 'red'
-        element.nextElementSibling.style.color = 'red' 
-        element.nextElementSibling.style.display = 'block' 
-        element.previousElementSibling.style.color = 'red'
+        element.css('border-color', 'red');
+        element.next().css('color', 'red');
+        element.next().css('display', 'block');
+        element.prev().css('color', 'red');
       }
-  
 
-      if (element.checkValidity()
-            && element.nodeName !== 'BUTTON'
-            && element.nodeName !== 'SELECT'
-            && element.type !== 'checkbox'
-            && element.type !== 'radio'
+      if (
+        element[0].checkValidity() &&
+        element[0].nodeName !== 'BUTTON' &&
+        element[0].nodeName !== 'SELECT' &&
+        element[0].type !== 'checkbox' &&
+        element[0].type !== 'radio'
       ) {
-        element.style.borderColor = '#CED4DA'
-        element.nextElementSibling.style.color = '#CED4DA'
-        element.nextElementSibling.style.display = 'none'
-        element.previousElementSibling.style.color = '#212529'
+        element.css('border-color', '#CED4DA');
+        element.next().css('color', '#CED4DA');
+        element.next().css('display', 'none');
+        element.prev().css('color', '#212529');
       }
-  
 
-      if (!element.checkValidity()
-            && (element.type === 'checkbox'
-                || element.type === 'radio')
+      if (
+        !element[0].checkValidity() &&
+        (element[0].type === 'checkbox' || element[0].type === 'radio')
       ) {
-        element.style.borderColor = 'red'
-        element.nextElementSibling.style.color = 'red'
+        element.css('border-color', 'red');
+        element.next().css('color', 'red');
       }
-  
 
-      if (element.checkValidity()
-            && (element.type === 'checkbox'
-                || element.type === 'radio')
+      if (
+        element[0].checkValidity() &&
+        (element[0].type === 'checkbox' || element[0].type === 'radio')
       ) {
-        element.style.borderColor = '#CED4DA'
-        element.nextElementSibling.style.color = '#212529'
+        element.css('border-color', '#CED4DA');
+        element.next().css('color', '#212529');
       }
-  
 
-      if (element.nodeName === 'SELECT'
-            && element.value === 'Please select an option'
+      if (
+        element[0].nodeName === 'SELECT' &&
+        element.val() === 'Please select an option'
       ) {
-        element.style.borderColor = 'red'
-        element.nextElementSibling.style.color = 'red'
-        element.nextElementSibling.style.display = 'block'
-        element.previousElementSibling.style.color = 'red'
+        element.css('border-color', 'red');
+        element.next().css('color', 'red');
+        element.next().css('display', 'block');
+        element.prev().css('color', 'red');
       }
-  
 
-      if (element.nodeName === 'SELECT'
-            && element.value !== 'Please select an option'
+      if (
+        element[0].nodeName === 'SELECT' &&
+        element.val() !== 'Please select an option'
       ) {
-        element.style.borderColor = '#CED4DA'
-        element.nextElementSibling.style.color = '#CED4DA'
-        element.nextElementSibling.style.display = 'none'
-        element.previousElementSibling.style.color = '#212529'
-
+        element.css('border-color', '#CED4DA');
+        element.next().css('color', '#CED4DA');
+        element.next().css('display', 'none');
+        element.prev().css('color', '#212529');
       }
-    })
-  
-  
-
-  
-  
+    });
 
     if (allInputsValid()) {
-      submitButton.removeAttribute('disabled', '')
+      submitButton.removeAttr('disabled');
     } else {
-      submitButton.setAttribute('disabled', '')
+      submitButton.attr('disabled', '');
     }
-  }
-  
+  };
 
   const handleSubmit = (e) => {
-
-    e.preventDefault()
-  
+    e.preventDefault();
 
     if (allInputsValid()) {
-      successMessage.style.display = 'block'
-      form.reset()
-      submitButton.setAttribute('disabled', '')
-  
+      successMessage.css('display', 'block');
+      form[0].reset();
+      submitButton.attr('disabled', '');
 
       setTimeout(() => {
-        successMessage.style.display = 'none'
-      }, 9000)
+        successMessage.css('display', 'none');
+      }, 9000);
     }
-  }
-  
+  };
 
-  formElements.forEach((element) => {
-    element.addEventListener('change', handleChange)
-  })
-  
+  formElements.on('change', handleChange);
 
-  form.addEventListener('submit', (e) => handleSubmit(e))
+  form.on('submit', (e) => handleSubmit(e));
+});
 
-// Start Exam Page Form 
+
