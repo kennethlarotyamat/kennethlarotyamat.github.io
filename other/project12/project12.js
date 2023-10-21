@@ -155,8 +155,7 @@ modeToggle.addEventListener('click', toggleMode);
     })
   
   
-      // I Can't figure out how to change the colors of the buttons to be compatible with the greyscale toggler well, the blue Reach Out button anyway
-      //  one workaround is to change that button to a shade of bluish grey so that they are greyscale anyway.
+
   
   
       // If all form elements are valid, enable the submit button; otherwise, disable it
