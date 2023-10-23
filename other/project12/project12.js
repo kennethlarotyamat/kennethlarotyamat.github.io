@@ -1,11 +1,3 @@
-   
-
-
-
-
-
-
-
 $(function(){
     $("body").on('hidden.bs.modal', function (e) {
       var $iframes = $(e.target).find("iframe");
@@ -14,10 +6,6 @@ $(function(){
       });
     });
   });  
-  
-
-
-
 $(function() {
   "use strict";
 
