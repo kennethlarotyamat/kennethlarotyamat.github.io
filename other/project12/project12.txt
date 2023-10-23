@@ -50,6 +50,17 @@ Include a screenshot, title, brief description, and a link to the repo.
 When you’re finished with both steps, submit the HTML, CSS, and jQuery for your quiz app below.
 Happy coding! 🚀
 
+            <!-- C:\Users\KLYam\OneDrive\Documents\GitHub\kennethlarotyamat.github.io\other\project10\sl9.html -->
+            <!-- https://kennethlarotyamat.github.io/other/project10/sl9.html --> 
+            <!-- Project 12 Requires that I add the resulting project 12 to project 10 -->
+            <!-- still in 404 status as of 10232023 0536  / I had a 404 issue with chestnutandhazel.com, that, I think that I might have fixed. 
+            
+            it was called a soft 404 error -->
+
+            <!-- In addition to adding project 12 to my project slideshow (Project 10), i'm updating my SRC references, converting them from 
+            relative paths to absolute paths. I think this may result in them taking longer to load, but, I have no idea. -->
+            <!-- alrighty, so as of 10232023 0547 the slide is working  I'm moving these comments to my project 12 text file-->
+
 
 
 
