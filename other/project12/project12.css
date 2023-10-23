@@ -204,27 +204,10 @@ a {
 {  
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-*, *::before, *::after {
+*, *::before, *::after 
+{
   text-wrap: wrap;font-size: 1vw;font-weight: 600;box-sizing: border-box;font-family: 'Cinzel', "Century Schoolbook","Times New Roman", Times, Courier,"Georgia", serif;text-decoration: none;
-  }
+}
 
 body {
   background-color: #fae7d4;
