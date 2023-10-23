@@ -180,28 +180,28 @@ a {
   background-color: #ffffff;
 }
 
-.aside-one {
+.aside-one 
+{
   grid-area: aside-one;
   background-color: #cffdbc;
 }
 
 
 
-.aside-one:hover {
-
+.aside-one:hover 
+{
 }
  
-.aside-two {
+.aside-two 
+{
   grid-area: aside-two;
   background-color: #ffffbf;
   vertical-align: top;
 }
 
 
-.aside-two:hover {
-
-
-  
+.aside-two:hover 
+{  
 }
 
 
@@ -447,7 +447,6 @@ input:checked + .slider:before {
 
   .fontweightadjustment{ font-weight: 600; }
 
-  .mode-status{
-
-
+  .mode-status 
+  {
   }
