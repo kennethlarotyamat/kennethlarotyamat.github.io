@@ -128,6 +128,8 @@ Include a screenshot, title, brief description, and a link to the repo.
  
 -->
 
+<!-- https://www.youtube.com/watch?v=FFWuPcrKMOw  -->
+
 <!-- 
 
   I really can't figure out how they did this.
@@ -174,6 +176,271 @@ html {
 
 
 -->
+
+<!-- 1. Project: Add to personal website
+Overview
+
+For Project 12, 
+
+you will get some practice creating a simple project from scratch that 
+incorporates HTML, CSS, and JavaScript. 
+
+
+Specifically, since jQuery was introduced this 
+week, you’ll write your JavaScript logic in jQuery! When completed, you’ll add this project 
+to GitHub and to your personal website’s project section!
+
+
+Step One
+Create a simple quiz app, which presents the user with at least 1 multiple choice question 
+and gives some kind of feedback to the user about whether their selected answer was correct 
+or incorrect.
+
+
+Requirements:
+
+HTML Structure - The quiz should have a title, should provide 3 - 4 answer options, and 
+should have an element to display feedback on the selected answer
+
+CSS Styling - The quiz should be centered on the page, applying suitable margin and padding 
+for better readability and appearance. In addition, the answer options should employ some 
+kind of hover effect (e.g. - changing color, etc.), and the feedback message should use 
+distinct colors (one for a correct answer, another for an incorrect answer)
+
+Functionality - When an answer option is clicked, the other options should be disabled 
+(unclickable), a determination should be made as to whether the answer is correct or not, 
+and feedback should be output to the appropriate element. All the JS should be written in jQuery!
+
+Example:
+Nerd Quiz
+Initial State
+Nerd Quiz - correct answer
+Correct Answer
+Nerd Quiz - incorrect answer
+Incorrect Answer
+
+NOTE: This project does not need to be terribly complex or have amazing styling (unless you want to, of course). 
+Some basic styling will be sufficient. Bottom line: don’t overthink it, keep it simple, and prioritize 
+functionality over aesthetics!
+
+Step Two
+Add all of your code to a GitHub repository, and add the quiz app to your website’s project section. 
+Include a screenshot, title, brief description, and a link to the repo.
+When you’re finished with both steps, submit the HTML, CSS, and jQuery for your quiz app below.
+Happy coding! 🚀
+
+
+ -->
+
+ <!-- I'm going to take a break. I'm tired. I was originally going to use lesson 3.1 - the material from 3.1 as the starting point for project 12, but 
+right off the bat I was having issues. and. there was so much to it, that I really didn't know where to begin.
+
+normally I would just isolate the problem, and focus on fixing it, and then going from there,
+
+but I couldn't figure out what the problem was, or where it was, or what was causing it.
+
+I watched a video of someone else doing it, creating a quiz,
+
+and right away I knew what to do: radio buttons, because, well. he was going radio buttons.
+
+and. well. I really just used material from assignment 11 and proceeded from there.
+
+...
+
+
+I'm using this tool to convert javascript to jquery. It's only possible to convert a few lines of javascript in jquery at a time using
+this tool
+
+
+
+
+// Start Exam Page Form 
+
+
+
+
+
+
+
+$(document).ready(function() {
+  "use strict";
+
+  const form = $('#exampleForm', 'div');
+  const formA = $('#exampleFormA', 'div');
+  const submitButton = $('.submit', 'div');
+  const successMessage = $('#form-submitted-msg', 'div');
+
+  const formElements = $(form).find('input, select, textarea');
+
+  const allInputsValid = function() {
+    const valid = formElements.each(function() {
+      if ($(this).is('select')) {
+        return $(this).val() !== 'Please select an option';
+      } else {
+        return $(this).val() !== '' && $(this).prop('validity') === true;
+      }
+    });
+
+    return valid;
+  };
+
+  // Example submit form function
+  const submitForm = function() {
+    if (allInputsValid()) {
+      successMessage.show();
+      form.submit();
+    } else {
+      alert('Form is not valid!');
+    }
+  };
+
+  submitButton.on('click', submitForm);
+});
+
+
+
+
+const handleChange = () => {
+
+  formElements.forEach((element) => {
+
+    if (!element.checkValidity()
+          && element.nodeName !== 'BUTTON'
+          && element.nodeName !== 'SELECT'  
+          && element.type !== 'checkbox'
+          && element.type !== 'radio'
+    ) {
+      element.style.borderColor = 'red'
+      element.nextElementSibling.style.color = 'red' 
+      element.nextElementSibling.style.display = 'block' 
+      element.previousElementSibling.style.color = 'red'
+    }
+
+
+    if (element.checkValidity()
+          && element.nodeName !== 'BUTTON'
+          && element.nodeName !== 'SELECT'
+          && element.type !== 'checkbox'
+          && element.type !== 'radio'
+    ) {
+      element.style.borderColor = '#CED4DA'
+      element.nextElementSibling.style.color = '#CED4DA'
+      element.nextElementSibling.style.display = 'none'
+      element.previousElementSibling.style.color = '#212529'
+    }
+
+
+    if (!element.checkValidity()
+          && (element.type === 'checkbox'
+              || element.type === 'radio')
+    ) {
+      element.style.borderColor = 'red'
+      element.nextElementSibling.style.color = 'red'
+    }
+
+
+    if (element.checkValidity()
+          && (element.type === 'checkbox'
+              || element.type === 'radio')
+    ) {
+      element.style.borderColor = '#CED4DA'
+      element.nextElementSibling.style.color = '#212529'
+    }
+
+
+    if (element.nodeName === 'SELECT'
+          && element.value === 'Please select an option'
+    ) {
+      element.style.borderColor = 'red'
+      element.nextElementSibling.style.color = 'red'
+      element.nextElementSibling.style.display = 'block'
+      element.previousElementSibling.style.color = 'red'
+    }
+
+
+    if (element.nodeName === 'SELECT'
+          && element.value !== 'Please select an option'
+    ) {
+      element.style.borderColor = '#CED4DA'
+      element.nextElementSibling.style.color = '#CED4DA'
+      element.nextElementSibling.style.display = 'none'
+      element.previousElementSibling.style.color = '#212529'
+
+    }
+  })
+
+
+
+  if (allInputsValid()) {
+    submitButton.removeAttribute('disabled', '')
+  } else {
+    submitButton.setAttribute('disabled', '')
+  }
+}
+
+
+const handleSubmit = (e) => {
+
+  e.preventDefault()
+
+
+  if (allInputsValid()) {
+    successMessage.style.display = 'block'
+    form.reset()
+    submitButton.setAttribute('disabled', '')
+
+
+    setTimeout(() => {
+      successMessage.style.display = 'none'
+    }, 9000)
+  }
+}
+
+
+formElements.forEach((element) => {
+  element.addEventListener('change', handleChange)
+})
+
+
+form.addEventListener('submit', (e) => handleSubmit(e))
+
+
+// Start Exam Page Form  -->
+
+<!-- The idea here is to adapt the contact form, and convert it into a quiz. I'm not sure that this will work.
+but I'm going to try it anyway.
+
+....
+
+I actually have an idea.
+
+...
+
+https://www.youtube.com/watch?v=gMcIgTb9RH8
+https://learn.jquery.com/
+
+well I guess I should be starting from scratch anyway. but now I'm really curious about one lesson 3.1 isn't working on GitHub.
+
+...
+
+I don't know what to do about this.
+
+like step one i'm already having problems.
+
+
+https://www.youtube.com/watch?v=nt5wk8FdZOY
+
+https://medium.com/@hakhoipham/the-beginners-guide-to-lodash-58f98599da54
+
+https://lodash.com/docs/4.17.15#getting-started -->
+
+
+
+
+
+
+
+
 
 
 
