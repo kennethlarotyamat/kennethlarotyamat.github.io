@@ -1,0 +1,40 @@
+I usually don't start on a project until the day it's due, but that's lead to challenges. so I'm going to 
+at least take a look at it today.
+
+I'm honestly still refining project 12, even though I've already turned it in, and my TA has already graded it.
+
+...
+
+1. Project: Algo Practice & Add to Personal Website
+Overview
+For Project 13, you will get a little bit of practice tackling coding questions, upload the code 
+for your attempts to GitHub, and also add to your website’s project session!
+Step One
+Complete the following:
+Sign up for free accounts on LeetCode, Hackerrank, and CodeWars
+Create a GitHub repository with 3 folders (one for each of the above platforms), and a brief 
+README file with at least 2 sentences describing your repo
+Work on 2 - 3 beginner level challenges from any of the above platforms (or one from each!)
+Push all of your code to the GitHub repo you created
+Submit a link to your repo and, if it’s a private repo, add your TA as a collaborator
+NOTE: Try your best to solve the coding challenges, using comments to describe the thought 
+process behind your approach. You can also ask your TA for help with these. But even if you can’t 
+arrive at a solution that’s okay! The only requirement for these challenges, in terms of this project 
+submission, is that it’s evident that you employed critical thinking and attempted a solution.
+Step Two
+Add the calculator mini project (from Lesson 1.3), or another project you completed outside of class, 
+to the projects section of your website. The styling is up to you, but you should include a screenshot, a 
+title, a brief description, and a link to the code on GitHub. Finally, submit the GitHub link below (again, 
+if it’s a private repo, be sure to add your TA as a collaborator).
+Happy coding! 🚀
+GitHub Link - Algo Practice
+Submit Answer!
+
+GitHub Link - Additional Code Project (calculator or other)
+Submit Answer!
+The only thing worse than not knowing why some code breaks is not knowing why it worked in the first place! 
+It’s the classic “house of cards” mentality: “it works, but I’m not sure why, so nobody touch it!” You may have 
+heard, “Hell is other people” (Sartre), and the programmer meme twist, “Hell is other people’s code.”
+I believe truly: "Hell is not understanding my own code.”
+― Kyle Simpson, You Don’t Know JS: Async & Performance
+Mark as CompletedBack to dashboard
