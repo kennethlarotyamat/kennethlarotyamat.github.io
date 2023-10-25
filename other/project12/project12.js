@@ -157,31 +157,14 @@ $(document).ready(function() {
 
    $('.correctanswer').on('click', function() {
      $('.feedback').text('Correct Answer').addClass("correct-answer");
-    $('.answer').attr('disabled',true).removeClass("hover-effect").off('mouseenter').off('mouseleave');
-     $('.next-question').attr('disabled', false).on("click", function(){
-       alert("Thank You! Play Again");
-       location.reload();
-     });
+    $('.form-check-input1').attr('disabled',true).removeClass("hover-effect").off('mouseenter').off('mouseleave');
      $(this).addClass("correct-answer");
     });
 
 
-
-// Reference: Sekllan ChenRuan 6:54 PM I think it can be an array of key value pairs
-
+//  form-check-input
 
 
-
-// // SELECTING CORRECT ANSWER
-// $('#q1__answer-selection-3').on('click', function() {
-//   $('.feedback').text('Correct Answer!').addClass("correct-answer");
-//   $('.answer').attr('disabled',true).removeClass("hover-effect").off('mouseenter').off('mouseleave');
-//   $('.next-question').attr('disabled', false).on("click", function(){
-//     alert("Thank You! Play Again");
-//     location.reload();
-//   });
-//   $(this).addClass("correct-answer");
-// });
 
 // //SELECTING WRONG ANSWERS
 // $('#q1__answer-selection-1,#q1__answer-selection-2, #q1__answer-selection-4').on('click', function() {
@@ -193,5 +176,8 @@ $(document).ready(function() {
 //   $(this).addClass("incorrect-answer");
 // });
 
-// reference: https://github.com/Jamiecodio/fitness-quiz/blob/master/script.js
+// Reference:     https://github.com/Jamiecodio/fitness-quiz/blob/master/script.js
+//                https://jamiecodio.github.io/fitness-quiz/
+
+// Reference: Sekllan ChenRuan 6:54 PM I think it can be an array of key value pairs
 
