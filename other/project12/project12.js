@@ -193,7 +193,7 @@ $('.correctanswerQ1').on('click', function() {
      });
 
      $('.alternativeresponseQ2wof').on('click', function() {
-      $('.feedbackquestion2').text("I can sell you a consonant for a fraction of what you'd spend on a vowel");
+      $('.feedbackquestion2').text("I can sell you a consonant for a fraction of what you'd spend on a vowel.");
      $('.form-check-input2').attr('disabled',true).off('mouseenter mouseleave') ;
 
      });
@@ -225,7 +225,7 @@ $('.correctanswerQ1').on('click', function() {
          });
 
          $('.alternativeresponseQ3dts').on('click', function() {
-          $('.feedbackquestion3').text("It's your money");
+          $('.feedbackquestion3').text("It's your money.");
          $('.form-check-input3').attr('disabled',true).off('mouseenter mouseleave') ;
     
          });
@@ -233,7 +233,7 @@ $('.correctanswerQ1').on('click', function() {
 // Question 4
 
 $('.correctanswerQ4').on('click', function() {
-  $('.feedbackquestion4').text("Better be Sure");
+  $('.feedbackquestion4').text("Better be Sure.");
  $('.form-check-input4').attr('disabled',true).off('mouseenter mouseleave') ;
 
  });
@@ -245,19 +245,19 @@ $('.correctanswerQ4').on('click', function() {
  });
 
  $('.alternativeresponseQ4uac').on('click', function() {
-  $('.feedbackquestion4').text("that coupon gives you a discount of negative ten percent, which is the same as paying a premium of positive ten percent. so you'll need to pay another 40.95");
+  $('.feedbackquestion4').text("that coupon gives you a discount of negative ten percent, which is the same as paying a premium of positive ten percent. so you'll need to pay another 40.95.");
  $('.form-check-input4').attr('disabled',true).off('mouseenter mouseleave') ;
 
  });
 
  $('.alternativeresponseQ4dcc').on('click', function() {
-  $('.feedbackquestion4').text("that discount code gives you a price reduction of negative ten percent, which is the same as giving you a price increase of positive ten percent. so you'll need to pay another 40.95");
+  $('.feedbackquestion4').text("that discount code gives you a price reduction of negative ten percent, which is the same as giving you a price increase of positive ten percent. so you'll need to pay another $40.95.");
  $('.form-check-input4').attr('disabled',true).off('mouseenter mouseleave') ;
 
  });
 
  $('.alternativeresponseQ4qref').on('click', function() {
-  $('.feedbackquestion4').text("guess what? you don't qualify");
+  $('.feedbackquestion4').text("guess what? you don't qualify!");
  $('.form-check-input4').attr('disabled',true).off('mouseenter mouseleave') ;
 
  });
