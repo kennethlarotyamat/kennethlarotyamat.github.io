@@ -239,7 +239,7 @@ $('.correctanswerQ4').on('click', function() {
  });
 
  $('.alternativeresponseQ4acc').on('click', function() {
-  $('.feedbackquestion4').text("Why didn't you put it on your credit card?");
+  $('.feedbackquestion4').text("Why didn't you put it on your credit card and submit the receipt to amazon career choice?");
  $('.form-check-input4').attr('disabled',true).off('mouseenter mouseleave') ;
 
  });
