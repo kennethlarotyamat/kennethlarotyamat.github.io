@@ -267,3 +267,36 @@ $('.correctanswerQ4').on('click', function() {
  $('.form-check-input4').attr('disabled',true).off('mouseenter mouseleave') ;
 
  });
+
+ // Question 5 References: https://www.youtube.com/watch?v=U0CGsw6h60k  /   https://www.youtube.com/watch?v=Vhh-XF01Ats
+
+ $('.correctanswerQ5').on('click', function() {
+  $('.feedbackquestion5').text("that's probably not going to happen");
+ $('.form-check-input5').attr('disabled',true).off('mouseenter mouseleave') ;
+
+ });
+
+ $('.alternativeresponseQ5lbpb').on('click', function() {
+  $('.feedbackquestion5').text("Is there any reason you didn't use a plastic bag?");
+ $('.form-check-input5').attr('disabled',true).off('mouseenter mouseleave') ;
+
+ });
+
+ $('.alternativeresponseQ5lwbp').on('click', function() {
+  $('.feedbackquestion5').text("only if you enjoy eating nuts. Do you want to eat nuts? go ahead and eat nuts");
+ $('.form-check-input5').attr('disabled',true).off('mouseenter mouseleave') ;
+
+ });
+
+ $('.alternativeresponseQ5ybbthesquarerootofsixtynineiseightsomethingrightivebeentryingtoworkitoutoh').on('click', function() {
+  $('.feedbackquestion5').text("You best be believing");
+ $('.form-check-input5').attr('disabled',true).off('mouseenter mouseleave') ;
+
+ });
+
+ $('.alternativeresponseQ5oddue').on('click', function() {
+  $('.feedbackquestion5').text("was it a shrimp and calamari pizza with extra anchovies? because I had to eat that pizza hours ago, anyway, it had my name on it,  i'm the one who wrote my name on it, but, you know. it had my name on it as a result.");
+ $('.form-check-input5').attr('disabled',true).off('mouseenter mouseleave') ;
+
+ });
+
