@@ -294,3 +294,5 @@ $('.correctanswerQ4').on('click', function() {
 
  });
 
+ // Question 6
+
