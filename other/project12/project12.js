@@ -221,3 +221,15 @@ $(document).ready(function() {
          $('.form-check-input3').attr('disabled',true).off('mouseenter mouseleave') ;
      
          });
+
+         $('.alternativeresponseQ3ihn').on('click', function() {
+          $('.feedbackquestion3').text("Why Haven't you prepared for this exam?");
+         $('.form-check-input3').attr('disabled',true).off('mouseenter mouseleave') ;
+    
+         });
+
+         $('.alternativeresponseQ3imh').on('click', function() {
+          $('.feedbackquestion3').text("Why Haven't you studied for this exam?");
+         $('.form-check-input3').attr('disabled',true).off('mouseenter mouseleave') ;
+    
+         });
