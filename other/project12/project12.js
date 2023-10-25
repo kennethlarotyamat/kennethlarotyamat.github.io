@@ -296,7 +296,79 @@ $('.correctanswerQ4').on('click', function() {
 
 // Question 6
 
+$('.correctanswerQ6').on('click', function() {
+  $('.feedbackquestion6').text("that's probably not going to happen");
+ $('.form-check-input6').attr('disabled',true).off('mouseenter mouseleave') ;
+
+ });
+
+ $('.correctanswerQ6').on('click', function() {
+  $('.feedbackquestion6').text("that's probably not going to happen");
+ $('.form-check-input6').attr('disabled',true).off('mouseenter mouseleave') ;
+
+ });
+
+ $('.correctanswerQ6').on('click', function() {
+  $('.feedbackquestion6').text("that's probably not going to happen");
+ $('.form-check-input6').attr('disabled',true).off('mouseenter mouseleave') ;
+
+ });
+
+ $('.correctanswerQ6').on('click', function() {
+  $('.feedbackquestion6').text("that's probably not going to happen");
+ $('.form-check-input6').attr('disabled',true).off('mouseenter mouseleave') ;
+
+ });
+
 // Question 7
 
+$('.correctanswerQ7').on('click', function() {
+  $('.feedbackquestion7').text("that's probably not going to happen");
+ $('.form-check-input7').attr('disabled',true).off('mouseenter mouseleave') ;
+
+ });
+
+ $('.correctanswerQ7').on('click', function() {
+  $('.feedbackquestion7').text("that's probably not going to happen");
+ $('.form-check-input7').attr('disabled',true).off('mouseenter mouseleave') ;
+
+ });
+
+ $('.correctanswerQ7').on('click', function() {
+  $('.feedbackquestion7').text("that's probably not going to happen");
+ $('.form-check-input7').attr('disabled',true).off('mouseenter mouseleave') ;
+
+ });
+
+ $('.correctanswerQ7').on('click', function() {
+  $('.feedbackquestion7').text("that's probably not going to happen");
+ $('.form-check-input7').attr('disabled',true).off('mouseenter mouseleave') ;
+
+ });
+
 // Question 8
+
+$('.correctanswerQ8').on('click', function() {
+  $('.feedbackquestion8').text("that's probably not going to happen");
+ $('.form-check-input8').attr('disabled',true).off('mouseenter mouseleave') ;
+
+ });
+
+ $('.correctanswerQ8').on('click', function() {
+  $('.feedbackquestion8').text("that's probably not going to happen");
+ $('.form-check-input8').attr('disabled',true).off('mouseenter mouseleave') ;
+
+ });
+
+ $('.correctanswerQ8').on('click', function() {
+  $('.feedbackquestion8').text("that's probably not going to happen");
+ $('.form-check-input8').attr('disabled',true).off('mouseenter mouseleave') ;
+
+ });
+
+ $('.correctanswerQ8').on('click', function() {
+  $('.feedbackquestion8').text("that's probably not going to happen");
+ $('.form-check-input8').attr('disabled',true).off('mouseenter mouseleave') ;
+
+ });
 
