@@ -172,7 +172,7 @@ $('.correctanswerQ1').on('click', function() {
 
  });
 
-//  Question 2
+//  Question 2 10252023 0605 what a nightmare. i had a special hover effect specifically in place for the green book response where the hover effect is green, rather than blue, it broke everything and then i had to fix it. it took pretty much over a million years.
 
     $('.correctanswerQ2').on('click', function() {
       $('.feedbackquestion2').text("Excellent");
@@ -187,7 +187,7 @@ $('.correctanswerQ1').on('click', function() {
      });
 
      $('.alternativeresponseQ2bap').on('click', function() {
-      $('.feedbackquestion2').text("You'll still need a No. 2 Pencil for the multiple choice section");
+      $('.feedbackquestion2').text("You'll still need a No. 2 Pencil for the multiple choice section of the exam");
      $('.form-check-input2').attr('disabled',true).off('mouseenter mouseleave') ;
 
      });
