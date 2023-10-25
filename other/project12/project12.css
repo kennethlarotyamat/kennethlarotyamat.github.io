@@ -470,10 +470,7 @@ input:checked + .slider:before {
 
 
 
-  .questionsbeingasked{
-font-weight: 800;
-
-  }
+.questionsbeingasked{font-weight: 750;}
 
   
   
