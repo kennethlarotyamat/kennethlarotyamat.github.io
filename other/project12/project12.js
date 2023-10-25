@@ -245,13 +245,13 @@ $('.correctanswerQ4').on('click', function() {
  });
 
  $('.alternativeresponseQ4uac').on('click', function() {
-  $('.feedbackquestion4').text("that coupon gives you a discount of negative ten percent, which is the same as paying a premium of positive ten percent. so you'll need to pay another 40.95.");
+  $('.feedbackquestion4').text("that coupon gives you a discount of negative ten percent, which is the same as paying a premium of positive ten percent. it's basically an inverse discount. so you'll need to pay another 40.95.");
  $('.form-check-input4').attr('disabled',true).off('mouseenter mouseleave') ;
 
  });
 
  $('.alternativeresponseQ4dcc').on('click', function() {
-  $('.feedbackquestion4').text("that discount code gives you a price reduction of negative ten percent, which is the same as giving you a price increase of positive ten percent. so you'll need to pay another $40.95.");
+  $('.feedbackquestion4').text("that discount code gives you a price reduction of negative ten percent, which is the same as giving you a price increase of positive ten percent. it's basically an inverse price reduction. so you'll need to pay another $40.95.");
  $('.form-check-input4').attr('disabled',true).off('mouseenter mouseleave') ;
 
  });
