@@ -472,6 +472,11 @@ input:checked + .slider:before {
 
 .questionsbeingasked{font-weight: 750;}
 
+.feedback {
+
+  padding-left: 1vh;
+
+}
   
   
   
