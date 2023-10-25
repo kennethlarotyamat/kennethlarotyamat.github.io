@@ -174,7 +174,7 @@ $(document).ready(function() {
      });
 
      $('.alternativeresponseQ1GB').on('click', function() {
-      $('.feedbackquestion1').text("I'll just give you a scantron since I have an extra one");
+      $('.feedbackquestion1').text("I think I'll just give you a scantron");
      $('.form-check-input1').attr('disabled',true).removeClass("hover-effect").off('mouseenter').off('mouseleave');
 
      });
@@ -183,6 +183,30 @@ $(document).ready(function() {
 
     $('.correctanswerQ2').on('click', function() {
       $('.feedbackquestion2').text("Excellent");
-     $('.form-check-input1').attr('disabled',true).removeClass("hover-effect").off('mouseenter').off('mouseleave');
+     $('.form-check-input2').attr('disabled',true).removeClass("hover-effect").off('mouseenter').off('mouseleave');
  
+     });
+
+     $('.alternativeresponseQ2').on('click', function() {
+      $('.feedbackquestion2').text("Why didn't you bring a No. 2 Pencil?");
+     $('.form-check-input2').attr('disabled',true).removeClass("hover-effect").off('mouseenter').off('mouseleave');
+
+     });
+
+     $('.alternativeresponseQ2bap').on('click', function() {
+      $('.feedbackquestion2').text("You'll still need a No. 2 Pencil for the multiple choice section");
+     $('.form-check-input2').attr('disabled',true).removeClass("hover-effect").off('mouseenter').off('mouseleave');
+
+     });
+
+     $('.alternativeresponseQ2wof').on('click', function() {
+      $('.feedbackquestion2').text("I can sell you a consonant for a fraction of what you'd spend on a vowel");
+     $('.form-check-input2').attr('disabled',true).removeClass("hover-effect").off('mouseenter').off('mouseleave');
+
+     });
+
+     $('.alternativeresponseQ2ae').on('click', function() {
+      $('.feedbackquestion2').text("Anticipated? Is your computer powered by something other than electricity?");
+     $('.form-check-input2').attr('disabled',true).removeClass("hover-effect").off('mouseenter').off('mouseleave');
+
      });
