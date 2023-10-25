@@ -155,19 +155,19 @@ $(document).ready(function() {
 // Question 1
 
 $('.correctanswerQ1').on('click', function() {
-  $('.feedbackquestion1').text("Excellent");
+  $('.feedbackquestion1').text("Excellent!");
  $('.form-check-input1').attr('disabled',true).off('mouseenter mouseleave') ;
 
  });   $('.alternativeresponseQ1dn').on('click', function() {
-  $('.feedbackquestion1').text("why don't you have a scantron");
+  $('.feedbackquestion1').text("why don't you have a scantron?");
  $('.form-check-input1').attr('disabled',true).off('mouseenter mouseleave') ;
 
  });   $('.alternativeresponseQ1bb').on('click', function() {
-  $('.feedbackquestion1').text("you'll still need a scantron for the multiple choice section of the exam");
+  $('.feedbackquestion1').text("you'll still need a scantron for the multiple choice section of the exam.");
  $('.form-check-input1').attr('disabled',true).off('mouseenter mouseleave') ;
 
  });   $('.alternativeresponseQ1gb').on('click', function() {
-  $('.feedbackquestion1').text("I think that i'll just give you a scantron");
+  $('.feedbackquestion1').text("I think that i'll just give you a scantron.");
  $('.form-check-input1').attr('disabled',true).off('mouseenter mouseleave') ;
 
  });
@@ -175,7 +175,7 @@ $('.correctanswerQ1').on('click', function() {
 //  Question 2 10252023 0605 what a nightmare. i had a special hover effect specifically in place for the green book response where the hover effect is green, rather than blue, it broke everything and then i had to fix it. it took pretty much over a million years.
 
     $('.correctanswerQ2').on('click', function() {
-      $('.feedbackquestion2').text("Excellent");
+      $('.feedbackquestion2').text("Excellent!");
      $('.form-check-input2').attr('disabled',true).off('mouseenter mouseleave') ;
  
      });
@@ -187,7 +187,7 @@ $('.correctanswerQ1').on('click', function() {
      });
 
      $('.alternativeresponseQ2bap').on('click', function() {
-      $('.feedbackquestion2').text("You'll still need a No. 2 Pencil for the multiple choice section of the exam");
+      $('.feedbackquestion2').text("You'll still need a No. 2 Pencil for the multiple choice section of the exam.");
      $('.form-check-input2').attr('disabled',true).off('mouseenter mouseleave') ;
 
      });
@@ -204,10 +204,10 @@ $('.correctanswerQ1').on('click', function() {
 
      });
 
-//  Question 3
+//  Question 3 DONE
 
          $('.correctanswerQ3').on('click', function() {
-          $('.feedbackquestion3').text("Excellent");
+          $('.feedbackquestion3').text("Excellent!");
          $('.form-check-input3').attr('disabled',true).off('mouseenter mouseleave') ;
      
          });
