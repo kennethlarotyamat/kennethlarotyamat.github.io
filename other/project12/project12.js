@@ -261,3 +261,9 @@ $('.correctanswerQ4').on('click', function() {
  $('.form-check-input4').attr('disabled',true).off('mouseenter mouseleave') ;
 
  });
+
+ $('.alternativeresponseQ4qref').on('click', function() {
+  $('.feedbackquestion4').text("guess what? you don't qualify");
+ $('.form-check-input4').attr('disabled',true).off('mouseenter mouseleave') ;
+
+ });
