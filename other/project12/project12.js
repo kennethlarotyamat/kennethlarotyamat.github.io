@@ -381,6 +381,71 @@ $('.alternativeanswerQ8cc').on('click', function() {
  });
 
 
+
+
+  // $('.feedbackquestion8').text("Don't be a philosopher. just take the exam and get on with your life. that'll be $495 by the way.");
+  // good god it's starting to work.
+
+ $('#resetExamButton').on('click', function() {
+  $('.feedbackquestion8').text(" ");
+ $('.form-check-input8').attr('disabled',false).on('mouseenter mouseleave') ;
+
+ });
+
+ $('#resetExamButton').on('click', function() {
+  $('.feedbackquestion7').text(" ");
+ $('.form-check-input7').attr('disabled',false).on('mouseenter mouseleave') ;
+
+ });
+
+ $('#resetExamButton').on('click', function() {
+  $('.feedbackquestion7').text(" ");
+ $('.form-check-input7').attr('disabled',false).on('mouseenter mouseleave') ;
+
+ });
+
+//  it works. thank god. this took forever. none of the resources i used helped. at all.
+
+$('#resetExamButton').on('click', function() {
+  $('.feedbackquestion6').text(" ");
+ $('.form-check-input6').attr('disabled',false).on('mouseenter mouseleave') ;
+
+ });
+
+ $('#resetExamButton').on('click', function() {
+  $('.feedbackquestion5').text(" ");
+ $('.form-check-input5').attr('disabled',false).on('mouseenter mouseleave') ;
+
+ });
+
+ $('#resetExamButton').on('click', function() {
+  $('.feedbackquestion4').text(" ");
+ $('.form-check-input4').attr('disabled',false).on('mouseenter mouseleave') ;
+
+ });
+
+ $('#resetExamButton').on('click', function() {
+  $('.feedbackquestion3').text(" ");
+ $('.form-check-input3').attr('disabled',false).on('mouseenter mouseleave') ;
+
+ });
+
+ $('#resetExamButton').on('click', function() {
+  $('.feedbackquestion2').text(" ");
+ $('.form-check-input2').attr('disabled',false).on('mouseenter mouseleave') ;
+
+ });
+
+ $('#resetExamButton').on('click', function() {
+  $('.feedbackquestion1').text(" ");
+ $('.form-check-input1').attr('disabled',false).on('mouseenter mouseleave') ;
+
+ });
+
+//  this should work. this should be done. 10/25/2023 11:01 AM
+
+// it does work. 10252023 1101
+
 //  this might work for the reset button
 
 // $('.resetExamButton').on('click', function() {
@@ -394,12 +459,12 @@ $('.alternativeanswerQ8cc').on('click', function() {
 //              https://www.w3schools.com/howto/howto_css_switch.asp
 //              https://stackoverflow.com/questions/32034144/how-to-off-the-mouseenter-and-mouseleave-on-click-event
 
-$('.resetExamButton').on('click', function() {
+// $('.resetExamButton').on('click', function() {
 
-  $('.exampleForm').attr('disabled',false).reset().on('mouseenter mouseleave') ;
+//   $('.exampleForm').attr('disabled',false).reset().on('mouseenter mouseleave') ;
 
 
-});
+// });
 
 
 
@@ -444,36 +509,89 @@ $('.resetExamButton').on('click', function() {
     // $('.form-check-input2').attr('disabled',false).reset().on('mouseenter mouseleave') ; 
     // $('.form-check-input1').attr('disabled',false).reset().on('mouseenter mouseleave') ; 
 
-$('.resetExamButton').on('click', function() {
-$('.form-check-input8').attr('disabled',false).reset().on('mouseenter mouseleave') ;   
-});
+// $('.resetExamButton').on('click', function() {
+// $('.form-check-input8').attr('disabled',false).reset().on('mouseenter mouseleave') ;   
+// });
 
-$('.resetExamButton').on('click', function() {
-  $('.form-check-input7').attr('disabled',false).reset().on('mouseenter mouseleave') ;   
-  });
+// $('.resetExamButton').on('click', function() {
+//   $('.form-check-input7').attr('disabled',false).reset().on('mouseenter mouseleave') ;   
+//   });
 
-  $('.resetExamButton').on('click', function() {
-    $('.form-check-input6').attr('disabled',false).reset().on('mouseenter mouseleave') ;   
-    });
+//   $('.resetExamButton').on('click', function() {
+//     $('.form-check-input6').attr('disabled',false).reset().on('mouseenter mouseleave') ;   
+//     });
 
-    $('.resetExamButton').on('click', function() {
-      $('.form-check-input5').attr('disabled',false).reset().on('mouseenter mouseleave') ;   
-      });
+//     $('.resetExamButton').on('click', function() {
+//       $('.form-check-input5').attr('disabled',false).reset().on('mouseenter mouseleave') ;   
+//       });
 
-      $('.resetExamButton').on('click', function() {
-        $('.form-check-input4').attr('disabled',false).reset().on('mouseenter mouseleave') ;   
-        });
+//       $('.resetExamButton').on('click', function() {
+//         $('.form-check-input4').attr('disabled',false).reset().on('mouseenter mouseleave') ;   
+//         });
 
-        $('.resetExamButton').on('click', function() {
-          $('.form-check-input3').attr('disabled',false).reset().on('mouseenter mouseleave') ;   
-          });
+//         $('.resetExamButton').on('click', function() {
+//           $('.form-check-input3').attr('disabled',false).reset().on('mouseenter mouseleave') ;   
+//           });
 
-          $('.resetExamButton').on('click', function() {
-            $('.form-check-input2').attr('disabled',false).reset().on('mouseenter mouseleave') ;   
-            });
+//           $('.resetExamButton').on('click', function() {
+//             $('.form-check-input2').attr('disabled',false).reset().on('mouseenter mouseleave') ;   
+//             });
 
-            $('.resetExamButton').on('click', function() {
-              $('.form-check-input1').attr('disabled',false).reset().on('mouseenter mouseleave') ;   
-              });
+//             $('.resetExamButton').on('click', function() {
+//               $('.form-check-input1').attr('disabled',false).reset().on('mouseenter mouseleave') ;   
+//               });
 
               // what a nightmare. let's see if this works.
+
+
+
+              // https://www.freecodecamp.org/news/javascript-refresh-page-how-to-reload-a-page-in-js/#:~:text=The%20simplest%20way%20to%20refresh,and%20loading%20the%20latest%20content.
+              // this is probably the easiest thing to do, unless I can really figure this out.
+              // but in this case. I would use the reset button to reload the page. same result. so. i think i'll just use it.
+              // do the ends. justify the means?
+              // well, in this case. yeah. i think so.
+
+              //  https://www.geeksforgeeks.org/how-to-refresh-a-page-using-jquery/
+
+
+
+              // $('.resetExamButton').on('click', function() {
+
+              //   location.reload(true);
+              
+              
+              // });
+
+              // $('.resetExamButton').ready(function() {
+              //   location.reload();
+              // });
+
+              // this one did not work. do not test it out to see what it does .
+
+
+              // $('project12.html').ready(function() {
+                // Attach a click event handler to the button element with the id "reloadButton"
+                // $('#resetExamButton').click(function() {
+                  // Reload the page when the button is clicked
+                  // location.reload();
+                // });
+              // });
+
+
+
+
+            //   $(document).ready(function () {
+            //     $('#resetExamButton').click(function () {
+            //         location.reload(true);
+            //         alert('Resetting Exam');
+            //     });
+            // });
+
+          //   $(document).ready(function () {
+          //     $("button").click(function () {
+          //         location.reload(true);
+          //         alert('Reloading Page');
+          //     });
+          // });
+
+          // https://www.geeksforgeeks.org/how-to-refresh-a-page-using-jquery/
