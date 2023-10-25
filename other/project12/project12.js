@@ -151,31 +151,34 @@ $(document).ready(function() {
 });
 
 
-
+// form-check:hover hover-effect removeClass("form-check:hover") unbind('mouseenter mouseleave')   
+// References: https://stackoverflow.com/questions/805133/how-do-i-unbind-hover-in-jquery
+//             https://www.bing.com/search?pglt=171&q=jquery+off+hover&cvid=9831d1818c5441e487a44ae8a86106d3&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCDM5MjBqMGoxqAIAsAIA&FORM=ANSPA1&PC=ACTS
+//             https://stackoverflow.com/questions/805133/how-do-i-unbind-hover-in-jquery
 
     // Question 1
 
    $('.correctanswerQ1').on('click', function() {
      $('.feedbackquestion1').text("Excellent");
-    $('.form-check-input1').attr('disabled',true).removeClass("hover-effect").off('mouseenter').off('mouseleave');
+    $('.form-check-input1').attr('disabled',true).off('mouseenter mouseleave') ;
 
     });
 
     $('.alternativeresponseQ1').on('click', function() {
       $('.feedbackquestion1').text("Why don't you have a scantron?");
-     $('.form-check-input1').attr('disabled',true).removeClass("hover-effect").off('mouseenter').off('mouseleave');
+     $('.form-check-input1').attr('disabled',true).off('mouseenter mouseleave') ;
 
      });
 
      $('.alternativeresponseQ1BB').on('click', function() {
       $('.feedbackquestion1').text("You'll still need a scantron for the multiple choice section");
-     $('.form-check-input1').attr('disabled',true).removeClass("hover-effect").off('mouseenter').off('mouseleave');
+     $('.form-check-input1').attr('disabled',true).off('mouseenter mouseleave') ;
 
      });
 
      $('.alternativeresponseQ1GB').on('click', function() {
       $('.feedbackquestion1').text("I think I'll just give you a scantron");
-     $('.form-check-input1').attr('disabled',true).removeClass("hover-effect").off('mouseenter').off('mouseleave');
+     $('.form-check-input1').attr('disabled',true).off('mouseenter mouseleave') ;
 
      });
 
@@ -183,30 +186,32 @@ $(document).ready(function() {
 
     $('.correctanswerQ2').on('click', function() {
       $('.feedbackquestion2').text("Excellent");
-     $('.form-check-input2').attr('disabled',true).removeClass("hover-effect").off('mouseenter').off('mouseleave');
+     $('.form-check-input2').attr('disabled',true).off('mouseenter mouseleave') ;
  
      });
 
      $('.alternativeresponseQ2').on('click', function() {
       $('.feedbackquestion2').text("Why didn't you bring a No. 2 Pencil?");
-     $('.form-check-input2').attr('disabled',true).removeClass("hover-effect").off('mouseenter').off('mouseleave');
+     $('.form-check-input2').attr('disabled',true).off('mouseenter mouseleave') ;
 
      });
 
      $('.alternativeresponseQ2bap').on('click', function() {
       $('.feedbackquestion2').text("You'll still need a No. 2 Pencil for the multiple choice section");
-     $('.form-check-input2').attr('disabled',true).removeClass("hover-effect").off('mouseenter').off('mouseleave');
+     $('.form-check-input2').attr('disabled',true).off('mouseenter mouseleave') ;
 
      });
 
      $('.alternativeresponseQ2wof').on('click', function() {
       $('.feedbackquestion2').text("I can sell you a consonant for a fraction of what you'd spend on a vowel");
-     $('.form-check-input2').attr('disabled',true).removeClass("hover-effect").off('mouseenter').off('mouseleave');
+     $('.form-check-input2').attr('disabled',true).off('mouseenter mouseleave') ;
 
      });
 
      $('.alternativeresponseQ2ae').on('click', function() {
       $('.feedbackquestion2').text("Anticipated? Is your computer powered by something other than electricity?");
-     $('.form-check-input2').attr('disabled',true).removeClass("hover-effect").off('mouseenter').off('mouseleave');
+     $('.form-check,.form-check-input2').attr('disabled',true).off('mouseenter mouseleave') ;
 
      });
+
+         //  Question 3
