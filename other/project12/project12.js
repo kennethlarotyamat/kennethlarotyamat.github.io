@@ -167,7 +167,7 @@ $('.correctanswerQ1').on('click', function() {
  $('.form-check-input1').attr('disabled',true).off('mouseenter mouseleave') ;
 
  });   $('.alternativeresponseQ1gb').on('click', function() {
-  $('.feedbackquestion1').text("I think that i'll just give you a scantron.");
+  $('.feedbackquestion1').text("I think that i'll just go ahead and give you a scantron.");
  $('.form-check-input1').attr('disabled',true).off('mouseenter mouseleave') ;
 
  });
@@ -289,7 +289,7 @@ $('.correctanswerQ4').on('click', function() {
  });
 
  $('.alternativeresponseQ5oddue').on('click', function() {
-  $('.feedbackquestion5').text("was it a shrimp and calamari pizza with extra anchovies? because I had to eat that pizza hours ago, it was starting to smell like fish, anyway, it had my name on it,  i'm the one who wrote my name on it, but, you know. it had my name on it as a result.");
+  $('.feedbackquestion5').text("was it a shrimp and calamari pizza with extra anchovies? because I had to eat that pizza hours ago, it was starting to smell like fish, anyway, it had my name on it,  i'm the one who wrote my name on it, but, you know. it had my name on it. as a result.");
  $('.form-check-input5').attr('disabled',true).off('mouseenter mouseleave') ;
 
  });
@@ -323,7 +323,7 @@ $('.alternativeanswerQ6wth').on('click', function() {
 // what was my estimate for SPLG?
 
  $('.alternativeanswerQ6cswr').on('click', function() {
-  $('.feedbackquestion6').text("I don't understand, is that what you brought for lunch? You could have had something nicer for lunch, yet here you are, spending $495 on an exam, you could have eaten that money!");
+  $('.feedbackquestion6').text("I don't understand, is that what you brought for lunch? You could have had something nicer for lunch, yet here you are, spending $495 on an exam, you could have eaten that money! for lunch!");
  $('.form-check-input6').attr('disabled',true).off('mouseenter mouseleave') ;
 
  });
@@ -369,7 +369,7 @@ $('.alternativeanswerQ8cc').on('click', function() {
  });
 
  $('.alternativeanswerQ8pt').on('click', function() {
-  $('.feedbackquestion8').text("You didn't hire that Palomino girl as your private tutor did you? What's her name again? Dallas? Destiny? those sessions aren't qualified educational expenses unless you're enrolled in. i don't. yoga.");
+  $('.feedbackquestion8').text("You didn't hire that Palomino girl as your private tutor did you? What's her name again? Dallas? Destiny? those sessions aren't qualified educational expenses unless you're enrolled in. i don't know. yoga.");
  $('.form-check-input8').attr('disabled',true).off('mouseenter mouseleave') ;
 
  });
