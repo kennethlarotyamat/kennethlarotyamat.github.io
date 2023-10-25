@@ -446,6 +446,8 @@ $('#resetExamButton').on('click', function() {
 
 // it does work. 10252023 1101
 
+// anyway. what a nightmare.
+
 //  this might work for the reset button
 
 // $('.resetExamButton').on('click', function() {
