@@ -153,7 +153,7 @@ $(document).ready(function() {
 
 
 
-
+    // Question 1
 
    $('.correctanswerQ1').on('click', function() {
      $('.feedbackquestion1').text("Excellent");
@@ -177,4 +177,12 @@ $(document).ready(function() {
       $('.feedbackquestion1').text("I'll just give you a scantron since I have an extra one");
      $('.form-check-input1').attr('disabled',true).removeClass("hover-effect").off('mouseenter').off('mouseleave');
 
+     });
+
+    //  Question 2
+
+    $('.correctanswerQ2').on('click', function() {
+      $('.feedbackquestion2').text("Excellent");
+     $('.form-check-input1').attr('disabled',true).removeClass("hover-effect").off('mouseenter').off('mouseleave');
+ 
      });
