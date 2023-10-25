@@ -294,5 +294,9 @@ $('.correctanswerQ4').on('click', function() {
 
  });
 
- // Question 6
+// Question 6
+
+// Question 7
+
+// Question 8
 
