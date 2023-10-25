@@ -296,25 +296,27 @@ $('.correctanswerQ4').on('click', function() {
 
 // Question 6 I'm almost done with this. thank god. 10252023 0620
 
-$('.correctanswerQ6').on('click', function() {
-  $('.feedbackquestion6').text("that's probably not going to happen");
+$('.alternativeanswerQ6wth').on('click', function() {
+  $('.feedbackquestion6').text("welcome to the nightmare your life will soon become");
+ $('.form-check-input6').attr('disabled',true).off('mouseenter mouseleave') ;
+
+ });
+
+ $('.alternativeanswerQ6jgs').on('click', function() {
+  $('.feedbackquestion6').text("you're nightmare is just getting warmed up");
  $('.form-check-input6').attr('disabled',true).off('mouseenter mouseleave') ;
 
  });
 
  $('.correctanswerQ6').on('click', function() {
-  $('.feedbackquestion6').text("that's probably not going to happen");
+  $('.feedbackquestion6').text("That's a lot of four-hundred ninety-five dollar fees you're racking up there, slow down you know you can't pass this exam, it changes too fast");
  $('.form-check-input6').attr('disabled',true).off('mouseenter mouseleave') ;
 
  });
 
- $('.correctanswerQ6').on('click', function() {
-  $('.feedbackquestion6').text("that's probably not going to happen");
- $('.form-check-input6').attr('disabled',true).off('mouseenter mouseleave') ;
+//  References: https://www.youtube.com/watch?v=FDRX3XxAOY4     https://genius.com/Clyde-carson-slow-down-lyrics
 
- });
-
- $('.correctanswerQ6').on('click', function() {
+ $('.alternativeanswerQ6').on('click', function() {
   $('.feedbackquestion6').text("that's probably not going to happen");
  $('.form-check-input6').attr('disabled',true).off('mouseenter mouseleave') ;
 
