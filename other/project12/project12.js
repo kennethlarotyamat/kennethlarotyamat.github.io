@@ -156,13 +156,25 @@ $(document).ready(function() {
 
 
    $('.correctanswerQ1').on('click', function() {
-     $('.feedbackquestion1').text('Excellent');
+     $('.feedbackquestion1').text("Excellent");
     $('.form-check-input1').attr('disabled',true).removeClass("hover-effect").off('mouseenter').off('mouseleave');
 
     });
 
     $('.alternativeresponseQ1').on('click', function() {
       $('.feedbackquestion1').text("Why don't you have a scantron?");
+     $('.form-check-input1').attr('disabled',true).removeClass("hover-effect").off('mouseenter').off('mouseleave');
+
+     });
+
+     $('.alternativeresponseQ1BB').on('click', function() {
+      $('.feedbackquestion1').text("You'll still need a scantron for the multiple choice section");
+     $('.form-check-input1').attr('disabled',true).removeClass("hover-effect").off('mouseenter').off('mouseleave');
+
+     });
+
+     $('.alternativeresponseQ1GB').on('click', function() {
+      $('.feedbackquestion1').text("I'll just give you a scantron since I have an extra one");
      $('.form-check-input1').attr('disabled',true).removeClass("hover-effect").off('mouseenter').off('mouseleave');
 
      });
