@@ -309,15 +309,19 @@ $('.alternativeanswerQ6wth').on('click', function() {
  });
 
  $('.correctanswerQ6').on('click', function() {
-  $('.feedbackquestion6').text("That's a lot of four-hundred ninety-five dollar fees you're racking up there, slow down you know you can't pass this exam, it changes too fast");
+  $('.feedbackquestion6').text("That's a lot of four-hundred ninety-five dollar fees you're racking up there, slow down! you know you can't pass this exam, it changes too fast");
  $('.form-check-input6').attr('disabled',true).off('mouseenter mouseleave') ;
 
  });
 
-//  References: https://www.youtube.com/watch?v=FDRX3XxAOY4     https://genius.com/Clyde-carson-slow-down-lyrics
+//  References: https://www.youtube.com/watch?v=FDRX3XxAOY4     https://genius.com/Clyde-carson-slow-down-lyrics [Hook]
+// I tell 'em, slow down
+// You know you can't catch me
+// I move too fast on the gas, don't chase me
+// Slow down, slow down
 
- $('.alternativeanswerQ6').on('click', function() {
-  $('.feedbackquestion6').text("that's probably not going to happen");
+ $('.alternativeanswerQ6cswr').on('click', function() {
+  $('.feedbackquestion6').text("I don't understand, is that what you brought for lunch? You could have had something nicer for lunch, yet here you are, spending $495 on an exam, you could have eaten that money!");
  $('.form-check-input6').attr('disabled',true).off('mouseenter mouseleave') ;
 
  });
