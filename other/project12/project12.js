@@ -283,7 +283,7 @@ $('.correctanswerQ4').on('click', function() {
  });
 
  $('.alternativeresponseQ5ybbthesquarerootofsixtynineiseightsomethingrightivebeentryingtoworkitoutoh').on('click', function() {
-  $('.feedbackquestion5').text("You best be believing");
+  $('.feedbackquestion5').text("You better believe it, in fact: you best be believing!");
  $('.form-check-input5').attr('disabled',true).off('mouseenter mouseleave') ;
 
  });
