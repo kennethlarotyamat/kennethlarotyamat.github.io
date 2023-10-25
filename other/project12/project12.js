@@ -173,5 +173,5 @@ $(document).ready(function() {
 //   $(this).addClass("incorrect-answer");
 // });
 
-// resource: https://github.com/Jamiecodio/fitness-quiz/blob/master/script.js
+// reference: https://github.com/Jamiecodio/fitness-quiz/blob/master/script.js
 
