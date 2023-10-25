@@ -189,6 +189,18 @@ a {
 }
 
 
+#form-check-labelgreen:hover 
+{
+  transform: scale(1.04);
+  color: green;
+}
+
+#form-check-labelgreenradio:hover 
+{
+  transform: scale(1.04);
+  color: green;
+}
+
 
 .form-check:hover 
 {
@@ -202,7 +214,19 @@ a {
 
 
 
-.form-checkgreen:hover 
+#form-check-labelgreen:hover 
+{
+  transform: scale(1.04);
+  color: green;
+}
+
+#form-check-labelgreenradio:hover 
+{
+  transform: scale(1.04);
+  color: green;
+}
+
+#form-check-labelgreenradiogreennightmare:hover 
 {
   transform: scale(1.04);
   color: green;

@@ -154,29 +154,23 @@ $(document).ready(function() {
 
 // Question 1
 
-   $('.correctanswerQ1').on('click', function() {
-     $('.feedbackquestion1').text("Excellent");
-    $('.form-check-input1').attr('disabled',true).off('mouseenter mouseleave') ;
+$('.correctanswerQ1').on('click', function() {
+  $('.feedbackquestion1').text("Excellent");
+ $('.form-check-input1').attr('disabled',true).off('mouseenter mouseleave') ;
 
-    });
+ });   $('.alternativeresponseQ1dn').on('click', function() {
+  $('.feedbackquestion1').text("why don't you have a scantron");
+ $('.form-check-input1').attr('disabled',true).off('mouseenter mouseleave') ;
 
-    $('.alternativeresponseQ1').on('click', function() {
-      $('.feedbackquestion1').text("Why don't you have a scantron?");
-     $('.form-check-input1').attr('disabled',true).off('mouseenter mouseleave') ;
+ });   $('.alternativeresponseQ1bb').on('click', function() {
+  $('.feedbackquestion1').text("you'll still need a scantron for the multiple choice section of the exam");
+ $('.form-check-input1').attr('disabled',true).off('mouseenter mouseleave') ;
 
-     });
+ });   $('.alternativeresponseQ1gb').on('click', function() {
+  $('.feedbackquestion1').text("I think that i'll just give you a scantron");
+ $('.form-check-input1').attr('disabled',true).off('mouseenter mouseleave') ;
 
-     $('.alternativeresponseQ1BB').on('click', function() {
-      $('.feedbackquestion1').text("You'll still need a scantron for the multiple choice section");
-     $('.form-check-input1').attr('disabled',true).off('mouseenter mouseleave') ;
-
-     });
-
-     $('.alternativeresponseQ1GB').on('click', function() {
-      $('.feedbackquestion1').text("I think I'll just give you a scantron");
-     $('.form-check-input1').attr('disabled',true).off('mouseenter mouseleave') ;
-
-     });
+ });
 
 //  Question 2
 
