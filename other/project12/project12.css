@@ -465,10 +465,26 @@ input:checked + .slider:before {
   {
   }
 
-  .correctanswer {
+
+
+
+
+
+  .questionsbeingasked{
+font-weight: 800;
+
+  }
+
+  
+  
+  
+  
+/* .correctanswer {
     background-color: rgb(78, 134, 21);
     color: black;
-  }
+  }      
+  
+*/
 
 /* 
   

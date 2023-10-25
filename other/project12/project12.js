@@ -151,8 +151,12 @@ $(document).ready(function() {
 });
 
 
+
+
+//    feedback area
+
    $('.correctanswer').on('click', function() {
-     $('.feedback').text('Correct Answer!').addClass("correct-answer");
+     $('.feedback').text('Correct Answer').addClass("correct-answer");
     $('.answer').attr('disabled',true).removeClass("hover-effect").off('mouseenter').off('mouseleave');
      $('.next-question').attr('disabled', false).on("click", function(){
        alert("Thank You! Play Again");
@@ -160,6 +164,10 @@ $(document).ready(function() {
      });
      $(this).addClass("correct-answer");
     });
+
+
+
+
 
 
 
