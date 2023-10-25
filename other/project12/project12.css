@@ -477,6 +477,11 @@ input:checked + .slider:before {
   padding-left: 1vh;
 
 }
+
+.correct-answer {
+
+  color: black;
+}
   
   
   

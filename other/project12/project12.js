@@ -164,7 +164,7 @@ $(document).ready(function() {
 
 //  form-check-input
 
-
+//   alternativeresponseQ1
 
 // //SELECTING WRONG ANSWERS
 // $('#q1__answer-selection-1,#q1__answer-selection-2, #q1__answer-selection-4').on('click', function() {
