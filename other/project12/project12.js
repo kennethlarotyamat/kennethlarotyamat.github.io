@@ -397,6 +397,12 @@ $('.alternativeanswerQ8cc').on('click', function() {
 $('.resetExamButton').on('click', function() {
 
   $('.exampleForm').attr('disabled',false).reset().on('mouseenter mouseleave') ;
+
+
+});
+
+
+
   // $('.form-check-input8').attr('disabled',false).reset().on('mouseenter mouseleave') ;
   // $('.form-check-input7').attr('disabled',false).reset().on('mouseenter mouseleave') ;
   // $('.form-check-input6').attr('disabled',false).reset().on('mouseenter mouseleave') ; 
@@ -406,7 +412,7 @@ $('.resetExamButton').on('click', function() {
   // $('.form-check-input2').attr('disabled',false).reset().on('mouseenter mouseleave') ; 
   // $('.form-check-input1').attr('disabled',false).reset().on('mouseenter mouseleave') ; 
  
-  });
+
 
 //   References:     I used ChatGPT. What a nightmare. This is going to take a while. see screenshots. 
 //                        kennethlarotyamat.github.io\media\Screenshot 2023-10-25 102138.png
