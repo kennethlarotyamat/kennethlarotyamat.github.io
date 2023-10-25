@@ -363,13 +363,13 @@ $('.alternativeanswerQ8cc').on('click', function() {
  });
 
  $('.alternativeanswerQ8dd').on('click', function() {
-  $('.feedbackquestion8').text("that's probably not going to happen");
+  $('.feedbackquestion8').text("The deep dive is actually a really great course, i'd stay enrolled in that course and add the bootcamp to your schedule");
  $('.form-check-input8').attr('disabled',true).off('mouseenter mouseleave') ;
 
  });
 
  $('.alternativeanswerQ8pt').on('click', function() {
-  $('.feedbackquestion8').text("that's probably not going to happen");
+  $('.feedbackquestion8').text("You didn't hire that Palomino girl as your private tutor did you? What's her name again? Dallas? Destiny? those sessions aren't qualified educational expenses unless you're enrolled in. i don't. yoga.");
  $('.form-check-input8').attr('disabled',true).off('mouseenter mouseleave') ;
 
  });
