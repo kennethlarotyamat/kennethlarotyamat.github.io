@@ -233,3 +233,9 @@ $(document).ready(function() {
          $('.form-check-input3').attr('disabled',true).off('mouseenter mouseleave') ;
     
          });
+
+         $('.alternativeresponseQ3dts').on('click', function() {
+          $('.feedbackquestion3').text("It's your money");
+         $('.form-check-input3').attr('disabled',true).off('mouseenter mouseleave') ;
+    
+         });
