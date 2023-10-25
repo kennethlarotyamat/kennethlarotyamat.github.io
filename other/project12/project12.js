@@ -294,7 +294,7 @@ $('.correctanswerQ4').on('click', function() {
 
  });
 
-// Question 6
+// Question 6 I'm almost done with this. thank god. 10252023 0620
 
 $('.correctanswerQ6').on('click', function() {
   $('.feedbackquestion6').text("that's probably not going to happen");
