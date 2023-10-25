@@ -356,25 +356,25 @@ $('.correctanswerQ7').on('click', function() {
 
 // Question 8
 
-$('.correctanswerQ8').on('click', function() {
+$('.alternativeanswerQ8cc').on('click', function() {
+  $('.feedbackquestion8').text("You didn't spend your entire college fund on dates with Destiny, did you? or Dallas? What's that Palomino girl's name again?");
+ $('.form-check-input8').attr('disabled',true).off('mouseenter mouseleave') ;
+
+ });
+
+ $('.alternativeanswerQ8dd').on('click', function() {
   $('.feedbackquestion8').text("that's probably not going to happen");
  $('.form-check-input8').attr('disabled',true).off('mouseenter mouseleave') ;
 
  });
 
- $('.alternativeanswerQ8').on('click', function() {
+ $('.alternativeanswerQ8pt').on('click', function() {
   $('.feedbackquestion8').text("that's probably not going to happen");
  $('.form-check-input8').attr('disabled',true).off('mouseenter mouseleave') ;
 
  });
 
- $('.alternativeanswerQ8').on('click', function() {
-  $('.feedbackquestion8').text("that's probably not going to happen");
- $('.form-check-input8').attr('disabled',true).off('mouseenter mouseleave') ;
-
- });
-
- $('.alternativeanswerQ8').on('click', function() {
+ $('.correctanswerQ8').on('click', function() {
   $('.feedbackquestion8').text("that's probably not going to happen");
  $('.form-check-input8').attr('disabled',true).off('mouseenter mouseleave') ;
 
