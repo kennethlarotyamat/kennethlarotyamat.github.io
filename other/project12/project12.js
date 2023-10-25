@@ -380,3 +380,94 @@ $('.alternativeanswerQ8cc').on('click', function() {
 
  });
 
+
+//  this might work for the reset button
+
+// $('.resetExamButton').on('click', function() {
+
+//  $('.exampleForm').attr('disabled',false).on('mouseenter mouseleave') ;
+
+//  });
+
+
+//  References: https://stackoverflow.com/questions/7526601/setattributedisabled-false-changes-editable-attribute-to-false
+//              https://www.w3schools.com/howto/howto_css_switch.asp
+//              https://stackoverflow.com/questions/32034144/how-to-off-the-mouseenter-and-mouseleave-on-click-event
+
+$('.resetExamButton').on('click', function() {
+
+  $('.exampleForm').attr('disabled',false).reset().on('mouseenter mouseleave') ;
+  // $('.form-check-input8').attr('disabled',false).reset().on('mouseenter mouseleave') ;
+  // $('.form-check-input7').attr('disabled',false).reset().on('mouseenter mouseleave') ;
+  // $('.form-check-input6').attr('disabled',false).reset().on('mouseenter mouseleave') ; 
+  // $('.form-check-input5').attr('disabled',false).reset().on('mouseenter mouseleave') ; 
+  // $('.form-check-input4').attr('disabled',false).reset().on('mouseenter mouseleave') ; 
+  // $('.form-check-input3').attr('disabled',false).reset().on('mouseenter mouseleave') ; 
+  // $('.form-check-input2').attr('disabled',false).reset().on('mouseenter mouseleave') ; 
+  // $('.form-check-input1').attr('disabled',false).reset().on('mouseenter mouseleave') ; 
+ 
+  });
+
+//   References:     I used ChatGPT. What a nightmare. This is going to take a while. see screenshots. 
+//                        kennethlarotyamat.github.io\media\Screenshot 2023-10-25 102138.png
+//                       kennethlarotyamat.github.io\media\Screenshot 2023-10-25 102145.png
+//                       kennethlarotyamat.github.io\media\Screenshot 2023-10-25 102151.png
+
+  //   References:     https://stackoverflow.com/questions/3786694/how-to-reset-clear-form-through-javascript
+  //                   https://developer.mozilla.org/en-US/docs/Web/API/Element/mouseenter_event
+  //                   https://kennethlarotyamat.github.io/other/project12/project12.html
+
+  // https://api.jquery.com/category/selectors/form-selectors/
+
+  // the correct word for boring. in spanish. is not: tedioso. it's aburrido
+
+  // actually, it's not that bad: form-check-input8 just has to be. it's actually easy, even if i have to do eight of them.
+
+  // form-check-input8
+
+
+  // 
+  // 
+
+      // $('.form-check-input8').attr('disabled',false).reset().on('mouseenter mouseleave') ;
+    // $('.form-check-input7').attr('disabled',false).reset().on('mouseenter mouseleave') ;
+    // $('.form-check-input6').attr('disabled',false).reset().on('mouseenter mouseleave') ; 
+    // $('.form-check-input5').attr('disabled',false).reset().on('mouseenter mouseleave') ; 
+    // $('.form-check-input4').attr('disabled',false).reset().on('mouseenter mouseleave') ; 
+    // $('.form-check-input3').attr('disabled',false).reset().on('mouseenter mouseleave') ; 
+    // $('.form-check-input2').attr('disabled',false).reset().on('mouseenter mouseleave') ; 
+    // $('.form-check-input1').attr('disabled',false).reset().on('mouseenter mouseleave') ; 
+
+$('.resetExamButton').on('click', function() {
+$('.form-check-input8').attr('disabled',false).reset().on('mouseenter mouseleave') ;   
+});
+
+$('.resetExamButton').on('click', function() {
+  $('.form-check-input7').attr('disabled',false).reset().on('mouseenter mouseleave') ;   
+  });
+
+  $('.resetExamButton').on('click', function() {
+    $('.form-check-input6').attr('disabled',false).reset().on('mouseenter mouseleave') ;   
+    });
+
+    $('.resetExamButton').on('click', function() {
+      $('.form-check-input5').attr('disabled',false).reset().on('mouseenter mouseleave') ;   
+      });
+
+      $('.resetExamButton').on('click', function() {
+        $('.form-check-input4').attr('disabled',false).reset().on('mouseenter mouseleave') ;   
+        });
+
+        $('.resetExamButton').on('click', function() {
+          $('.form-check-input3').attr('disabled',false).reset().on('mouseenter mouseleave') ;   
+          });
+
+          $('.resetExamButton').on('click', function() {
+            $('.form-check-input2').attr('disabled',false).reset().on('mouseenter mouseleave') ;   
+            });
+
+            $('.resetExamButton').on('click', function() {
+              $('.form-check-input1').attr('disabled',false).reset().on('mouseenter mouseleave') ;   
+              });
+
+              // what a nightmare. let's see if this works.

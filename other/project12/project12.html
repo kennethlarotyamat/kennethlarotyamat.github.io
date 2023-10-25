@@ -15,7 +15,13 @@
 <body class="bodya body " id="body">           
   </nav>    
     <div class="contentouter ">    <div class="wrapper ">  
-    <div class="grid-container ">      
+    
+    
+    <!-- potential location to move form tags -->
+
+    <form class="exampleForm" id="exampleForm" autocomplete="off" action="mailto:info@chestnutandhazel.com" target="" method="post" novalidate>
+    
+      <div class="grid-container ">        
 <header class="grid-item header "> 
           <div> <h2> Examination Preparatory Resources by Chestnut + Hazel Publishing Group</h2>
     </div>
@@ -27,8 +33,10 @@
        <b class="subheadercenterheadertextbutton" style="color:#660010;"  >   Examination</b> </div> 
  <main class="grid-item main ">
 
+  
+<!-- <form class="exampleForm" id="exampleFormB" autocomplete="off" action="mailto:info@chestnutandhazel.com" target="" method="post" novalidate> -->
 
-<form class="exampleForm" id="exampleFormB" autocomplete="off" action="mailto:info@chestnutandhazel.com" target="" method="post" novalidate>
+  <!-- Reactivate if needed -->
 
 <div> <p class="questionsbeingasked">Do You Currently Possess a Scantron?  </p>
 
@@ -354,9 +362,10 @@
 
         
         
-
+        
        
-      </form>
+      <!-- </form> -->
+      <!-- reactivate this closing tag if form relocation tags doesn't work -->
       </main>
       
       
@@ -377,8 +386,8 @@
 
 
   
-
-        <form class="exampleForm" id="exampleForm" autocomplete="off" action="mailto:info@chestnutandhazel.com" target="" method="post" novalidate>
+<!-- return form tag here if relocation is unsucessful -->
+        
     <div class="input-group">
       <label for="firstName" class="form-label">First name </label>
       <input type="text" id="firstName" name="firstName" class="form-control" required>
@@ -471,13 +480,16 @@
 
     <div class="form-btns">
       <button  type="submit" class="fontweightadjustment bootstrapbuttonseven  btn btn-primary submit" disabled>Submit Exam</button>
-      <button  type="reset" class="fontweightadjustment bootstrapbuttonsix btn btn-danger">Reset Exam</button>
+      <button  type="reset" class="fontweightadjustment bootstrapbuttonsix btn btn-danger resetExamButton">Reset Exam</button>
+
+<!-- this almost works. i just need an onclick function for the reset button -->
+
     </div>
-  </form>
+  
   <div class="" id="form-submitted-msg">Exam successfully submitted!</div>
 
  
-
+<!-- https://stackoverflow.com/questions/15176098/cant-span-form-over-multiple-divs -->
 
 
 
@@ -497,6 +509,12 @@
       
  
     </div>
+
+    <!-- potential location to move form tags -->
+
+  </form>
+
+
   </div>
   </div>
   
