@@ -456,7 +456,7 @@ $('#resetExamButton').on('click', function() {
 
 //  });
 
-
+// https://www.geeksforgeeks.org/how-to-refresh-a-page-using-jquery/
 //  References: https://stackoverflow.com/questions/7526601/setattributedisabled-false-changes-editable-attribute-to-false
 //              https://www.w3schools.com/howto/howto_css_switch.asp
 //              https://stackoverflow.com/questions/32034144/how-to-off-the-mouseenter-and-mouseleave-on-click-event
@@ -464,6 +464,10 @@ $('#resetExamButton').on('click', function() {
 // $('.resetExamButton').on('click', function() {
 
 //   $('.exampleForm').attr('disabled',false).reset().on('mouseenter mouseleave') ;
+
+
+//  https://kennethlarotyamat.github.io/other/project12/project12.html
+
 
 
 // });
