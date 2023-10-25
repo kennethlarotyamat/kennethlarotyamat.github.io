@@ -289,7 +289,7 @@ $('.correctanswerQ4').on('click', function() {
  });
 
  $('.alternativeresponseQ5oddue').on('click', function() {
-  $('.feedbackquestion5').text("was it a shrimp and calamari pizza with extra anchovies? because I had to eat that pizza hours ago, anyway, it had my name on it,  i'm the one who wrote my name on it, but, you know. it had my name on it as a result.");
+  $('.feedbackquestion5').text("was it a shrimp and calamari pizza with extra anchovies? because I had to eat that pizza hours ago, it was starting to smell like fish, anyway, it had my name on it,  i'm the one who wrote my name on it, but, you know. it had my name on it as a result.");
  $('.form-check-input5').attr('disabled',true).off('mouseenter mouseleave') ;
 
  });
@@ -297,19 +297,19 @@ $('.correctanswerQ4').on('click', function() {
 // Question 6 I'm almost done with this. thank god. 10252023 0620
 
 $('.alternativeanswerQ6wth').on('click', function() {
-  $('.feedbackquestion6').text("welcome to the nightmare your life will soon become");
+  $('.feedbackquestion6').text("welcome to the nightmare your life will soon become!");
  $('.form-check-input6').attr('disabled',true).off('mouseenter mouseleave') ;
 
  });
 
  $('.alternativeanswerQ6jgs').on('click', function() {
-  $('.feedbackquestion6').text("you're nightmare is just getting warmed up");
+  $('.feedbackquestion6').text("you're nightmare is just getting warmed up!");
  $('.form-check-input6').attr('disabled',true).off('mouseenter mouseleave') ;
 
  });
 
  $('.correctanswerQ6').on('click', function() {
-  $('.feedbackquestion6').text("That's a lot of four-hundred ninety-five dollar fees you're racking up there, slow down! you know you can't pass this exam, it changes too fast, on the regular in fact, maybe even the daily");
+  $('.feedbackquestion6').text("That's a lot of four-hundred ninety-five dollar fees you're racking up there, slow down! you know you can't pass this exam, it changes too fast, on the regular in fact, maybe even the daily.");
  $('.form-check-input6').attr('disabled',true).off('mouseenter mouseleave') ;
 
  });
@@ -331,13 +331,13 @@ $('.alternativeanswerQ6wth').on('click', function() {
 // Question 7
 
 $('.correctanswerQ7').on('click', function() {
-  $('.feedbackquestion7').text("that's impossible, i haven't assigned seats yet");
+  $('.feedbackquestion7').text("that's impossible, i haven't assigned seats yet.");
  $('.form-check-input7').attr('disabled',true).off('mouseenter mouseleave') ;
 
  });
 
  $('.alternativeanswerQ7imn').on('click', function() {
-  $('.feedbackquestion7').text("that's fine, i usually only assign seats once everyone has taken a seat");
+  $('.feedbackquestion7').text("that's fine, i usually only assign seats once everyone has taken a seat.");
  $('.form-check-input7').attr('disabled',true).off('mouseenter mouseleave') ;
 
  });
@@ -363,7 +363,7 @@ $('.alternativeanswerQ8cc').on('click', function() {
  });
 
  $('.alternativeanswerQ8dd').on('click', function() {
-  $('.feedbackquestion8').text("The deep dive is actually a really great course, i'd stay enrolled in that course and add the bootcamp to your schedule");
+  $('.feedbackquestion8').text("The deep dive is actually a really great course, i'd stay enrolled in that course and add the bootcamp to your schedule.");
  $('.form-check-input8').attr('disabled',true).off('mouseenter mouseleave') ;
 
  });
@@ -375,7 +375,7 @@ $('.alternativeanswerQ8cc').on('click', function() {
  });
 
  $('.correctanswerQ8').on('click', function() {
-  $('.feedbackquestion8').text("that's probably not going to happen");
+  $('.feedbackquestion8').text("Don't be a philosopher, just take the exam and get on with your life. that'll be $495 by the way.");
  $('.form-check-input8').attr('disabled',true).off('mouseenter mouseleave') ;
 
  });
