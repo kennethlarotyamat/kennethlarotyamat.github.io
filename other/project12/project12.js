@@ -375,7 +375,7 @@ $('.alternativeanswerQ8cc').on('click', function() {
  });
 
  $('.correctanswerQ8').on('click', function() {
-  $('.feedbackquestion8').text("Don't be a philosopher, just take the exam and get on with your life. that'll be $495 by the way.");
+  $('.feedbackquestion8').text("Don't be a philosopher. just take the exam and get on with your life. that'll be $495 by the way.");
  $('.form-check-input8').attr('disabled',true).off('mouseenter mouseleave') ;
 
  });
