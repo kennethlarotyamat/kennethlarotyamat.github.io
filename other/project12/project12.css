@@ -464,3 +464,31 @@ input:checked + .slider:before {
   .mode-status 
   {
   }
+
+
+
+/* 
+  
+.feedback {
+  width: 100%;
+  padding: 0.75rem;
+  text-align: center;
+  font-weight: 900;
+  border-radius: 7px;
+}
+
+
+.correct-answer {
+  background-color: lawngreen;
+  color: black;
+}
+
+.incorrect-answer {
+  background-color: red;
+  color: black;
+}
+
+
+*/
+
+ /* resource: https://github.com/Jamiecodio/fitness-quiz/blob/master/script.js */
