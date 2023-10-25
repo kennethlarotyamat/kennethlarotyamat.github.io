@@ -362,19 +362,19 @@ $('.correctanswerQ8').on('click', function() {
 
  });
 
- $('.correctanswerQ8').on('click', function() {
+ $('.alternativeanswerQ8').on('click', function() {
   $('.feedbackquestion8').text("that's probably not going to happen");
  $('.form-check-input8').attr('disabled',true).off('mouseenter mouseleave') ;
 
  });
 
- $('.correctanswerQ8').on('click', function() {
+ $('.alternativeanswerQ8').on('click', function() {
   $('.feedbackquestion8').text("that's probably not going to happen");
  $('.form-check-input8').attr('disabled',true).off('mouseenter mouseleave') ;
 
  });
 
- $('.correctanswerQ8').on('click', function() {
+ $('.alternativeanswerQ8').on('click', function() {
   $('.feedbackquestion8').text("that's probably not going to happen");
  $('.form-check-input8').attr('disabled',true).off('mouseenter mouseleave') ;
 
