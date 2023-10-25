@@ -151,12 +151,8 @@ $(document).ready(function() {
 });
 
 
-// form-check:hover hover-effect removeClass("form-check:hover") unbind('mouseenter mouseleave')   
-// References: https://stackoverflow.com/questions/805133/how-do-i-unbind-hover-in-jquery
-//             https://www.bing.com/search?pglt=171&q=jquery+off+hover&cvid=9831d1818c5441e487a44ae8a86106d3&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCDM5MjBqMGoxqAIAsAIA&FORM=ANSPA1&PC=ACTS
-//             https://stackoverflow.com/questions/805133/how-do-i-unbind-hover-in-jquery
 
-    // Question 1
+// Question 1
 
    $('.correctanswerQ1').on('click', function() {
      $('.feedbackquestion1').text("Excellent");
@@ -182,7 +178,7 @@ $(document).ready(function() {
 
      });
 
-    //  Question 2
+//  Question 2
 
     $('.correctanswerQ2').on('click', function() {
       $('.feedbackquestion2').text("Excellent");
@@ -214,7 +210,7 @@ $(document).ready(function() {
 
      });
 
-         //  Question 3
+//  Question 3
 
          $('.correctanswerQ3').on('click', function() {
           $('.feedbackquestion3').text("Excellent");
@@ -239,3 +235,5 @@ $(document).ready(function() {
          $('.form-check-input3').attr('disabled',true).off('mouseenter mouseleave') ;
     
          });
+
+// Question 4
