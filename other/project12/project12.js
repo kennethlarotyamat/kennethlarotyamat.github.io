@@ -153,31 +153,16 @@ $(document).ready(function() {
 
 
 
-//    feedback area
 
-   $('.correctanswer').on('click', function() {
-     $('.feedback').text('Correct Answer').addClass("correct-answer");
+
+   $('.correctanswerQ1').on('click', function() {
+     $('.feedbackquestion1').text('Excellent');
     $('.form-check-input1').attr('disabled',true).removeClass("hover-effect").off('mouseenter').off('mouseleave');
-     $(this).addClass("correct-answer");
+
     });
 
+    $('.alternativeresponseQ1').on('click', function() {
+      $('.feedbackquestion1').text("Why don't you have a scantron?");
+     $('.form-check-input1').attr('disabled',true).removeClass("hover-effect").off('mouseenter').off('mouseleave');
 
-//  form-check-input
-
-//   alternativeresponseQ1
-
-// //SELECTING WRONG ANSWERS
-// $('#q1__answer-selection-1,#q1__answer-selection-2, #q1__answer-selection-4').on('click', function() {
-//   $('.feedback').text('Incorrect Answer!').addClass("incorrect-answer");
-//   $('.answer').attr('disabled',true).removeClass("hover-effect").off('mouseenter').off('mouseleave');
-//   $('.next-question').attr('disabled', false).text("Try Again").on("click", function(){
-//     location.reload();
-//   });
-//   $(this).addClass("incorrect-answer");
-// });
-
-// Reference:     https://github.com/Jamiecodio/fitness-quiz/blob/master/script.js
-//                https://jamiecodio.github.io/fitness-quiz/
-
-// Reference: Sekllan ChenRuan 6:54 PM I think it can be an array of key value pairs
-
+     });

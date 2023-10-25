@@ -482,39 +482,3 @@ input:checked + .slider:before {
 
   color: black;
 }
-  
-  
-  
-  
-/* .correctanswer {
-    background-color: rgb(78, 134, 21);
-    color: black;
-  }      
-  
-*/
-
-/* 
-  
-.feedback {
-  width: 100%;
-  padding: 0.75rem;
-  text-align: center;
-  font-weight: 900;
-  border-radius: 7px;
-}
-
-
-.correct-answer {
-  background-color: lawngreen;
-  color: black;
-}
-
-.incorrect-answer {
-  background-color: red;
-  color: black;
-}
-
-
-*/
-
- /* reference: https://github.com/Jamiecodio/fitness-quiz/blob/master/script.js */
