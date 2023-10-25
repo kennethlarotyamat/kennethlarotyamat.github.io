@@ -215,3 +215,9 @@ $(document).ready(function() {
      });
 
          //  Question 3
+
+         $('.correctanswerQ3').on('click', function() {
+          $('.feedbackquestion3').text("Excellent");
+         $('.form-check-input3').attr('disabled',true).off('mouseenter mouseleave') ;
+     
+         });
