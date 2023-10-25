@@ -151,6 +151,17 @@ $(document).ready(function() {
 });
 
 
+   $('.correctanswer').on('click', function() {
+     $('.feedback').text('Correct Answer!').addClass("correct-answer");
+    $('.answer').attr('disabled',true).removeClass("hover-effect").off('mouseenter').off('mouseleave');
+     $('.next-question').attr('disabled', false).on("click", function(){
+       alert("Thank You! Play Again");
+       location.reload();
+     });
+     $(this).addClass("correct-answer");
+    });
+
+
 
 // // SELECTING CORRECT ANSWER
 // $('#q1__answer-selection-3').on('click', function() {

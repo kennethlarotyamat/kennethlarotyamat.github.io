@@ -465,7 +465,10 @@ input:checked + .slider:before {
   {
   }
 
-
+  .correctanswer {
+    background-color: rgb(78, 134, 21);
+    color: black;
+  }
 
 /* 
   
