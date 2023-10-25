@@ -229,7 +229,7 @@ $(document).ready(function() {
          });
 
          $('.alternativeresponseQ3imh').on('click', function() {
-          $('.feedbackquestion3').text("Why Haven't you studied for this exam?");
+          $('.feedbackquestion3').text("Are you sure? Nevermind.");
          $('.form-check-input3').attr('disabled',true).off('mouseenter mouseleave') ;
     
          });
