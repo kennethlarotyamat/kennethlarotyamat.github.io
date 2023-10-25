@@ -309,7 +309,7 @@ $('.alternativeanswerQ6wth').on('click', function() {
  });
 
  $('.correctanswerQ6').on('click', function() {
-  $('.feedbackquestion6').text("That's a lot of four-hundred ninety-five dollar fees you're racking up there, slow down! you know you can't pass this exam, it changes too fast");
+  $('.feedbackquestion6').text("That's a lot of four-hundred ninety-five dollar fees you're racking up there, slow down! you know you can't pass this exam, it changes too fast, on the regular in fact, maybe even the daily");
  $('.form-check-input6').attr('disabled',true).off('mouseenter mouseleave') ;
 
  });
@@ -320,6 +320,8 @@ $('.alternativeanswerQ6wth').on('click', function() {
 // I move too fast on the gas, don't chase me
 // Slow down, slow down
 
+// what was my estimate for SPLG?
+
  $('.alternativeanswerQ6cswr').on('click', function() {
   $('.feedbackquestion6').text("I don't understand, is that what you brought for lunch? You could have had something nicer for lunch, yet here you are, spending $495 on an exam, you could have eaten that money!");
  $('.form-check-input6').attr('disabled',true).off('mouseenter mouseleave') ;
@@ -329,25 +331,25 @@ $('.alternativeanswerQ6wth').on('click', function() {
 // Question 7
 
 $('.correctanswerQ7').on('click', function() {
-  $('.feedbackquestion7').text("that's probably not going to happen");
+  $('.feedbackquestion7').text("that's impossible, i haven't assigned seats yet");
  $('.form-check-input7').attr('disabled',true).off('mouseenter mouseleave') ;
 
  });
 
- $('.correctanswerQ7').on('click', function() {
-  $('.feedbackquestion7').text("that's probably not going to happen");
+ $('.alternativeanswerQ7imn').on('click', function() {
+  $('.feedbackquestion7').text("that's fine, i usually only assign seats once everyone has taken a seat");
  $('.form-check-input7').attr('disabled',true).off('mouseenter mouseleave') ;
 
  });
 
- $('.correctanswerQ7').on('click', function() {
-  $('.feedbackquestion7').text("that's probably not going to happen");
+ $('.alternativeanswerQ7iwat').on('click', function() {
+  $('.feedbackquestion7').text("they will be, now pick a seat. any seat.");
  $('.form-check-input7').attr('disabled',true).off('mouseenter mouseleave') ;
 
  });
 
- $('.correctanswerQ7').on('click', function() {
-  $('.feedbackquestion7').text("that's probably not going to happen");
+ $('.alternativeanswerQ7nctm').on('click', function() {
+  $('.feedbackquestion7').text("look pal: it's on an x and y axis, now  figure it out on your own!");
  $('.form-check-input7').attr('disabled',true).off('mouseenter mouseleave') ;
 
  });
