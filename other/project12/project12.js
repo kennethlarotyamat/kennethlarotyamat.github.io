@@ -442,19 +442,7 @@ $('#resetExamButton').on('click', function() {
 
  });
 
-//  this should work. this should be done. 10/25/2023 11:01 AM
 
-// it does work. 10252023 1101
-
-// anyway. what a nightmare.
-
-//  this might work for the reset button
-
-// $('.resetExamButton').on('click', function() {
-
-//  $('.exampleForm').attr('disabled',false).on('mouseenter mouseleave') ;
-
-//  });
 
 // https://www.geeksforgeeks.org/how-to-refresh-a-page-using-jquery/
 //  References: https://stackoverflow.com/questions/7526601/setattributedisabled-false-changes-editable-attribute-to-false
