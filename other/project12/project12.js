@@ -152,7 +152,7 @@ $(document).ready(function() {
 
 
 
-// Question 1
+
 
 $('.correctanswerQ1').on('click', function() {
   $('.feedbackquestion1').text("Excellent!");
@@ -172,7 +172,7 @@ $('.correctanswerQ1').on('click', function() {
 
  });
 
-//  Question 2 10252023 0605 what a nightmare. i had a special hover effect specifically in place for the green book response where the hover effect is green, rather than blue, it broke everything and then i had to fix it. it took pretty much over a million years.
+
 
     $('.correctanswerQ2').on('click', function() {
       $('.feedbackquestion2').text("Excellent!");
@@ -204,7 +204,7 @@ $('.correctanswerQ1').on('click', function() {
 
      });
 
-//  Question 3 DONE
+
 
          $('.correctanswerQ3').on('click', function() {
           $('.feedbackquestion3').text("Excellent!");
@@ -230,7 +230,7 @@ $('.correctanswerQ1').on('click', function() {
     
          });
 
-// Question 4
+
 
 $('.correctanswerQ4').on('click', function() {
   $('.feedbackquestion4').text("Better be Sure.");
@@ -262,7 +262,7 @@ $('.correctanswerQ4').on('click', function() {
 
  });
 
- // Question 5 References: https://www.youtube.com/watch?v=U0CGsw6h60k  /   https://www.youtube.com/watch?v=Vhh-XF01Ats
+ 
 
  $('.correctanswerQ5').on('click', function() {
   $('.feedbackquestion5').text("that's probably not going to happen. here.");
@@ -294,7 +294,7 @@ $('.correctanswerQ4').on('click', function() {
 
  });
 
-// Question 6 I'm almost done with this. thank god. 10252023 0620
+
 
 $('.alternativeanswerQ6wth').on('click', function() {
   $('.feedbackquestion6').text("welcome to the nightmare your life will soon become!");
@@ -314,13 +314,7 @@ $('.alternativeanswerQ6wth').on('click', function() {
 
  });
 
-//  References: https://www.youtube.com/watch?v=FDRX3XxAOY4     https://genius.com/Clyde-carson-slow-down-lyrics [Hook]
-// I tell 'em, slow down
-// You know you can't catch me
-// I move too fast on the gas, don't chase me
-// Slow down, slow down
 
-// what was my estimate for SPLG?
 
  $('.alternativeanswerQ6cswr').on('click', function() {
   $('.feedbackquestion6').text("I don't understand, is that what you brought for lunch? You could have had something nicer for lunch, yet here you are, spending $495 on an exam, you could have eaten that money! for lunch!");
@@ -328,7 +322,7 @@ $('.alternativeanswerQ6wth').on('click', function() {
 
  });
 
-// Question 7
+
 
 $('.correctanswerQ7').on('click', function() {
   $('.feedbackquestion7').text("that's impossible, i haven't assigned seats yet.");
@@ -354,7 +348,7 @@ $('.correctanswerQ7').on('click', function() {
 
  });
 
-// Question 8
+
 
 $('.alternativeanswerQ8cc').on('click', function() {
   $('.feedbackquestion8').text("You didn't spend your entire college fund on dates with Destiny, did you? or Dallas? What's that Palomino girl's name again?");
@@ -383,8 +377,7 @@ $('.alternativeanswerQ8cc').on('click', function() {
 
 
 
-  // $('.feedbackquestion8').text("Don't be a philosopher. just take the exam and get on with your life. that'll be $495 by the way.");
-  // good god it's starting to work.
+
 
  $('#resetExamButton').on('click', function() {
   $('.feedbackquestion8').text(" ");
@@ -404,7 +397,7 @@ $('.alternativeanswerQ8cc').on('click', function() {
 
  });
 
-//  it works. thank god. this took forever. none of the resources i used helped. at all.
+
 
 $('#resetExamButton').on('click', function() {
   $('.feedbackquestion6').text(" ");
@@ -448,130 +441,4 @@ $('#resetExamButton').on('click', function() {
 
 
 
-  // $('.form-check-input8').attr('disabled',false).reset().on('mouseenter mouseleave') ;
-  // $('.form-check-input7').attr('disabled',false).reset().on('mouseenter mouseleave') ;
-  // $('.form-check-input6').attr('disabled',false).reset().on('mouseenter mouseleave') ; 
-  // $('.form-check-input5').attr('disabled',false).reset().on('mouseenter mouseleave') ; 
-  // $('.form-check-input4').attr('disabled',false).reset().on('mouseenter mouseleave') ; 
-  // $('.form-check-input3').attr('disabled',false).reset().on('mouseenter mouseleave') ; 
-  // $('.form-check-input2').attr('disabled',false).reset().on('mouseenter mouseleave') ; 
-  // $('.form-check-input1').attr('disabled',false).reset().on('mouseenter mouseleave') ; 
- 
-
-
-//   References:     I used ChatGPT. What a nightmare. This is going to take a while. see screenshots. 
-//                        kennethlarotyamat.github.io\media\Screenshot 2023-10-25 102138.png
-//                       kennethlarotyamat.github.io\media\Screenshot 2023-10-25 102145.png
-//                       kennethlarotyamat.github.io\media\Screenshot 2023-10-25 102151.png
-
-  //   References:     https://stackoverflow.com/questions/3786694/how-to-reset-clear-form-through-javascript
-  //                   https://developer.mozilla.org/en-US/docs/Web/API/Element/mouseenter_event
-  //                   https://kennethlarotyamat.github.io/other/project12/project12.html
-
-  // https://api.jquery.com/category/selectors/form-selectors/
-
-  // the correct word for boring. in spanish. is not: tedioso. it's aburrido
-
-  // actually, it's not that bad: form-check-input8 just has to be. it's actually easy, even if i have to do eight of them.
-
-  // form-check-input8
-
-
-  // 
-  // 
-
-      // $('.form-check-input8').attr('disabled',false).reset().on('mouseenter mouseleave') ;
-    // $('.form-check-input7').attr('disabled',false).reset().on('mouseenter mouseleave') ;
-    // $('.form-check-input6').attr('disabled',false).reset().on('mouseenter mouseleave') ; 
-    // $('.form-check-input5').attr('disabled',false).reset().on('mouseenter mouseleave') ; 
-    // $('.form-check-input4').attr('disabled',false).reset().on('mouseenter mouseleave') ; 
-    // $('.form-check-input3').attr('disabled',false).reset().on('mouseenter mouseleave') ; 
-    // $('.form-check-input2').attr('disabled',false).reset().on('mouseenter mouseleave') ; 
-    // $('.form-check-input1').attr('disabled',false).reset().on('mouseenter mouseleave') ; 
-
-// $('.resetExamButton').on('click', function() {
-// $('.form-check-input8').attr('disabled',false).reset().on('mouseenter mouseleave') ;   
-// });
-
-// $('.resetExamButton').on('click', function() {
-//   $('.form-check-input7').attr('disabled',false).reset().on('mouseenter mouseleave') ;   
-//   });
-
-//   $('.resetExamButton').on('click', function() {
-//     $('.form-check-input6').attr('disabled',false).reset().on('mouseenter mouseleave') ;   
-//     });
-
-//     $('.resetExamButton').on('click', function() {
-//       $('.form-check-input5').attr('disabled',false).reset().on('mouseenter mouseleave') ;   
-//       });
-
-//       $('.resetExamButton').on('click', function() {
-//         $('.form-check-input4').attr('disabled',false).reset().on('mouseenter mouseleave') ;   
-//         });
-
-//         $('.resetExamButton').on('click', function() {
-//           $('.form-check-input3').attr('disabled',false).reset().on('mouseenter mouseleave') ;   
-//           });
-
-//           $('.resetExamButton').on('click', function() {
-//             $('.form-check-input2').attr('disabled',false).reset().on('mouseenter mouseleave') ;   
-//             });
-
-//             $('.resetExamButton').on('click', function() {
-//               $('.form-check-input1').attr('disabled',false).reset().on('mouseenter mouseleave') ;   
-//               });
-
-              // what a nightmare. let's see if this works.
-
-
-
-              // https://www.freecodecamp.org/news/javascript-refresh-page-how-to-reload-a-page-in-js/#:~:text=The%20simplest%20way%20to%20refresh,and%20loading%20the%20latest%20content.
-              // this is probably the easiest thing to do, unless I can really figure this out.
-              // but in this case. I would use the reset button to reload the page. same result. so. i think i'll just use it.
-              // do the ends. justify the means?
-              // well, in this case. yeah. i think so.
-
-              //  https://www.geeksforgeeks.org/how-to-refresh-a-page-using-jquery/
-
-
-
-              // $('.resetExamButton').on('click', function() {
-
-              //   location.reload(true);
-              
-              
-              // });
-
-              // $('.resetExamButton').ready(function() {
-              //   location.reload();
-              // });
-
-              // this one did not work. do not test it out to see what it does .
-
-
-              // $('project12.html').ready(function() {
-                // Attach a click event handler to the button element with the id "reloadButton"
-                // $('#resetExamButton').click(function() {
-                  // Reload the page when the button is clicked
-                  // location.reload();
-                // });
-              // });
-
-
-
-
-            //   $(document).ready(function () {
-            //     $('#resetExamButton').click(function () {
-            //         location.reload(true);
-            //         alert('Resetting Exam');
-            //     });
-            // });
-
-          //   $(document).ready(function () {
-          //     $("button").click(function () {
-          //         location.reload(true);
-          //         alert('Reloading Page');
-          //     });
-          // });
-
-          // https://www.geeksforgeeks.org/how-to-refresh-a-page-using-jquery/
+  
