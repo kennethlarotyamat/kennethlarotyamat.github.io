@@ -25,11 +25,11 @@ CodeWars [x]
 
 and a brief README file [x]
 
-with at least 2 sentences describing your repo
+with at least 2 sentences describing your repo [x]
 
 [ i really don't want to create a new repository]
 
-[https://github.com/kennethlarotyamat/miscellaneous]
+[https://kennethlarotyamat.github.io/miscellaneous/]
 
 Work on 2 - 3 beginner level challenges from any of the above platforms (or one from each!)
 Push all of your code to the GitHub repo you created
