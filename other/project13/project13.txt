@@ -15,7 +15,14 @@ LeetCode, [done]
 Hackerrank, and [done]
 CodeWars [done]
 
-Create a GitHub repository with 3 folders (one for each of the above platforms), 
+Create a GitHub repository [done]
+
+with 3 folders (one for each of the above platforms), 
+LeetCode, []
+Hackerrank, and []
+CodeWars []
+
+
 and a brief README file with at least 2 sentences describing your repo
 
 [ i really don't want to create a new repository]
