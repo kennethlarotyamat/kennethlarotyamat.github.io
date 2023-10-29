@@ -21,6 +21,1119 @@
   <!-- 10102023 0423 -->
   <!-- Write your code here -->
 
+  <!-- ... [Start Solution Area]
+
+
+
+
+
+
+
+
+
+
+
+
+function isPalindrome(x) {
+
+
+    var testString  = x ;
+    var splitString = testString.split(""); 
+    var reverseArray = splitString.reverse("");  
+    var joinArray = reverseArray.join("");     
+    var lcArray = joinArray.toLowerCase();
+ 
+    
+
+if (lcArray === testString.toLowerCase()) {
+return true;
+} else {
+return false;
+}
+
+}
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+... [End Solution Area]
+
+I just completed the codewars version, and I'm coming back here to my leet code version, and it just. the solution I came up with seems 
+so alien to me. there's so much stuff going on outside of the function. the two versions are different. obviously. but one. in one case. the 
+leet code case, it's more for numbers, there's even a follow - up challenge where, they suggest trying to solve the same problem using 
+some kind of mathematical formula. that's not something that can be done with words.
+
+but the word version, the codewars you have to deal with upper and lower case letters, which is something that isn't a problem or 
+something to be concerned about when working with numbers. in fact, when i realized. well, it wasn't the only problem, but one 
+problem I was having was the to lower case part of the function. Anyway. I'm really glad that's over.
+
+on to the haccker rank palindrome problem.
+
+
+
+
+Good Lord. I can't believe it finally worked.
+
+... [Start Working Area]
+
+
+
+
+
+
+function isPalindrome(x) {
+
+
+    var testString  = x ;
+    var splitString = testString.split(""); 
+    var reverseArray = splitString.reverse("");  
+    var joinArray = reverseArray.join("");     
+    var lcArray = joinArray.toLowerCase();
+ 
+    
+
+if (lcArray === testString.toLowerCase()) {
+return true;
+} else {
+return false;
+}
+
+}
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+... [End Working Area]
+
+function isPalindrome(x) {
+ let reverse= x.split('').reverse().join('')
+ if (reverse.toLowerCase()==x.toLowerCase()){
+ return true;
+ }
+ else{
+return false;
+ }
+ }
+
+
+ this looks the most like something I would have done, or 
+ the approach I would have taken, but it isn't clear to me 
+ why this works, and mine didn't
+
+...
+
+function isPalindrome(x) {
+ let reverse= x.split('').reverse().join('')
+ if (reverse.toLowerCase()==x.toLowerCase()){
+ return true;
+ }
+ else{
+return false;
+ }
+ }
+
+
+ this looks the most like something I would have done, or 
+ the approach I would have taken, but it isn't clear to me 
+ why this works, and mine didn't
+
+
+function isPalindrome(x) {
+
+
+    var testString  = x ;
+    var splitString = testString.split(""); 
+    var reverseArray = splitString.reverse("");  
+    var joinArray = reverseArray.join("");     
+    var lcArray = joinArray.toLowerCase();
+ 
+    
+
+if (lcArray === testString.toLowerCase()) {
+return true;
+} else {
+return false;
+}
+
+}
+
+
+i'm annoyed that I'm having trouble with something 
+as basic as this. annoyed. really annoyed.
+
+...
+
+this one is close:
+
+function isPalindrome(x) {
+
+
+    var testString  = x ;
+    var splitString = testString.split(""); 
+    var reverseArray = splitString.reverse("");  
+    var joinArray = reverseArray.join("");     
+ 
+    var lcArray = joinArray.toLowerCase()
+ 
+    
+
+if (lcArray === testString) {
+return true;
+} else {
+return false;
+}
+
+}
+
+...
+
+function isPalindrome(x) {
+
+
+    var testString  = x ;
+    var splitString = testString.split(""); 
+    var reverseArray = splitString.reverse("");  
+    var joinArray = reverseArray.join("");     
+    return joinArray; 
+    var lcArray = joinArray.toLowerCase()
+    return lcArray; 
+    
+
+if (lcArray === testString) {
+return true;
+} else {
+return false;
+}
+
+}
+
+...
+
+function isPalindrome(x) {
+
+
+    var testString  = x ;
+    var splitString = testString.split(""); 
+    var reverseArray = splitString.reverse("");  
+    var joinArray = reverseArray.join("");     
+    return joinArray; 
+    var lcArray = joinArray.toLowerCase()
+    return lcArray; 
+    
+
+if (lcArray == testString) {
+return true;
+} else {
+return false;
+}
+
+}
+
+...
+
+function isPalindrome(x) {
+
+
+    var testString  = x ;
+    var splitString = testString.split(""); 
+    var reverseArray = splitString.reverse("");  
+    var joinArray = reverseArray.join("");     
+    return joinArray; 
+    
+
+if (joinArray() == testString()) {
+return true;
+} else {
+return false;
+}
+
+}
+
+...
+
+function isPalindrome(x) {
+
+
+    var testString  = x ;
+    var splitString = testString.split(""); 
+    var reverseArray = splitString.reverse("");  
+    var joinArray = reverseArray.join("");     
+    return joinArray; 
+    
+
+if (joinArray() == testString()) {
+return true
+} else {
+return false
+}
+
+}
+
+...
+
+function isPalindrome() {
+    let x = 121
+    var testString = x;
+    var splitString = testString.split(" "); 
+    var reverseArray = splitString.reverse();  
+    var joinArray = reverseArray.join("");     
+    return joinArray; 
+    
+
+    if (joinArray() === x) {
+            return true
+} else {
+            return false
+}
+
+}
+isPalindrome(""); 
+console.log(isPalindrome(""));
+
+...
+
+function isPalindrome() {
+    let x = 121
+    var testString = x;
+    var splitString = testString.split(" "); 
+    var reverseArray = splitString.reverse();  
+    var joinArray = reverseArray.join("");     
+    return joinArray; 
+    
+
+    if (joinArray() === x) {
+            return true
+} else {
+            return false
+}
+
+}
+isPalindrome(""); 
+console.log(isPalindrome(""));
+
+...
+
+from solutions:
+
+function isPalindrome(x) {
+return x.split('').reverse('').join('').toLowerCase() == x.toLowerCase()
+}
+
+from solutions:
+
+function isPalindrome(x) {
+ let reverse= x.split('').reverse().join('')
+ if (reverse.toLowerCase()==x.toLowerCase()){
+ return true;
+ }
+ else{
+     return false;
+ }
+ }
+
+[reflections start]
+
+i'm looking for something that looks like something 
+i would have done, because, even if these solutions work,
+it's not clear to me how they work. or why they work.
+
+[reflections end]
+
+from solutions:
+
+function isPalindrome(x) {
+  x = x.toLowerCase(); 
+ let res = '';
+  for(let i = 0; i <  x.length; i++){
+    res = x[i] + res;
+  }
+  if (res === x){
+    return true;
+  }else {
+    return false;
+  }
+}
+
+...
+
+from solutions: 
+
+function isPalindrome(x) {
+  return x.toLowerCase().split('').reverse().join('') === x.toLowerCase();
+}
+
+...
+
+from solutions: 
+
+function isPalindrome(x) {
+  x = x.toLowerCase()
+  let a = 0
+  let b = x.length
+  while (a < b) {
+    if (x[a] != x[b-1])
+      return false
+    a++
+    b--
+  }
+  return true
+}
+
+...
+
+from solutions: 
+
+const isPalindrome = x => x.toLowerCase().split('').reverse().join('') == x.toLowerCase();
+
+...
+
+const isPalindrome = x => x.toLowerCase().split('').reverse().join('') == x.toLowerCase();
+
+...
+
+from solutions: 
+
+const isPalindrome = (x) => {
+  return x.split("").reverse().join("").toLowerCase() === x.toLowerCase() ? true : false
+}
+
+...
+
+this doesn't even look like anything I'm even remotely familiar with.
+
+...
+
+https://www.freecodecamp.org/news/two-ways-to-check-for-palindromes-in-javascript-64fea8191fd7/
+
+https://www.freecodecamp.org/news/two-ways-to-check-for-palindromes-in-javascript-64fea8191fd7/
+
+...
+
+function isPalindrome() {
+    let x = 121
+    var testString = x;
+    var splitString = testString.split(" "); 
+    var reverseArray = splitString.reverse();  
+    var joinArray = reverseArray.join("");     
+    return joinArray; 
+    
+
+    if (joinArray() === x) {
+            return true
+} else {
+            return false
+}
+
+}
+isPalindrome(""); 
+console.log(isPalindrome(""));
+
+...
+
+    let x = 121
+function isPalindrome() {
+
+    var testString = x;
+    var splitString = testString.split(" "); 
+    var reverseArray = splitString.reverse();  
+    var joinArray = reverseArray.join("");     
+    return joinArray; 
+    
+
+    if (joinArray() === x) {
+            return true
+} else {
+            return false
+}
+
+}
+isPalindrome(""); 
+console.log(isPalindrome(""));
+
+...
+
+function isPalindrome(x) {
+    var x = "  ";
+    var testString = x;
+    var splitString = testString.split(" "); 
+    var reverseArray = splitString.reverse();  
+    var joinArray = reverseArray.join("");     
+    return joinArray; 
+    
+
+    if (joinArray() === x) {
+            return true
+} else {
+            return false
+}
+
+}
+
+...
+
+function isPalindrome(x) {
+  
+var digits = x.toString().split('').reverse();
+var reverseDigits = digits.map(Number)
+console.log(reverseDigits);
+
+var joinreverseDigits = reverseDigits.join('');
+console.log(joinreverseDigits);
+
+      if (joinreverseDigits == x){
+          return true
+      } else {
+          return false
+      }
+
+}
+
+
+
+https://www.w3schools.com/js/js_if_else.asp
+
+...
+
+var x = "  ";
+let testString = x;
+function isPalindrome(x) {
+
+    var splitString6 = testString.split(""); 
+    var reverseArray6 = splitString6.reverse();  
+    var joinArray6 = reverseArray6.join("");     
+    return joinArray6; 
+
+}
+isPalindrome(""); 
+console.log(Boolean(isPalindrome("") === x));  
+
+...
+
+
+so, the above function works, the issue now, is to figure out 
+how codewars plugs in x, which is something I can't figure out.
+
+...
+
+var x = "hoolooh";
+let myString6 = x;
+
+function reverseString6() 
+{    
+    var splitString6 = myString6.split(""); 
+    var reverseArray6 = splitString6.reverse();  
+    var joinArray6 = reverseArray6.join("");     
+    return joinArray6; 
+} 
+reverseString6(""); 
+console.log(Boolean(reverseString6("") === myString6));
+
+...
+
+I'm really tired. and I'm really hungry.
+
+https://www.youtube.com/watch?v=Q-hFjYyaHDI
+
+https://www.youtube.com/watch?v=rc3o-XQg4Nw
+
+...
+
+Who said people may spend their whole lives climbing the ladder of success only to find once they reach the top that the ladder is leaning against the wrong wall?
+Thomas Merton
+People may spend their whole lives climbing the ladder of success only to find, once they reach the top, that the ladder is leaning against the wrong wall. Thomas Merton.Jun 3, 2019
+
+...
+
+now where am i?
+
+... [works in console but does not work in codewars problem]
+
+var x = "  ";
+let testString = x;
+function isPalindrome(x) {
+
+    var splitString6 = testString.split(""); 
+    var reverseArray6 = splitString6.reverse();  
+    var joinArray6 = reverseArray6.join("");     
+    return joinArray6; 
+
+}
+isPalindrome(""); 
+console.log(Boolean(isPalindrome("") === x));  
+
+
+
+...
+
+... [works in console]
+
+var x = "  ";
+let testString = x;
+function isPalindrome(x) {
+
+    var splitString6 = testString.split(""); 
+    var reverseArray6 = splitString6.reverse();  
+    var joinArray6 = reverseArray6.join("");     
+    return joinArray6; 
+
+}
+isPalindrome(""); 
+console.log(Boolean(isPalindrome("") === x));  
+
+
+
+...
+
+var x = " canhohnac ";
+let testString = x;
+function isPalindrome(x) {
+
+    var splitString6 = testString.split(""); 
+    var reverseArray6 = splitString6.reverse();  
+    var joinArray6 = reverseArray6.join("");     
+    return joinArray6; 
+
+}
+isPalindrome(""); 
+console.log(Boolean(isPalindrome("") === x));  
+
+...
+
+var x = " cancorblia ";
+let testString = x;
+function isPalindrome(x) {
+
+    var splitString6 = testString.split(""); 
+    var reverseArray6 = splitString6.reverse();  
+    var joinArray6 = reverseArray6.join("");     
+    return joinArray6; 
+
+}
+isPalindrome(""); 
+console.log(Boolean(isPalindrome("") === x));  
+
+...
+
+... [This seems to work in the console]
+
+var x = " ";
+let testString = x;
+function isPalindrome(x) {
+
+    var splitString6 = testString.split(""); 
+    var reverseArray6 = splitString6.reverse();  
+    var joinArray6 = reverseArray6.join("");     
+    return joinArray6; 
+
+}
+isPalindrome(""); 
+console.log(Boolean(isPalindrome("") === x));  
+
+...
+
+isPalindrome(""); 
+
+console.log(isPalindrome);
+
+...
+
+VM1052:12 Uncaught ReferenceError: myString6 is not defined
+    at <anonymous>:12:42
+
+... [worked in leetcode for numbers example]
+
+
+function isPalindrome(x) {
+  
+var digits = x.toString().split('').reverse();
+var reverseDigits = digits.map(Number)
+console.log(reverseDigits);
+
+var joinreverseDigits = reverseDigits.join('');
+console.log(joinreverseDigits);
+
+      if (joinreverseDigits == x){
+          return true
+      } else {
+          return false
+      }
+
+}
+
+... 
+
+[reflections start] 
+
+still slogging along on this trivial problem. part 2 is a calculator problem, and I'm really just 
+not there yet. my idea is to convert the 4 function calculator into an options pricing calculator,
+and it feels like doing this is an eternity away.
+
+[reflections end]
+
+...
+
+
+
+function isPalindrome(x) {
+  // your code here
+}
+isPalindrome(""); 
+console.log(isPalindrome);
+
+...
+
+function isPalindrome(x) {
+  // your code here
+}
+isPalindrome(""); 
+console.log(isPalindrome);
+
+...
+
+function isPalindrome(" ") {
+
+    function reverseString6() 
+{    
+    var splitString6 = myString6.split(""); 
+    var reverseArray6 = splitString6.reverse();  
+    var joinArray6 = reverseArray6.join("");     
+    return joinArray6; 
+} 
+reverseString6(""); 
+
+}
+isPalindrome(" ")
+console.log(isPalindrome);
+
+...
+
+function isPalindrome(x) {
+  // your code here
+}
+
+...
+
+function isPalindrome(" ") {
+let myString6 = " ";
+function reverseString6() 
+{    
+    var splitString6 = myString6.split(""); 
+    var reverseArray6 = splitString6.reverse();  
+    var joinArray6 = reverseArray6.join("");     
+    return joinArray6; 
+} 
+reverseString6(""); 
+console.log(myString6 + " is a palindrome:" + " " + Boolean(reverseString6("") === myString6));
+}
+
+...
+
+function isPalindrome(" ") {
+
+    function reverseString6() 
+{    
+    var splitString6 = myString6.split(""); 
+    var reverseArray6 = splitString6.reverse();  
+    var joinArray6 = reverseArray6.join("");     
+    return joinArray6; 
+} 
+reverseString6(""); 
+
+}
+isPalindrome(" ")
+console.log(isPalindrome);
+
+...
+
+https://www.codecademy.com/forum_questions/505a43764502aa0002006ac3
+
+...
+
+function isPalindrome(" ") {
+
+}
+
+...
+
+function isPalindrome(" ") {
+let myString6 = " ";
+function reverseString6() 
+{    
+    var splitString6 = myString6.split(""); 
+    var reverseArray6 = splitString6.reverse();  
+    var joinArray6 = reverseArray6.join("");     
+    return joinArray6; 
+} 
+reverseString6(""); 
+console.log(myString6 + " is a palindrome:" + " " + Boolean(reverseString6("") === myString6));
+}
+
+...
+
+
+"Everything I had done has to be done over; I was on the wrong track entirely, 
+and after working hard most of that time: I'm still only at the beginning." 
+
+- Gustave Flaubert
+
+
+[Works in Console]
+
+var x = "hoolooh";
+let myString6 = x;
+
+function reverseString6() 
+{    
+    var splitString6 = myString6.split(""); 
+    var reverseArray6 = splitString6.reverse();  
+    var joinArray6 = reverseArray6.join("");     
+    return joinArray6; 
+} 
+reverseString6(""); 
+console.log(Boolean(reverseString6("") === myString6));
+
+...
+
+var x = "hoolooh";
+let myString6 = x;
+
+function reverseString6() 
+{    
+    var splitString6 = myString6.split(""); 
+    var reverseArray6 = splitString6.reverse();  
+    var joinArray6 = reverseArray6.join("");     
+    return joinArray6; 
+} 
+reverseString6(""); 
+console.log(myString6 + " is a palindrome:" + " " + Boolean(reverseString6("") === myString6));
+
+...
+
+let myString6 = x;
+function reverseString6() 
+{    
+    var splitString6 = myString6.split(""); 
+    var reverseArray6 = splitString6.reverse();  
+    var joinArray6 = reverseArray6.join("");     
+    return joinArray6; 
+} 
+reverseString6(""); 
+console.log(myString6 + " is a palindrome:" + " " + Boolean(reverseString6("") === myString6));
+
+...
+
+[works in console]
+
+var x = "hoolooh";
+let myString6 = x;
+
+function reverseString6() 
+{    
+    var splitString6 = myString6.split(""); 
+    var reverseArray6 = splitString6.reverse();  
+    var joinArray6 = reverseArray6.join("");     
+    return joinArray6; 
+} 
+reverseString6(""); 
+console.log(myString6 + " is a palindrome:" + " " + Boolean(reverseString6("") === myString6));
+
+...
+
+let myString6 = x;
+var x = "hoolooh"
+function reverseString6() 
+{    
+    var splitString6 = myString6.split(""); 
+    var reverseArray6 = splitString6.reverse();  
+    var joinArray6 = reverseArray6.join("");     
+    return joinArray6; 
+} 
+reverseString6(""); 
+console.log(myString6 + " is a palindrome:" + " " + Boolean(reverseString6("") === myString6));
+
+...
+
+let myString6 = "1215";
+function reverseString6() 
+{    
+    var splitString6 = myString6.split(""); 
+    var reverseArray6 = splitString6.reverse();  
+    var joinArray6 = reverseArray6.join("");     
+    return joinArray6; 
+} 
+reverseString6(""); 
+console.log(myString6 + " is a palindrome:" + " " + Boolean(reverseString6("") === myString6));
+
+...
+
+function isPalindrome(x) {
+let myString6 = "1215";
+function reverseString6() 
+{    
+    var splitString6 = myString6.split(""); 
+    var reverseArray6 = splitString6.reverse();  
+    var joinArray6 = reverseArray6.join("");     
+    return joinArray6; 
+} 
+reverseString6(""); 
+console.log(myString6 + " is a palindrome:" + " " + Boolean(reverseString6("") === myString6));
+}
+
+...
+
+function isPalindrome(" ") {
+let myString6 = " ";
+function reverseString6() 
+{    
+    var splitString6 = myString6.split(""); 
+    var reverseArray6 = splitString6.reverse();  
+    var joinArray6 = reverseArray6.join("");     
+    return joinArray6; 
+} 
+reverseString6(""); 
+console.log(myString6 + " is a palindrome:" + " " + Boolean(reverseString6("") === myString6));
+}
+
+...
+
+function isPalindrome(x) {
+  
+
+
+}
+
+...
+
+function isPalindrome(x) {
+  
+var digits = x.toString().split('').reverse();
+var reverseDigits = digits.map(Number)
+console.log(reverseDigits);
+
+var joinreverseDigits = reverseDigits.join('');
+console.log(joinreverseDigits);
+
+      if (joinreverseDigits == x){
+          return true
+      } else {
+          return false
+      }
+
+}
+
+...
+
+I remember the leetcode version being for numbers, and this palindrome problem 
+in codewars is more like the version I had in class, it deal with letters rather 
+than numbers, a text string rather than a string of numbers.
+
+... [Final Working Version] [works in leetcode problem]
+
+/**
+ * @param {number} x
+ * @return {boolean}
+ */
+var isPalindrome = function(x) {
+
+    var digits = x.toString().split('').reverse();
+var reverseDigits = digits.map(Number)
+console.log(reverseDigits);
+
+var joinreverseDigits = reverseDigits.join('');
+console.log(joinreverseDigits);
+
+      if (joinreverseDigits == x){
+          return true
+      } else {
+          return false
+      }
+    
+};
+
+...
+
+
+I've been goofing off, but even goofing off is exhausting. I'm attending class, but 
+I'm still working on Project 13. I'm actually just trying to figure out basic stuff.
+
+
+
+
+
+
+
+
+I'm really tired. I've only gotten this far. the second problem out of the three.
+
+
+https://geohack.toolforge.org/geohack.php?pagename=Eiffel_Tower&params=48_51_29.6_N_2_17_40.2_E_region:FR-75_type:landmark
+
+https://geohack.toolforge.org/geohack.php?pagename=Eiffel_Tower&params=48_51_29.6_N_2_17_40.2_E_region:FR-75_type:landmark
+
+https://en.wikipedia.org/wiki/Eiffel_Tower
+
+
+
+
+
+
+
+
+
+
+
+
+... [Working version from codio assignment]
+
+
+
+
+
+
+
+
+
+
+
+let myString6 = "1215";
+function reverseString6() 
+{    
+    var splitString6 = myString6.split(""); 
+    var reverseArray6 = splitString6.reverse();  
+    var joinArray6 = reverseArray6.join("");     
+    return joinArray6; 
+} 
+reverseString6("");
+console.log(myString6 + " is a palindrome:" + " " + Boolean(reverseString6("") === myString6));
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+... [Working version from codio assignment]
+
+...
+
+"Everything I had done has to be done over; I was on the wrong track entirely, and after working hard most of that time: I'm still only at the beginning." - Gustave Flaubert
+
+...
+
+"Everything I had done has to be done over; I was on the wrong track entirely, and after working hard most of that time, I'm still only at the beginning."  - Gustave Flaubert, referenced in Paul Cooper's documentary on Carthage
+
+...
+
+Everything I had done has to be done over; I was on the wrong track entirely, and after working hard most of that time, I'm still only at the beginning.
+
+- Gustave Flaubert, referenced in Paul Cooper's documentary on Carthage
+
+...
+
+I don't love pain for it's own sake and I don't pursue and desire pain just to feel it. - Adapted from Lorem Ipsum, by Cicero
+
+...
+
+https://www.youtube.com/watch?v=2mqX9twdyYo
+
+gustave flaubert and after working hard on it most of that time, i'm still only at the beginning
+
+...
+
+let myString6 = "1215";
+function reverseString6() 
+{    
+    var splitString6 = myString6.split(""); 
+    var reverseArray6 = splitString6.reverse();  
+    var joinArray6 = reverseArray6.join("");     
+    return joinArray6; 
+} 
+reverseString6("");
+console.log(myString6 + " is a palindrome:" + " " + Boolean(reverseString6("") === myString6));
+
+... [Final Working Version]
+
+
+
+var x = 121;
+
+var digits = x.toString().split('').reverse();
+var reverseDigits = digits.map(Number)
+console.log(reverseDigits);
+
+var joinreverseDigits = reverseDigits.join('');
+console.log(joinreverseDigits);
+
+function isPalindrome() 
+{    
+      if (joinreverseDigits == x){
+          return true
+      } else {
+          return false
+      }
+} 
+isPalindrome("");
+
+console.log(isPalindrome(""));
+
+
+
+... [Final Working Version] [works in leetcode problem]
+
+/**
+ * @param {number} x
+ * @return {boolean}
+ */
+var isPalindrome = function(x) {
+
+    var digits = x.toString().split('').reverse();
+var reverseDigits = digits.map(Number)
+console.log(reverseDigits);
+
+var joinreverseDigits = reverseDigits.join('');
+console.log(joinreverseDigits);
+
+      if (joinreverseDigits == x){
+          return true
+      } else {
+          return false
+      }
+    
+};
+
+... -->
+
   <script src="script.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/js/bootstrap.bundle.min.js" integrity="sha384-HwwvtgBNo3bZJJLYd8oVXjrBZt8cqVSpeBNS5n7C8IVInixGAoxmnlMuBnhbgrkm" crossorigin="anonymous"></script>
 

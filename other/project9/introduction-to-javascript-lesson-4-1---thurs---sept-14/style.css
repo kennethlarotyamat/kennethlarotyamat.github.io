@@ -365,6 +365,8 @@ I saw it all
   border-radius: 50%;
 }
 
+/*  */
+
 input:checked + .slider {
   background-color: #2196f3;
 }
@@ -376,3 +378,4 @@ input:focus + .slider {
 input:checked + .slider:before {
   transform: translateX(1.63rem);
 }
+
