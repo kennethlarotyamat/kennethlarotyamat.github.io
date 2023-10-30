@@ -1,4 +1,3 @@
-// 09 23 2023 09 40 00
 
 
 
@@ -16,7 +15,13 @@ $(function(){
 });   
 
 // can create a new claass and use query selector all in the fucntion use a for each or for each loop use for each and selector all function create branch to try alternative approach
-  
+// 09 23 2023 09 40 00
+// <!-- C:\Users\KLYam\OneDrive\Documents\GitHub\kennethlarotyamat.github.io\CSS\chestnutandhazelsgithubadventures.css -->
+// <!-- <iframe  src="https://github.com/kennethlarotyamat/miscellaneous" style="aspect-ratio: 8.68/6.86; height: auto; width:100%;" scrolling="yes"   
+// allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen ></iframe> -->
+// <!-- <link rel="stylesheet" href="..\miscellaneous\css\index.css"> -->
+// <!-- <link rel="stylesheet" href="https://kennethlarotyamat.github.io/miscellaneous/css/index.css"> [this works] -->
+// <!-- [this works]  <link rel="stylesheet" href="https://kennethlarotyamat.github.io/CSS/chestnutandhazelsgithubadventures.css">  -->  
 let bodyA = document.querySelector(" .bodya");
 let footer = document.querySelector(" footer");
 let main = document.querySelector(" .main");
