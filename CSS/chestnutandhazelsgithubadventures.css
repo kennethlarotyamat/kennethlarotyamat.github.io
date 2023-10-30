@@ -2,11 +2,11 @@
 
 *{font-weight: 600;font-family: 'Cinzel', "Century Schoolbook","Times New Roman", Times, Courier,"Georgia", serif;text-decoration: none;}
 
-h1{text-align: center;}
+
 
 .adventuretitle{font-size: larger;font-weight: 800;}
 
-p {  width: 40% ;}
+p {width: 40% ;}
 
 td {padding: .2rem;}
 
@@ -24,6 +24,34 @@ a:visited {
     transform: scale(1.08);
 
   }
+
+  li {
+    color: black;
+    text-decoration: none;
+    list-style-type: none
+  }
+  
+  
+li :hover {
+    color: blue;
+    text-decoration: none;
+    
+
+  }
+
+/* h1{text-align: center;} */
+  /* padding-left: 30%;  */
+  /* main {padding-left: 30%;} */
+
+
+
+/* p {padding-left: 30%;  width: 40% ;} */
+  /* main{justify-content:  center;} */
+  /* main{align-content: center;} */
+  /* main{align-self: center;} */
+
+
+  /* main{margin-left: 15%; margin-right: 15%;} */
 
 
   /* 09 23 2023 09 40 00 Chestnut + Hazel's Miscellaneous Repository README.md
@@ -179,19 +207,7 @@ I saw it all
 
 /* align-items: center; */
 
-li {
-    color: black;
-    text-decoration: none;
-    list-style-type: none
-  }
-  
-  
-li :hover {
-    color: blue;
-    text-decoration: none;
-    
 
-  }
 
   /* 09 23 2023 09 40 00 Chestnut + Hazel's Miscellaneous Repository README.md
 
