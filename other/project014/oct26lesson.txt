@@ -1,0 +1,242 @@
+Resources: [https://www.youtube.com/watch?v=o2uivI8FdTc]
+
+...
+
+[communicating-on-the-web--lesson-1-1---thurs---oct-26]
+
+1. Synchronous & Asynchronous JavaScript
+synchronous asynchronous
+Goals
+By the end of this lesson you will:
+Understand what Synchronous means
+Understand what Asynchronous means
+Build Asynchronous functions with JavaScript
+Introduction
+This lesson explains the difference between Synchronous and Asynchronous JavaScript and how to build these functions in JavaScript. The topics covered will help you understand how JavaScript works by way of Synchronous or Asynchronous loading.
+JavaScript is a single-threaded synchronous language, which means that the code is executed in order, one piece at a time. However, in some situations, JavaScript may appear to be asynchronous. This is made possible through the use of functions that allow the code to be executed out of order, at a different time than when it was dispatched. This change in the order of execution is known as asynchronous execution.
+
+...
+
+2. What is Synchronous Execution?
+Synchronous execution in JavaScript refers to events that occur sequentially, one after another. It’s like doing things in a straight line, with one thing happening at a time. This means that the code is executed in a single-threaded manner.
+synchronous asynchronous image
+The figure above shows an example of synchronous execution, where Process A dispatches (calls) Process B. During this time, Process A pauses and waits until Process B runs to completion. Once Process B is complete, it returns to Process A, and Process A resumes its execution. This is because JavaScript is single-threaded / synchronous, which means that only one process can run at a time.
+In this example, you will see how synchronous JavaScript works in practice:
+<!DOCTYPE html>
+<html lang="en">
+<head>
+   <meta charset="utf-8" />
+   <title>Synchronous</title>
+</head>
+<body>
+   <div id="message"></div>
+   <script>
+       var msg = document.getElementById("message");
+ 
+       function fun1() {
+           msg.innerHTML += "<p>fun1 started :)</p>";
+           fun2();
+           msg.innerHTML += "<p>fun1 ended :)</p>";
+       }
+       function fun2() {
+           msg.innerHTML += "<p>fun2 started :)</p>";
+           msg.innerHTML += "<p>fun2 ended :)</p>";
+       }
+       fun1();
+   </script>
+</body>
+</html>
+Output
+fun1 started :)
+fun2 started :)
+fun2 ended :)
+fun1 ended :)
+When dealing with a large amount of code, synchronous loading of JavaScript files can be time consuming. Since long load times are undesirable, we solve this problem with asynchronous loading.
+What is Asynchronous Loading?
+With asynchronous loading, events take place independent of the main process allowing for the execution of several processes in parallel.
+synchronous asynchronous
+Process A dispatches Process B. Process A continues to execute in parallel with Process B to completion without depending on one another. In this way, total execution time is reduced and a faster load time is achieved.
+Following a single recipe is most likely a(n) 
+Synchronous
+ task. Cooking three dishes simultaneously is most likely a(n) 
+Asynchronous
+ task.
+Check It! (2 left)
+Next
+
+...
+
+3. How to create an Asynchronous function in JavaScript
+<!DOCTYPE html>
+<html lang="en">
+<head>
+   <meta charset="utf-8" />
+   <title>Asynchronous</title>
+</head>
+<body>
+   <div id="text"></div>
+   <script>
+       var msg = document.getElementById("text");
+ 
+       function fun1() {
+           setTimeout(function () {
+              msg.innerHTML += "<p>fun1 started :)</p>";
+              msg.innerHTML += "<p>fun1 ended :)</p>";
+           },100);
+       }
+      function fun2() {
+           msg.innerHTML += "<p>fun2 started :)</p>";
+           fun1();
+           msg.innerHTML += "<p>fun2 ended :)</p>";
+       }
+ 
+       fun2();
+   </script>
+</body>
+</html>
+Output
+fun2 started :)
+fun2 ended :)
+fun1 started :)
+fun1 ended :)
+Step by step of previous code:
+The code calls function fun2()
+The function fun2() shows text “fun2 started :)”
+The function fun2() calls function fun1()
+The function fun1() waits for 100 ms before outputting its text, but function fun2() does not wait for fun1() to be finished before moving on; fun2() jumps on the next statement immediately and shows the text “fun2 ended :)”
+After of 100 ms, function fun1() executes its next statement showing text “fun1 started :)”
+Function fun1() then shows text “fun1 ended :)”
+Because the two functions can run in parallel, asynchronous JavaScript loads more quickly than synchronous JavaScript.
+In the previous code example, we used the setTimeout(Function, Time in milliseconds) function to delay the execution of fun1() by 100ms. This function allows you to pause the execution of a piece of code for the amount of time specified in the function argument before resuming its execution.
+Additionally, we can use the setInterval(Function, Time in milliseconds) function to repeatedly execute a piece of code at a specified time interval. This function is useful when we need to run a certain piece of code repeatedly, such as updating the user interface or making periodic requests to a server.
+Let’s see it in action:
+<!DOCTYPE html>
+<html lang="en">
+<head>
+   <meta charset="utf-8" />
+   <title>Asynchronous</title>
+</head>
+<body>
+   <div id="text"></div>
+   <script>
+       var msg = document.getElementById("text");
+ 
+       function fun1() {
+           setInterval(function () {
+              msg.innerHTML += "<p>fun1 started :)</p>";
+              msg.innerHTML += "<p>fun1 ended :)</p>";
+           },60000);
+       }
+      function fun2() {
+           msg.innerHTML += "<p>fun2 started :)</p>";
+           fun1();
+           msg.innerHTML += "<p>fun2 ended :)</p>";
+       }
+ 
+       fun2();
+   </script>
+</body>
+</html>
+Output
+fun2 started :)
+fun2 ended :)
+fun1 started :)
+fun1 ended :)
+fun1 started :)
+fun1 ended :)
+… 
+fun1 started :)
+fun1 ended :)
+Every 60 seconds, the function fun1() will be called.
+Warning: the function setInterval could run infinitely without stopping. Be sure to tell it when to stop.
+Next
+
+...
+
+4. How to create an Asynchronous function in JavaScript part 2
+Exercise 2:
+Build a clock using the function setInterval()
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <title>Clock</title>
+</head>
+<body>
+  <div id="text"></div>
+  <script>
+       var msg = document.getElementById("text");
+      function clock() {
+          //code here
+      }
+      clock();
+  </script>
+</body>
+</html>
+Tip: Use the Date object, for more information here.
+We can implement asynchronous functions using the async, await, and Promise keywords. The async keyword defines an asynchronous function, which allows us to write asynchronous code that looks and behaves like synchronous code.
+By using the async keyword, we can make a function return a Promise, which can be resolved or rejected at a later time. The await keyword is used to wait for the completion of a Promise, which allows us to write code that looks like synchronous code but behaves asynchronously.
+Syntax
+async function FunctionName(){
+    ...
+}
+await: The “async” function contains “await” which pauses execution of an “async” function. “await” is only valid inside the “async” function.
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+   <meta charset="utf-8" />
+   <title>Asynchronous function using "Async"</title>
+</head>
+
+<body>
+   <div id="text"></div>
+
+   <script>
+       var msg = document.getElementById("text");
+       function fun1() {
+           return new Promise(function (resolve, reject) {
+               setTimeout(function () {
+                   msg.innerHTML += "<p>fun1 started :)</p>";
+                   msg.innerHTML += "<p>fun1 ended :)</p>";
+                   resolve();
+               }, 100);
+           });
+       }
+
+       async function fun2() {
+           msg.innerHTML += "<p>fun2 started :)</p>";
+           await fun1();
+           msg.innerHTML += "<p>fun2 ended :)</p>";
+       }
+
+       fun2();
+   </script>
+
+</body>
+
+</html>
+Output
+fun2 started :)
+fun1 started :)
+fun1 ended :)
+fun2 ended :)
+In the above example, the engine waits for fun1() to finish its execution before executing the next line. The “await” stops the execution of that code segment until a Promise is received.
+Why use await if async is faster?
+async allows for faster code execution, but it can cause issues when order or dependencies matter. await can pause execution until a process completes to ensure correct code execution and avoid errors.
+Next
+
+...
+
+5. Conclusion & Takeaways
+Asynchronous JavaScript is a powerful functionality that can be incredibly helpful in your journey as a web developer. By allowing for multiple processes to run simultaneously, asynchronous code can greatly improve the performance and functionality of your applications.
+However, it’s important to be careful when using the setInterval function, which can cause your code to run indefinitely without stopping. To avoid this issue, it’s important to specify when the interval should stop running, either by using clearInterval or by implementing a stop condition within your code.
+By using asynchronous JavaScript correctly and being mindful of potential issues, you can take full advantage of its benefits and build high-quality, efficient web applications.
+Attribution
+Asynchronous JavaScript . (n.d.). https://www.w3schools.com/js/js_asynchronous.asp
+GeeksforGeeks. (2021, December 17). How to create an Asynchronous function in Javascript? https://www.geeksforgeeks.org/how-to-create-an-asynchronous-function-in-javascript/
+Mark as UncompletedBack to dashboard
+
+...
+
+[communicating-on-the-web--lesson-1-1---thurs---oct-26]

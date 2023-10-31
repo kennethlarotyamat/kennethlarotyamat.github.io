@@ -1577,6 +1577,652 @@ in production. -->
 
 ...
 
+[https://www.youtube.com/watch?v=nXLkuXX88w8]
+
+...
+
+1. Google Maps API - Part 1
+google maps
+Goals
+By the end of this lesson you will:
+Know how to set up Google Cloud
+Create a project in Google Cloud
+Learn how to use Google Maps API
+Enable APIs in Google Cloud
+Introduction
+In this lesson we will set up your Google Cloud project to use Google Maps Platform APIs. Before starting with Google Maps Platform we should create a project, enable billing and enable APIs. Also we will introduce to you Google Maps and its usefulness.
+map image
+Image from https://maps.google.com/
+For most personal projects, and even small business projects, leaflet is fine (and free). Google maps has extended functionality, so for large projects with heavy mapping needs, Google maps could offer more solutions.
+Business Context
+It is standard practice to include a map of the business location either on the contact page or in the footer of the website. Integrating Google Maps API makes the map interactive and provides the user easy access to directions in the event that they plan to visit the business in person.
+
+...
+
+2. What is Google Maps?
+Google Maps is a web mapping platform created by Google (Alphabet Inc) in the year 2005. It offers satellite imagery, aerial photography, street maps, 360° interactive panoramic views of streets (Street View), real-time traffic conditions, and route planning for traveling by foot, car, bike, air (in beta) and public transportation.
+Google Maps is available on all devices (smartphones, tablets, desktops, laptops and others) and also from a browser:
+https://maps.google.com/.
+Google Maps has enabled APIs that you can interact with and use to build solutions that require maps. For more details:
+https://developers.google.com/maps/documentation
+Get started with Google Maps Platform
+Step 1: Create a project
+Before you can use Google Maps Platform you should create a project to manage services, credentials, billing, APIs and SDKs. For each project a billing setup is required. You will only be charged if your project exceeds its quota of no-charge services. When developing for customers, it is recommended that you use the customer’s credit card to activate billing. In this case the API would go through the customer’s Google account.
+Prerequisites:
+You should have a Google account
+You should have a credit card
+To create a Cloud project:
+Create a new Google Cloud project in the Cloud Console, go to this direction
+https://console.cloud.google.com/projectcreate
+google cloud setupalt text
+Enter your customized Project name
+You can accept the Project ID or click EDIT and enter your customized ID
+In Location in this case choose “No organization”
+Click Create
+Step 2: Enable billing
+It is very important that you enable billing to deploy your apps. Within your free quota your account will not be charged.
+Be careful with exceeding your free quota to prevent headaches.
+To enable billing:
+Go to the billing page:
+https://console.cloud.google.com/projectselector/billing
+Select the project
+google project
+Create a new billing account
+google billing
+Set up your billing profile
+set up google billing
+Submit and Enable billing
+To gain more control over your costs, you can create a budget and set alerts. For more information, see Billing.
+Step 3: Enable APIs
+Now, let’s go to enable APIs to use in your application, go to url
+https://console.cloud.google.com/apis/library/static-maps-backend.googleapis.com
+Click the button Enable.
+enable the api
+Bonus Step: Shutting down a project
+We suggest that you complete this additional step after completing the program if you intend to discontinue your use of the Google API.
+Go to the Project page:
+https://console.cloud.google.com/iam-admin/projects
+shut down project
+Select the project to shut down and click DELETE. It is not recommended that you delete the project at this time, as you will need to use the API in the upcoming lessons 3.2 and 3.3.
+
+...
+
+3. Conclusion & Takeaways
+Google Maps is a powerful tool; it is used by many people and by developers worldwide.
+There is a great deal of documentation provided by Google for using all methods of these APIs.
+Note that a monthly recurring credit of 200 USD will be applied to your Billing Account. During the 90-day trial period, the 200 USD recurring credit will be used first, then anything further is deducted from the 300 USD trial credit. We HIGHLY doubt you will use 200 USD worth of Google Maps API credit for this program, so we encourage you to find other ways to use the 300 USD Cloud Billing credits, within 90-days, to further your learning! You can check any additional credit by selecting your billing account on the Billing page in the Cloud Console.
+Attribution
+Google Maps Platform |. (n.d.). [Video]. Google Developers. https://developers.google.com/maps
+
+...
+
+https://www.youtube.com/watch?v=nXLkuXX88w8
+
+...
+
+1. Google Maps API - Part 2
+Goals
+By the end of this lesson you will:
+Use Google API keys in your deploy
+Learn how to restrict an API key
+Develop some simple examples using Google Maps APIs
+Introduction
+In this second section on Google Maps you will learn more technical Google Maps skills. We will begin by setting up the API keys and then we will use them in our development. Also in this lesson, you will learn about APIs such as Geocoding and Directions services. Geocoding is important for getting the position and mark on the map, and Directions give an efficient path for rendering on the map.
+Next
+
+...
+
+2. Use API Keys
+Only the calls to the API that have proper authentication credentials can use the functions of Google Maps Platform. The API key is a unique alphanumeric string that associates your project with a specific API.
+Create API keys
+In the previous lesson (Google Maps Part 1) when you created the project, enabled the billing account, and enabled the API, it generated the API key.
+You can check by clicking on
+Navigation Menu > APIs & Services > Credentials
+and then clicking on SHOW KEY if you have an API key in the list of API Keys.
+api keys
+api keys list
+In the case that you do not have API key, please follow the next steps:
+Go to Navigation Menu > APIs & Services > Credentials
+Click + CREATE CREDENTIALS
+create credentials
+Chose API key from the list:
+You will see a popup like this one:
+popup
+Now you have your API key.
+Enable the APIs or SDKs
+In order to utilize the Google Maps Platform, we need to activate the APIs or SDKs that we intend to use for our project. Currently, we will need to enable six APIs essential for our upcoming examples and project.
+Go to Maps API Library Page
+https://console.cloud.google.com/project/_/google/maps-apis/api-list?utm_source=Docs_EnableAPIs&utm_content=Docs_Central
+Select your project
+select project
+Click on the Maps filter and Enable the following APIs:
+Maps Elevation API
+Maps Embed API
+Maps JavaScript API
+Maps Static API
+select maps APIs
+Click on the Places filter and Enable the following APIs:
+Geocoding API
+select places APIs
+Click on the Routes filter and Enable the following APIs:
+Directions API
+select routes APIs
+Restrict API keys
+It is recommended that you restrict your API Keys to protect them from unwanted requests.
+Go to Navigation Menu > APIs & Services > Credentials
+Click on your API key.
+restrict api keys
+Select the option IP addresses
+Add you IP address. You can locate your IP address by using this website.
+Leave the API restrictions as default - Don’t restrict key
+To finalize your changes, click SAVE
+IPv6 disabled/ Dynamic IP address
+If you encounter an error after restricting your API key, please make sure you have both IPv4 and IPv6 added to the list. If your IPv6 is disabled or you have a dynamic IP address, you may have to temporarily remove any API restrictions for our upcoming examples.
+If you were unable to restrict your API key, it is crucial to protect your key and refrain from sharing it in a public GitHub repository or Codepen.
+Next
+
+...
+
+3. Add the API key to your request
+For you to use the API Key you must include the Google Maps web service. It looks like this:
+https://maps.googleapis.com/maps/api/js?key=YOUR_API_KEY&callback=initMap&v=weekly
+Replace YOUR_API_KEY with your API key. HTTPS is required for requests that use an API key.
+select API
+Part 1: Hello Google Maps
+Now, let’s deploy some methods of the APIs to see it in action:
+Step 1: Preparing your page
+Write the basic HTML code for a webpage or copy and paste the following code in your editor:
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <title>Hello Google Maps</title>
+
+</head>
+
+<body>
+
+</body>
+
+</html>
+Include the Google Maps JavaScript file in the body. Make sure to replace YOUR_API_KEY with your api key.
+<script src="https://maps.googleapis.com/maps/api/js?key=YOUR_API_KEY&callback=initMap&v=weekly"
+      defer></script>
+
+Why should you not share your API key?
+
+
+Nothing happens, you can share your API key.
+
+
+If you share your API, other people can use it. This might exceed the free quota if your key is not properly restricted in the key’s settings.
+
+
+Your API key can only be used on your computer where code is deployed.
+
+Check It!
+Put a div element with a certain id where you want your map to be:
+<div id="map" style="width: 600px; height: 400px;"></div>
+Up to this point we have the following code which displays a blank page.
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>Hello Google Maps</title>
+</head>
+
+<body>
+    <script src="https://maps.googleapis.com/maps/api/js?key=YOUR_API_KEY&callback=initMap&v=weekly" defer></script>
+    
+    <script> 
+    
+    <!-- CODE GOES HERE  -->
+    
+    
+    </script>
+    
+    <div id="map" style="width: 600px; height: 400px;"></div>
+</body>
+
+</html>
+Step 2: Setting up the map
+Let’s create our first map. Add the following code between <script> CODE GOES HERE </script> tags and below the script that calls the Google API, then save and refresh your browser:
+function initMap() {
+            
+            const coordinates = { lat: 40.689, lng: -74.044 };
+           
+            const map = new google.maps.Map(document.getElementById("map"), {
+                zoom: 13,
+                center: coordinates,
+            });
+        }
+window.initMap = initMap;
+
+For this example, we are utilizing the coordinates of Statue of Liberty in NY, New York.
+“lat” and “lng” values
+Feel free to modify the “lat:” and “lng:” values to the coordinates of a place of your choice.
+We recommend using the website https://www.latlong.net/ to find the latitude and longitude of a specific location.
+In the above code, the callback parameter executes the initMap function after the API loads. The async attribute allows the browser to continue to parse the remainder of your page while the API loads. Once it has loaded, the browser will pause and immediately execute the script.
+Troubleshooting Tips
+Here are some tips for troubleshooting if you’re having trouble viewing an embedded map:
+If you’re unable to load your Google Billing Account, try accessing it through a different browser such as Microsoft Edge or Firefox to obtain your API key.
+If you’re experiencing issues with expired or invalid keys, ensure that your Google Console’s IP address restrictions or API restrictions settings are properly configured with the correct IP address. Additionally, make sure that you’re using the correct Google Script Tag.
+If you see an error message that says “Oops! Something went wrong. This page didn’t load Google Maps correctly. See the JavaScript console for technical details.”, it could mean that your API key is incorrect or your script isn’t properly linked.
+If you encounter an error after restricting your API key, please make sure you have both IPv4 and IPv6 added to the list. If your IPv6 is disabled, you may have to temporarily remove any API restrictions.
+Please make sure you are not connected to a VPN.
+Bonus Tip: If you’re unsure of what the error is, you can use the Inspect tool to check your console for more information.
+google chrome console
+Part 2: Markers and circles
+Search for the coordinates of Googleplex in Mountain View, CA, and put these coordinates in your code then refresh your browser.
+google map embedded
+Now, let’s add some markers and circles:
+Add marker to map:
+// inside the initMap() function
+
+const marker = new google.maps.Marker({
+               position: coordinates,
+               map: map,
+           });
+Add a circle to map. In this case you should indicate the radius of the circle in meters:
+// inside the initMap() function
+
+const circle = new google.maps.Circle({
+                map,
+                center: coordinates,
+                radius: 600,
+            });
+add circle to map
+You can add more custom options for changing the design of the figure.
+const circle = new google.maps.Circle({
+                    strokeColor: "blue",
+                    strokeOpacity: 0.8,
+                    strokeWeight: 2,
+                    fillColor: "#FFF",
+                    fillOpacity: 0.5,
+                    map,
+                    center: coordinates,
+                    radius: 600,
+            });
+Your code should look like this:
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <title>Hello Google Maps</title>
+
+</head>
+
+<body>
+<script src="https://maps.googleapis.com/maps/api/js?key=YOUR_API_KEY&callback=initMap&v=weekly"
+      defer></script>
+      <div id="map" style="width: 600px; height: 400px;"></div>
+<script>
+    function initMap() {
+            
+            const coordinates = { lat: 37.422040, lng: -122.082810 };
+           
+            const map = new google.maps.Map(document.getElementById("map"), {
+                zoom: 13,
+                center: coordinates,
+            });
+           
+const marker = new google.maps.Marker({
+               position: coordinates,
+               map: map,
+           });
+           const circle = new google.maps.Circle({
+                    strokeColor: "blue",
+                    strokeOpacity: 0.8,
+                    strokeWeight: 2,
+                    fillColor: "#FFF",
+                    fillOpacity: 0.5,
+                    map,
+                    center: coordinates,
+                    radius: 600,
+            });
+        }
+        
+window.initMap = initMap;
+
+
+</script>
+</body>
+
+</html>
+Now, your map should look like this:
+add map marker
+Part 3: Rectangles
+Add a rectangle with the following coordinates:
+Tip: You can find Google Maps API’s documentation on rectangles here.
+Also, make sure you write your code for the rectangle inside the initMap function and under the const circle.
+Coordinates for the rectangle:
+north: 37.429
+south: 37.415
+east: -122.073
+west: -122.091
+And now, your map should look like this:
+circle, marker, and square on map
+Next
+
+...
+
+4. Working with popups in makers
+Part 4: Popups
+Sometimes you need to attach information to your map. With the following code you can easily add a popup.
+// inside the initMap() function
+let infowindow = new google.maps.InfoWindow();
+
+            google.maps.event.addListener(marker, 'click', function() {
+                        infowindow.setContent("Test");
+                        infowindow.open(map, marker);
+            });
+            markers.push(marker);
+Click on the red marker and you will see the “Test” popup.
+popup on map
+For more details see documentation.
+Part 5: Events
+You can interact with the map using events (see documentation for details). Every object has its corresponding event and this can be used as a function. It allows you to react to user interactions. For example:
+Tip: Make sure to comment out or delete the code from our prior popup example.
+// inside the initMap() function
+map.addListener("click", (e) => {
+                alert("You clicked the map at " + JSON.stringify(e.latLng.toJSON(), null, 2));
+            });
+Now when you click anywhere on the map, you will see an alert box that includes the coordinates of the point you clicked on.
+alert image from map
+Try clicking on your map to see the alerts.
+Geocoding services
+This service helps to convert addresses into geographic coordinates; the result can be used for place makers or positions the map. The GeocoderRequest has the following structure:
+{
+ address: string,
+ location: LatLng,
+ placeId: string,
+ bounds: LatLngBounds,
+ componentRestrictions: GeocoderComponentRestrictions,
+ region: string
+}
+Required parameters are address, location or placeID. You must supply one, and only one.
+The GeocoderResult has the following structure:
+results[]: {
+ types[]: string,
+ formatted_address: string,
+ address_components[]: {
+   short_name: string,
+   long_name: string,
+   postcode_localities[]: string,
+   types[]: string
+ },
+ partial_match: boolean,
+ place_id: string,
+ postcode_localities[]: string,
+ geometry: {
+   location: LatLng,
+   location_type: GeocoderLocationType
+   viewport: LatLngBounds,
+   bounds: LatLngBounds
+ }
+}
+The status codes are:
+“OK”
+“ZERO_RESULTS”
+“OVER_QUERY_LIMIT”
+“REQUEST_DENIED”
+“INVALID_REQUEST”
+“UNKNOWN_ERROR”
+“ERROR”
+Example of a Geocoding services:
+The following code has input where you indicate the place to search and return a place maker in the map.
+Initialize variable "geocoder" and map with the construct of Google Maps API. Let’s also add a little form under the map for the user to input the address they would like to search for:
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <title>Hello Google Maps</title>
+
+</head>
+
+<body>
+  <div id="map" style="width: 600px; height: 400px;"></div>
+    <div>
+        <input id="address" type="textbox">
+        <input type="button" value="Search Address" onclick="getCoordinates()">
+    </div>
+<script src="https://maps.googleapis.com/maps/api/js?key=YOUR_API_KEY&callback=initMap&v=weekly"
+      defer></script>
+<script>
+        let geocoder;
+        let map;
+       
+        function initMap() {
+            geocoder = new google.maps.Geocoder();
+            const coordinates = { lat: 37.422040, lng: -122.082810 };
+
+            map = new google.maps.Map(document.getElementById("map"), {
+                zoom: 13,
+                center: coordinates,
+            });
+            
+        }
+    </script>
+</body>
+
+</html>
+Add the function responsible for getting the address of the front page and set to the center on your map.
+Tip: Make sure to add the function inside the script tag and under the initMap function
+function getCoordinates() {
+            let address = document.getElementById('address').value;
+            geocoder.geocode({ 'address': address }, function (results, status) {
+                if (status == 'OK') {
+                    map.setCenter(results[0].geometry.location);
+                    let marker = new google.maps.Marker({
+                        map: map,
+                        position: results[0].geometry.location
+                    });
+                } else {
+                    alert('Geocode was not successful for the following reason: ' + status);
+                }
+            });
+        }
+This is the result when you search for Mountain View:
+map image with marker
+Directions Services
+This service helps to calculate directions (an efficient path) specifying an origin and a destination. Is important to indicate the method of transportation. Directions are displayed as a polyline drawing the route on a map and can return multi-part directions using a series of waypoints.
+The DirectionsRequest object literal contains the following fields:
+{
+  origin: LatLng | String | google.maps.Place,
+  destination: LatLng | String | google.maps.Place,
+  travelMode: TravelMode,
+  transitOptions: TransitOptions,
+  drivingOptions: DrivingOptions,
+  unitSystem: UnitSystem,
+  waypoints[]: DirectionsWaypoint,
+  optimizeWaypoints: Boolean,
+  provideRouteAlternatives: Boolean,
+  avoidFerries: Boolean,
+  avoidHighways: Boolean,
+  avoidTolls: Boolean,
+  region: String
+}
+Required parameters are origin, destination and travelMode.
+Travel Modes:
+DRIVING (Default)
+BICYCLING
+TRANSIT
+WALKING
+The DirectionsResult contains the result of the directions query, which you may either handle yourself, or pass to a code directionsRenderer object, which can automatically handle displaying the result on a map.
+The status codes are:
+OK
+NOT_FOUND
+ZERO_RESULTS
+MAX_WAYPOINTS_EXCEEDED
+MAX_ROUTE_LENGTH_EXCEEDED
+INVALID_REQUEST
+OVER_QUERY_LIMIT
+REQUEST_DENIED
+UNKNOWN_ERROR
+Example of Directions Services
+The following code has input where you indicate the place origin and destination to search and return an efficient path.
+Initialize variables directionsService, directionsRenderer and map with the construct of Google Maps API. Add a little form on the front page so that the user can input the fields origin and destination: Add the code below to the body of a basic html:
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+    <title>Hello Google Maps</title>
+
+</head>
+
+<body>
+<div id="map" style="width: 600px; height: 400px;"></div>
+    <div>
+        <label>Origin</label>
+        <input id="origin" type="textbox">
+        <label>Destination</label>
+        <input id="destination" type="textbox">
+        <input type="button" value="Search Route" onclick="calcRoute()">
+    </div>
+<script src="https://maps.googleapis.com/maps/api/js?key=YOUR_API_KEY&callback=initMap&v=weekly"
+      defer></script>
+<script>
+        let directionsService;
+        let directionsRenderer
+        let map;
+        // Initialize and add the map
+        function initMap() {
+            directionsService = new google.maps.DirectionsService();
+            directionsRenderer = new google.maps.DirectionsRenderer();
+            const coordinates = { lat: 37.422040, lng: -122.082810 };
+
+            map = new google.maps.Map(document.getElementById("map"), {
+                zoom: 13,
+                center: coordinates,
+            });
+            directionsRenderer.setMap(map);
+        }
+        </script>
+        </body>
+
+</html>
+Add the function responsible for obtaining an origin and a destination on the front page and render the result on map:
+Tip: Make sure to add the function inside the script tag and under the initMap function
+function calcRoute() {
+            let start = document.getElementById('origin').value;
+            let end = document.getElementById('destination').value;
+            let request = {
+                origin: start,
+                destination: end,
+                travelMode: 'DRIVING'
+            };
+            directionsService.route(request, function (result, status) {
+                if (status == 'OK') {
+                    directionsRenderer.setDirections(result);
+                } else { alert("An unexpected error occurred")}
+            });
+        }
+
+
+In this case, we use DRIVING in the field travelMode
+This is the end result from Googleplex to Computer History Museum if we were to drive:
+marked map
+Next
+
+...
+
+5. Conclusion & Takeaways
+Generally, the Google documentation is clear and simple, so we can easily understand the API and apply it to our development.
+You can mark objects with google.maps.Marker
+You can circle objects with google.maps.Circle
+You can create a polygon object with google.maps.Polygon
+You can create a rectangle object with google.maps.Rectangle
+Other options are available: see documentation.
+Note that a monthly recurring credit of 200 USD will be applied to your Billing Account. During the 90-day trial period, the 200 USD recurring credit will be used first, then anything further is deducted from the 300 USD trial credit. We HIGHLY doubt you will use 200 USD worth of Google Maps API credit for this program, so we encourage you to find other ways to use the 300 USD Cloud Billing credits, within 90-days, to further your learning! You can check any additional credit by selecting your billing account on the Billing page in the Cloud Console.
+Attribution
+Google Maps Platform |. (n.d.). [Video]. Google Developers. https://developers.google.com/maps
+Mark as UncompletedBack to dashboard
+
+...
+
+1. Google Maps Tools
+Goals
+By the end of this project you will:
+Practice all of the concepts and topics learned in this week
+Explore Google documentation and learn new things
+Improve your skills in Javascript and in working with APIs
+Introduction
+In this project you will apply all of this week’s learning. Our focus is to develop a solution with the different Google Maps APIs, which centralize many functions in only one place and from which the user can choose what they need to do.
+Business Context
+The ability to generate a map with customized functionality is an important tool in your web development toolbox. Clients will expect you to have this skill in hand. What’s more, giving the map additional functionality can improve the user experience and ultimately deliver better results for the client.
+Next
+
+...
+
+2. Instructions
+Create a form and function to place a marker on the map.
+Create a form and function to get the path of origin to destination by filling in the form.
+Create a form and function to place a circle on the map.
+Create a form and function to place a rectangle on the map.
+Create a form and function to place a polygon on the map.
+Create a form and function to place polylines on the map with four coordinates.
+Create an alert when the user clicks on the map to show the latitude and longitude of the point using the InfoWindow API.
+Note: Use HTML and advanced CSS for a better user interface.
+Tip: To get the coordinates of a location use the page https://www.latlong.net/ for searching the latitude and longitude.
+Solution:
+Answers will vary. The result should look something like this:
+map example
+Attribution
+Google Maps Platform |. (n.d.). [Video]. Google Developers. https://developers.google.com/maps
+Mark as CompletedBack to dashboard
+
+...
+
+https://www.youtube.com/watch?v=nXLkuXX88w8
+
+...
+
+1. Project
+Communicating on the Web
+For this project, you will be adding something we’ve studied this week to your personal web page. This makes the code yours, and can be an example of your knowledge. There doesn’t necessarily have to be a purpose for what you choose to add; in some ways you simply want to show off your skills to a potential employer. Choose from:
+Leaflet
+Asynchronous functions
+Collect form information in json format
+Google Maps
+Whatever you choose, be sure to have clear comments in your code so a reviewer can understand what you did, and also so you can go back a month or more later and be reminded of what your thought process was.
+When finished, submit your code!
+Submission steps:
+Before you click on "Mark as Completed":
+You need to do one of the following: either upload all of your files to Codio or deploy a GitHub Page for this project.
+Also, if you mark this project as complete but any of the boxes are blank, your TA will be unable to grade your project.
+Codio upload:
+Make sure all of your project code has been uploaded to Codio.
+If you did not write your code in Codio, you will need to import all of the required files into your workspace file tree.
+You can do this by going to File => Upload Files, and either manually importing each file, or dragging and dropping your project folder.
+Please refer to this video if you are unsure of what to do.
+GitHub Pages:
+If you would rather upload your project to GitHub, please make sure to have the project deployed as a GitHub page so we can thoroughly test it.
+If you are unsure of how to do this, please follow these instructions.
+It is important to understand you will need to make a separate repository for every project. You cannot deploy multiple pages from the same repository, even with different branches.
+Also, no matter whether you uploaded your files from your computer or not, make sure to thoroughly test your code! This only takes a few minutes, but will prevent the amount of resubmissions because you missed something.
+GitHub Repo & Pages Links
+If your project is uploaded to Codio, simply type "N/A".
+
+Submit Answer!
+HTML
+Please summarize the HTML changes you made.
+
+Submit Answer!
+CSS
+Please summarize the CSS changes you made.
+
+Submit Answer!
+JavaScript
+Please summarize the JavaScript changes you made.
+
+Submit Answer!
+Mark as CompletedBack to dashboard
+
+...
+
 
 
 
