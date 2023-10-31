@@ -15,3 +15,77 @@ allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; pic
 
 ...
 
+1. Project
+
+Communicating on the Web
+
+For this project, you will be adding something we’ve studied this week to your personal web page. This makes the code yours, 
+and can be an example of your knowledge. There doesn’t necessarily have to be a purpose for what you choose to add; in some 
+ways you simply want to show off your skills to a potential employer. Choose from:
+
+Leaflet
+
+Asynchronous functions
+
+Collect form information in json format
+
+Google Maps
+
+Whatever you choose, be sure to have clear comments in your code so a reviewer can understand what you did, and also so you can 
+go back a month or more later and be reminded of what your thought process was.
+When finished, submit your code!
+
+Submission steps:
+
+Before you click on "Mark as Completed":
+
+You need to do one of the following: either upload all of your files to Codio or deploy a GitHub Page for this project.
+Also, if you mark this project as complete but any of the boxes are blank, your TA will be unable to grade your project.
+
+Codio upload:
+
+Make sure all of your project code has been uploaded to Codio.
+If you did not write your code in Codio, you will need to import all of the required files into your workspace file tree.
+You can do this by going to File => Upload Files, and either manually importing each file, or dragging and dropping your project folder.
+Please refer to this video if you are unsure of what to do.
+
+GitHub Pages:
+
+If you would rather upload your project to GitHub, please make sure to have the project deployed as a GitHub page 
+so we can thoroughly test it. If you are unsure of how to do this, please follow these instructions.
+It is important to understand you will need to make a separate repository for every project. You cannot deploy multiple 
+pages from the same repository, even with different branches.
+Also, no matter whether you uploaded your files from your computer or not, make sure to thoroughly test your code! This 
+only takes a few minutes, but will prevent the amount of resubmissions because you missed something.
+
+...
+
+[Asynchronous functions] [Module Dealing with Asynchronous Functions]
+
+https://www.youtube.com/watch?v=o2uivI8FdTc
+
+[https://docs.google.com/document/d/1nC59RMOhZAWZO1_fdGAaeykVETOt3ODm5G2u9lPBda0/edit#heading=h.ik10jyq3fy44]
+
+2
+
+Communicating on the Web: HTTP/HTTPS, APIs, Async 1 - Thursday, October 26
+
+In the first lesson you will understand what Synchronous means, understand what Asynchronous means, 
+and build Asynchronous functions with JavaScript. In the second lesson you will understand Javascript 
+Promises, learn how use Javascript Promises, and know the benefits of Javascript Promises. In the third 
+lesson you will understand how an API works, know its different architectures, and create your own API.
+
+...
+
+I'm going to rule out working on a Leafelet or a Google Maps project for Project 14
+
+[Collect form information in json format]
+
+This seems like the best option because we've come across these before, so, I might be more 
+familar with them, the other stuff is newer. In fact, I think that I was going to use a json file 
+for project 12, but I think I put that off.
+
+[https://docs.google.com/document/d/1nC59RMOhZAWZO1_fdGAaeykVETOt3ODm5G2u9lPBda0/edit#heading=h.ik10jyq3fy44]
+
+...
+
