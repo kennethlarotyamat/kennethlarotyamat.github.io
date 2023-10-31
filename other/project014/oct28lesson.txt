@@ -333,6 +333,13 @@ Team, A. (2022, February 19). Free API – Huge List of Public APIs For Testing 
 GeeksforGeeks. (2022, October 19). JavaScript | fetch() Method. https://www.geeksforgeeks.org/javascript-fetch-method/
 GeeksforGeeks. (2021a, January 8). How to use JavaScript Fetch API to Get Data ? https://www.geeksforgeeks.org/how-to-use-javascript-fetch-api-to-get-data/?ref=rp
 
+[https://apipheny.io/free-api/]
+[https://www.geeksforgeeks.org/javascript-fetch-method/]
+[https://www.geeksforgeeks.org/how-to-use-javascript-fetch-api-to-get-data/?ref=rp]
+[https://sabrinaprinter-groupsphere.codio.io/example.html]
+[https://youtu.be/nXLkuXX88w8?t=2914]
+[https://youtu.be/nXLkuXX88w8?t=3415]
+
 ...
 
 lesson-2-2---sat---oct-28
@@ -340,5 +347,9 @@ lesson-2-2---sat---oct-28
 ...
 
 [https://youtu.be/nXLkuXX88w8?t=2914]
+
+...
+
+
 
 
