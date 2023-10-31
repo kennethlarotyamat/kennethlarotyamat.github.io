@@ -321,6 +321,10 @@ result.then(res => res.json())
 
 ...
 
+[https://sabrinaprinter-groupsphere.codio.io/example.html]
+
+...
+
 3. Conclusion & Takeaways
 The fetch() method has two parameters, the URL of the API and a second parameter for options.
 The fetch() method is very easy to use, you can try to do several tests to see it in action, there are many free APIs on the web.
@@ -335,5 +339,6 @@ lesson-2-2---sat---oct-28
 
 ...
 
+[https://youtu.be/nXLkuXX88w8?t=2914]
 
 
