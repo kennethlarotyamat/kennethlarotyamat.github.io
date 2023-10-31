@@ -354,6 +354,51 @@ lesson-2-2-sat-oct-28
 
 ...
 
+1. Project [14] 
 
+Communicating on the Web
+
+For this project, you will be adding something we’ve studied this week to your personal web page. 
+This makes the code yours, and can be an example of your knowledge. There doesn’t necessarily have to 
+be a purpose for what you choose to add; in some ways you simply want to show off your skills to a 
+potential employer. Choose from:
+
+Leaflet
+
+Asynchronous functions
+Collect form information in json format
+
+Google Maps
+
+Whatever you choose, be sure to have clear comments in your code so a reviewer can understand what you did, 
+and also so you can go back a month or more later and be reminded of what your thought process was.
+When finished, submit your code!
+
+Submission steps:
+
+Before you click on "Mark as Completed":
+
+You need to do one of the following: either upload all of your files to Codio or deploy a GitHub Page for this project.
+Also, if you mark this project as complete but any of the boxes are blank, your TA will be unable to grade your project.
+
+Codio upload:
+
+Make sure all of your project code has been uploaded to Codio.
+If you did not write your code in Codio, you will need to import all of the required files into your workspace file tree.
+You can do this by going to File => Upload Files, and either manually importing each file, or dragging and dropping your project folder.
+Please refer to this video if you are unsure of what to do.
+
+GitHub Pages:
+
+If you would rather upload your project to GitHub, please make sure to have the project deployed as a GitHub page so we can thoroughly test it.
+If you are unsure of how to do this, please follow these instructions.
+It is important to understand you will need to make a separate repository for every project. You cannot deploy 
+multiple pages from the same repository, even with different branches.
+Also, no matter whether you uploaded your files from your computer or not, make sure to thoroughly test your code! 
+This only takes a few minutes, but will prevent the amount of resubmissions because you missed something.
+
+[Project 14 Requirements]
+
+...
 
 
