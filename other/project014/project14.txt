@@ -89,3 +89,25 @@ for project 12, but I think I put that off.
 
 ...
 
+
+Daryl - TA
+8:58 AM
+
+Hello @channel, please find Project Time schedules for this week below:
+:alphabet-yellow-hash: What is Project Time?
+It is a live zoom session where you work on your weekly project individually and a TA is available to answer any questions you might have regarding the project. If plan to work on the project later this week but have questions, you can always drop by and ask those questions.
+You are able to attend either or both project sessions. If you can't make project times but need help, check office hour availability bookmarked at the top of this channel! Or feel free to check if other TAs are available as well: Software Web Development 4 TA Availability
+
+:date: Wednesday, November 1st, 8:00pm - 9:00pm ET / 5:00pm - 6:00pm PT
+:round_pushpin:Zoom
+:microphone: Hosted by 
+@Daryl - TA
+
+:date: Thursday, November 2nd, 7:00 - 9:00pm ET / 4:00pm - 6:00pm PT
+:round_pushpin:Zoom
+:microphone: Hosted by 
+@Jheremy - TA
+
+:point_right: p.s: Please review all the materials from the prior modules before starting your projects.
+
+...
