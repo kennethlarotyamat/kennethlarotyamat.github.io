@@ -1,0 +1,81 @@
+2. What is a JSON file?
+JSON (JavaScript Object Notation) is a file format that is easily readable for a human and requires less formatting. 
+It is used for sharing or transmitting data to store. The extension of this type of file is .JSON and it is supported 
+by many modern programming languages.
+The media type used for JSON is application/json.
+JSON File Structure
+JSON is structured with key and value pairs. The key is unique and is a string surrounded by double quotation marks. 
+The Value can be a Number, string (surrounded by double quotation marks), Array, Boolean, null and object. The key and 
+value are separated by a colon(:) in the middle with the key on the left and the value on the right. Different key/value 
+pairs are separated by a comma(,).
+
+...
+
+Examples by types values:
+Number
+{"age" : 34}
+String
+{"name" : "Joseph"}
+Array
+{"fruits" : ["Apple","Banana","Strawberry"]}
+Boolean
+{"Enable" : true}
+Null
+{"genre" : null}
+Object
+{"user" : {"name" : "Joseph", "age" : 34, "genre" : null}}
+
+...
+
+Resources:          [https://www.youtube.com/watch?v=nXLkuXX88w8]
+                    [https://www.geeksforgeeks.org/json-data-types/]
+                    [https://docs.fileformat.com/web/json/]
+
+
+...
+
+Christopher	7464839	+1457938740	Read, Sing, Dance	Name:HTML, ID:1; Name:Javascript, ID:2; Name:API; ID:3
+
+...
+
+Exercise 3
+Build a JSON file for the data below (hint: think of this as a user object).
+Name	        Id	            Telephone number	    Hobbies	            Lessons
+Christopher	    7464839	    +1457938740	            Read, Sing, Dance	Name:HTML, ID:1; Name:Javascript, ID:2; Name:API; ID:3
+
+...
+
+{"user" : {"name" : "Joseph", "age" : 34, "genre" : null}}
+
+{"Name" : "Christopher", "Id" : 7464839, "TelephoneNumber" : +1457938740, "Hobbies" : ["Read, Sing, Dance"], "Lessons" [{"Name":"HTML", "ID":1}{"Name":"Javascript", "ID":2 }{"Name":"API", "ID":3}] }
+
+...
+
+oct28lesson2-1
+
+...
+
+1. Accessing APIs with Fetch
+javascript fetch api
+Goals
+By the end of this lesson you will:
+Know how to work with the fetch method
+Be able to get data using the fetch method
+Be able to execute a public free API
+Introduction
+The fetch() method easily connects the server to the client. You need only type the URL of the API and a second 
+parameter for POST requests. With the fetch() method you can execute an API (if you have access) and begin to 
+interact a little more with APIs to see an API in action. Also, the fetch() method allows you to get data and show it on your page.
+
+...
+
+[https://youtu.be/nXLkuXX88w8?t=1461]
+
+...
+
+what happened, well. I attended class, on saturday, but I was still working on project 13 on Saturday. I could have 
+completed this stuff that day, and in retrospect, I should have just done this stuff on Saturday.
+
+I'm going to take a short break.
+
+...
