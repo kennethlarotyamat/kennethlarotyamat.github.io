@@ -69,6 +69,8 @@ interact a little more with APIs to see an API in action. Also, the fetch() meth
 
 ...
 
+[Resources] 
+
 [https://youtu.be/nXLkuXX88w8?t=1461]
 
 ...
@@ -77,5 +79,21 @@ what happened, well. I attended class, on saturday, but I was still working on p
 completed this stuff that day, and in retrospect, I should have just done this stuff on Saturday.
 
 I'm going to take a short break.
+
+...
+
+2. fetch() Method in Javascript
+fetch diagram
+fetch() Method in Javascript
+The fetch() method is used to request data from a server for any type of API that returns the data in JSON or XML format.
+Syntax
+fetch('url')
+  .then(response => response.json())
+  .then(data => console.log(data));
+The fetch() method requires one parameter: the URL to request. It accepts two parameters and returns a promise. The second 
+parameter is an array of properties.
+For the next example we will use a free API found here.
+
+[Resources]             [https://apipheny.io/free-api/#apis-without-key]
 
 ...
