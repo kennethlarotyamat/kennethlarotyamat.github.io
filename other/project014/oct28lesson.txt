@@ -47,7 +47,8 @@ Christopher	    7464839	    +1457938740	            Read, Sing, Dance	Name:HTML,
 
 {"user" : {"name" : "Joseph", "age" : 34, "genre" : null}}
 
-{"Name" : "Christopher", "Id" : 7464839, "TelephoneNumber" : +1457938740, "Hobbies" : ["Read, Sing, Dance"], "Lessons" [{"Name":"HTML", "ID":1}{"Name":"Javascript", "ID":2 }{"Name":"API", "ID":3}] }
+{"Name" : "Christopher", "Id" : 7464839, "TelephoneNumber" : +1457938740, "Hobbies" : ["Read, Sing, Dance"], 
+"Lessons" [{"Name":"HTML", "ID":1}{"Name":"Javascript", "ID":2 }{"Name":"API", "ID":3}] }
 
 ...
 
@@ -97,3 +98,242 @@ For the next example we will use a free API found here.
 [Resources]             [https://apipheny.io/free-api/#apis-without-key]
 
 ...
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+ <meta charset="UTF-8">
+ <meta name="viewport" content="width=device-width, initial-scale=1.0">
+ <title>C1 | JavaScript | fetch() Method</title>
+</head>
+<body>
+ <script src="/.guides/console.js"> </script>
+    <script>
+        let result = fetch("https://www.boredapi.com/api/activity");
+        result.then(res => res.json())
+              .then(d => { console.log(d)});
+    </script>
+</body>
+</html>
+
+...
+
+The return value is a promise whether it is resolved or not. The return data can be of the format JSON or XML. 
+It can be an array of objects or simply a single object.
+
+...
+
+[How many parameters are accepted? And What value is required?]
+
+2 parameter's are accepted, The first parameter is required is a URL, and the second parameter is optional.
+
+...
+
+<!-- Fetching data with options: -->
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>C1 | JavaScript | fetch() Method with Options</title>
+</head>
+
+<body>
+    <script>
+        user = {
+            "name": "Christopher Miller",
+            "age": "35",
+            "salary": "4321"
+        };
+        let options = {
+            method: 'POST',
+            headers: {
+                'Content-Type':'application/json;charset=utf-8'
+            },
+            body: JSON.stringify(user)
+        };
+        // Rest API example
+        let result = fetch("https://dummy.restapiexample.com/api/v1/create", options);
+        result.then(res => res.json())
+              .then(d => {console.log(d)});
+    </script>
+</body>
+
+</html>
+
+...
+
+    <script>
+        user = {
+            "name": "Christopher Miller",
+            "age": "35",
+            "salary": "4321"
+        };
+        let options = {
+            method: 'POST',
+            headers: {
+                'Content-Type':'application/json;charset=utf-8'
+            },
+            body: JSON.stringify(user)
+        };
+        // Rest API example
+        let result = fetch("https://dummy.restapiexample.com/api/v1/create", options);
+        result.then(res => res.json())
+              .then(d => {console.log(d)});
+    </script>
+
+...
+
+{"status":"success","data":{"name":"Christopher Miller","age":"35","salary":"4321","id":7993},"message":"Successfully! Record has been added."}
+
+...
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+ <meta charset="UTF-8">
+ <meta name="viewport" content="width=device-width, initial-scale=1.0">
+ <title>C1 | JavaScript | fetch() Method</title>
+</head>
+<body>
+ <script src="/.guides/console.js"> </script>
+ 
+    <script>
+        user = {
+            "name": "Christopher Miller",
+            "age": "35",
+            "salary": "4321"
+        };
+        let options = {
+            method: 'POST',
+            headers: {
+                'Content-Type':'application/json;charset=utf-8'
+            },
+            body: JSON.stringify(user)
+        };
+        // Rest API example
+        let result = fetch("https://dummy.restapiexample.com/api/v1/create", options);
+        result.then(res => res.json())
+              .then(d => {console.log(d)});
+    </script>
+
+
+    
+</body>
+</html>
+
+...
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+ <meta charset="UTF-8">
+ <meta name="viewport" content="width=device-width, initial-scale=1.0">
+ <title>C1 | JavaScript | fetch() Method</title>
+</head>
+<body>
+ <script src="/.guides/console.js"> </script>
+ 
+    <script>
+        user = {
+            "name": "Christopher Miller",
+            "age": "35",
+            "salary": "4321"
+        };
+        let options = {
+            method: 'POST',
+            headers: {
+                'Content-Type':'application/json;charset=utf-8'
+            },
+            body: JSON.stringify(user)
+        };
+        // Rest API example
+        let result = fetch("https://dummy.restapiexample.com/api/v1/create", options);
+        result.then(res => res.json())
+              .then(d => {console.log(d)});
+    </script>
+
+
+    
+</body>
+</html>
+
+...
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>C1 | JavaScript | fetch() Method Exercise</title>
+</head>
+
+<body>
+    <script>
+        //Completed code here
+    </script>
+    <img id="imageAPI" width="500" height="600">
+</body>
+
+</html>
+
+...
+
+<!-- myDogImg = document.getElementbyID("imageAPI").src -->
+<!-- result or response check difference in javascript -->
+<!-- https://dog.ceo/api/breeds/image/random -->
+<!-- src="  " -->
+<!-- https://dog.ceo/api/breeds/image/random -->
+
+...
+
+[Final Working Version]
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>C1 | JavaScript | fetch() Method Exercise</title>
+</head>
+
+<body>
+<script>
+//Completed code here
+
+
+
+let result = fetch("https://dog.ceo/api/breeds/image/random");
+result.then(res => res.json())
+.then(d => {document.getElementById("imageAPI").src=d.message});
+</script>
+
+
+<img id="imageAPI" width="500" height="600" >
+
+</body>
+
+
+</html>
+
+...
+
+3. Conclusion & Takeaways
+The fetch() method has two parameters, the URL of the API and a second parameter for options.
+The fetch() method is very easy to use, you can try to do several tests to see it in action, there are many free APIs on the web.
+Attribution
+Team, A. (2022, February 19). Free API – Huge List of Public APIs For Testing [No Key]. Apipheny. https://apipheny.io/free-api/
+GeeksforGeeks. (2022, October 19). JavaScript | fetch() Method. https://www.geeksforgeeks.org/javascript-fetch-method/
+GeeksforGeeks. (2021a, January 8). How to use JavaScript Fetch API to Get Data ? https://www.geeksforgeeks.org/how-to-use-javascript-fetch-api-to-get-data/?ref=rp
+
+...
+
+lesson-2-2---sat---oct-28
+
+...
+
+
+
