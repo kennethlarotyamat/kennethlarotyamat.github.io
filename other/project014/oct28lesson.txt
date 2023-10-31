@@ -573,6 +573,9 @@ I was at a stopping point, so, I didn't lose any actual work, I just lost
 my place. It's kind of like, when reading, and the book falls to the ground,
 or the book is accidentially shut, and so, you know, the last place is lost.
 
+I'm about to take a nap, I have class later today at 11 AM. For javascript,
+I really do think that I have to start from the very beginning, again.
+
 [End Reflections]
 
 ...
