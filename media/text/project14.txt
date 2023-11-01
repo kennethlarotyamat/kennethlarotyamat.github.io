@@ -5610,6 +5610,11 @@ Step 2 integrate original connections - codepen
 this is going to take a while. and. I don't even know what the heck to do here. I'm preparing everything else for 
 insertion of the cards, from the previous connections page, and reformatting them.
 
+I almost don't even want to take this approach, recycling something I've already done before. Like. I don't really 
+want to use content from the Chestnut + Hazel Connections project. because, it would really be easier just to create
+
+something new. I think. I really don't know. I get the feeling that it would be easier to create whole new stuff.
+
 [Development Notes] [End]
 
 ...
