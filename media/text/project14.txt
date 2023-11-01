@@ -5621,6 +5621,10 @@ something new. I think. I really don't know. I get the feeling that it would be 
 <!-- [Absolute] [https://kennethlarotyamat.github.io/css/project14.css]  -->
 <!-- [Local]    [C:\Users\KLYam\OneDrive\Documents\GitHub\kennethlarotyamat.github.io\css\project14.css] -->
 
+<!-- [Absolute] [https://kennethlarotyamat.github.io/css/project14.css]  -->
+<!-- [Local]    [C:\Users\KLYam\OneDrive\Documents\GitHub\kennethlarotyamat.github.io\css\project14.css] -->
+<!-- 11012023 0604 - so i had to rename my directories - things seem to be case sensitive. -->
+
 [Development Notes] [End]
 
 ...
