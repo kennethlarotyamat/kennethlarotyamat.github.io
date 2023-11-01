@@ -6070,6 +6070,13 @@ You know you like it but it drives you insane</p>
 
 I think that I got it. The first one.
 
+<!-- 
+    11012023 1022 - Needed Bootstrap CDN
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-4bw+/aepP/YC94hEpVNVgiZdgIC5+VKNBQNGCHeKRQN+PtmoHDEXuppvnDJzQIu9" crossorigin="anonymous">
+ -->
+<!-- C:\Users\KLYam\OneDrive\Documents\GitHub\kennethlarotyamat.github.io\html\p14chconnectionsindex.html -->
+
+
 ...
 
 [Project 14 Outline] [Start]
