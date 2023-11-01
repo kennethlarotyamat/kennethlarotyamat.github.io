@@ -4655,6 +4655,12 @@ main section is in focus, this is where I will put the pictures.
 ...
 
 <!-- https://kennethlarotyamat.github.io/other/project010/project10index.html -->
+<!-- C:\Users\KLYam\OneDrive\Documents\GitHub\miscellaneous\other\project13\Part2Calculator\calculatorindex.html -->
+<!-- https://kennethlarotyamat.github.io/other/project010/project10index.html -->
+<!-- file:///C:/Users/KLYam/OneDrive/Documents/GitHub/miscellaneous/other/project13/Part2Calculator/calculatorindex.html -->
+<!-- https://stackoverflow.com/questions/8366957/how-to-center-an-iframe-horizontally -->
+<!-- file:///C:/Users/KLYam/OneDrive/Documents/GitHub/kennethlarotyamat.github.io/other/project010/project10index.html -->
+<!-- for things to be responsive, measurements kind of all have to be in vh format or percentage formats -->
 
 ...
 
