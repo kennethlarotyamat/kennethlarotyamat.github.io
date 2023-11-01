@@ -4654,6 +4654,10 @@ main section is in focus, this is where I will put the pictures.
 
 ...
 
+<!-- https://kennethlarotyamat.github.io/other/project010/project10index.html -->
+
+...
+
 [Project 14 Outline]
 
 Step 1 integrate slider project - project 10
