@@ -1,3 +1,5 @@
+// Modal Autoplay Shutoff
+
 $(function(){
   $("body").on('hidden.bs.modal', function (e) {
     var $iframes = $(e.target).find("iframe");
@@ -6,3 +8,5 @@ $(function(){
     });
   });
 });
+
+// Modal Autoplay Shutoff

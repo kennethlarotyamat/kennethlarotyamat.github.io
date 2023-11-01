@@ -5670,6 +5670,9 @@ C:\Users\KLYam\OneDrive\Documents\GitHub\kennethlarotyamat.github.io\html\jcs000
 C:\Users\KLYam\OneDrive\Documents\GitHub\kennethlarotyamat.github.io\html\jcs0006.html 
 -->
 
+<!-- <link rel="stylesheet" href="https://kennethlarotyamat.github.io/CSS/project14.css"> -->
+<!-- C:\Users\KLYam\OneDrive\Documents\GitHub\kennethlarotyamat.github.io\javascript\p14chconnectionsdistindex.js -->
+
 [Development Notes] [End]
 
 ...
