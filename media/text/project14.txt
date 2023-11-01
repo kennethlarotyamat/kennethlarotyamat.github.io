@@ -5589,6 +5589,20 @@ header text.
 
 ...
 
+<!-- Header 
+
+<header class="grid-item header "> 
+<div></div>
+<div> <h2>Chestnut + Hazel Connections</h2> </div> 
+<div></div>   
+</header>
+
+fixed. I had to add a div to the left, and a div to the right in order to center the text. the 
+header text. -->
+<!-- Above is completed - COMPLETE - This is a really slow grind.-->
+
+...
+
 [Project 14 Outline] [Start]
 
 [Resources] [C:\Users\KLYam\OneDrive\Documents\GitHub\kennethlarotyamat.github.io\html\p14chconnectionsindex.html]
