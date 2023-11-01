@@ -2223,6 +2223,132 @@ Mark as CompletedBack to dashboard
 
 ...
 
+<!-- C:\Users\KLYam\OneDrive\Documents\GitHub\kennethlarotyamat.github.io\css\project14.css -->
+<!-- <link rel="stylesheet" href="https://kennethlarotyamat.github.io/css/p14chestnutandhazelconnections.css"> -->
+<!-- <iframe width="1257" height="707" src="https://www.youtube.com/embed/2hGmoMrvSYo" title="Total War ROME 2: Battle of Pella" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> -->
+<!-- https://kennethlarotyamat.github.io/chestnutandhazelsgithubadventures.html -->
+<!-- https://github.com/kennethlarotyamat/kennethlarotyamat.github.io -->
+
+<!-- fixing project 10 -->
+<!-- C:\Users\KLYam\OneDrive\Documents\GitHub\kennethlarotyamat.github.io\CSS\chestnutandhazelsgithubadventures.css -->
+<!-- <iframe  src="https://github.com/kennethlarotyamat/miscellaneous" style="aspect-ratio: 8.68/6.86; height: auto; width:100%;" scrolling="yes"   
+allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen ></iframe> -->
+<!-- <link rel="stylesheet" href="..\miscellaneous\css\index.css"> -->
+<!-- <link rel="stylesheet" href="https://kennethlarotyamat.github.io/miscellaneous/css/index.css"> [this works] -->
+<!-- [this works]  <link rel="stylesheet" href="https://kennethlarotyamat.github.io/CSS/chestnutandhazelsgithubadventures.css">  -->
+
+<!-- Deploying New Changes
+Every time you make a change to your site, use the normal GitHub flow. That is, use git commit and git push to send your changes to GitHub. After this, the GitHub site should update within a few seconds. Just refresh the page in your browser, and you're good to go! -->
+
+...
+
+<!-- C:\Users\KLYam\OneDrive\Documents\GitHub\kennethlarotyamat.github.io\javascript\project14.js -->
+<!-- <script src=" https://kennethlarotyamat.github.io/javascript/p14chestnutandhazelconnections.js "></script> -->
+
+...
+
+ <!-- this is part of a test migration -->
+
+      <!-- file:///C:/Users/KLYam/OneDrive/Documents/GitHub/miscellaneous/other/project13/Part2Calculator/options-pricing-calculator-project-13-part-2/src/index.html -->
+
+    <!-- <link rel="stylesheet" href="https://kennethlarotyamat.github.io/miscellaneous/css/index.css"> -->
+
+    <!-- /*      [Resources]              https://www.linkedin.com/in/marianneshaffer/
+                                          https://codepen.io/marnee
+                                          https://codepen.io/shafferma08
+                                          https://github.com/shafferma08
+
+    */ -->
+
+    <!-- /*      [Resources]              https://www.linkedin.com/in/marianneshaffer/
+                                 https://codepen.io/marnee
+                                 https://codepen.io/shafferma08
+                                 https://github.com/shafferma08
+
+*/ -->
+
+<!-- /*      
+        [Resources]              https://www.linkedin.com/in/marianneshaffer/
+                                 https://codepen.io/marnee
+                                 https://codepen.io/shafferma08
+                                 https://github.com/shafferma08
+
+*/
+
+// Define a class named Calculator
+// Quantitative Information Processing Apparatus
+//  <link rel="stylesheet" href="https://kennethlarotyamat.github.io/miscellaneous/css/index.css"> -->
+
+<!-- // 
+  
+  // it works again, there is an issue where, since i'm referencing files directly from github, it takes longer to load, and so, 
+  // i don't always see when something breaks, i wont see when something breaks right when it breaks, only after the broken version
+  // is uploaded to github will I see that it is broken.
+  
+  // 
+
+  // -->
+
+  <!-- /*      [Resources]              https://www.linkedin.com/in/marianneshaffer/
+  //                                       https://codepen.io/marnee
+  //                                       https://codepen.io/shafferma08
+  //                                       https://github.com/shafferma08
+  
+  // */ -->
+  
+  
+  <!-- // 10292023 1239 -->
+  
+  <!-- <div> <p class="questionsbeingasked">Do You Currently Possess a Scantron?  </p>
+  
+  //         <div class="input-group radio">
+  
+  //           <div class="form-check ">
+  //             <input type="radio" id="q1i " name="q1n " value="q1v "  class="correctanswerQ1 form-check-input form-check-input1" required>
+  //             <label for="answera" class="form-check-label">A. I Do</label>
+  //             <small class="error-msg invalid-feedback">Required</small>
+  //           </div>       
+  
+  //           <div class="form-check">
+  //             <input type="radio" id="q1i " name="q1n " value="q1v "  class="alternativeresponseQ1dn form-check-input form-check-input1" required>
+  //             <label for="answerb" class="form-check-label ">B. I Do Not</label>
+  //             <small class="error-msg invalid-feedback">Required</small>
+  //           </div>         
+  
+  //           <div class="form-check">
+  //             <input type="radio" id="q1i " name="q1n " value="q1v "  class="alternativeresponseQ1bb form-check-input form-check-input1" required>
+  //             <label for="answerc" class="form-check-label">C. I Have a Blue Book</label>
+  //             <small class="error-msg invalid-feedback">Required</small>
+  //           </div>       
+  
+  //           <div class="form-check" id="form-check-labelgreenradiogreennightmare" >
+  //             <input type="radio" id="q1i " name="q1n " value="q1v " id="form-check-labelgreenradio"  class="alternativeresponseQ1gb form-check-input form-check-input1" required>
+  //             <label for="answerd" class=" form-check-label " id="form-check-labelgreen" >D. I Have a Green Book </label>
+  //             <small class="error-msg invalid-feedback">Required</small>
+  //           </div> 
+  
+  //         </div> <div class="feedbackquestion1"> </div> <br>           
+  //       </div> -->
+
+
+
+...
+
+  <!-- 10272023 0120 it worked. -->
+
+  <!-- 10272023 0116 this is another test. this comment is being written directly in GitHub, and I want to see if I can see this change in VS code after pulling it. -->
+
+  <!-- 10272023 0111 -->
+  <!-- i need to test this. I was using the other github account, and i want to make sure that everything is set back to my regular account 
+  and committing correctly.  -->
+  <!-- i had to use github desktop for a while it was strange going back to it. it felt strange. i've been committing and pushing directly from  
+  
+  vs code for a while. -->
+
+  ...
+
+  
+
 
 
 

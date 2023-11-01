@@ -397,3 +397,86 @@ I could not follow along.
 Class ran over by an hour. I went out to get soda, but, I honestly could not follow along.
 
 ...
+
+<!-- End Image Template -->
+<!-- Start Image Template -->
+<!-- Start Image Template -->
+<!-- Start Image Template -->
+<!-- End Image Template -->
+<!-- End Image Template -->
+
+  <!-- id="q5i " name="q5n " value="q5v " -->
+
+  <!-- // https://www.geeksforgeeks.org/how-to-refresh-a-page-using-jquery/
+//  References: https://stackoverflow.com/questions/7526601/setattributedisabled-false-changes-editable-attribute-to-false
+//              https://www.w3schools.com/howto/howto_css_switch.asp
+//              https://stackoverflow.com/questions/32034144/how-to-off-the-mouseenter-and-mouseleave-on-click-event
+
+// $('.resetExamButton').on('click', function() {
+
+//   $('.exampleForm').attr('disabled',false).reset().on('mouseenter mouseleave') ;
+
+
+//  https://kennethlarotyamat.github.io/other/project12/project12.html
+
+
+
+// }); -->
+
+
+
+
+  <!-- id="q3i " name="q3n " value="q3v " -->
+
+  <!-- id="q4i " name="q4n " value="q4v " -->
+
+  <!-- //  this should work. this should be done. 10/25/2023 11:01 AM
+
+// it does work. 10252023 1101
+
+// anyway. what a nightmare.
+
+//  this might work for the reset button
+
+// $('.resetExamButton').on('click', function() {
+
+//  $('.exampleForm').attr('disabled',false).on('mouseenter mouseleave') ;
+
+//  }); -->
+
+...
+
+
+<!-- comments from project 12 -->
+
+<!-- this almost works. i just need an onclick function for the reset button -->
+
+<!-- https://stackoverflow.com/questions/15176098/cant-span-form-over-multiple-divs -->
+
+    <!-- potential location to move form tags -->
+
+    <!-- <form class="exampleForm" id="exampleFormB" autocomplete="off" action="mailto:info@chestnutandhazel.com" target="" method="post" novalidate> -->
+
+  <!-- Reactivate if needed -->
+
+        <!-- 10252023 0605 what a nightmare. i had a special hover effect specifically in place for the green book response where the hover effect is green, rather than blue, it broke everything and then i had to fix it. it took pretty much over a million years. -->
+
+
+...
+
+<!-- Start Estimage Template -->
+<!-- <p>
+
+    <br>        Estimage for:   SPLG, 10/25/2023        <br>
+    <br>        Range AMT:      .70
+    <br>        Midpoint:       49.85 
+    <br>        Range L/H:      49.50 - 50.20
+    <br>        O/C:            49.90 - 49.70
+    
+</p> -->
+<!-- End Estimage Template -->
+
+<!-- Start Image Template -->
+<!-- End Image Template -->
+
+...
