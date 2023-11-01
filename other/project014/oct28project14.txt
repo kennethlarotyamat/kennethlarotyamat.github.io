@@ -463,4 +463,18 @@ So I was originally going to do
 
 I might use aynchronous functions, and json files into project 14.
 
+... 
+
+[Project 14 Outline]
+
+Step 1 integrate slider project - project 10
+Step 2 integrate original connections - codepen
+Step 3 integrate quiz project - project 12
+    Create json file for responses
+    Create asynchronous function for responses
+        make the text appear on the screen the way it does on CHAT GPT
+        - make it appear that someone is actually typing responses - 
+
+[Project 14 Outline]
+
 ...

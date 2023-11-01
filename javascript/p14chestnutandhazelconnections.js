@@ -8,7 +8,7 @@ $(function(){
   });  
 $(function() {
   "use strict";
-
+ 
   let bodyA = $(".bodya");
   let footer = $(".footer");
   let main = $(".main");
