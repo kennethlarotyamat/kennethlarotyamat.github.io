@@ -5696,6 +5696,11 @@ It's where she says:
 "Fire of my loins" is from Nabakov
 -->
 
+/* https://en.wikipedia.org/wiki/Shades_of_pink */
+/* .tryingtofixthis{width: 100%;padding: 5%;} */
+
+[https://en.wikipedia.org/wiki/Shades_of_pink]
+
 [Development Notes] [End]
 
 ...

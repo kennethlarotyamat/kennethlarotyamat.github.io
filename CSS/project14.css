@@ -898,7 +898,7 @@ input:checked + .slider:before {
     text-align: center;
     justify-content: center;
   }
-  .tryingtofixthis{width: 100%;padding: 5%;}
+
 
 
 
@@ -912,7 +912,7 @@ input:checked + .slider:before {
     transition: all 0.4s ease-in;
   }
   .dark-modefields {
-    background-color: #FF66CC;
+    background-color: #ffc0cb;
     color:  #000000 ;
     transition: all 0.4s ease-in;
   }
@@ -923,6 +923,7 @@ input:checked + .slider:before {
     transition: all 0.4s ease-in;
   }
 /* Active - Delete Others (Duplicates) */
+
 
 
 
