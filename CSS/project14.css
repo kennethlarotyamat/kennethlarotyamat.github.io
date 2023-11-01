@@ -6,7 +6,7 @@ button:not(#modalbutton1):not(#modalbutton2) {
   padding: 5px 5px;
 }
 button:hover:not(#modalbutton1):not(#modalbutton2) {
-  border-style: inset;
+  border-style: inset; 
   border-width: thick;
   width: auto;
   border-color: silver;

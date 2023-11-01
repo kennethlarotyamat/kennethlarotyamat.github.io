@@ -190,7 +190,7 @@ $(document).ready(function() {
   };
 
   const handleSubmit = (e) => {
-    e.preventDefault();
+    e.preventDefault(); 
 
     if (allInputsValid()) {
       successMessage.css('display', 'block');
