@@ -5521,6 +5521,74 @@ in the js file because i do plan on using those later.
 
 ...
 
+/*  bodyA.toggleClass("dark-modefields");
+footer.toggleClass("dark-modefields");
+main.toggleClass("dark-modefields");
+aside.toggleClass("dark-modefields");
+subheadercenterheadertextbutton.toggleClass("dark-modefields");
+header.toggleClass("dark-modefields");
+contentouter.toggleClass("dark-mode");
+
+const modeMessage = contentouter.hasClass("dark-mode") ? 
+
+.dark-mode {
+background-color: #ffffff;
+color:  #000000 ;
+transition: all 0.4s ease-in;
+}
+.dark-modefields {
+background-color: #BCC2C2;
+color:  #000000 ;
+transition: all 0.4s ease-in;
+}
+.dark-modebsbuttons {
+background-color: silver;
+border-color: gray;
+color:  #000000 ;
+transition: all 0.4s ease-in;
+}
+
+
+
+*/
+
+...
+
+  /* .dark-mode {
+    background-color: #ffffff;
+    color:  #000000 !important;
+    transition: all 0.4s ease-in;
+  }
+  .dark-modefields {
+    background-color: #e0f0f0;
+    color:  #000000 !important;
+    transition: all 0.4s ease-in;
+  }
+  .dark-modebsbuttons {
+    background-color: #899499;
+    border-color: silver;
+    color:  #000000 !important;
+    transition: all 0.4s ease-in;
+  } */
+
+/* Active - Delete Others (Duplicates) */
+/* Active - Delete Others (Duplicates) */
+
+...
+
+Header 
+
+<header class="grid-item header "> 
+<div></div>
+<div> <h2>Chestnut + Hazel Connections</h2> </div> 
+<div></div>   
+</header>
+
+fixed. I had to add a div to the left, and a div to the right in order to center the text. the 
+header text.
+
+...
+
 [Project 14 Outline] [Start]
 
 [Resources] [C:\Users\KLYam\OneDrive\Documents\GitHub\kennethlarotyamat.github.io\html\p14chconnectionsindex.html]
