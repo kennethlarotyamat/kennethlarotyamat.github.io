@@ -1,5 +1,4 @@
-/* <!--[Local Reference] C:\Users\KLYam\OneDrive\Documents\GitHub\kennethlarotyamat.github.io\css\project14.css -->
-<!--[Remote Reference] <link rel="stylesheet" href="https://kennethlarotyamat.github.io/css/project14.css"> --> */
+
 @import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@400;500;600;700;800;900&family=Playfair+Display:ital,wght@0,400;0,500;0,600;0,700;0,800;0,900;1,400;1,500;1,600;1,700;1,800;1,900&family=Roboto+Serif:ital,opsz,wght@0,8..144,100;0,8..144,200;0,8..144,300;0,8..144,400;0,8..144,500;0,8..144,600;0,8..144,700;0,8..144,800;0,8..144,900;1,8..144,100;1,8..144,200;1,8..144,300;1,8..144,400;1,8..144,500;1,8..144,600;1,8..144,700;1,8..144,800;1,8..144,900&display=swap');
 .subheadercenterheadertextbutton 
 {
@@ -16,7 +15,26 @@
 
 
 
+/* [Project 14 Outline]
 
+Step 1 integrate slider project - project 10
+Step 2 integrate original connections - codepen
+Step 3 integrate quiz project - project 12
+    Create json file for responses
+    Create asynchronous function for responses
+        make the text appear on the screen the way it does on CHAT GPT
+        - make it appear that someone is actually typing responses - 
+
+So here it is. I have to bring the quiz project, project 12 into this, both as a json 
+and i have to make responses asynchronous in a way that makes the text appear on screen
+like someone is typing them out.
+
+this is supposed to look like a dating simulator.
+
+I want the slider project to make it look like a swipe left swipe right the way it is on dating apps.
+this is supposed to be a dating app and dating simulator.   
+
+[Project 14 Outline] */
 
 
 

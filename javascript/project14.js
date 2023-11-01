@@ -1,6 +1,3 @@
-/* <!--[Local Reference] C:\Users\KLYam\OneDrive\Documents\GitHub\kennethlarotyamat.github.io\javascript\project14.js -->
-<!--[Remote Reference] <script src="https://kennethlarotyamat.github.io/javascript/project14.js"></script> --> */
-
 $(function() {
   "use strict";
 
@@ -31,6 +28,33 @@ $(function() {
 
   modeToggle.click(toggleMode);
 });
+
+
+
+
+
+
+
+// [Project 14 Outline]
+
+// Step 1 integrate slider project - project 10
+// Step 2 integrate original connections - codepen
+// Step 3 integrate quiz project - project 12
+//     Create json file for responses
+//     Create asynchronous function for responses
+//         make the text appear on the screen the way it does on CHAT GPT
+//         - make it appear that someone is actually typing responses - 
+
+// So here it is. I have to bring the quiz project, project 12 into this, both as a json 
+// and i have to make responses asynchronous in a way that makes the text appear on screen
+// like someone is typing them out.
+
+// this is supposed to look like a dating simulator.
+
+// I want the slider project to make it look like a swipe left swipe right the way it is on dating apps.
+// this is supposed to be a dating app and dating simulator.   
+
+// [Project 14 Outline]
 
 
 

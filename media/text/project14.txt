@@ -4565,11 +4565,55 @@ I'm going to reorganize my entire repository. This is going to be a headache. an
 
 ...
 
+<!-- https://kennethlarotyamat.github.io/javascript/project14.js -->
+<!-- [ SWAP ] Note To Self: Swap out local reference to remote reference one project is completed -->
+<!-- it works -->
+<!-- C:\Users\KLYam\OneDrive\Documents\GitHub\kennethlarotyamat.github.io\javascript\project14.js -->
+<!--[Local Reference] C:\Users\KLYam\OneDrive\Documents\GitHub\kennethlarotyamat.github.io\javascript\project14.js -->
+<!--[Remote Reference] <script src="https://kennethlarotyamat.github.io/javascript/project14.js"></script> -->
+<!-- [ SWAP ] Note To Self: Swap out local reference to remote reference one project is completed -->
+<!-- it works -->
+<!-- C:\Users\KLYam\OneDrive\Documents\GitHub\kennethlarotyamat.github.io\other\project014\project14.html -->
+<!--[Local Reference] C:\Users\KLYam\OneDrive\Documents\GitHub\kennethlarotyamat.github.io\css\project14.css -->
+<!--[Remote Reference] <link rel="stylesheet" href="https://kennethlarotyamat.github.io/css/project14.css"> -->
+<!-- ..\css\project14.css -->
+/* <!--[Local Reference] C:\Users\KLYam\OneDrive\Documents\GitHub\kennethlarotyamat.github.io\javascript\project14.js -->
+<!--[Remote Reference] <script src="https://kennethlarotyamat.github.io/javascript/project14.js"></script> --> */
+/* <!--[Local Reference] C:\Users\KLYam\OneDrive\Documents\GitHub\kennethlarotyamat.github.io\css\project14.css -->
+<!--[Remote Reference] <link rel="stylesheet" href="https://kennethlarotyamat.github.io/css/project14.css"> --> */
+
+...
+
 So here it is. I have to bring the quiz project, project 12 into this, both as a json 
 and i have to make responses asynchronous in a way that makes the text appear on screen
 like someone is typing them out.
 
 this is supposed to look like a dating simulator.
+
+oct28project14 oct28
+
+...
+
+[Project 14 Outline]
+
+Step 1 integrate slider project - project 10
+Step 2 integrate original connections - codepen
+Step 3 integrate quiz project - project 12
+    Create json file for responses
+    Create asynchronous function for responses
+        make the text appear on the screen the way it does on CHAT GPT
+        - make it appear that someone is actually typing responses - 
+
+So here it is. I have to bring the quiz project, project 12 into this, both as a json 
+and i have to make responses asynchronous in a way that makes the text appear on screen
+like someone is typing them out.
+
+this is supposed to look like a dating simulator.
+
+I want the slider project to make it look like a swipe left swipe right the way it is on dating apps.
+this is supposed to be a dating app and dating simulator.   
+
+[Project 14 Outline]
 
 ...
 
