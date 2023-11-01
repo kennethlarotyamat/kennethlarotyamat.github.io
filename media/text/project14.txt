@@ -4604,6 +4604,13 @@ bunch of broken stuff.
 
 ...
 
+after this is all sorted out, this is basically going to be how I organize things going forward. I don't 
+really want to have tons of sub folders. it always seems that, if it's not one problem, there is some 
+other problem, nothing is ever really solved. I'll either have a whole bunch of folders with sub folders, 
+or i'll have a small number of folders, each with a ton of files. this is a headache.
+
+...
+
 [Project 14 Outline]
 
 Step 1 integrate slider project - project 10
