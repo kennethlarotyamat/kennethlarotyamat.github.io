@@ -213,7 +213,7 @@ $(document).ready(function() {
 
 
 
-// /* this is my idea of fun: playing video games. */
+
 
 $('.correctanswerQ1').on('click', function() {
   $('.feedbackquestion1').text("Excellent!");
