@@ -4420,3 +4420,27 @@ I'm still having a hard time making the pages deploy, I deleted the other branch
 <!--[Remote Reference] <link rel="stylesheet" href="https://kennethlarotyamat.github.io/css/project14.css"> --> */
 
 ...
+
+<!-- https://kennethlarotyamat.github.io/javascript/project14.js -->
+
+<!-- [ SWAP ] Note To Self: Swap out local reference to remote reference one project is completed -->
+<!-- it works -->
+<!-- C:\Users\KLYam\OneDrive\Documents\GitHub\kennethlarotyamat.github.io\javascript\project14.js -->
+<!--[Local Reference] C:\Users\KLYam\OneDrive\Documents\GitHub\kennethlarotyamat.github.io\javascript\project14.js -->
+<!--[Remote Reference] <script src="https://kennethlarotyamat.github.io/javascript/project14.js"></script> -->
+
+...
+
+<!-- [ SWAP ] Note To Self: Swap out local reference to remote reference one project is completed -->
+<!-- it works -->
+<!-- C:\Users\KLYam\OneDrive\Documents\GitHub\kennethlarotyamat.github.io\other\project014\project14.html -->
+<!--[Local Reference] C:\Users\KLYam\OneDrive\Documents\GitHub\kennethlarotyamat.github.io\css\project14.css -->
+<!--[Remote Reference] <link rel="stylesheet" href="https://kennethlarotyamat.github.io/css/project14.css"> -->
+<!-- ..\css\project14.css -->
+
+...
+
+for whatever reason, my pages aren't deploying right away, so I'm going to have to use local references until then,
+that way I can work on my projects.
+
+...
