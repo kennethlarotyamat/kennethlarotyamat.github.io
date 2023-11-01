@@ -6085,6 +6085,8 @@ this has been added to all slides
 
 [Step 2 integrate original connections - codepen] [In Progress]
 
+<!-- C:\Users\KLYam\OneDrive\Documents\GitHub\kennethlarotyamat.github.io\html\p14chconnectionsindex.html --> [BootStrap CDN Version Used to Create Chestnut + Hazel Connections]
+
 ...
 
 [Project 14 Outline] [Start]
