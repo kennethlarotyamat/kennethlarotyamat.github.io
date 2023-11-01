@@ -6096,19 +6096,28 @@ scrolling="yes"
 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
 allowfullscreen >
 </iframe> 
-</p> 
+</p>  
 
 -->
 
-    style=" margin: 1vh 1vh 1vh 1vh; padding: 1vh 1vh 1vh 1vh;  width:50%; height: auto; aspect-ratio: 50/62; " scrolling="yes"   allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen
-    style="aspect-ratio: 8.68/6.86; height: auto; width:100%;" scrolling="yes" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen
+style=" margin: 1vh 1vh 1vh 1vh; padding: 1vh 1vh 1vh 1vh;  width:50%; height: auto; aspect-ratio: 50/62; " scrolling="yes"   allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen
+style="aspect-ratio: 8.68/6.86; height: auto; width:100%;" scrolling="yes" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen
 
+<!--[Stylesheet for slides] <link rel="stylesheet" href="https://kennethlarotyamat.github.io/CSS/p14s001to015.css"> -->
+<!-- This is a lot of work just to set it up. I mean. This is a lot of work just to recycle work. -->
+<!-- [https://en.wikipedia.org/wiki/Philip_II] -->
+
+I'm getting closer, I'm making progress. it's taking a long time.
+[Resources] [C:\Users\KLYam\OneDrive\Documents\GitHub\kennethlarotyamat.github.io\html\p14chconnectionsindex.html]
+
+[https://kennethlarotyamat.github.io/html/jcs0001.html] 
+[It's not done, but it's the starting point for the other ones.]
+I guess I have some time to get this done, and, I shouldn't worry too much.
+it's taking a long time. everything I do takes forever.
 
 ...
 
-[Project 14 Outline] [Start]
-
-[Resources] [C:\Users\KLYam\OneDrive\Documents\GitHub\kennethlarotyamat.github.io\html\p14chconnectionsindex.html]
+[Project 14 Outline] [Start] [Due 11/04]
 
 Step 3 integrate quiz project - project 12
 Create json file for responses
