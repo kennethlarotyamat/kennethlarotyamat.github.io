@@ -4594,6 +4594,13 @@ oct28project14 oct28
 
 ...
 
+I figured out what the deployment issue was, the issue was that I had. and I already had to 
+deal with this issue before, the issue was that I had a respository within a directory within my 
+main repository, so, for whatever reason, GitHub won't deploy a Repository that has a repository 
+inside of it. It was my collaborator Chris's repository. anyway. I had to delete it.
+
+...
+
 [Project 14 Outline]
 
 Step 1 integrate slider project - project 10
