@@ -5719,7 +5719,72 @@ I did not, not yet.
 I need to isolate one jennifer connelly card, and then that's the starting point. well, the starting 
 point of this continued journey. 
 
+<!-- /* [Development Notes] [Start]
+
+I'm hungry right now. I could eat a million hot dogs. I don't know if 
+I should go out to the buffet or 
+if I should just go to the gas station and get a few hot dogs. I'm really 
+hungry.
+
+Did I complete step 2?
+
+I did not, not yet. 
+
+I need to isolate one jennifer connelly card, and then that's the starting point. well, the starting 
+point of this continued journey. 
+
+[Development Notes] [End] */ -->
+
 [Development Notes] [End]
+
+<!-- 
+[Create a series of Jennifer Connely Slides as iframes] 
+[Recycle Content from old Connections Assignment] 
+-->
+
+<!-- 
+on of the issues here is that, in order for this to work, the iframes in the slider also need to work, they need to function
+at least, that's the way I see it, I'm developing a contengincy in the even that this approach doesn't work. but, i really want the iframes
+inside of the slider to be. the iframes inside of the courosel to work. 
+-->
+
+<!-- only one of the iframes in the carousel ever actually works, and i can't figure out why. so. I'm commenting out all the other 
+i frames. for now. -->
+
+
+
+
+/* [Development Notes] [Start]
+
+I'm hungry right now. I could eat a million hot dogs. I don't know if 
+I should go out to the buffet or 
+if I should just go to the gas station and get a few hot dogs. I'm really 
+hungry.
+
+Did I complete step 2?
+
+I did not, not yet. 
+
+I need to isolate one jennifer connelly card, and then that's the starting point. well, the starting 
+point of this continued journey. 
+
+[Development Notes] [End] */
+
+/* [Development Notes] [Start]
+
+I'm hungry right now. I could eat a million hot dogs. I don't know if 
+I should go out to the buffet or 
+if I should just go to the gas station and get a few hot dogs. I'm really 
+hungry.
+
+Did I complete step 2?
+
+I did not, not yet. 
+
+I need to isolate one jennifer connelly card, and then that's the starting point. well, the starting 
+point of this continued journey. 
+
+[Development Notes] [End] */
 
 ...
 
