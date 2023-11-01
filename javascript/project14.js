@@ -1,4 +1,17 @@
-// [Color / Grayscale Toggle End]
+// [Modal Autoplay Shutoff Start]
+
+$(function(){
+  $("body").on('hidden.bs.modal', function (e) {
+    var $iframes = $(e.target).find("iframe");
+    $iframes.each(function(index, iframe){
+      $(iframe).attr("src", $(iframe).attr("src"));
+    });
+  });
+});
+
+// [Modal Autoplay Shutoff End]
+
+// [Color / Grayscale Toggle Start]
 
 $(function() {
   "use strict";
@@ -79,7 +92,7 @@ nextImage.addEventListener('click', function() {
   slideRight();
 });
 
-// [Swipe Left / Swipe Right Start]
+// [Swipe Left / Swipe Right End]
 
 
 
