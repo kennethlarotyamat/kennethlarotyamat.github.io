@@ -5615,6 +5615,12 @@ want to use content from the Chestnut + Hazel Connections project. because, it w
 
 something new. I think. I really don't know. I get the feeling that it would be easier to create whole new stuff.
 
+<!-- [Convert to Absolute references] [https://kennethlarotyamat.github.io/css/project14.css] 
+    [C:\Users\KLYam\OneDrive\Documents\GitHub\kennethlarotyamat.github.io\css\project14.css] -->
+
+<!-- [Absolute] [https://kennethlarotyamat.github.io/css/project14.css]  -->
+<!-- [Local]    [C:\Users\KLYam\OneDrive\Documents\GitHub\kennethlarotyamat.github.io\css\project14.css] -->
+
 [Development Notes] [End]
 
 ...
