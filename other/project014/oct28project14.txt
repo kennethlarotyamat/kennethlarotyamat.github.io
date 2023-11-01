@@ -4411,3 +4411,7 @@ I saw it all
 Cleaning more of it.
 
 ...   
+
+I'm still having a hard time making the pages deploy, I deleted the other branches, but, I still have no idea what's going on here.
+
+...
