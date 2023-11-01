@@ -4444,3 +4444,12 @@ for whatever reason, my pages aren't deploying right away, so I'm going to have 
 that way I can work on my projects.
 
 ...
+
+    <!-- <iframe  src=".\options-pricing-calculator-project-13-part-2\src\index.html" 
+style=" margin: 1vh 1vh 1vh 1vh; padding: 1vh 1vh 1vh 1vh;  width:50%; height: auto; aspect-ratio: 50/62; " 
+scrolling="yes"   
+allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+allowfullscreen >
+</iframe>  -->
+
+...
