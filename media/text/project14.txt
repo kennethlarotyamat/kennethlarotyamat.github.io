@@ -6076,6 +6076,14 @@ I think that I got it. The first one.
  -->
 <!-- C:\Users\KLYam\OneDrive\Documents\GitHub\kennethlarotyamat.github.io\html\p14chconnectionsindex.html -->
 
+<!-- 
+this has been added to all slides 
+11012023 1022 - Needed Bootstrap CDN
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-4bw+/aepP/YC94hEpVNVgiZdgIC5+VKNBQNGCHeKRQN+PtmoHDEXuppvnDJzQIu9" crossorigin="anonymous">
+-->
+
+
+[Step 2 integrate original connections - codepen] [In Progress]
 
 ...
 
@@ -6083,13 +6091,11 @@ I think that I got it. The first one.
 
 [Resources] [C:\Users\KLYam\OneDrive\Documents\GitHub\kennethlarotyamat.github.io\html\p14chconnectionsindex.html]
 
-Step 2 integrate original connections - codepen
-
 Step 3 integrate quiz project - project 12
-    Create json file for responses
-    Create asynchronous function for responses
-        make the text appear on the screen the way it does on CHAT GPT
-        - make it appear that someone is actually typing responses - 
+Create json file for responses
+Create asynchronous function for responses
+make the text appear on the screen the way it does on CHAT GPT
+- make it appear that someone is actually typing responses - 
 
 So here it is. I have to bring the quiz project, project 12 into this, both as a json 
 and i have to make responses asynchronous in a way that makes the text appear on screen
