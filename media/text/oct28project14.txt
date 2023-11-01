@@ -4565,3 +4565,11 @@ I'm going to reorganize my entire repository. This is going to be a headache. an
 
 ...
 
+So here it is. I have to bring the quiz project, project 12 into this, both as a json 
+and i have to make responses asynchronous in a way that makes the text appear on screen
+like someone is typing them out.
+
+this is supposed to look like a dating simulator.
+
+...
+
