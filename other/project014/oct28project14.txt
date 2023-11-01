@@ -4523,3 +4523,40 @@ test deployment 11012023 0200
 
 ...
 
+// [ Modal Auto-Play Shutoff ] [ Removed While Not In Use ]
+// $(function(){
+//     $("body").on('hidden.bs.modal', function (e) {
+//       var $iframes = $(e.target).find("iframe");
+//       $iframes.each(function(index, iframe){
+//         $(iframe).attr("src", $(iframe).attr("src"));
+//       });
+//     });
+//   });  
+// $(function() {
+//   "use strict";
+
+...
+[ Modal Auto-Play Shutoff ] [ Removed While Not In Use ]
+// $(function(){
+//     $("body").on('hidden.bs.modal', function (e) {
+//       var $iframes = $(e.target).find("iframe");
+//       $iframes.each(function(index, iframe){
+//         $(iframe).attr("src", $(iframe).attr("src"));
+//       });
+//     });
+//   });
+
+...
+
+// [ Modal Auto-Play Shutoff ] [ Removed While Not In Use ]
+
+// $(function(){
+//     $("body").on('hidden.bs.modal', function (e) {
+//       var $iframes = $(e.target).find("iframe");
+//       $iframes.each(function(index, iframe){
+//         $(iframe).attr("src", $(iframe).attr("src"));
+//       });
+//     });
+//   });
+
+...
