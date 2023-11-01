@@ -4609,6 +4609,24 @@ really want to have tons of sub folders. it always seems that, if it's not one p
 other problem, nothing is ever really solved. I'll either have a whole bunch of folders with sub folders, 
 or i'll have a small number of folders, each with a ton of files. this is a headache.
 
+
+...
+
+C:\Users\KLYam\OneDrive\Documents\GitHub\kennethlarotyamat.github.io\css\sliderproject10style.css
+C:\Users\KLYam\OneDrive\Documents\GitHub\kennethlarotyamat.github.io\html\sliderproject10index.html
+C:\Users\KLYam\OneDrive\Documents\GitHub\kennethlarotyamat.github.io\javascript\sliderproject10script.js
+
+C:\Users\KLYam\OneDrive\Documents\GitHub\kennethlarotyamat.github.io\media\text\project14.txt
+C:\Users\KLYam\OneDrive\Documents\GitHub\kennethlarotyamat.github.io\html\project14.html
+C:\Users\KLYam\OneDrive\Documents\GitHub\kennethlarotyamat.github.io\css\project14.css
+C:\Users\KLYam\OneDrive\Documents\GitHub\kennethlarotyamat.github.io\css\sliderproject10style.css
+C:\Users\KLYam\OneDrive\Documents\GitHub\kennethlarotyamat.github.io\javascript\project14.js
+
+...
+
+all the paths for project 14 and for the slider project, a copy of project 10, seem to be in order, so I'll start 
+putting the slider into the new project. 
+
 ...
 
 [Project 14 Outline]
