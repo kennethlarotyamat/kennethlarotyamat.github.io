@@ -6087,6 +6087,19 @@ this has been added to all slides
 
 <!-- C:\Users\KLYam\OneDrive\Documents\GitHub\kennethlarotyamat.github.io\html\p14chconnectionsindex.html --> [BootStrap CDN Version Used to Create Chestnut + Hazel Connections]
 
+<!-- [From Calculator Project]
+    
+<p style="text-align:center" >
+<iframe  src=".\options-pricing-calculator-project-13-part-2\src\index.html" 
+style=" margin: 1vh 1vh 1vh 1vh; padding: 1vh 1vh 1vh 1vh;  width:50%; height: auto; aspect-ratio: 50/62; " 
+scrolling="yes"   
+allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+allowfullscreen >
+</iframe> 
+</p> 
+
+-->
+
 ...
 
 [Project 14 Outline] [Start]
