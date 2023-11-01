@@ -5624,6 +5624,12 @@ something new. I think. I really don't know. I get the feeling that it would be 
 <!-- [Absolute] [https://kennethlarotyamat.github.io/css/project14.css]  -->
 <!-- [Local]    [C:\Users\KLYam\OneDrive\Documents\GitHub\kennethlarotyamat.github.io\css\project14.css] -->
 <!-- 11012023 0604 - so i had to rename my directories - things seem to be case sensitive. -->
+<!-- [Absolute] [https://kennethlarotyamat.github.io/css/project14.css]  -->
+<!-- [Local]    [C:\Users\KLYam\OneDrive\Documents\GitHub\kennethlarotyamat.github.io\css\project14.css] -->
+<!-- 11012023 0604 - so i had to rename my directories - things seem to be case sensitive. -->
+
+This change should work. it was kind of a headache.
+<!-- Above is completed - COMPLETE - This is a really slow grind. headings work -->
 
 [Development Notes] [End]
 
