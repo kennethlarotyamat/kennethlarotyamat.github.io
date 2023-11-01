@@ -1,9 +1,4 @@
-
-
-
-
- 
-
+// [Start]
 
 $(function(){
   $("body").on('hidden.bs.modal', function (e) {
@@ -12,8 +7,11 @@ $(function(){
       $(iframe).attr("src", $(iframe).attr("src"));
     });
   });
-});   
+});
 
+// [End]
+
+// [Start]
 
 let bodyA = document.querySelector(" .bodya");
 let footer = document.querySelector(" footer");
@@ -29,10 +27,8 @@ let bootstrapbuttontwo = document.querySelector(".bootstrapbuttontwo");
 let bootstrapbuttonthree = document.querySelector(".bootstrapbuttonthree");
 let bootstrapbuttonfour = document.querySelector(".bootstrapbuttonfour");
 let bootstrapbuttonfive = document.querySelector(".bootstrapbuttonfive");
-
 let modeToggle = document.getElementById('mode-toggle');
-let modeStatus = document.querySelector('.mode-status');
- 
+let modeStatus = document.querySelector('.mode-status'); 
 function toggleMode() {  
   bodyA.classList.toggle('dark-modefields');
   footer.classList.toggle('dark-modefields');
@@ -48,47 +44,30 @@ function toggleMode() {
   bootstrapbuttonthree.classList.toggle('dark-modebsbuttons');
   bootstrapbuttonfour.classList.toggle('dark-modebsbuttons');
   bootstrapbuttonfive.classList.toggle('dark-modebsbuttons');
-  
-
-
-
-
   let modeMessage = bodyA.classList.contains('dark-modefields') ?
     'Grayscale' 
     : "Color";
-
   modeStatus.innerText =  modeMessage;
 }
-
 modeToggle.addEventListener('click', toggleMode);
 
+// [End]
 
-
-
-
-
-
-
-
-
+// [Start]
 
 const images = document.querySelectorAll('#sliderproject10 iframe');
 const previousImage = document.getElementById("prevproject10");
 const nextImage = document.getElementById("nextproject10");
-
 let currentIndex = 0;
- 
 function reset() {
   for (let i = 0; i < images.length; i++) {
     images[i].classList.remove('active');
   }
 }
-
 function initializeSlider() {
   reset();
   images[currentIndex].classList.add('active');
 } 
- 
 function slideLeft() {
   reset();
   currentIndex--;
@@ -97,7 +76,6 @@ function slideLeft() {
   }
   images[currentIndex].classList.add('active');
 }
- 
 function slideRight() {
   reset();
   currentIndex++;
@@ -106,13 +84,12 @@ function slideRight() {
   }
   images[currentIndex].classList.add('active');
 }
-
 initializeSlider();
-
 previousImage.addEventListener('click', function() {
   slideLeft();
 });
-
 nextImage.addEventListener('click', function() {
   slideRight();
 });
+
+// [End]

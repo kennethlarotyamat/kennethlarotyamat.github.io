@@ -4923,6 +4923,54 @@ but I'm still figuring out where to start cutting things up.
 
 ...
 
+This is a headache. a nightmare.
+
+...
+
+// can create a new claass and use query selector all in the fucntion use a for each or for each loop use for each and selector all function create branch to try alternative approach
+// 09 23 2023 09 40 00
+// <!-- C:\Users\KLYam\OneDrive\Documents\GitHub\kennethlarotyamat.github.io\CSS\chestnutandhazelsgithubadventures.css -->
+// <!-- <iframe  src="https://github.com/kennethlarotyamat/miscellaneous" style="aspect-ratio: 8.68/6.86; height: auto; width:100%;" scrolling="yes"   
+// allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen ></iframe> -->
+// <!-- <link rel="stylesheet" href="..\miscellaneous\css\index.css"> -->
+// <!-- <link rel="stylesheet" href="https://kennethlarotyamat.github.io/miscellaneous/css/index.css"> [this works] -->
+// <!-- [this works]  <link rel="stylesheet" href="https://kennethlarotyamat.github.io/CSS/chestnutandhazelsgithubadventures.css">  -->  
+
+// [Project 14 Outline]
+
+// Step 1 integrate slider project - project 10
+// Step 2 integrate original connections - codepen
+// Step 3 integrate quiz project - project 12
+//     Create json file for responses
+//     Create asynchronous function for responses
+//         make the text appear on the screen the way it does on CHAT GPT
+//         - make it appear that someone is actually typing responses - 
+
+// So here it is. I have to bring the quiz project, project 12 into this, both as a json 
+// and i have to make responses asynchronous in a way that makes the text appear on screen
+// like someone is typing them out.
+
+// this is supposed to look like a dating simulator.
+
+// I want the slider project to make it look like a swipe left swipe right the way it is on dating apps.
+// this is supposed to be a dating app and dating simulator.   
+
+// [Project 14 Outline]
+
+...
+
+[Chestnut + Hazel Connections Starting Point]
+
+[C:\Users\KLYam\OneDrive\Documents\GitHub\kennethlarotyamat.github.io\html\sliderproject10index.html]
+[C:\Users\KLYam\OneDrive\Documents\GitHub\kennethlarotyamat.github.io\css\sliderproject10style.css]
+[C:\Users\KLYam\OneDrive\Documents\GitHub\kennethlarotyamat.github.io\javascript\sliderproject10script.js]
+
+[Chestnut + Hazel Slider Starting Point]
+
+C:\Users\KLYam\OneDrive\Documents\GitHub\kennethlarotyamat.github.io\html\p14chconnectionsindex.html
+
+...
+
 [Project 14 Outline]
 
 Step 1 integrate slider project - project 10
