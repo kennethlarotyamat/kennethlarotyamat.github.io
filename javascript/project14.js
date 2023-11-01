@@ -212,6 +212,12 @@ $(document).ready(function() {
 
 
 
+
+
+
+
+
+
 $('.correctanswerQ1').on('click', function() {
   $('.feedbackquestion1').text("Excellent!");
  $('.form-check-input1').attr('disabled',true).off('mouseenter mouseleave') ;
