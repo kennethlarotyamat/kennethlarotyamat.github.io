@@ -42,23 +42,7 @@ button:hover:not(#modalbutton1):not(#modalbutton2) {
 
 
 
-.headerbutton 
-{
-  text-decoration: none;
-  border-style: outset;
-  border-width: thick;
-  border-color: silver;
-  padding: 6px 6px;
-  background-color: white;
-}
-.headerbutton:hover 
-{
-  text-decoration: none;
-  border-style: inset;
-  border-width: thick;
-  border-color: silver;
-  padding: 6px 6px;
-}
+
 
 h1 {
   text-align: center;
@@ -628,21 +612,7 @@ button:hover:not(#modalbutton1):not(#modalbutton2) {
   border-color: silver;
 }
 
-.headerbutton {
-  text-decoration: none;
-  border-style: outset;
-  border-width: thick;
-  border-color: silver;
-  padding: 6px 6px;
-  background-color: white;
-}
-.headerbutton:hover {
-  text-decoration: none;
-  border-style: inset;
-  border-width: thick;
-  border-color: silver;
-  padding: 6px 6px;
-}
+
 
 h1 {
   text-align: center;

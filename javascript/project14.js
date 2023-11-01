@@ -36,7 +36,7 @@ $(function() {
     contentouter.toggleClass("dark-mode");
 
     const modeMessage = contentouter.hasClass("dark-mode") ?
-      "Grayscale" : "Color";
+      "Pinkscale" : "Color";
 
     modeStatus.text(modeMessage);
   }

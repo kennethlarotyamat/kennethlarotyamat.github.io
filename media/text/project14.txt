@@ -5472,6 +5472,55 @@ this is supposed to be a dating app and dating simulator.
 
 ...
 
+.headerbutton 
+{
+  text-decoration: none;
+  border-style: outset;
+  border-width: thick;
+  border-color: silver;
+  padding: 6px 6px;
+  background-color: white;
+}
+.headerbutton:hover 
+{
+  text-decoration: none;
+  border-style: inset;
+  border-width: thick;
+  border-color: silver;
+  padding: 6px 6px;
+}
+
+...
+
+.headerbutton {
+  text-decoration: none;
+  border-style: outset;
+  border-width: thick;
+  border-color: silver;
+  padding: 6px 6px;
+  background-color: white;
+}
+.headerbutton:hover {
+  text-decoration: none;
+  border-style: inset;
+  border-width: thick;
+  border-color: silver;
+  padding: 6px 6px;
+}
+
+...
+
+I'm removing stuff from the css and js files to clean this up, it's really hard 
+to see what's going on, when there is a lot going on, or when there are a lot of 
+things to look at. 
+
+the modal autoplay shutoff function is being kept, even though I'm not really using 
+it yet because I might need it later. so it's staying, even though I'm not using it.
+there is stuff from the form assignment, as well as the quiz assignment that are still 
+in the js file because i do plan on using those later.
+
+...
+
 [Project 14 Outline] [Start]
 
 [Resources] [C:\Users\KLYam\OneDrive\Documents\GitHub\kennethlarotyamat.github.io\html\p14chconnectionsindex.html]
