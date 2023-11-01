@@ -1,56 +1,32 @@
-
 @import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@400;500;600;700;800;900&family=Playfair+Display:ital,wght@0,400;0,500;0,600;0,700;0,800;0,900;1,400;1,500;1,600;1,700;1,800;1,900&family=Roboto+Serif:ital,opsz,wght@0,8..144,100;0,8..144,200;0,8..144,300;0,8..144,400;0,8..144,500;0,8..144,600;0,8..144,700;0,8..144,800;0,8..144,900;1,8..144,100;1,8..144,200;1,8..144,300;1,8..144,400;1,8..144,500;1,8..144,600;1,8..144,700;1,8..144,800;1,8..144,900&display=swap');
-.subheadercenterheadertextbutton 
-{
-    text-align: center;
-    vertical-align: middle;
-    grid-area: sbhead;
-    background-color: #ffefea;
-    padding: 2vh;
-    font-size: 4vw;
-    
-    
+
+.subheadercenterheadertextbutton {
+  text-align: center;
+  vertical-align: middle;
+  grid-area: sbhead;
+  background-color: #ffefea;
+  padding: 2vh;
+  font-size: 4vw;
 }
 
 
 
 
-/* [Project 14 Outline]
-
-Step 1 integrate slider project - project 10
-Step 2 integrate original connections - codepen
-Step 3 integrate quiz project - project 12
-    Create json file for responses
-    Create asynchronous function for responses
-        make the text appear on the screen the way it does on CHAT GPT
-        - make it appear that someone is actually typing responses - 
-
-So here it is. I have to bring the quiz project, project 12 into this, both as a json 
-and i have to make responses asynchronous in a way that makes the text appear on screen
-like someone is typing them out.
-
-this is supposed to look like a dating simulator.
-
-I want the slider project to make it look like a swipe left swipe right the way it is on dating apps.
-this is supposed to be a dating app and dating simulator.   
-
-[Project 14 Outline] */
 
 
 
 
 
 
-button:not(#modalbutton1):not(#modalbutton2) 
-{
+button:not(#modalbutton1):not(#modalbutton2) {
   border-style: outset;
   border-width: thick;
   width: auto;
   border-color: silver;
   padding: 5px 5px;
 }
-button:hover:not(#modalbutton1):not(#modalbutton2) 
-{
+
+button:hover:not(#modalbutton1):not(#modalbutton2) {
   border-style: inset;
   border-width: thick;
   width: auto;
@@ -932,144 +908,7 @@ input:checked + .slider:before {
   place-items: center;
   }
 
-  /* Chestnut + Hazel's Miscellaneous Repository README.md
 
-...
-
-"Everything I had done has to be done 
-over; I was on the wrong track entirely, 
-and after working hard most of that time: 
-I'm still only at the beginning." 
-
-- Gustave Flaubert
-
-...
-
-This repository was created as a requirement for
-completing project 13. I honestly did not want to
-create a whole new repository, but, here we are.
-
-...
-
-William Carlos Williams
-
-"The Young Housewife"  (1916)
-
-At ten A.M. the young housewife
-moves about in negligee behind
-the wooden walls of her husband's house.
-I pass solitary in my car.
-
-Then again she comes to the curb
-to call the ice-man, fish-man, and stands
-shy, uncorseted, tucking in
-stray ends of hair, and I compare her
-to a fallen leaf.
-
-The noiseless wheels of my car
-rush with a crackling sound over
-dried leaves as I bow and pass smiling.
-
-...
-
-WILLIAM CARLOS WILLIAMS
-
-"The Red Wheelbarrow" (1938)
-
-so much depends
-upon
-
-a red wheel
-barrow
-
-glazed with rain
-water
-
-beside the white
-chickens
-
-...
-
-William Carlos Williams
-
-"This Is Just To Say" (1962)
-
-I have eaten
-the plums
-that were in
-the icebox
-
-and which
-you were probably
-saving
-for breakfast
-
-Forgive me
-they were delicious
-so sweet
-and so cold
-
-...
-
-Kenneth Larot Yamat
-
-"This Is Just To Say Something About The Young Housewife" (2023)
-
-I totally ate all of the  so many    fried turkeys
-that were hanging out
-by the red wheelbarrow
-you know     the one glazed with
-soy sauce and beside the 
-                      kentucky fried 
-                             kung pao chickens
-           which 
-themselves were drenched in
-              tabasco sauce
-
-I request neither forgiveness
-nor do I intend to apologize for
-          my actions 
-
-because 
-
-I spent several hours
-of quality time
-with a certain young housewife
-
-                    who
-
-braless and dressed in negligee 
-
-          and 
-
-whose wild hair suggested
-she spent even more additional
-even higher quality time with
-both the ice man
-and the fish man 
-
-       either sequentially 
-               or 
-              simultaneously 
-                     neither would surprise me
-
-left me    breathless    exhausted
-as well as      famished
-
-I thought I gave a good
-account of myself
-
-but then along came 
-          the milkman
-and    she             still
-   had enough energy 
-       for 
-    round four
-
-I was there
-I saw it all
-
-... */
  
   tr[name="toptablerow"] {
     place-items: center;
@@ -1082,9 +921,7 @@ I saw it all
     justify-content: center;
   }
   tr[name="bottomtablerow2"] {
-    /* width: 100%; */
-    /* width: 100%; */
-    /* padding:5%; */
+
     place-items: center;
     text-align: center;
     justify-content: center;
@@ -1117,158 +954,6 @@ I saw it all
 
 
 
-  /* 09 23 2023 09 40 00 Chestnut + Hazel's Miscellaneous Repository README.md
-
-...
-
-"Everything I had done has to be done 
-over; I was on the wrong track entirely, 
-and after working hard most of that time: 
-I'm still only at the beginning." 
-
-- Gustave Flaubert
-
-...
-
-This repository was created as a requirement for
-completing project 13. I honestly did not want to
-create a whole new repository, but, here we are.
-
-...
-
-William Carlos Williams
-
-"The Young Housewife"  (1916)
-
-At ten A.M. the young housewife
-moves about in negligee behind
-the wooden walls of her husband's house.
-I pass solitary in my car.
-
-Then again she comes to the curb
-to call the ice-man, fish-man, and stands
-shy, uncorseted, tucking in
-stray ends of hair, and I compare her
-to a fallen leaf.
-
-The noiseless wheels of my car
-rush with a crackling sound over
-dried leaves as I bow and pass smiling.
-
-...
-
-WILLIAM CARLOS WILLIAMS
-
-"The Red Wheelbarrow" (1938)
-
-so much depends
-upon
-
-a red wheel
-barrow
-
-glazed with rain
-water
-
-beside the white
-chickens
-
-...
-
-William Carlos Williams
-
-"This Is Just To Say" (1962)
-
-I have eaten
-the plums
-that were in
-the icebox
-
-and which
-you were probably
-saving
-for breakfast
-
-Forgive me
-they were delicious
-so sweet
-and so cold
-
-...
-
-Kenneth Larot Yamat
-
-"This Is Just To Say Something About The Young Housewife" (2023)
-
-I totally ate all of the  so many    fried turkeys
-that were hanging out
-by the red wheelbarrow
-you know     the one glazed with
-soy sauce and beside the 
-                      kentucky fried 
-                             kung pao chickens
-           which 
-themselves were drenched in
-              tabasco sauce
-
-I request neither forgiveness
-nor do I intend to apologize for
-          my actions 
-
-because 
-
-I spent several hours
-of quality time
-with a certain young housewife
-
-                    who
-
-braless and dressed in negligee 
-
-          and 
-
-whose wild hair suggested
-she spent even more additional
-even higher quality time with
-both the ice man
-and the fish man
-
-       either sequentially 
-               or 
-              simultaneously 
-                     neither would surprise me
-
-left me    breathless    exhausted
-as well as      famished
-
-I thought I gave a good
-account of myself
-
-but then along came 
-          the milkman
-and    she             still
-   had enough energy 
-       for 
-    round four
-
-I was there
-I saw it all
-
-...*/
-
-  
-  /* .panchorlinkhover{    transform: scale(1.08); color: blue;
-  text-decoration: none;}   */
-  /* transform: scale(1.08); */
-
-  /* transform: scale(1.08); */
-
-
-/* main {align-items: center;} */
-
-/* body{align-items: center;} */
-
-/* align-items: center; */
 
  
 
@@ -1278,7 +963,7 @@ I saw it all
     height: auto;
     aspect-ratio: 8.68/6.86;
     position: relative;
-    /* align-items:; */
+
 
 
   }  
