@@ -5633,6 +5633,10 @@ This change should work. it was kind of a headache.
 <!-- <!-- C:\Users\KLYam\OneDrive\Documents\GitHub\kennethlarotyamat.github.io\css\project14.css --> -->
 <!-- <link rel="stylesheet" href="https://kennethlarotyamat.github.io\CSS\project14.css"> -->
 <!-- C:\Users\KLYam\OneDrive\Documents\GitHub\kennethlarotyamat.github.io\CSS\project14.css -->
+<!-- [Convert to Absolute references] -->
+<!-- [Convert to Absolute references] -->  C:\Users\KLYam\OneDrive\Documents\GitHub\kennethlarotyamat.github.io\javascript\project14.js
+
+what a headache.
 
 [Development Notes] [End]
 
