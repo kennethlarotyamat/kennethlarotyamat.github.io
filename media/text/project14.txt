@@ -5642,6 +5642,34 @@ what a headache.
 
 I don't have to do anything else with the toggle / swipe left and right buttons, they work.
 
+<!-- C:\Users\KLYam\OneDrive\Documents\GitHub\kennethlarotyamat.github.io\html\jcs0001.html
+C:\Users\KLYam\OneDrive\Documents\GitHub\kennethlarotyamat.github.io\html\jcs0002.html
+C:\Users\KLYam\OneDrive\Documents\GitHub\kennethlarotyamat.github.io\html\jcs0003.html
+C:\Users\KLYam\OneDrive\Documents\GitHub\kennethlarotyamat.github.io\html\jcs0004.html
+C:\Users\KLYam\OneDrive\Documents\GitHub\kennethlarotyamat.github.io\html\jcs0005.html
+C:\Users\KLYam\OneDrive\Documents\GitHub\kennethlarotyamat.github.io\html\jcs0006.html  -->
+
+<!-- 
+[https://www.thewebmaster.com/html/attributes/allow/] 
+[https://developer.mozilla.org/en-US/docs/Web/HTML/Element/iframe] 
+[https://developer.mozilla.org/en-US/docs/Web/HTML/Element/iframe]
+[https://stackoverflow.com/questions/59080951/how-use-iframe-allow-attribute]
+[https://www.w3schools.com/tags/att_iframe_sandbox.asp]
+-->
+
+<!-- [Create a series of Jennifer Connely Slides as iframes] [Recycle Content from old Connections Assignment] -->
+
+
+<!-- [This is going to take an eternity]
+[Convert to Absolute references]
+C:\Users\KLYam\OneDrive\Documents\GitHub\kennethlarotyamat.github.io\html\jcs0001.html
+C:\Users\KLYam\OneDrive\Documents\GitHub\kennethlarotyamat.github.io\html\jcs0002.html
+C:\Users\KLYam\OneDrive\Documents\GitHub\kennethlarotyamat.github.io\html\jcs0003.html
+C:\Users\KLYam\OneDrive\Documents\GitHub\kennethlarotyamat.github.io\html\jcs0004.html
+C:\Users\KLYam\OneDrive\Documents\GitHub\kennethlarotyamat.github.io\html\jcs0005.html
+C:\Users\KLYam\OneDrive\Documents\GitHub\kennethlarotyamat.github.io\html\jcs0006.html 
+-->
+
 [Development Notes] [End]
 
 ...
