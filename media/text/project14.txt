@@ -4599,7 +4599,8 @@ deal with this issue before, the issue was that I had a respository within a dir
 main repository, so, for whatever reason, GitHub won't deploy a Repository that has a repository 
 inside of it. It was my collaborator Chris's repository. anyway. I had to delete it. I reorganized 
 a whole bunch of stuff, thinking that the issue was the mountain of folders within folders, but the 
-issue was the respository within a repository issue.
+issue was the respository within a repository issue. My guess, and my expectation is that I have a whole 
+bunch of broken stuff.
 
 ...
 
