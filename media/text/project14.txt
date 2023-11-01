@@ -4683,6 +4683,12 @@ main section is in focus, this is where I will put the pictures.
 
 ...
 
+[Next Step]
+
+<!-- [Create a series of Jennifer Connely Slides as iframes] [Recycle Content from old Connections Assignment] -->
+
+...
+
 [Project 14 Outline]
 
 Step 1 integrate slider project - project 10
