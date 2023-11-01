@@ -5638,6 +5638,10 @@ This change should work. it was kind of a headache.
 
 what a headache.
 
+<!-- Below is completed - COMPLETE - This is a really slow grind. Toggle / Swipe buttons are functional -->
+
+I don't have to do anything else with the toggle / swipe left and right buttons, they work.
+
 [Development Notes] [End]
 
 ...
