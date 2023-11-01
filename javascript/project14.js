@@ -212,7 +212,21 @@ $(document).ready(function() {
 
 
 
+/* [Development Notes] [Start]
 
+I'm hungry right now. I could eat a million hot dogs. I don't know if 
+I should go out to the buffet or 
+if I should just go to the gas station and get a few hot dogs. I'm really 
+hungry.
+
+Did I complete step 2?
+
+I did not, not yet. 
+
+I need to isolate one jennifer connelly card, and then that's the starting point. well, the starting 
+point of this continued journey. 
+
+[Development Notes] [End] */
 
 
 
