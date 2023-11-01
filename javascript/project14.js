@@ -94,17 +94,7 @@ nextImage.addEventListener('click', function() {
 
 // [Swipe Left / Swipe Right End]
 
-
-
-
-
-
-
-
-
-
-
-
+// [Contact Form Start]
 
 $(document).ready(function() {
   const form = $('.exampleForm');
@@ -218,7 +208,7 @@ $(document).ready(function() {
   form.on('submit', (e) => handleSubmit(e));
 });
 
-
+// [Contact Form End]
 
 
 
