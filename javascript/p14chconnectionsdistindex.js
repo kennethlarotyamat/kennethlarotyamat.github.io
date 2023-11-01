@@ -1,4 +1,4 @@
-// Modal Autoplay Shutoff
+// [Modal Autoplay Shutoff Start]
 
 $(function(){
   $("body").on('hidden.bs.modal', function (e) {
@@ -9,4 +9,4 @@ $(function(){
   });
 });
 
-// Modal Autoplay Shutoff
+// [Modal Autoplay Shutoff End]
