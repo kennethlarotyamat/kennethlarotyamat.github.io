@@ -4415,3 +4415,8 @@ Cleaning more of it.
 I'm still having a hard time making the pages deploy, I deleted the other branches, but, I still have no idea what's going on here.
 
 ...
+
+/* <!--[Local Reference] C:\Users\KLYam\OneDrive\Documents\GitHub\kennethlarotyamat.github.io\css\project14.css -->
+<!--[Remote Reference] <link rel="stylesheet" href="https://kennethlarotyamat.github.io/css/project14.css"> --> */
+
+...

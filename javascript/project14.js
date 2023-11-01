@@ -1,3 +1,7 @@
+/* <!--[Local Reference] C:\Users\KLYam\OneDrive\Documents\GitHub\kennethlarotyamat.github.io\javascript\project14.js -->
+<!--[Remote Reference] <script src="https://kennethlarotyamat.github.io/javascript/project14.js"></script> --> */
+
+
 $(function(){
     $("body").on('hidden.bs.modal', function (e) {
       var $iframes = $(e.target).find("iframe");
