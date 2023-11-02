@@ -6982,6 +6982,21 @@ $(function(){
 <!-- C:\Users\KLYam\OneDrive\Documents\GitHub\kennethlarotyamat.github.io\CSS\style.css -->
 <!-- <link rel="stylesheet" href="./CSS/style.css"> -->
 
+/* button:not(#modalbutton1):not(#modalbutton2) {
+  border-style: outset;
+  border-width: thick;
+  width: auto;
+  border-color: silver;
+  padding: 5px 5px;
+}
+button:hover:not(#modalbutton1):not(#modalbutton2) {
+  border-style: inset; 
+  border-width: thick;
+  width: auto;
+  border-color: silver;
+  padding: 5px 5px;
+} */
+
 [Development Notes] [End]
 
 ...

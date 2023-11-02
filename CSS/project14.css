@@ -8,20 +8,7 @@
 
 
 
-button:not(#modalbutton1):not(#modalbutton2) {
-  border-style: outset;
-  border-width: thick;
-  width: auto;
-  border-color: silver;
-  padding: 5px 5px;
-}
-button:hover:not(#modalbutton1):not(#modalbutton2) {
-  border-style: inset; 
-  border-width: thick;
-  width: auto;
-  border-color: silver;
-  padding: 5px 5px;
-}
+
 
 
 
