@@ -7068,6 +7068,17 @@ body{width: 100%;}
 
     I think that I got this done. I think that this is fixed.
 
+    <!-- C:\Users\KLYam\OneDrive\Documents\GitHub\kennethlarotyamat.github.io\CSS\p14s001to015.css -->
+<!-- C:\Users\KLYam\OneDrive\Documents\GitHub\kennethlarotyamat.github.io\CSS\p14s001to015.css -->
+<!-- <link rel="stylesheet" href=" https://kennethlarotyamat.github.io/CSS/p14s001to015.css "> -->
+<!-- Revert to absolute once fixed -->
+<!-- looks good. looks done -->
+
+
+
+/*     display: flex;
+    justify-content: center !important; */
+
 [Development Notes] [End]
 
 ...
