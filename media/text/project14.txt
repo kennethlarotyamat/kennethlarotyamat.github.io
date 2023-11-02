@@ -7116,6 +7116,11 @@ allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; pic
 I want the slider project to make it look like a swipe left swipe right the way it is on dating apps.
 this is supposed to be a dating app and dating simulator.   
 this is supposed to look like a dating simulator.
+Step 3 integrate quiz project - project 12
+
+...
+
+So this is almost done, content creation and styling took forever, and cleaning things up took forever
 
 [Development Notes] [End]
 
@@ -7127,19 +7132,18 @@ this is supposed to look like a dating simulator.
 
 [Secondary]      [Make Sure Buttons Work] 
                  [Create Conversation Mechanism Based on Project 12 Using JSON file, rather than Millions of Javascript functions]
+                 [Create json file for responses]
+                 [Look at Trivia Game for JSON File How To Use]
 
-
-
-
-Step 3 integrate quiz project - project 12
-Create json file for responses
 Create asynchronous function for responses
 make the text appear on the screen the way it does on CHAT GPT
-- make it appear that someone is actually typing responses - 
+make it appear that someone is actually typing responses
 
 So here it is. I have to bring the quiz project, project 12 into this, both as a json 
 and i have to make responses asynchronous in a way that makes the text appear on screen
 like someone is typing them out.
+
+[fix color toggler] [New Color Scheme] [New styling to toggle Buttons]
 
 
 
