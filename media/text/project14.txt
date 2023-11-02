@@ -7123,6 +7123,9 @@ Step 3 integrate quiz project - project 12
 So this is almost done, content creation and styling took forever, and cleaning things up took forever.
 The card border should be gone, but it might take a while for this to appear, this change to appear.
 
+<!-- C:\Users\KLYam\OneDrive\Documents\GitHub\kennethlarotyamat.github.io\CSS\project12.css -->
+<!-- C:\Users\KLYam\OneDrive\Documents\GitHub\kennethlarotyamat.github.io\javascript\project12.js -->
+
 [Development Notes] [End]
 
 ...
