@@ -6816,6 +6816,8 @@ helped somewhat, it didn't bring my any closer to fixing the issue, well, maybe 
 p tags from around the iframe helped center the iframe in the calculator project, but here, removing them 
 moved the iframe from the right side of the main to the left side of the main.
 
+I think that cutting the fat out of a lot of these files would help. This is taking a long time.
+
 
 [Development Notes] [End]
 
