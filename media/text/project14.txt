@@ -6701,6 +6701,9 @@ allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; pic
 
  I'm going to forget about changing the coloring for this project for now.
 
+ I created a small amount of new content, 2 new slides, one for audrey hepburn, and another one for lana del rey.
+ I wanted to create new content, but I also didn't want to throw away all of the other, older content.
+
 ...
 
 [Project 14 Outline] [Start] [Due 11/04]
