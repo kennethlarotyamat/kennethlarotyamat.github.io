@@ -1,16 +1,5 @@
 /* <!-- https://kennethlarotyamat.github.io/CSS/p14s001to015.css --> */
 
-/* .card {
-    justify-content: center !important;
-} */
-
-/* col-md-4 mb-4 */
-/* .col-md-4 {
-    justify-content: center !important;
-} */
-/* .card {
-    justify-content: center !important;
-} */
 body{
     display: flex;
     justify-content: center !important;

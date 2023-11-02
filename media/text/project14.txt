@@ -6714,6 +6714,27 @@ Step 2
 
 I think that a very simple use of a JSON file would be the (Connection Name area, where it toggles through the names)
 
+/* .card {
+    justify-content: center !important;
+} */
+
+/* col-md-4 mb-4 */
+/* .col-md-4 {
+    justify-content: center !important;
+} */
+/* .card {
+    justify-content: center !important;
+} */
+
+[Center cards on Page] [Center Cards in DIV]
+
+Okay so that part is done.
+
+<!-- Revert to absolute path after editing -->
+<!-- <link rel="stylesheet" href="https://kennethlarotyamat.github.io/CSS/p14s001to015.css"> -->
+<!-- C:\Users\KLYam\OneDrive\Documents\GitHub\kennethlarotyamat.github.io\CSS\p14s001to015.css -->
+<!-- justify-content: center!important; -->
+
 [Development Notes] [End]
 
 ...
@@ -6722,7 +6743,7 @@ I think that a very simple use of a JSON file would be the (Connection Name area
 
 
 
-[Center cards on Page] [Center Cards in DIV]
+
                                               [See how this was done for the calculator project]
 
 [Make Sure Buttons Work] 
