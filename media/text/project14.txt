@@ -6006,10 +6006,10 @@ aria-labelledby="exampleModalLabel" aria-hidden="true">
 
 <div class="modal-footer">
 
-    <button type="button" class="btn btn-outline-danger" data-bs-dismiss="modal">Close</button>
+<button type="button" class="btn btn-outline-danger" data-bs-dismiss="modal">Close</button>
 
-    <a type="button" class="btn btn-success" data-bs-toggle="modal"
-        data-bs-target="#exampleModal868S">Send</a>
+<a type="button" class="btn btn-success" data-bs-toggle="modal"
+data-bs-target="#exampleModal868S">Send</a>
 </div>
 
 
@@ -6041,8 +6041,8 @@ You know you like it but it drives you insane <br>
 You know you like it but it drives you insane</p>
 <a data-bs-toggle="modal" data-bs-target="#readmoremarion" class="btn btn-primary">Read More</a>
 <nobr class="float-right"> <button data-bs-whatever="sendMessage"
-    class=" btn btn-success float-right " data-bs-toggle="modal"
-    data-bs-target="#sendmessagesubmodalexampleModalloginsubmodal">Send Message</button></nobr>
+class=" btn btn-success float-right " data-bs-toggle="modal"
+data-bs-target="#sendmessagesubmodalexampleModalloginsubmodal">Send Message</button></nobr>
 </div>
 </div>
 </div>
@@ -6058,8 +6058,8 @@ class="card-img-top" alt="Sample Image">
 You know you like it but it drives you insane</p>
 <a data-bs-toggle="modal" data-bs-target="#alicianash" class="btn btn-primary">Discover</a>
 <nobr class="float-right"> <button data-bs-whatever="sendMessage"
-    class=" btn btn-success float-right " data-bs-toggle="modal"
-    data-bs-target="#sendmessagesubmodalexampleModalloginsubmodal">Send Message</button></nobr>
+class=" btn btn-success float-right " data-bs-toggle="modal"
+data-bs-target="#sendmessagesubmodalexampleModalloginsubmodal">Send Message</button></nobr>
 </div>
 </div>
 </div>
@@ -6701,12 +6701,12 @@ allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; pic
 
 [Development Notes] [Start]
 
- [Work on coloring]
+[Work on coloring]
 
- I'm going to forget about changing the coloring for this project for now.
+I'm going to forget about changing the coloring for this project for now.
 
- I created a small amount of new content, 2 new slides, one for audrey hepburn, and another one for lana del rey.
- I wanted to create new content, but I also didn't want to throw away all of the other, older content.
+I created a small amount of new content, 2 new slides, one for audrey hepburn, and another one for lana del rey.
+I wanted to create new content, but I also didn't want to throw away all of the other, older content.
 
 That took a lot of time. getting the cards into the slider, but it works, and I think this is going to look pretty cool.
 
@@ -6715,15 +6715,15 @@ Step 2
 I think that a very simple use of a JSON file would be the (Connection Name area, where it toggles through the names)
 
 /* .card {
-    justify-content: center !important;
+justify-content: center !important;
 } */
 
 /* col-md-4 mb-4 */
 /* .col-md-4 {
-    justify-content: center !important;
+justify-content: center !important;
 } */
 /* .card {
-    justify-content: center !important;
+justify-content: center !important;
 } */
 
 [Center cards on Page] [Center Cards in DIV]
@@ -6740,61 +6740,61 @@ Okay so that part is done.
 So all the cards should be aligned, I just have to wait for an update with GitHub.
 
 .main {
-  grid-area: main;
-  background-color: #ecdec9;
-  padding: 3.9vh;
+grid-area: main;
+background-color: #ecdec9;
+padding: 3.9vh;
 }
 
 .main {
-  grid-area: main;
-  background-color: #ecdec9;
-  vertical-align: top;
-  width: 100%;
-  height: auto;
+grid-area: main;
+background-color: #ecdec9;
+vertical-align: top;
+width: 100%;
+height: auto;
 
 }
 
 #sliderproject10 {
-  width: 100%;
-  height: auto;
-  aspect-ratio: 8.68/6.86;
-  position: relative;
+width: 100%;
+height: auto;
+aspect-ratio: 8.68/6.86;
+position: relative;
 
 
 
 }
-  #sliderproject10 {
-    width: 100%;
-    height: auto;
-    aspect-ratio: 8.68/6.86;
-    position: relative;
+#sliderproject10 {
+width: 100%;
+height: auto;
+aspect-ratio: 8.68/6.86;
+position: relative;
 
 
 
-  }  
+}  
 
-  /*   justify-content: center !important;
+/*   justify-content: center !important;
 display: flex; */
 /*   display: flex;     */
 
 #sliderproject10 iframe {
-  position: absolute;
+position: absolute;
 
-  width: 100%;
-  height: auto;
-  aspect-ratio: 8.68/6.86;
-  opacity: 0;
-  transition: all 1s ease-in-out;
+width: 100%;
+height: auto;
+aspect-ratio: 8.68/6.86;
+opacity: 0;
+transition: all 1s ease-in-out;
 
 
 }  
 
 #sliderproject10 iframe.active {
-  opacity: 1;
+opacity: 1;
 }
 
 /* p {
-  align-self: center;
+align-self: center;
 } */
 
 /* https://css-tricks.com/snippets/css/a-guide-to-flexbox/ */
@@ -6824,7 +6824,7 @@ On this day
 6 years ago
 Kenneth Larot Yamat
 November 2, 2017
-  · 
+· 
 Shared with Public
 I just ate at panda express. What I really want is pinakbet or sinigang.
 
@@ -6839,115 +6839,115 @@ I found this form tag in my file. something that I obviously am not using since 
 // [Contact Form Start]
 
 $(document).ready(function() {
-  const form = $('.exampleForm');
-  const submitButton = $('.submit');
-  const successMessage = $('#form-submitted-msg');
+const form = $('.exampleForm');
+const submitButton = $('.submit');
+const successMessage = $('#form-submitted-msg');
 
-  const formElements = form.find(':input');
+const formElements = form.find(':input');
 
-  const allInputsValid = () => {
-    const valid = formElements.toArray().every((element) => {
-      if (element.nodeName === 'SELECT') {
-        return element.value !== 'Please select an option';
-      } else {
-        return element.checkValidity();
-      }
-    });
+const allInputsValid = () => {
+const valid = formElements.toArray().every((element) => {
+if (element.nodeName === 'SELECT') {
+return element.value !== 'Please select an option';
+} else {
+return element.checkValidity();
+}
+});
 
-    return valid;
-  };
+return valid;
+};
 
-  const handleChange = () => {
-    formElements.each(function() {
-      const element = $(this);
+const handleChange = () => {
+formElements.each(function() {
+const element = $(this);
 
-      if (
-        !element[0].checkValidity() &&
-        element[0].nodeName !== 'BUTTON' &&
-        element[0].nodeName !== 'SELECT' &&
-        element[0].type !== 'checkbox' &&
-        element[0].type !== 'radio'
-      ) {
-        element.css('border-color', 'red');
-        element.next().css('color', 'red');
-        element.next().css('display', 'block');
-        element.prev().css('color', 'red');
-      }
+if (
+!element[0].checkValidity() &&
+element[0].nodeName !== 'BUTTON' &&
+element[0].nodeName !== 'SELECT' &&
+element[0].type !== 'checkbox' &&
+element[0].type !== 'radio'
+) {
+element.css('border-color', 'red');
+element.next().css('color', 'red');
+element.next().css('display', 'block');
+element.prev().css('color', 'red');
+}
 
-      if (
-        element[0].checkValidity() &&
-        element[0].nodeName !== 'BUTTON' &&
-        element[0].nodeName !== 'SELECT' &&
-        element[0].type !== 'checkbox' &&
-        element[0].type !== 'radio'
-      ) {
-        element.css('border-color', '#CED4DA');
-        element.next().css('color', '#CED4DA');
-        element.next().css('display', 'none');
-        element.prev().css('color', '#212529');
-      }
+if (
+element[0].checkValidity() &&
+element[0].nodeName !== 'BUTTON' &&
+element[0].nodeName !== 'SELECT' &&
+element[0].type !== 'checkbox' &&
+element[0].type !== 'radio'
+) {
+element.css('border-color', '#CED4DA');
+element.next().css('color', '#CED4DA');
+element.next().css('display', 'none');
+element.prev().css('color', '#212529');
+}
 
-      if (
-        !element[0].checkValidity() &&
-        (element[0].type === 'checkbox' || element[0].type === 'radio')
-      ) {
-        element.css('border-color', 'red');
-        element.next().css('color', 'red');
-      }
+if (
+!element[0].checkValidity() &&
+(element[0].type === 'checkbox' || element[0].type === 'radio')
+) {
+element.css('border-color', 'red');
+element.next().css('color', 'red');
+}
 
-      if (
-        element[0].checkValidity() &&
-        (element[0].type === 'checkbox' || element[0].type === 'radio')
-      ) {
-        element.css('border-color', '#CED4DA');
-        element.next().css('color', '#212529');
-      }
+if (
+element[0].checkValidity() &&
+(element[0].type === 'checkbox' || element[0].type === 'radio')
+) {
+element.css('border-color', '#CED4DA');
+element.next().css('color', '#212529');
+}
 
-      if (
-        element[0].nodeName === 'SELECT' &&
-        element.val() === 'Please select an option'
-      ) {
-        element.css('border-color', 'red');
-        element.next().css('color', 'red');
-        element.next().css('display', 'block');
-        element.prev().css('color', 'red');
-      }
+if (
+element[0].nodeName === 'SELECT' &&
+element.val() === 'Please select an option'
+) {
+element.css('border-color', 'red');
+element.next().css('color', 'red');
+element.next().css('display', 'block');
+element.prev().css('color', 'red');
+}
 
-      if (
-        element[0].nodeName === 'SELECT' &&
-        element.val() !== 'Please select an option'
-      ) {
-        element.css('border-color', '#CED4DA');
-        element.next().css('color', '#CED4DA');
-        element.next().css('display', 'none');
-        element.prev().css('color', '#212529');
-      }
-    });
+if (
+element[0].nodeName === 'SELECT' &&
+element.val() !== 'Please select an option'
+) {
+element.css('border-color', '#CED4DA');
+element.next().css('color', '#CED4DA');
+element.next().css('display', 'none');
+element.prev().css('color', '#212529');
+}
+});
 
-    if (allInputsValid()) {
-      submitButton.removeAttr('disabled');
-    } else {
-      submitButton.attr('disabled', '');
-    }
-  };
+if (allInputsValid()) {
+submitButton.removeAttr('disabled');
+} else {
+submitButton.attr('disabled', '');
+}
+};
 
-  const handleSubmit = (e) => {
-    e.preventDefault(); 
+const handleSubmit = (e) => {
+e.preventDefault(); 
 
-    if (allInputsValid()) {
-      successMessage.css('display', 'block');
-      form[0].reset();
-      submitButton.attr('disabled', '');
+if (allInputsValid()) {
+successMessage.css('display', 'block');
+form[0].reset();
+submitButton.attr('disabled', '');
 
-      setTimeout(() => {
-        successMessage.css('display', 'none');
-      }, 9000);
-    }
-  };
+setTimeout(() => {
+successMessage.css('display', 'none');
+}, 9000);
+}
+};
 
-  formElements.on('change', handleChange);
+formElements.on('change', handleChange);
 
-  form.on('submit', (e) => handleSubmit(e));
+form.on('submit', (e) => handleSubmit(e));
 });
 
 // [Contact Form End]
@@ -6959,12 +6959,12 @@ I'm going to cut out the contact form from this.
 // [Modal Autoplay Shutoff Start]
 
 $(function(){
-  $("body").on('hidden.bs.modal', function (e) {
-    var $iframes = $(e.target).find("iframe");
-    $iframes.each(function(index, iframe){
-      $(iframe).attr("src", $(iframe).attr("src"));
-    });
-  });
+$("body").on('hidden.bs.modal', function (e) {
+var $iframes = $(e.target).find("iframe");
+$iframes.each(function(index, iframe){
+$(iframe).attr("src", $(iframe).attr("src"));
+});
+});
 });
 
 // [Modal Autoplay Shutoff End]
@@ -6983,18 +6983,18 @@ $(function(){
 <!-- <link rel="stylesheet" href="./CSS/style.css"> -->
 
 /* button:not(#modalbutton1):not(#modalbutton2) {
-  border-style: outset;
-  border-width: thick;
-  width: auto;
-  border-color: silver;
-  padding: 5px 5px;
+border-style: outset;
+border-width: thick;
+width: auto;
+border-color: silver;
+padding: 5px 5px;
 }
 button:hover:not(#modalbutton1):not(#modalbutton2) {
-  border-style: inset; 
-  border-width: thick;
-  width: auto;
-  border-color: silver;
-  padding: 5px 5px;
+border-style: inset; 
+border-width: thick;
+width: auto;
+border-color: silver;
+padding: 5px 5px;
 } */
 /* Active - Delete Duplicates */
 
@@ -7004,58 +7004,58 @@ iframe{margin: 1vh 1vh 1vh 1vh; padding: 1vh 1vh 1vh 1vh;  width:100%; height: a
 
 this is working, and I'm getting closer.
 
-  /* .buttonproject10:hover {
-  }
+/* .buttonproject10:hover {
+}
 
-  button#prevproject10 {
-    
-
-
-  }
-   
-  button#nextproject10 {
-
-    
-
-  }
-  #nextproject10left{
-    
-
-  }
-  #nextproject10right{ 
-    
-
-  } */
-
-    /* .buttonproject10 {
+button#prevproject10 {
 
 
 
-    
+}
+
+button#nextproject10 {
+
+
+
+}
+#nextproject10left{
+
+
+}
+#nextproject10right{ 
+
+
+} */
+
+/* .buttonproject10 {
 
 
 
 
-  } */
- 
-   /* tr[name="toptablerow"] {
-    place-items: center;
-    text-align: center;
-    justify-content: center;
-  }
-  tr[name="bottomtablerow"] {
-    place-items: center;
-    text-align: center;
-    justify-content: center;
-  }
-  tr[name="bottomtablerow2"] {
 
-    place-items: center;
-    text-align: center;
-    justify-content: center;
-  } */
 
-  /* <!-- https://kennethlarotyamat.github.io/CSS/p14s001to015.css --> */
+
+
+} */
+
+/* tr[name="toptablerow"] {
+place-items: center;
+text-align: center;
+justify-content: center;
+}
+tr[name="bottomtablerow"] {
+place-items: center;
+text-align: center;
+justify-content: center;
+}
+tr[name="bottomtablerow2"] {
+
+place-items: center;
+text-align: center;
+justify-content: center;
+} */
+
+/* <!-- https://kennethlarotyamat.github.io/CSS/p14s001to015.css --> */
 
 body{width: 100%;}
 .card{width: 100%;}
@@ -7064,11 +7064,11 @@ body{width: 100%;}
 
 
 /*     display: flex;
-    justify-content: center !important; */
+justify-content: center !important; */
 
-    I think that I got this done. I think that this is fixed.
+I think that I got this done. I think that this is fixed.
 
-    <!-- C:\Users\KLYam\OneDrive\Documents\GitHub\kennethlarotyamat.github.io\CSS\p14s001to015.css -->
+<!-- C:\Users\KLYam\OneDrive\Documents\GitHub\kennethlarotyamat.github.io\CSS\p14s001to015.css -->
 <!-- C:\Users\KLYam\OneDrive\Documents\GitHub\kennethlarotyamat.github.io\CSS\p14s001to015.css -->
 <!-- <link rel="stylesheet" href=" https://kennethlarotyamat.github.io/CSS/p14s001to015.css "> -->
 <!-- Revert to absolute once fixed -->
@@ -7077,7 +7077,17 @@ body{width: 100%;}
 
 
 /*     display: flex;
-    justify-content: center !important; */
+justify-content: center !important; */
+
+<!-- C:\Users\KLYam\OneDrive\Documents\GitHub\kennethlarotyamat.github.io\CSS\project14.css -->
+<!-- revert to absolute when this is finished -->
+<!-- src=" https://kennethlarotyamat.github.io/html/jcs0016.html " -->
+<!-- C:\Users\KLYam\OneDrive\Documents\GitHub\kennethlarotyamat.github.io\html\jcs0016.html -->
+
+
+
+
+[See how this was done for the calculator project]
 
 [Development Notes] [End]
 
@@ -7085,10 +7095,6 @@ body{width: 100%;}
 
 [Project 14 Outline] [Start] [Due 11/04]
 
-
-
-
-                                              [See how this was done for the calculator project]
 
 [Make Sure Buttons Work] 
 [Create Conversation Mechanism Based on Project 12 Using JSON file, rather than Millions of Javascript functions]
