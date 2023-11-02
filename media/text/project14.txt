@@ -7144,7 +7144,7 @@ So here it is. I have to bring the quiz project, project 12 into this, both as a
 and i have to make responses asynchronous in a way that makes the text appear on screen
 like someone is typing them out.
 
-[fix color toggler] [New Color Scheme] [New styling to toggle Buttons]
+[fix color toggler] [New Color Scheme] [New styling to toggle Buttons] [ bring swipe left and swipe right buttons down closer to the center]
 
 
 
