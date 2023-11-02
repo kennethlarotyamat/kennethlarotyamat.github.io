@@ -6633,6 +6633,7 @@ allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; pic
 <!-- Janine Gunders -->
 <!-- <iframe  src="https://kennethlarotyamat.github.io/html/p14chconnectionsindex.html" style="aspect-ratio: 8.68/6.86; height: auto; width:100%;" scrolling="yes"   
 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen ></iframe> -->
+<!-- [This is such a nightmare] C:\Users\KLYam\OneDrive\Documents\GitHub\kennethlarotyamat.github.io\html\p14chconnectionsindex.html -->
 
 ...
 
