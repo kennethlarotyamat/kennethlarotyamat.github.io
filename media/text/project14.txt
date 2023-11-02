@@ -7113,16 +7113,23 @@ allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; pic
 <!-- C:\Users\KLYam\OneDrive\Documents\GitHub\kennethlarotyamat.github.io\CSS\p14s001to015.css -->
 <!-- <link rel="stylesheet" href=" https://kennethlarotyamat.github.io/CSS/p14s001to015.css "> -->
 
+I want the slider project to make it look like a swipe left swipe right the way it is on dating apps.
+this is supposed to be a dating app and dating simulator.   
+this is supposed to look like a dating simulator.
+
 [Development Notes] [End]
 
 ...
 
 [Project 14 Outline] [Start] [Due 11/04]
 
+[Priority]       [JSON FILE]       [Connection Name Area]   [Review how JSON files work in trivia app and emulate the process]
 
-[Make Sure Buttons Work] 
-[Create Conversation Mechanism Based on Project 12 Using JSON file, rather than Millions of Javascript functions]
-[Review how JSON files work in trivia app and emulate the process]
+[Secondary]      [Make Sure Buttons Work] 
+                 [Create Conversation Mechanism Based on Project 12 Using JSON file, rather than Millions of Javascript functions]
+
+
+
 
 Step 3 integrate quiz project - project 12
 Create json file for responses
@@ -7134,10 +7141,9 @@ So here it is. I have to bring the quiz project, project 12 into this, both as a
 and i have to make responses asynchronous in a way that makes the text appear on screen
 like someone is typing them out.
 
-this is supposed to look like a dating simulator.
 
-I want the slider project to make it look like a swipe left swipe right the way it is on dating apps.
-this is supposed to be a dating app and dating simulator.   
+
+
 
 [Project 14 Outline] [End]
 
