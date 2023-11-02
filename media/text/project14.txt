@@ -6971,6 +6971,17 @@ $(function(){
 
 ...
 
+<!-- C:\Users\KLYam\OneDrive\Documents\GitHub\miscellaneous\other\carousel\profilepicture1594822910991.jpg -->
+<!-- C:\Users\KLYam\OneDrive\Documents\GitHub\kennethlarotyamat.github.io\media\images\profilepicture1594822910991.jpg -->
+<!-- I'm not sure what to think about this right here. -->
+<!-- C:\Users\KLYam\OneDrive\Documents\GitHub\kennethlarotyamat.github.io\other\project010\project10index.html -->
+<!-- twst test deployment -->
+<!-- // Update 10292023 0229 -->
+<!-- https://kennethlarotyamat.github.io/other/project008/assignment11/assignment11index.html -->
+<!-- <link rel="icon"  href="..\media\favicon22223211223211.png">   -->
+<!-- C:\Users\KLYam\OneDrive\Documents\GitHub\kennethlarotyamat.github.io\CSS\style.css -->
+<!-- <link rel="stylesheet" href="./CSS/style.css"> -->
+
 [Development Notes] [End]
 
 ...
