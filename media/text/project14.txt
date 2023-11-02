@@ -6697,13 +6697,17 @@ allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; pic
 <!-- Audrey Hepburn --> 
 <!-- C:\Users\KLYam\OneDrive\Documents\GitHub\kennethlarotyamat.github.io\media\images\squarescreenshot20231102033213.png -->
 
+ [Work on coloring]
+
+ I'm going to forget about changing the coloring for this project for now.
+
 ...
 
 [Project 14 Outline] [Start] [Due 11/04]
 
 Step 2 
 
-[Center cards on Page] [Center Cards in DIV] [Work on coloring]
+[Center cards on Page] [Center Cards in DIV]
 [Make Sure Buttons Work] 
 [Create Conversation Mechanism Based on Project 12 Using JSON file, rather than Millions of Javascript functions]
 [Review how JSON files work in trivia app and emulate the process]
