@@ -6710,13 +6710,17 @@ allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; pic
 
 That took a lot of time. getting the cards into the slider, but it works, and I think this is going to look pretty cool.
 
+Step 2 
+
+I think that a very simple use of a JSON file would be the (Connection Name area, where it toggles through the names)
+
 [Development Notes] [End]
 
 ...
 
 [Project 14 Outline] [Start] [Due 11/04]
 
-Step 2 
+
 
 [Center cards on Page] [Center Cards in DIV]
                                               [See how this was done for the calculator project]
