@@ -7108,7 +7108,7 @@ I Just need a JSON file set up.
 <!-- Helen Benson -->
 <!-- <iframe  src="https://kennethlarotyamat.github.io/html/p14chconnectionsindex.html" style="aspect-ratio: 8.68/6.86; height: auto; width:100%;" scrolling="yes"   
 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen ></iframe> -->
-
+<!-- <link rel="stylesheet" href=" C:\Users\KLYam\OneDrive\Documents\GitHub\kennethlarotyamat.github.io\CSS\project14.css "> -->
 
 [Development Notes] [End]
 
