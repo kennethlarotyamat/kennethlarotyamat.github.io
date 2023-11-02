@@ -6810,6 +6810,13 @@ display: flex; */
 <!-- C:\Users\KLYam\OneDrive\Documents\GitHub\kennethlarotyamat.github.io\CSS\p14s001to015.css -->
 <!-- https://kennethlarotyamat.github.io/CSS/p14s001to015.css -->
 
+I'm thinking that it might help for me to move the styling for the iframes into the css styling 
+sheet and out of the HTML file. I did make a few changes just now, in the HTML file, and it seems to have 
+helped somewhat, it didn't bring my any closer to fixing the issue, well, maybe it did, but removing the 
+p tags from around the iframe helped center the iframe in the calculator project, but here, removing them 
+moved the iframe from the right side of the main to the left side of the main.
+
+
 [Development Notes] [End]
 
 ...
