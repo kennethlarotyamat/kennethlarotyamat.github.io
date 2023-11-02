@@ -6698,6 +6698,9 @@ allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; pic
 <!-- C:\Users\KLYam\OneDrive\Documents\GitHub\kennethlarotyamat.github.io\media\images\squarescreenshot20231102033213.png -->
 <!-- revert to absolute reference after a few minutes -->
 <!-- C:\Users\KLYam\OneDrive\Documents\GitHub\kennethlarotyamat.github.io\media\images\squarescreenshot20231102033213.png -->
+
+[Development Notes] [Start]
+
  [Work on coloring]
 
  I'm going to forget about changing the coloring for this project for now.
@@ -6706,6 +6709,8 @@ allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; pic
  I wanted to create new content, but I also didn't want to throw away all of the other, older content.
 
 That took a lot of time. getting the cards into the slider, but it works, and I think this is going to look pretty cool.
+
+[Development Notes] [End]
 
 ...
 
