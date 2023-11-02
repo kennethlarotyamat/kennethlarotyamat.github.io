@@ -6694,7 +6694,8 @@ allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; pic
 // <!-- Elizabth Grant -->  
 // <!-- Audrey Kathleen Hepburn -->   */
 
-
+<!-- Audrey Hepburn --> 
+<!-- C:\Users\KLYam\OneDrive\Documents\GitHub\kennethlarotyamat.github.io\media\images\squarescreenshot20231102033213.png -->
 
 ...
 
