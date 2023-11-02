@@ -7140,6 +7140,10 @@ C:\Users\KLYam\OneDrive\Documents\GitHub\kennethlarotyamat.github.io\html\projec
 
 [need to finish daily assignments] [check project 12 before returning to project 14]
 
+I think that a lot of things may have just broke right now as a result of moving 
+files around into new spaces. I really wanted to clean things up, but, in many ways I think that 
+are probably just as messy as they were before. just with fewer folders.
+
 [Development Notes] [End]
 
 ...
