@@ -6830,6 +6830,10 @@ I just ate at panda express. What I really want is pinakbet or sinigang.
 
 ...
 
+<form class="exampleForm" id="exampleForm" autocomplete="off" action="mailto:info@chestnutandhazel.com" target="" method="post" novalidate></form>
+
+I found this form tag in my file. something that I obviously am not using since I'm using the right aside for the toggle button.
+
 
 [Development Notes] [End]
 
