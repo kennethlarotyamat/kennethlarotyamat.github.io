@@ -7391,6 +7391,16 @@ In the next two lessons, we’ll take a deep dive into more complex topics in Re
 /* text-wrap: wrap; */
 /* <!-- https://kennethlarotyamat.github.io/CSS/p14s001to015.css --> */
 
+
+/* https://developer.mozilla.org/en-US/docs/Web/CSS/box-sizing */
+/* https://developer.mozilla.org/en-US/docs/Web/CSS/text-wrap */
+/* text-wrap: wrap; */
+/* <!-- https://kennethlarotyamat.github.io/CSS/p14s001to015.css --> */
+/* https://developer.mozilla.org/en-US/docs/Web/CSS/box-sizing */
+/* https://developer.mozilla.org/en-US/docs/Web/CSS/text-wrap */
+/* text-wrap: wrap; */
+/* <!-- https://kennethlarotyamat.github.io/CSS/p14s001to015.css --> */
+
 ...
 
 [Project 14 Outline] [Start] [Due 11/04]
