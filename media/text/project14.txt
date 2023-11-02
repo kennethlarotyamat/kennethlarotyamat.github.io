@@ -6996,6 +6996,36 @@ button:hover:not(#modalbutton1):not(#modalbutton2) {
   border-color: silver;
   padding: 5px 5px;
 } */
+/* Active - Delete Duplicates */
+
+/* style="  " */
+
+iframe{margin: 1vh 1vh 1vh 1vh; padding: 1vh 1vh 1vh 1vh;  width:100%; height: auto; aspect-ratio: 50/70;}
+
+this is working, and I'm getting closer.
+
+  /* .buttonproject10:hover {
+  }
+
+  button#prevproject10 {
+    
+
+
+  }
+   
+  button#nextproject10 {
+
+    
+
+  }
+  #nextproject10left{
+    
+
+  }
+  #nextproject10right{ 
+    
+
+  } */
 
 [Development Notes] [End]
 

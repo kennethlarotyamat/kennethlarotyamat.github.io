@@ -777,28 +777,7 @@ input:checked + .slider:before {
 
   }
  
-  .buttonproject10:hover {
-  }
 
-  button#prevproject10 {
-    
-
-
-  }
-   
-  button#nextproject10 {
-
-    
-
-  }
-  #nextproject10left{
-    
-
-  }
-  #nextproject10right{ 
-    
-
-  }
 
 /* Active - Delete Duplicates */
 
@@ -899,9 +878,15 @@ input:checked + .slider:before {
   vertical-align: top;
 }
 
+iframe {
+  margin: 1vh 1vh 1vh 1vh;
+  padding: 1vh 1vh 1vh 1vh;
+  width: 100%;
+  height: auto;
+  aspect-ratio: 50/70;
+}
+
 /* Active - Delete Duplicates */
-
-
 
 
 
