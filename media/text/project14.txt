@@ -6617,6 +6617,15 @@ I don't reall know if I'm going to be able to read all of that. it was regarding
 I'm trying to think. where did I leave off? I'm going to come back around to this project later. I'll finish it, obviously, but 
 I'm going to take a break. 
 
+<!-- Marion Silver -->    
+<!-- <div class="col-md-4 mb-4"> -->
+<!-- data-bs-target="#exampleModal868S">Send</a> -->
+
+<!-- <iframe  src="https://kennethlarotyamat.github.io/html/p14chconnectionsindex.html" style="aspect-ratio: 8.68/6.86; height: auto; width:100%;" scrolling="yes"   
+allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen ></iframe> -->
+
+
+
 ...
 
 [Project 14 Outline] [Start] [Due 11/04]
