@@ -1,7 +1,10 @@
 /* <!-- https://kennethlarotyamat.github.io/CSS/p14s001to015.css --> */
 
-body{
-    display: flex;
-    justify-content: center !important;
-    width: 100%;
-}
+body{width: 100%;}
+.card{width: 100%;}
+.col-md-4{width: 100%;} 
+.mb-4{width: 100%;}
+
+
+/*     display: flex;
+    justify-content: center !important; */
