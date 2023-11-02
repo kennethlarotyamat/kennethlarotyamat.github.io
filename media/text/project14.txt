@@ -7150,6 +7150,237 @@ the name on the connection card. this is almost done, well, the required part an
 
 [Development Notes] [End]
 
+[October 31st Assignments Start]
+
+[https://www.youtube.com/watch?v=aRRXAX_HwWc] 
+[https://docs.google.com/document/d/1ymC2MTdRZqoYhh5kGKQ6UqrZCxevXnVzqicMS_BXcS8/edit#heading=h.3h69xvvreavc]
+[https://docs.google.com/document/d/1CotCVrECfbgJx-T5SaQ-DSwgpV3MhhRYEIWM2WPQDpc/edit#heading=h.ik10jyq3fy44]
+
+...
+
+1. Introduction to React
+Goals
+By the end of this lesson, you should understand:
+What React is, and what single page applications (SPAs) are
+The purpose of React and why it was created
+Several key concepts of React such as components, the virtual DOM, and one-way data binding
+Introduction
+In this lesson, we will begin learning about the immensely popular and powerful frontend JavaScript library React. First, we’ll delve a bit into the fascinating evolution of frontend development, charting the progression from early vanilla JavaScript to the emergence of libraries and frameworks that have revolutionized the way web applications are built today. Additionally, we will discuss the concept of single-page applications (SPAs) in greater depth, exploring their advantages, challenges, and the role of React in facilitating their development. By understanding the historical context and the advancements that led to the creation of React, you will gain a deeper appreciation for its significance in modern web development and its role in shaping the future of frontend technologies.
+Next
+
+...
+
+2. Evolution of Frontend Development
+To better understand the significance of React in modern web development, it’s helpful to examine the evolution of frontend development over the years. Frontend development has come a long way from using only basic vanilla JavaScript to now having a plethora of advanced libraries and frameworks, shaping the way we build applications today.
+Vanilla JavaScript
+In the early days of web development, developers were limited to using vanilla JavaScript, which refers to plain JavaScript without any additional libraries or frameworks, to interact with the DOM. While this early form of JavaScript allowed for basic interactivity and DOM manipulation, it was very limited in terms of functionality and often required a lot of repetitive code. As web applications became more complex, developers sought more efficient ways to build dynamic user interfaces.
+jQuery
+jQuery, released in 2006, was a game-changer for frontend development. It provided a simple, powerful API for DOM manipulation, event handling, and AJAX requests, all while ensuring cross-browser compatibility. jQuery significantly reduced the amount of code required to perform common tasks and quickly became the go-to library for frontend developers.
+Early frontend frameworks
+As web applications continued to grow in complexity, developers needed more robust solutions for organizing and structuring their code. In response, libraries like Backbone.js and frameworks like the original Angular.js emerged, offering more sophisticated tools for building web applications.
+Backbone.js, released in 2010, introduced a lightweight, flexible structure based on the Model-View-Controller (MVC) pattern. It provided developers with a way to manage application state and encouraged code modularity.
+Angular.js, introduced by Google in 2010, took frontend development yet a step further with its two-way data binding, dependency injection, and built-in directives. Angular.js enabled developers to create complex, feature-rich applications with less code and effort than ever before.
+Next
+
+...
+
+3. The Birth of React
+As web applications continued to evolve, the need for a more efficient and performant solution became apparent – one that could adequately address the challenges of maintaining and scaling large, complex applications with rapidly changing data. This solution emerged at Facebook, of all places!
+Facebook’s applications grew, and the engineering team realized that traditional methods for building user interfaces were becoming increasingly inefficient and difficult to manage. To solve this problem, Facebook engineer Jordan Walke began developing React in 2011. After several iterations and improvements, React was eventually open-sourced in 2013, allowing the wider development community to contribute to and utilize the library. Today, React is used by a vast number of companies and developers, making it one of the most popular JavaScript libraries for building UIs.
+React is primarily used for developing what are known as single-page applications (SPAs), where the user interacts with and navigates through the website without requiring full-page refreshes. We’ll delve deeper into single-page applications shortly. For now, suffice it to say that one of React’s core strengths is its ability to handle rapidly changing data and seamlessly update the UI without causing unnecessary re-rendering or page refreshes. This is particularly useful when building applications that need to display real-time information or have numerous user interactions.
+Next
+
+...
+
+4. Single Page Applications (SPAs)
+Typically, as you may remember from the explanation of the client-server model in Week One, the way the vast majority of websites used to work is as follows: a user entered a URL in a browser’s address bar, which then made a request to that website’s server. The server, in turn, sent back to the user all the HTML, CSS, and JavaScript necessary to display the requested page. If the user clicked a link to go to a different page on that website, another request was sent to the server, which then sent back another HTML document with its associated CSS and JavaScript, and so on.
+Single-page applications (SPAs), on the other hand, are web applications that load a single HTML page and dynamically update the content as the user interacts with the application – including navigating to a new “page.” This approach provides a smoother, more seamless user experience compared to traditional multi-page applications.
+There are several advantages to using SPAs:
+Improved performance: By reducing the need for full-page refreshes, SPAs can deliver faster, more responsive user experiences.
+Simplified deployment and maintenance: With a single HTML file and separate assets (JavaScript, CSS, images), SPAs can be easier to deploy and maintain compared to traditional multi-page applications.
+Enhanced user experience: The app-like behavior of SPAs can lead to a more engaging and user-friendly experience, as users can navigate and interact with the application more quickly and smoothly.
+However, there are also some challenges associated with SPAs:
+SEO: Due to their reliance on JavaScript for rendering content, SPAs can sometimes face issues with search engine optimization (SEO). Modern search engines have improved their ability to index SPAs, but developers still need to take extra precautions to ensure their content is crawlable and indexable.
+Initial load time: As SPAs load most of the application resources upfront, the initial load time can be longer compared to traditional multi-page applications. However, once the initial resources are loaded, subsequent interactions are usually much faster.
+Browser history management: Since SPAs don’t rely on traditional page navigation, managing browser history and enabling the back button functionality can be more complex. Developers often use client-side routing libraries to handle this aspect of SPAs.
+Of course, as React has only grown in popularity over the years, and the number of React developers has exponentially multiplied, there exists a wealth of different solutions within the React ecosystem to help address these challenges (as there are in other SPA frameworks like Angular and Vue). We’ll cover a couple of them later this week – namely, React Router and React’s lazy loading functionality.
+Next
+
+...
+
+5. Core Concepts in React
+Let’s look at some of React’s core concepts which are important to understand before we begin using it in order to fully appreciate why React is so advantageous for frontend development.
+Declarative vs Imperative Programming
+The imperative paradigm of programming, which is what we’ve been doing with JavaScript so far in this course, requires developers to explicitly define each step of the program – make this change to the DOM, then that change; if the user does this, then make a different DOM update, etc.
+Let’s look at a very simple example to help illustrate the difference between imperative and declarative:
+Imperative Example:
+Imagine you want to change the background color of a div with an ID of “myDiv” to red when a button is clicked. In imperative programming, you would explicitly specify the steps to achieve this:
+const button = document.getElementById('myButton');
+const myDiv = document.getElementById('myDiv');
+
+button.addEventListener('click', function () {
+  myDiv.style.backgroundColor = 'red';
+});
+Declarative Example:
+Now let’s look at the same example, implemented in a declarative way with React. In the declarative paradigm, we simply express what we want to achieve without detailing the specific steps. React will then handle the updating the DOM for us:
+import { useState } from 'react';
+
+function App() {
+  const [bgColor, setBgColor] = useState('');
+
+  const handleClick = () => {
+    setBgColor('red');
+  };
+
+  return (
+    <div>
+      <button onClick={handleClick}>Change color</button>
+      <div id="myDiv" style={{ backgroundColor: bgColor }}>Hello, World!</div>
+    </div>
+  );
+}
+
+export default App;
+
+Here, we’re using the useState React hook to manage the background color state (more on hooks and state later). When the button is clicked, the handleClick function updates the background color to red, and React takes care of updating the UI accordingly.
+React follows this declarative paradigm, which is one of the reasons it has become so popular among developers. By abstracting away much of the complexity involved in updating the UI, React enables developers to focus on what they want their applications to do, rather than how they should do it.
+Virtual DOM
+React uses a virtual DOM to improve performance. The virtual DOM is an in-memory representation of the actual DOM (Document Object Model), which is the structure representing the elements on a web page. In traditional web development, manipulating the DOM can be slow and resource-intensive, leading to poor performance and a suboptimal user experience.
+Whenever a component’s state changes, React calculates the difference between the current virtual DOM and the new one. Once the differences have been determined, React updates the real DOM with the minimal set of changes required. This approach minimizes the number of DOM manipulations, leading to significant performance improvements.
+Reactive Updates
+React automatically updates the UI when the application state changes. This is achieved through the use of reactive updates, which efficiently update only the components affected by the state change. When a component’s state or properties (also known as “props”) change, React triggers a re-render of that component and its children, ensuring that the UI is always in sync with the application state.
+This reactive approach simplifies the process of managing UI changes in response to data updates. React handles this automatically, allowing developers to focus on implementing the application’s core functionality.
+Component-based Architecture
+React follows a component-based architecture, allowing developers to build complex UIs by breaking them down into reusable, isolated components. Each component is a self-contained unit with its own state and properties, encapsulating the logic and rendering for a specific part of the UI.
+This modular approach promotes code reusability and maintainability, making it easier to manage large applications with numerous features and components. By composing an application from smaller, focused components, developers can create highly organized and scalable codebases that are easier to understand and debug.
+One-way Data Binding
+React enforces a unidirectional data flow (one-way data binding). This means that data flows from parent components to child components, making it easier to track and debug data changes in the application.
+Next
+
+...
+
+6. Knowledge Check
+
+When was React open-sourced?
+
+
+2009
+
+
+2011
+
+
+2013
+
+
+2015
+
+Check It! (3 left)
+
+
+Which programming paradigm does React follow?
+
+
+Imperative
+
+
+Declarative
+
+
+Procedural
+
+
+Object-oriented
+
+Check It! (3 left)
+
+
+What is the primary purpose of the virtual DOM in React?
+
+
+To update the UI in real-time
+
+
+To improve performance by minimizing DOM updates
+
+
+To store data for the application
+
+
+To manage component state
+
+Check It! (3 left)
+
+
+In React, what is the main advantage of using a component-based architecture?
+
+
+It allows for easier debugging
+
+
+It makes it easier to share components between applications
+
+
+It promotes code reusability and modularity, making the application easier to maintain
+
+
+It reduces the size of the application bundle
+
+Check It! (3 left)
+
+
+How does data flow in React applications?
+
+
+Bidirectional data flow
+
+
+Downstream data flow
+
+
+Unidirectional data flow
+
+
+Top-down data flow
+
+Check It! (3 left)
+Next
+
+...
+
+7. Conclusion and Takeaways
+In this lesson, we have learned about the origins and purposes of React, explored its key concepts, and understood its underlying principles. We have gained an appreciation for React’s focus on the declarative programming paradigm, which simplifies the process of creating and managing UI updates. We have also learned about the virtual DOM and how it improves performance by minimizing costly DOM manipulations. Additionally, we have explored React’s component-based architecture, which promotes code reusability and maintainability, as well as the importance of one-way data binding and unidirectional data flow. In the next lesson, we will set up our development environment and start writing some React code!
+
+...
+
+11. Conclusion and Takeaways
+In this lesson, we explored the basics of React and learned how to set up a development environment using both create-react-app and Vite. We also discussed the pros and cons of each tool, helping to make an informed decision on which one to use for your projects.
+Furthermore, we delved into JSX, an essential part of React that allows you to write HTML-like code within your JavaScript. We covered how JSX expressions are compiled into JavaScript function calls and how to embed JavaScript expressions within JSX to create dynamic content.
+We also discussed the two ways to create components in React: class components and function components, exploring their differences, use cases, and structure. We also talked about how, with the introduction of hooks, function components have become the recommended way to create components in React.
+With this foundation in place, we are now ready to dive a little deeper into the world of React.
+
+
+...
+
+1. React Basics - Part 2
+Goals
+By the end of this lesson, you should understand:
+How to utilize props to pass data to child components
+The concept of hooks and how to utilize them
+How to manage state within a React component
+Various methods of styling React components, including inline styles, CSS/SCSS modules, and styled-components
+Introduction
+In the previous lesson, we covered many of the basics of React, including setting up a development environment, JSX, and components. In this lesson, we’ll continue learning about key React concepts that will help us understand how to build dynamic frontend applications. We’ll explore the use of props to pass data to components, as well as React hooks, managing state within components, deciding which components should have state, and various methods of styling React components.
+
+...
+
+12. Conclusion & Takeaway
+Conclusion & Takeaway
+In this lesson, we covered some more essential concepts for building dynamic and interactive React applications. We learned how to pass data using props, manage state with the useState hook, and decide which components should have state. We also explored different styling methods, including inline styles, CSS modules, SCSS modules, and styled-components.
+In the next two lessons, we’ll take a deep dive into more complex topics in React and begin building some simple web apps.
+
+[October 31st Assignments End]
+
 ...
 
 [Project 14 Outline] [Start] [Due 11/04]
