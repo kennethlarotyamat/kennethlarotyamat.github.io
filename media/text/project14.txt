@@ -7099,6 +7099,13 @@ I Just need a JSON file set up.
 
 [Deployment Test Tag 1122023 1141]
 
+<!-- C:\Users\KLYam\OneDrive\Documents\GitHub\kennethlarotyamat.github.io\CSS\project14.css -->
+<!-- <link rel="stylesheet" href=" https://kennethlarotyamat.github.io/CSS/project14.css "> -->
+/* [Deployment Test Tag 1122023 1141] */
+// [Deployment Test Tag 1122023 1141]
+<!-- [Deployment Test Tag 1122023 1141] -->
+
+
 [Development Notes] [End]
 
 ...
