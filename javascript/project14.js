@@ -87,7 +87,10 @@ nextImage.addEventListener('click', function() {
 
 
 
-
+/* https://developer.mozilla.org/en-US/docs/Web/CSS/box-sizing */
+/* https://developer.mozilla.org/en-US/docs/Web/CSS/text-wrap */
+/* text-wrap: wrap; */
+/* <!-- https://kennethlarotyamat.github.io/CSS/p14s001to015.css --> */
 
 
 
