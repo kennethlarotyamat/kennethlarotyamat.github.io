@@ -7142,7 +7142,11 @@ C:\Users\KLYam\OneDrive\Documents\GitHub\kennethlarotyamat.github.io\html\projec
 
 I think that a lot of things may have just broke right now as a result of moving 
 files around into new spaces. I really wanted to clean things up, but, in many ways I think that 
-are probably just as messy as they were before. just with fewer folders.
+are probably just as messy as they were before. just with fewer folders. I'm going to take a nap 
+for a few hours. I need to finish my daily assignments, and then come back around to working on 
+project 14. there is just one things I need to complete here, and it's just adding the JSON file 
+and I think that I can check this box off just by changing the connection name section to reflect 
+the name on the connection card. this is almost done, well, the required part anyway.
 
 [Development Notes] [End]
 
