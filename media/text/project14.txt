@@ -7126,6 +7126,17 @@ The card border should be gone, but it might take a while for this to appear, th
 <!-- C:\Users\KLYam\OneDrive\Documents\GitHub\kennethlarotyamat.github.io\CSS\project12.css -->
 <!-- C:\Users\KLYam\OneDrive\Documents\GitHub\kennethlarotyamat.github.io\javascript\project12.js -->
 <!-- <link rel="icon"  href="..\media\favicon22223211223211.png">     -->
+
+C:\Users\KLYam\OneDrive\Documents\GitHub\kennethlarotyamat.github.io\html\project12.html
+
+<!-- <link rel="stylesheet" href="https://kennethlarotyamat.github.io/CSS/project12.css"> -->
+<!-- C:\Users\KLYam\OneDrive\Documents\GitHub\kennethlarotyamat.github.io\CSS\project12.css -->
+
+[check project 12 before moving to next thing]
+
+[check project 12 before returning to project 14]
+[C:\Users\KLYam\OneDrive\Documents\GitHub\kennethlarotyamat.github.io\html\project12.html]
+
 [Development Notes] [End]
 
 ...
