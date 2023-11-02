@@ -6734,6 +6734,10 @@ Okay so that part is done.
 <!-- <link rel="stylesheet" href="https://kennethlarotyamat.github.io/CSS/p14s001to015.css"> -->
 <!-- C:\Users\KLYam\OneDrive\Documents\GitHub\kennethlarotyamat.github.io\CSS\p14s001to015.css -->
 <!-- justify-content: center!important; -->
+<!-- <link rel="stylesheet" href=" https://kennethlarotyamat.github.io/CSS/p14s001to015.css "> -->
+<!-- justify-content: center!important; -->
+
+So all the cards should be aligned, I just have to wait for an update with GitHub.
 
 [Development Notes] [End]
 
