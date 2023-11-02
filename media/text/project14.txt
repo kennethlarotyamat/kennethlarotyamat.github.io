@@ -7135,7 +7135,10 @@ C:\Users\KLYam\OneDrive\Documents\GitHub\kennethlarotyamat.github.io\html\projec
 [check project 12 before moving to next thing]
 
 [check project 12 before returning to project 14]
+
 [C:\Users\KLYam\OneDrive\Documents\GitHub\kennethlarotyamat.github.io\html\project12.html]
+
+[need to finish daily assignments] [check project 12 before returning to project 14]
 
 [Development Notes] [End]
 
