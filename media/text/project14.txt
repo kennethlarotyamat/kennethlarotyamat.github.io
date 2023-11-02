@@ -6708,6 +6708,8 @@ allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; pic
 Step 2 
 
 [Center cards on Page] [Center Cards in DIV]
+    [See how this was done for the calculator project]
+
 [Make Sure Buttons Work] 
 [Create Conversation Mechanism Based on Project 12 Using JSON file, rather than Millions of Javascript functions]
 [Review how JSON files work in trivia app and emulate the process]
