@@ -1,5 +1,4 @@
 
-
 // [Color / Grayscale Toggle Start]
 
 $(function() {
