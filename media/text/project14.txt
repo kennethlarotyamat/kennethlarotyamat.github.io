@@ -7089,6 +7089,14 @@ justify-content: center !important; */
 
 [See how this was done for the calculator project]
 
+I think that this is good, and that it's done. I just need to wait for things to 
+deploy because I won't get an instant update 
+when I use absolute references.
+
+The only thing that I have left with project 14 is to get the JSON file worked out.
+This is almost done, at least the basic requirements anyway.
+I Just need a JSON file set up.
+
 [Development Notes] [End]
 
 ...
