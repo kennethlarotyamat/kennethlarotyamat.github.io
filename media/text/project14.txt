@@ -7038,6 +7038,22 @@ this is working, and I'm getting closer.
 
   } */
  
+   /* tr[name="toptablerow"] {
+    place-items: center;
+    text-align: center;
+    justify-content: center;
+  }
+  tr[name="bottomtablerow"] {
+    place-items: center;
+    text-align: center;
+    justify-content: center;
+  }
+  tr[name="bottomtablerow2"] {
+
+    place-items: center;
+    text-align: center;
+    justify-content: center;
+  } */
 
 [Development Notes] [End]
 
