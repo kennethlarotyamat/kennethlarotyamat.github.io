@@ -6705,6 +6705,8 @@ allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; pic
  I created a small amount of new content, 2 new slides, one for audrey hepburn, and another one for lana del rey.
  I wanted to create new content, but I also didn't want to throw away all of the other, older content.
 
+That took a lot of time. getting the cards into the slider, but it works, and I think this is going to look pretty cool.
+
 ...
 
 [Project 14 Outline] [Start] [Due 11/04]
