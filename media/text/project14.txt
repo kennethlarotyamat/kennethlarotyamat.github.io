@@ -6739,6 +6739,77 @@ Okay so that part is done.
 
 So all the cards should be aligned, I just have to wait for an update with GitHub.
 
+.main {
+  grid-area: main;
+  background-color: #ecdec9;
+  padding: 3.9vh;
+}
+
+.main {
+  grid-area: main;
+  background-color: #ecdec9;
+  vertical-align: top;
+  width: 100%;
+  height: auto;
+
+}
+
+#sliderproject10 {
+  width: 100%;
+  height: auto;
+  aspect-ratio: 8.68/6.86;
+  position: relative;
+
+
+
+}
+  #sliderproject10 {
+    width: 100%;
+    height: auto;
+    aspect-ratio: 8.68/6.86;
+    position: relative;
+
+
+
+  }  
+
+  /*   justify-content: center !important;
+display: flex; */
+/*   display: flex;     */
+
+#sliderproject10 iframe {
+  position: absolute;
+
+  width: 100%;
+  height: auto;
+  aspect-ratio: 8.68/6.86;
+  opacity: 0;
+  transition: all 1s ease-in-out;
+
+
+}  
+
+#sliderproject10 iframe.active {
+  opacity: 1;
+}
+
+/* p {
+  align-self: center;
+} */
+
+/* https://css-tricks.com/snippets/css/a-guide-to-flexbox/ */
+/*   justify-content: center !important; */
+/* align-self: auto | flex-start | flex-end | center */
+
+<!-- C:\Users\KLYam\OneDrive\Documents\GitHub\kennethlarotyamat.github.io\CSS\p14s001to015.css -->
+<!-- https://kennethlarotyamat.github.io/CSS/p14s001to015.css -->
+
+<!-- C:\Users\KLYam\OneDrive\Documents\GitHub\kennethlarotyamat.github.io\html\jcs0016.html -->
+<!-- https://kennethlarotyamat.github.io/html/jcs0016.html -->
+
+<!-- C:\Users\KLYam\OneDrive\Documents\GitHub\kennethlarotyamat.github.io\CSS\p14s001to015.css -->
+<!-- https://kennethlarotyamat.github.io/CSS/p14s001to015.css -->
+
 [Development Notes] [End]
 
 ...
