@@ -264,15 +264,6 @@ input:checked + .slider:before {
 
   .fontweightadjustment{ font-weight: 600; }
 
-  .mode-status 
-  {
-  }
-
-
-
-
-
-
 .questionsbeingasked{font-weight: 750;}
 
 .feedback {
@@ -445,26 +436,6 @@ a {
   background-color: #ffffff;
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 *, *::before, *::after {
   text-wrap: wrap;font-size: 1vw;font-weight: 600;box-sizing: border-box;font-family: 'Cinzel', "Century Schoolbook","Times New Roman", Times, Courier,"Georgia", serif;text-decoration: none;
   }
@@ -491,6 +462,26 @@ h1 {
   gap: 1rem;
   text-align: left;
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -564,7 +555,7 @@ h1 {
 }
 
 input:checked+.slider {
-  background-color: #ccc;
+  background-color: #e6aaaa;
 
 }
 
@@ -575,7 +566,7 @@ input:focus+.slider {
 }
 
 input:checked:focus+.slider {
-  background-color: #ccc;
+  background-color: rgb(253, 245, 247);
 
 }
 
@@ -700,14 +691,3 @@ iframe {
   }
 
 /* Active - Delete Duplicates */
-
-
-
-
-
-
-
-
-
-
-
