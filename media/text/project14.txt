@@ -7110,6 +7110,9 @@ I Just need a JSON file set up.
 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen ></iframe> -->
 <!-- <link rel="stylesheet" href=" C:\Users\KLYam\OneDrive\Documents\GitHub\kennethlarotyamat.github.io\CSS\project14.css "> -->
 
+<!-- C:\Users\KLYam\OneDrive\Documents\GitHub\kennethlarotyamat.github.io\CSS\p14s001to015.css -->
+<!-- <link rel="stylesheet" href=" https://kennethlarotyamat.github.io/CSS/p14s001to015.css "> -->
+
 [Development Notes] [End]
 
 ...
