@@ -101,7 +101,7 @@ function                                                      toggleModeCNjmms()
   }
   modeToggleR.addEventListener('click',                         toggleModeCNjmms);
                
-              //  [deployment check 2:29 PM]
+              //  [deployment check 2:35 PM]
  
 
 
@@ -134,9 +134,9 @@ function                                                      toggleModeCNjmms()
 
 
 
-
-
-
+// https://www.w3schools.com/bootstrap/tryit.asp?filename=trybs_ref_js_carousel2&stacked=h
+// https://www.w3schools.com/bootstrap/tryit.asp?filename=trybs_ref_js_carousel_js&stacked=h
+// https://www.w3schools.com/bootstrap/bootstrap_ref_js_carousel.asp
 // Marion Silver Marion Silver it takes a while to check my code when I use an absolute remote path. like 10 minutes
 // so I only need mode toggle r, mode toggle L should create some kind of "PASS" event.
 
