@@ -138,6 +138,9 @@ function                                                        toggleModeCNjmms
 
 
 
+
+// https://community.metabrainz.org/t/need-your-opinion-on-apostrophe-look-alike-characters/338634
+// https://www.google.com/search?q=define+bella+fonte&sca_esv=578329270&rlz=1C1RXQR_enUS1044US1044&biw=1920&bih=955&ei=DZNBZYjFBerIkPIPk7G74AE&ved=0ahUKEwjI_8mwvaGCAxVqJEQIHZPYDhwQ4dUDCBE&uact=5&oq=define+bella+fonte&gs_lp=Egxnd3Mtd2l6LXNlcnAiEmRlZmluZSBiZWxsYSBmb250ZTIFECEYoAEyBRAhGKABSMAfUPwIWNQdcAJ4AZABAJgBYaAB6QaqAQIxMbgBA8gBAPgBAcICChAAGEcY1gQYsAPCAg0QABiKBRiRAhhGGPkBwgIIEAAYigUYkQLCAgsQABiKBRixAxiRAsICCxAAGIAEGLEDGIMBwgIIEAAYgAQYsQPCAgsQABiKBRixAxiDAcICJBAAGIoFGJECGEYY-QEYlwUYjAUY3QQYRhj0Axj1Axj2A9gBAcICEBAAGIoFGLEDGJECGEYY-QHCAgUQABiABMICJxAAGIoFGLEDGJECGEYY-QEYlwUYjAUY3QQYRhj0Axj1Axj2A9gBAcICEBAAGIAEGLEDGIMBGEYY-QHCAicQABiABBixAxiDARhGGPkBGJcFGIwFGN0EGEYY9AMY9QMY9gPYAQHCAgcQABiABBgKwgIGEAAYFhgewgIIEAAYigUYhgPCAggQABgWGB4YD8ICCBAAGBYYHhgKwgIHECEYoAEYCsICCBAhGBYYHhgd4gMEGAAgQYgGAZAGBLoGBggBEAEYEw&sclient=gws-wiz-serp
 // this isn't working either.
 // You can highlight the block of code and then do a Ctrl+/ to comment 
 // the entire block quickly, then to un-comment, highlight the entire block and
