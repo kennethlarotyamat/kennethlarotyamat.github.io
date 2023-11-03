@@ -89,37 +89,35 @@ nextImage.addEventListener('click', function() {
 
 
 
-// const userNameDisplay = document.querySelector('.usernamedisplay');
-// const modeToggleR = document.getElementById("nextproject10");
-// const modeStatusCN = document.querySelector('.mode-statusCN');
+const userNameDisplay = document.querySelector('.usernamedisplay');
+const modeToggleR = document.getElementById("nextproject10");
+const modeStatusCN = document.querySelector('.mode-statusCN');
 
-// function toggleModeCN() {
-// userNameDisplay.classList.toggle('EGdark-mode');
-// const modeMessageCN = userNameDisplay.classList.contains('EGdark-mode') ?
-// 'Elizabeth Grant'
-// : "Audrey Hepburn";
-// modeStatusCN.innerText = "Currently Viewing " + modeMessageCN;}
-// modeToggleR.addEventListener('click', toggleModeCN);
-
-
+function toggleModeCN() {
+userNameDisplay.classList.toggle('EGdark-mode');
+const modeMessageCN = userNameDisplay.classList.contains('EGdark-mode') ?
+'Elizabeth Grant'
+: "Audrey Hepburn";
+modeStatusCN.innerText = "Currently Viewing " + modeMessageCN;}
+modeToggleR.addEventListener('click', toggleModeCN);
 
 
 
 
 
 
-// function                                                 toggleModeCNjm() {
-//   userNameDisplay.classList.toggle                       ('jmEGdark-mode');
-//   const                                                  modeMessageCNjm = userNameDisplay.classList.contains     
-//                                                          ('jmEGdark-mode') ?
-//                                                           'Elizabeth Grant '
-//                                                            : " Josephine McClellan " ;
-//   modeStatusCN.innerText = "Currently Viewing " +          modeMessageCNjm;}
-//   modeToggleR.addEventListener('click',                    toggleModeCNjm);
+
+
+function                                                 toggleModeCNjm() {
+  userNameDisplay.classList.toggle                       ('jmEGdark-mode');
+  const                                                  modeMessageCNjm = userNameDisplay.classList.contains     
+                                                         ('jmEGdark-mode') ?
+                                                          'Elizabeth Grant '
+                                                           : " Josephine McClellan " ;
+  modeStatusCN.innerText = "Currently Viewing " +          modeMessageCNjm;}
+  modeToggleR.addEventListener('click',                    toggleModeCNjm);
 
   // this is working, but it's going to take forever, and once I'm finished, I would have to do this for the left button.
-
-  // this is interesting, but it doesn't bring me any closer to using a json file in the project.
 
 
 
