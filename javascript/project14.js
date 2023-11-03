@@ -93,9 +93,9 @@ nextImage.addEventListener('click', function() {
 
 
 // import users from 'C:\Users\KLYam\OneDrive\Documents\GitHub\kennethlarotyamat.github.io\javascript\project14usersv2.json' assert { type: 'json' }
-
+ // I'm pretty sure a lot of things broke right now. 
 // const usersValuesArray = Object.values(users)
-
+/* // I'm pretty sure a lot of things broke right now.  */
 
 // import users from "C:\Users\KLYam\OneDrive\Documents\GitHub\kennethlarotyamat.github.io\javascript\project14users.json" assert { type: 'json' }
 // I have to come back around to this, because, I'm already tired. I think. Sometimes i delete comments prematurely, but there is an issue with 

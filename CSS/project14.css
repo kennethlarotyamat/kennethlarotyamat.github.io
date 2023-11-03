@@ -12,7 +12,8 @@ text-indent: 50px;
 .wrapper {
 width: 95%;
 margin-inline: auto;
-}
+} 
+/* // I'm pretty sure a lot of things broke right now.  */
 .grid-container {
 display: grid;
 grid-template-areas:
