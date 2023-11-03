@@ -90,7 +90,7 @@ nextImage.addEventListener('click', function() {
 
 
 
-// [Name Toggle Start]               //  [deployment check 1:58 PM]
+// [Name Toggle Start]               //  [deployment check 2:03 PM]
 const userNameDisplay = document.querySelector('.usernamedisplay');
 const modeStatusCN = document.querySelector('.mode-statusCN');
 
