@@ -88,8 +88,6 @@ const                                                         modeMessageCNjm
                                                               : " Josephine McClellan ";
 modeStatusCN.innerText = "Currently Viewing " +               modeMessageCNjm;}
 modeToggleR.addEventListener('click',                         toggleModeCNjm);
-
-
 // Marion Silver Mode
 function                                                        toggleModeCNjmms() {
   userNameDisplay.classList.toggle                              ('msjmEGdark-mode');const                                                         
@@ -100,17 +98,18 @@ function                                                        toggleModeCNjmms
   modeStatusCN.innerText = "Currently Viewing " +               modeMessageCNjmms;}
   modeToggleR.addEventListener('click',                         toggleModeCNjmms);
                
-              //  [deployment check 2:51 PM]
- 
 
-
-
-
-
-
-
-
+//  [deployment check 2:53 PM]
 // [Name Toggle End]
+
+
+
+
+
+
+
+
+
 
 
 // Alicia Nash
