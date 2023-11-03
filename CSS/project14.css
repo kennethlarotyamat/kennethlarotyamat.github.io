@@ -288,15 +288,7 @@ vertical-align: middle;
 }
 
 
-.subheadercenterheadertextbutton 
-{
-text-align: center;
-vertical-align: middle;
-grid-area: sbhead;
-background-color: #ffefea;
-padding: 2vh;
 
-}
 
 
 
@@ -574,14 +566,7 @@ input:checked+.slider:before {
 transform: translateX(1.63rem);
 }
 
-.subheadercenterheadertextbutton {
-text-align: center;
-vertical-align: middle;
-grid-area: sbhead;
-background-color: #ffefea;
-padding: 2vh;
-font-size: 4vw;
-}
+
 
 .dark-mode {
 background-color: #ffffff;
@@ -696,3 +681,13 @@ place-items: center;
 .msjmEGdark-mode{color: rgb(15, 16, 15);}
 .connectionname{width: 100%;display: flex;justify-content: center;column-gap: 1vh;}
 /* https://developer.mozilla.org/en-US/docs/Web/CSS/column-gap */
+.subheadercenterheadertextbutton {
+    text-align: center;
+    vertical-align: middle;
+    grid-area: sbhead;
+    background-color: #ffefea;
+    padding: 2vh;
+    font-size: 3vh;
+    /* width: 100%;display: flex;justify-content: center;column-gap: 1vh; */
+    }
+    
