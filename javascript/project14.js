@@ -85,6 +85,7 @@ nextImage.addEventListener('click', function() {
 // [Swipe Left / Swipe Right End]
 
 
+// import users from "C:\Users\KLYam\OneDrive\Documents\GitHub\kennethlarotyamat.github.io\javascript\project14users.json" assert { type: 'json' }
 
 
 

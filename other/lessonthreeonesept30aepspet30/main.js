@@ -94,6 +94,8 @@ document.onreadystatechange = (e) => {
 import questions from './questions.json' assert { type: 'json' }
 import users from './users.json' assert { type: 'json' }
 
+// sept-30
+
 // Get all DOM elements
 const container = document.querySelector('.container')
 const usernameInput = document.getElementById('username')
