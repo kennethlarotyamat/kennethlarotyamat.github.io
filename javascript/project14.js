@@ -130,7 +130,7 @@ modeToggleL.addEventListener('click', toggleModeCNjm);
 // modeToggleL.addEventListener('click', toggleModeCNL);
 
 
-                    // [Fix This using ]
+                        // [Fix This using ]
 // https://www.w3schools.com/bootstrap/bootstrap_ref_js_carousel.asp
 // https://www.w3schools.com/bootstrap/tryit.asp?filename=trybs_ref_js_carousel_js&stacked=h
 // https://www.w3schools.com/bootstrap/bootstrap_ref_js_carousel.asp
@@ -167,7 +167,7 @@ $(document).ready(function(){
 });
 </script> */}
 
-                    // [Fix This using ]
+                        // [Fix This using ]
 
 
 
