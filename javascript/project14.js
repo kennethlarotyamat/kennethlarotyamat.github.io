@@ -84,6 +84,10 @@ nextImage.addEventListener('click', function() {
 
 // [Swipe Left / Swipe Right End]
 
+import users from 'C:\Users\KLYam\OneDrive\Documents\GitHub\kennethlarotyamat.github.io\javascript\project14usersv2.json' assert { type: 'json' }
+
+const usersValuesArray = Object.values(users)
+
 
 // import users from "C:\Users\KLYam\OneDrive\Documents\GitHub\kennethlarotyamat.github.io\javascript\project14users.json" assert { type: 'json' }
 // I have to come back around to this, because, I'm already tired. I think. Sometimes i delete comments prematurely, but there is an issue with 
@@ -94,6 +98,8 @@ nextImage.addEventListener('click', function() {
 // so basically it wasn't really. it wasn't entirely what I was looking for. I have to go back and
 // look at the trivia game app and see how it works, but, the game doesn't work from github, I have to 
 // go back to codio.
+
+// 
 
 
 
