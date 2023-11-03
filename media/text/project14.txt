@@ -7475,6 +7475,27 @@ https://www.geeksforgeeks.org/json-data-types/
 
 https://docs.fileformat.com/web/json/
 
+3. Conclusion & Takeaways
+You should be mindful of the available resources of the computer; the transfer of data will be affected if the client browser has limited memory.
+JSON files are easily readable; remember that it has key and value pairs and its value types are: number, string, boolean, array, null and object.
+Attribution
+GeeksforGeeks. (2021a, May 19). JSON | Data Types. https://www.geeksforgeeks.org/json-data-types/
+Chishti, M. A. (2020, April 12). JSON File Format - What is a JSON file? https://docs.fileformat.com/web/json/
+
+communicating-on-the-web--lesson-2-1---sat---oct-28/guides/2
+
+communicating-on-the-web--lesson-2-2---sat---oct-28
+
+this one was actually pretty cool, spitting out a picture of a dog. but that's not what I'm looking for.
+
+3
+
+Intermediate Javascript and the DOM 2 & 3 - Saturday, September 30
+
+In lesson 2.2 you will: Be introduced to the form object; Learn about client-side form validation and why it’s important; Explore two different types of validation (HTML based and JavaScript based); Learn about a few of the data structures in JavaScript (you’ve used two of them already in the past couple JavaScript modules of this course); Understand why measuring efficiency of data structures and their methods using Big O Notation is important as a developer; and Learn about how to use the forEach() method to basic data structures. In lesson 2.3 you will finish the logic for the trivia game. In the second lesson you will learn what browser storage is and why it can be useful, understand how to work with one of the storage options available (called localStorage) anf learn what (and what not to put in localStorage). In the third lesson you will practic everything we’ve learned thus far about forms, validation, and using browser storage to persist dataand begin building an issue logger web app with an interactive form which adds elements to the DOM.
+
+well, i did this much today: I created a json file, well, I created 2 json files.
+
 ...
 
 [Project 14 Outline] [Start] [Due 11/04]
