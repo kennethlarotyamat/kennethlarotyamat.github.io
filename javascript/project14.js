@@ -85,10 +85,6 @@ nextImage.addEventListener('click', function() {
 // [Swipe Left / Swipe Right End]
 
 // [Name Toggle Start]
-
-
-
-
 const userNameDisplay = document.querySelector('.usernamedisplay');
 const modeStatusCN = document.querySelector('.mode-statusCN');
 
@@ -116,7 +112,7 @@ modeStatusCN.innerText = "Currently Viewing " + modeMessageCNjm;
 }
 modeToggleR.addEventListener('click', toggleModeCNjm);
 modeToggleL.addEventListener('click', toggleModeCNjm);
-
+// [Name Toggle End]
 
 
 // function toggleModeCNL() {
