@@ -78,17 +78,40 @@ const modeMessageCN = userNameDisplay.classList.contains('EGdark-mode') ?
 modeStatusCN.innerText = "Currently Viewing " + modeMessageCN;}
 modeToggleR.addEventListener('click', toggleModeCN);
 
-               //  [deployment check 2:15 PM]
+
 function                                                      toggleModeCNjm() {
 userNameDisplay.classList.toggle                              ('jmEGdark-mode');
 const                                                         modeMessageCNjm
  = userNameDisplay.classList.contains
                                                               ('jmEGdark-mode') ?
-                                                              'Elizabeth Grant '
+                                                                'Elizabeth Grant '
                                                               : " Josephine McClellan ";
 modeStatusCN.innerText = "Currently Viewing " +               modeMessageCNjm;
 }
 modeToggleR.addEventListener('click',                         toggleModeCNjm);
+
+
+
+function                                                      toggleModeCNjmms() {
+  userNameDisplay.classList.toggle                              ('msjmEGdark-mode');
+  const                                                         modeMessageCNjmms
+   = userNameDisplay.classList.contains
+                                                                ('msjmEGdark-mode') ?
+                                                                  'Josephine McClellan '
+                                                                : " Marion Silver ";
+  modeStatusCN.innerText = "Currently Viewing " +               modeMessageCNjmms;
+  }
+  modeToggleR.addEventListener('click',                         toggleModeCNjmms);
+               
+              //  [deployment check 2:23 PM]
+              // Marion Silver Marion Silver
+
+
+
+
+
+
+
 
 // [Name Toggle End]
 
