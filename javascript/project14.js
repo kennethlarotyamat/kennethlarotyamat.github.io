@@ -107,7 +107,7 @@ modeStatusCN.innerText = "Currently Viewing " + modeMessageCN;}
 modeToggleR.addEventListener('click', toggleModeCN);
 
 // modeToggleL.addEventListener('click', toggleModeCN);
-// <!-- deployment check 11/3 1:54 PM -->
+// <!-- deployment check 11/3 1:56 PM -->
 
 function toggleModeCNjm() {
 userNameDisplay.classList.toggle('jmEGdark-mode');
