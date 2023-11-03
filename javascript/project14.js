@@ -128,6 +128,9 @@ modeToggleL.addEventListener('click', toggleModeCNjm);
 // modeToggleR.addEventListener('click', toggleModeCN);
 // modeToggleL.addEventListener('click', toggleModeCNL);
 
+// https://www.w3schools.com/bootstrap/bootstrap_ref_js_carousel.asp
+// https://www.w3schools.com/bootstrap/tryit.asp?filename=trybs_ref_js_carousel_js&stacked=h
+
 
 
 
