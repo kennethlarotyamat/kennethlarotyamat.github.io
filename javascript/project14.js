@@ -91,6 +91,7 @@ nextImage.addEventListener('click', function() {
 
 const userNameDisplay = document.querySelector('.usernamedisplay');
 const modeToggleR = document.getElementById("nextproject10");
+const modeToggleL = document.getElementById("prevproject10");
 const modeStatusCN = document.querySelector('.mode-statusCN');
 
 function toggleModeCN() {
@@ -116,6 +117,13 @@ function                                                  toggleModeCNjm() {
                                                            : " Josephine McClellan " ;
   modeStatusCN.innerText = "Currently Viewing " +          modeMessageCNjm;}
   modeToggleR.addEventListener('click',                    toggleModeCNjm);
+
+
+
+
+
+
+
 
   // this is working, but it's going to take forever, and once I'm finished, I would have to do this for the left button.
 
