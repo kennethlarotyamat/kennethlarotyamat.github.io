@@ -100,7 +100,7 @@ function                                                        toggleModeCNjmms
                
 
 //  [deployment check 2:54 PM]
-// [Name Toggle End]
+//  [Name Toggle End]
 
 
 
@@ -138,7 +138,7 @@ function                                                        toggleModeCNjmms
 
 
 
-
+// this isn't working either.
 // You can highlight the block of code and then do a Ctrl+/ to comment 
 // the entire block quickly, then to un-comment, highlight the entire block and
 
