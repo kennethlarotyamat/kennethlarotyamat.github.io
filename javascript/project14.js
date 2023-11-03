@@ -103,7 +103,7 @@ nextImage.addEventListener('click', function() {
 // I have to come back around to this, because, I'm already tired. I think. Sometimes i delete comments prematurely, but there is an issue with 
 // I had deleted comments that could have been useful, from my html file, not having them didn't mess things up too much, but, I think that.
 // I'll have to put them back in.
-
+// I'm really hungry.
 // The json module only showed or only explained how to format information inside of a JSON file, so
 // so basically it wasn't really. it wasn't entirely what I was looking for. I have to go back and
 // look at the trivia game app and see how it works, but, the game doesn't work from github, I have to 
