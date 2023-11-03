@@ -99,9 +99,14 @@ const modeMessageCN = userNameDisplay.classList.contains('EGdark-mode') ?
 'Elizabeth Grant'
 : "Audrey Hepburn";
 modeStatusCN.innerText = "Currently Viewing " + modeMessageCN;}
-
-
 modeToggleR.addEventListener('click', toggleModeCN);
+
+
+
+
+
+
+
 
 function                                                 toggleModeCNjm() {
   userNameDisplay.classList.toggle                       ('jmEGdark-mode');
