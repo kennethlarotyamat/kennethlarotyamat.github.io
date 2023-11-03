@@ -70,6 +70,7 @@ const userNameDisplay = document.querySelector('.usernamedisplay');
 const modeStatusCN = document.querySelector('.mode-statusCN');
 const modeToggleR = document.getElementById("nextproject10");
 const modeToggleL = document.getElementById("prevproject10");
+// Elizabeth Grant Mode
 function toggleModeCN() {
 userNameDisplay.classList.toggle('EGdark-mode');
 const modeMessageCN = userNameDisplay.classList.contains('EGdark-mode') ?
@@ -77,6 +78,7 @@ const modeMessageCN = userNameDisplay.classList.contains('EGdark-mode') ?
 : "Audrey Hepburn";
 modeStatusCN.innerText = "Currently Viewing " + modeMessageCN;}
 modeToggleR.addEventListener('click', toggleModeCN);
+// Josephine McClellan Mode
 function                                                      toggleModeCNjm() {
 userNameDisplay.classList.toggle                              ('jmEGdark-mode');
 const                                                         modeMessageCNjm
@@ -89,7 +91,7 @@ modeStatusCN.innerText = "Currently Viewing " +               modeMessageCNjm;
 modeToggleR.addEventListener('click',                         toggleModeCNjm);
 
 
-
+// Marion Silver Mode
 function                                                      toggleModeCNjmms() {
   userNameDisplay.classList.toggle                              ('msjmEGdark-mode');
   const                                                         modeMessageCNjmms
@@ -101,7 +103,7 @@ function                                                      toggleModeCNjmms()
   }
   modeToggleR.addEventListener('click',                         toggleModeCNjmms);
                
-              //  [deployment check 2:35 PM]
+              //  [deployment check 2:45 PM]
  
 
 
@@ -114,6 +116,19 @@ function                                                      toggleModeCNjmms()
 // [Name Toggle End]
 
 
+// Alicia Nash
+// Madeleine Bowen
+// Helen Benson
+// Janine Gunders
+// Gabriella Dʹarc
+// Claire Hamilton
+// Gloria Harper
+// Emma Darwin
+// Gwen Vanderveer
+// Penelope Benjamin
+// Eleanor Abbott
+// Dawn Dwyer
+// Amanda Marsh
 
 
 
@@ -133,7 +148,25 @@ function                                                      toggleModeCNjmms()
 
 
 
+// https://www.google.com/search?q=marion+silver+jennifer+connelly&rlz=1C1RXQR_enUS1044US1044&oq=marion+silver+jennifer+connelly+&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCDcyMDhqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8#vhid=ZJ6zc-9PbfFUUM&vssid=l
+// https://community.metabrainz.org/t/need-your-opinion-on-apostrophe-look-alike-characters/338634
+// Need your opinion on apostrophe look-alike characters [https://community.metabrainz.org/t/need-your-opinion-on-apostrophe-look-alike-characters/338634]
+// MusicBrainz
+// Style
+// style
+// Oct 2017
+// Oct '17
 
+// s1yrat
+
+// 1
+// Oct '17
+// Hello to the community.
+// There exists a band named Rock’o’co with no further explanation or any ideas on the artist intent to write it anyhow, so I want to make it clear once for all.
+// Should apostrophes ( ’ ), modifier letter primes ( ʹ ), modifier letter apostrophes ( ʼ ), modifier letter vertical lines ( ˈ ), combining vertical lines ( ̍ ), right single quotation marks ( ’ ), primes ( ′ ) or maybe some other symbols be used in the name?
+// Thanks in advance.
+//  Gabriella Dʹarc
+// https://www.digitalocean.com/community/tutorials/how-to-work-with-strings-in-javascript
 // https://www.w3schools.com/bootstrap/tryit.asp?filename=trybs_ref_js_carousel2&stacked=h
 // https://www.w3schools.com/bootstrap/tryit.asp?filename=trybs_ref_js_carousel_js&stacked=h
 // https://www.w3schools.com/bootstrap/bootstrap_ref_js_carousel.asp
