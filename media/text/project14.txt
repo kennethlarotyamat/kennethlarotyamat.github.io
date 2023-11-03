@@ -7527,10 +7527,6 @@ like someone is typing them out.
 
 [fix color toggler] [New Color Scheme] [New styling to toggle Buttons] [ bring swipe left and swipe right buttons down closer to the center]
 
-
-
-
-
 [Project 14 Outline] [End]
 
 ...
