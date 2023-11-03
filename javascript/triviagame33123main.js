@@ -91,8 +91,8 @@ document.onreadystatechange = (e) => {
 }
 
 // Import JSON file
-import questions from './questions.json' assert { type: 'json' }
-import users from './users.json' assert { type: 'json' }
+import questions from '../other/project014/lessonthreeonesept30aepspet30/questions.json' assert { type: 'json' }
+import users from '../other/project014/lessonthreeonesept30aepspet30/users.json' assert { type: 'json' }
 
 // sept-30
 
