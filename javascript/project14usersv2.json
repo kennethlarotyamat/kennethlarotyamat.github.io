@@ -4,37 +4,17 @@
   "user03" : {"fname" : "Josephine ", "mname" : null, "lname" : "McClellan"},
   "user04" : {"fname" : "Marion ", "mname" : null, "lname" : "Silver"},
 
-  "user05" : {"fname" : "Joséphine ", "mname" : null, "lname" : "McClellan"},
-  "user06" : {"fname" : "Joséphine ", "mname" : null, "lname" : "McClellan"},
-  "user07" : {"fname" : "Joséphine ", "mname" : null, "lname" : "McClellan"},
-  "user08" : {"fname" : "Joséphine ", "mname" : null, "lname" : "McClellan"},
-  "user09" : {"fname" : "Joséphine ", "mname" : null, "lname" : "McClellan"},
-  "user10" : {"fname" : "Joséphine ", "mname" : null, "lname" : "McClellan"},
-  "user11" : {"fname" : "Joséphine ", "mname" : null, "lname" : "McClellan"},
-  "user12" : {"fname" : "Joséphine ", "mname" : null, "lname" : "McClellan"},
-  "user13" : {"fname" : "Joséphine ", "mname" : null, "lname" : "McClellan"},
-  "user14" : {"fname" : "Joséphine ", "mname" : null, "lname" : "McClellan"},
-  "user15" : {"fname" : "Joséphine ", "mname" : null, "lname" : "McClellan"},
-  "user16" : {"fname" : "Joséphine ", "mname" : null, "lname" : "McClellan"},
-  "user17" : {"fname" : "Joséphine ", "mname" : null, "lname" : "McClellan"}
+  "user05" : {"fname" : "Alicia ", "mname" : null, "lname" : "Nash"},
+  "user06" : {"fname" : "Madeleine ", "mname" : null, "lname" : "Bowen"},
+  "user07" : {"fname" : "Helen ", "mname" : null, "lname" : "Benson"},
+  "user08" : {"fname" : "Janine ", "mname" : null, "lname" : "Gunders"},
+  "user09" : {"fname" : "Gabriella ", "mname" : null, "lname" : "Darc"},
+  "user10" : {"fname" : "Claire ", "mname" : null, "lname" : "Hamilton"},
+  "user11" : {"fname" : "Gloria ", "mname" : null, "lname" : "Harper"},
+  "user12" : {"fname" : "Emma ", "mname" : null, "lname" : "Darwin"},
+  "user13" : {"fname" : "Gwen ", "mname" : null, "lname" : "Vanderveer"},
+  "user14" : {"fname" : "Penelope ", "mname" : null, "lname" : "Benjamin"},
+  "user15" : {"fname" : "Eleanor ", "mname" : null, "lname" : "Abbott"},
+  "user16" : {"fname" : "Dawn ", "mname" : null, "lname" : "Dwyer"},
+  "user17" : {"fname" : "Amanda ", "mname" : null, "lname" : "Marsh"}
 }
-
-
-
-  "u04": {    "username": "Marion Silver"        }, 
-  "u05": {    "username": "AliciaNash"          },
-  "u06": {    "username": "MadeleineBowen"      },
-  "u07": {    "username": "HelenBenson"         },
-  "u08": {    "username": "JanineGunders"       },
-  "u09": {    "username": "GabriellaDarc"       },
-  "u10": {    "username": "ClaireHamilton"      },
-  "u11": {    "username": "GloriaHarper"        },
-  "u17": {    "username": "EmmaDarwin"          }, 
-  "u12": {    "username": "GwenVanderveer"      },
-  "u13": {    "username": "PenelopeBenjamin"    },
-  "u14": {    "username": "EleanorAbbott"       },
-  "u15": {    "username": "DawnDwyer"           },
-  "u16": {    "username": "AmandaMarsh"         }
-}
-
- 
