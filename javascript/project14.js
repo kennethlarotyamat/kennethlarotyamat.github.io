@@ -88,25 +88,28 @@ nextImage.addEventListener('click', function() {
 
 
 
-// Select the <body> element from the DOM and assign it to the constant "body".
+
 const userNameDisplay = document.querySelector('.usernamedisplay');
-// Select the HTML element with the ID "mode-toggle". This is the <input> checkbox for toggling between light and dark modes.
 const modeToggleR = document.getElementById("nextproject10");
-// Select the HTML element with the class "mode-status". This is the <h2> element that displays the current mode.
 const modeStatusCN = document.querySelector('.mode-statusCN');
-// Define a function named "toggleMode".
+
 function toggleModeCN() {
-// Toggle the class "dark-mode" on the <body>. If the class exists, it is removed; if it does not exist, it is added.
 userNameDisplay.classList.toggle('EGdark-mode');
-// Check if the "dark-mode" class is present on the <body>. If so, set "modeMessage" to "Dark Mode", otherwise set it to "Light Mode".
 const modeMessageCN = userNameDisplay.classList.contains('EGdark-mode') ?
 'Elizabeth Grant'
 : "Audrey Hepburn";
-// Update the text of the "modeStatus" element (the <h2>) to reflect the current mode.
-modeStatusCN.innerText = "Currently Viewing " + modeMessageCN;
-}
-// Add a "click" event listener to the "modeToggle" element (the checkbox). When the checkbox is clicked, the "toggleMode" function is called.
+modeStatusCN.innerText = "Currently Viewing " + modeMessageCN;}
+
+
 modeToggleR.addEventListener('click', toggleModeCN);
+
+function toggleModeCNjm() {
+  userNameDisplay.classList.toggle('jmEGdark-mode');
+  const modeMessageCNjm = userNameDisplay.classList.contains('jmEGdark-mode') ?
+  'Elizabeth Grant '
+  : " Josephine McClellan " ;
+  modeStatusCN.innerText = "Currently Viewing " + modeMessageCNjm;}
+  modeToggleR.addEventListener('click', toggleModeCNjm);
 
 
 
