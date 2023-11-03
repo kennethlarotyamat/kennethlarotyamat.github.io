@@ -120,7 +120,8 @@ modeStatusCN.innerText = "Currently Viewing " + modeMessageCNjm;
 modeToggleR.addEventListener('click', toggleModeCNjm);
 
 
-
+// here is the thing. I was thinking of changing this to a carousel, but I remember something.
+// on dating apps, swiping left doesn't take you to the previous person, swiping left means pass or something.
 
 // modeToggleL.addEventListener('click', toggleModeCNjm);
 // [Name Toggle End]
