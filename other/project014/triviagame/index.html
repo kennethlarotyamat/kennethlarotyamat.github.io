@@ -1,0 +1,411 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+  <link rel="stylesheet" href="./style.css">
+</head>
+<body>
+  <noscript>
+    <div>You need to have JavaScript enabled in order to use this app!</div>
+  </noscript>
+  <header class="header">
+    <h3 id="user-display">Username: <span id="current-username"></span></h3>
+    <h1>TRIVIA</h1>
+    <h2>Movies &#x2022 TV &#x2022 BOOKS</h2>
+    <h2 class="mobile-subheading">Movies <br> TV <br> BOOKS</h2>
+  </header>
+  <main id="container" class="container">
+    <section id="start" class="start">
+      <div id="username-field">
+        <label id="username-label" for="username">Enter a username</label>
+        <input 
+          required
+          minlength="5" 
+          type="text" 
+          name="username" 
+          id="username" 
+          placeholder="e.g. - captainAwesome"
+        >
+        <small id="validation-msg">Required</small>
+      </div>
+      <button disabled id="start-btn" class="start-btn">Start Game</button>
+    </section>
+    <section id="q1" class="question q1">
+      <div class="question__text">QUESTION 1</div>
+      <div class="answers">
+        <button id="q1__answer-selection-1" class="answer">
+          <div id="select-indicator"></div>
+          <div id="answer__text" class="answer__text"></div>
+        </button>
+        <button id="q1__answer-selection-2" class="answer">
+          <div id="select-indicator"></div>
+          <div id="answer__text" class="answer__text"></div>
+        </button>
+        <button id="q1__answer-selection-3" class="answer">
+          <div id="select-indicator"></div>
+          <div id="answer__text" class="answer__text"></div>
+        </button>
+        <button id="q1__answer-selection-4" class="answer">
+          <div id="select-indicator"></div>
+          <div id="answer__text" class="answer__text"></div>
+        </button>
+      </div>
+      <button disabled id="q1__next-question" class="next-question">Next</button>
+    </section>
+    <section id="q2" class="question q2">
+      <div class="question__text">QUESTION 2</div>
+      <div class="answers">
+        <button id="q2__answer-selection-1" class="answer">
+          <div id="select-indicator"></div>
+          <div id="answer__text" class="answer__text"></div>
+        </button>
+        <button id="q2__answer-selection-2" class="answer">
+          <div id="select-indicator"></div>
+          <div id="answer__text" class="answer__text"></div>
+        </button>
+        <button id="q2__answer-selection-3" class="answer">
+          <div id="select-indicator"></div>
+          <div id="answer__text" class="answer__text"></div>
+        </button>
+        <button id="q2__answer-selection-4" class="answer">
+          <div id="select-indicator"></div>
+          <div id="answer__text" class="answer__text"></div>
+        </button>
+      </div>
+      <button disabled id="q2__next-question" class="next-question">Next</button>
+    </section>
+    <section id="q3" class="question q3">
+      <div class="question__text">QUESTION 3</div>
+      <div class="answers">
+        <button id="q3__answer-selection-1" class="answer">
+          <div id="select-indicator"></div>
+          <div id="answer__text" class="answer__text"></div>
+        </button>
+        <button id="q3__answer-selection-2" class="answer">
+          <div id="select-indicator"></div>
+          <div id="answer__text" class="answer__text"></div>
+        </button>
+        <button id="q3__answer-selection-3" class="answer">
+          <div id="select-indicator"></div>
+          <div id="answer__text" class="answer__text"></div>
+        </button>
+        <button id="q3__answer-selection-4" class="answer">
+          <div id="select-indicator"></div>
+          <div id="answer__text" class="answer__text"></div>
+        </button>
+      </div>
+      <button disabled id="q3__next-question" class="next-question">Next</button>
+    </section>
+    <section id="q4" class="question q4">
+      <div class="question__text">QUESTION 4</div>
+      <div class="answers">
+        <button id="q4__answer-selection-1" class="answer">
+          <div id="select-indicator"></div>
+          <div id="answer__text" class="answer__text"></div>
+        </button>
+        <button id="q4__answer-selection-2" class="answer">
+          <div id="select-indicator"></div>
+          <div id="answer__text" class="answer__text"></div>
+        </button>
+        <button id="q4__answer-selection-3" class="answer">
+          <div id="select-indicator"></div>
+          <div id="answer__text" class="answer__text"></div>
+        </button>
+        <button id="q4__answer-selection-4" class="answer">
+          <div id="select-indicator"></div>
+          <div id="answer__text" class="answer__text"></div>
+        </button>
+      </div>
+      <button disabled id="q4__next-question" class="next-question">Next</button>
+    </section>
+    <section id="q5" class="question q5">
+      <div class="question__text">QUESTION 5</div>
+      <div class="answers">
+        <button id="q5__answer-selection-1" class="answer">
+          <div id="select-indicator"></div>
+          <div id="answer__text" class="answer__text"></div>
+        </button>
+        <button id="q5__answer-selection-2" class="answer">
+          <div id="select-indicator"></div>
+          <div id="answer__text" class="answer__text"></div>
+        </button>
+        <button id="q5__answer-selection-3" class="answer">
+          <div id="select-indicator"></div>
+          <div id="answer__text" class="answer__text"></div>
+        </button>
+        <button id="q5__answer-selection-4" class="answer">
+          <div id="select-indicator"></div>
+          <div id="answer__text" class="answer__text"></div>
+        </button>
+      </div>
+      <button disabled id="q5__next-question" class="next-question">Next</button>
+    </section>
+    <section id="q6" class="question q6">
+      <div class="question__text">QUESTION 6</div>
+      <div class="answers">
+        <button id="q6__answer-selection-1" class="answer">
+          <div id="select-indicator"></div>
+          <div id="answer__text" class="answer__text"></div>
+        </button>
+        <button id="q6__answer-selection-2" class="answer">
+          <div id="select-indicator"></div>
+          <div id="answer__text" class="answer__text"></div>
+        </button>
+        <button id="q6__answer-selection-3" class="answer">
+          <div id="select-indicator"></div>
+          <div id="answer__text" class="answer__text"></div>
+        </button>
+        <button id="q6__answer-selection-4" class="answer">
+          <div id="select-indicator"></div>
+          <div id="answer__text" class="answer__text"></div>
+        </button>
+      </div>
+      <button disabled id="q6__next-question" class="next-question">Next</button>
+    </section>
+    <section id="q7" class="question q7">
+      <div class="question__text">QUESTION 7</div>
+      <div class="answers">
+        <button id="q7__answer-selection-1" class="answer">
+          <div id="select-indicator"></div>
+          <div id="answer__text" class="answer__text"></div>
+        </button>
+        <button id="q7__answer-selection-2" class="answer">
+          <div id="select-indicator"></div>
+          <div id="answer__text" class="answer__text"></div>
+        </button>
+        <button id="q7__answer-selection-3" class="answer">
+          <div id="select-indicator"></div>
+          <div id="answer__text" class="answer__text"></div>
+        </button>
+        <button id="q7__answer-selection-4" class="answer">
+          <div id="select-indicator"></div>
+          <div id="answer__text" class="answer__text"></div>
+        </button>
+      </div>
+      <button disabled id="q7__next-question" class="next-question">Next</button>
+    </section>
+    <section id="q8" class="question q8">
+      <div class="question__text">QUESTION 8</div>
+      <div class="answers">
+        <button id="q8__answer-selection-1" class="answer">
+          <div id="select-indicator"></div>
+          <div id="answer__text" class="answer__text"></div>
+        </button>
+        <button id="q8__answer-selection-2" class="answer">
+          <div id="select-indicator"></div>
+          <div id="answer__text" class="answer__text"></div>
+        </button>
+        <button id="q8__answer-selection-3" class="answer">
+          <div id="select-indicator"></div>
+          <div id="answer__text" class="answer__text"></div>
+        </button>
+        <button id="q8__answer-selection-4" class="answer">
+          <div id="select-indicator"></div>
+          <div id="answer__text" class="answer__text"></div>
+        </button>
+      </div>
+      <button disabled id="q8__next-question" class="next-question">Next</button>
+    </section>
+    <section id="q9" class="question q9">
+      <div class="question__text">QUESTION 9</div>
+      <div class="answers">
+        <button id="q9__answer-selection-1" class="answer">
+          <div id="select-indicator"></div>
+          <div id="answer__text" class="answer__text"></div>
+        </button>
+        <button id="q9__answer-selection-2" class="answer">
+          <div id="select-indicator"></div>
+          <div id="answer__text" class="answer__text"></div>
+        </button>
+        <button id="q9__answer-selection-3" class="answer">
+          <div id="select-indicator"></div>
+          <div id="answer__text" class="answer__text"></div>
+        </button>
+        <button id="q9__answer-selection-4" class="answer">
+          <div id="select-indicator"></div>
+          <div id="answer__text" class="answer__text"></div>
+        </button>
+      </div>
+      <button disabled id="q9__next-question" class="next-question">Next</button>
+    </section>
+    <section id="q10" class="question q10">
+      <div class="question__text">QUESTION 10</div>
+      <div class="answers">
+        <button id="q10__answer-selection-1" class="answer">
+          <div id="select-indicator"></div>
+          <div id="answer__text" class="answer__text"></div>
+        </button>
+        <button id="q10__answer-selection-2" class="answer">
+          <div id="select-indicator"></div>
+          <div id="answer__text" class="answer__text"></div>
+        </button>
+        <button id="q10__answer-selection-3" class="answer">
+          <div id="select-indicator"></div>
+          <div id="answer__text" class="answer__text"></div>
+        </button>
+        <button id="q10__answer-selection-4" class="answer">
+          <div id="select-indicator"></div>
+          <div id="answer__text" class="answer__text"></div>
+        </button>
+      </div>
+      <button disabled id="q10__next-question" class="next-question">Next</button>
+    </section>
+    <section id="game-end" class="game-end">
+      <div id="final-user-score" class="final-user-score">
+        Your score: <br>
+        <span id="score" class="score"></span> 
+        <span id="total-possible-points" class="total-possible-points"> / 1000 points</span>
+      </div>
+      <button id="show-details" class="modal-button show-details">See detailed results</button>
+      <dialog class="modal" id="modal">
+        <div class="modal__content">
+          <h2 id="score-details-heading" class="score-details-heading">Score Details</h2>
+          <div class="results-breakdown">
+            <ul class="game-questions">
+              <li id="gq1" class="game-question">
+                <div class="game-question__wrapper">
+                  <div class="game-question__text"></div>
+                  <div class="game-question__user-answer">
+                    Your answer: 
+                    <span></span>
+                  </div>
+                </div>
+                <div class="game-question__result"></div>
+              </li>
+              <li id="gq2" class="game-question">
+                <div class="game-question__wrapper">
+                  <div class="game-question__text"></div>
+                  <div class="game-question__user-answer">
+                    Your answer: 
+                    <span></span>
+                  </div>
+                </div>
+                <div class="game-question__result"></div>
+              </li>
+              <li id="gq3" class="game-question">
+                <div class="game-question__wrapper">
+                  <div class="game-question__text"></div>
+                  <div class="game-question__user-answer">
+                    Your answer: 
+                    <span></span>
+                  </div>
+                </div>
+                <div class="game-question__result"></div>
+              </li>
+              <li id="gq4" class="game-question">
+                <div class="game-question__wrapper">
+                  <div class="game-question__text"></div>
+                  <div class="game-question__user-answer">
+                    Your answer: 
+                    <span></span>
+                  </div>
+                </div>
+                <div class="game-question__result"></div>
+              </li>
+              <li id="gq5" class="game-question">
+                <div class="game-question__wrapper">
+                  <div class="game-question__text"></div>
+                  <div class="game-question__user-answer">
+                    Your answer: 
+                    <span></span>
+                  </div>
+                </div>
+                <div class="game-question__result"></div>
+              </li>
+              <li id="gq6" class="game-question">
+                <div class="game-question__wrapper">
+                  <div class="game-question__text"></div>
+                  <div class="game-question__user-answer">
+                    Your answer: 
+                    <span></span>
+                  </div>
+                </div>
+                <div class="game-question__result"></div>
+              </li>
+              <li id="gq7" class="game-question">
+                <div class="game-question__wrapper">
+                  <div class="game-question__text"></div>
+                  <div class="game-question__user-answer">
+                    Your answer: 
+                    <span></span>
+                  </div>
+                </div>
+                <div class="game-question__result"></div>
+              </li>
+              <li id="gq8" class="game-question">
+                <div class="game-question__wrapper">
+                  <div class="game-question__text"></div>
+                  <div class="game-question__user-answer">
+                    Your answer: 
+                    <span></span>
+                  </div>
+                </div>
+                <div class="game-question__result"></div>
+              </li>
+              <li id="gq9" class="game-question">
+                <div class="game-question__wrapper">
+                  <div class="game-question__text"></div>
+                  <div class="game-question__user-answer">
+                    Your answer: 
+                    <span></span>
+                  </div>
+                </div>
+                <div class="game-question__result"></div>
+              </li>
+              <li id="gq10" class="game-question">
+                <div class="game-question__wrapper">
+                  <div class="game-question__text"></div>
+                  <div class="game-question__user-answer">
+                    Your answer: 
+                    <span></span>
+                  </div>
+                </div>
+                <div class="game-question__result"></div>
+              </li>
+            </ul>
+          </div>
+          
+          <div id="modal-end" class="modal-end">
+            <button id="modal-close" class="modal-button close-button">Close</button>
+          </div>
+        </div>
+      </dialog>
+      <ul id="user-ranking" class="user-ranking">
+        <div class="user-ranking__headings">
+          <h3 class="username-heading">User</h3>
+          <h3 class="score-heading">Score</h3>
+        </div>
+        <li class="user-stat">
+          <div class="username"></div>
+          <div class="user-score"></div>
+        </li>
+        <li class="user-stat">
+          <div class="username"></div>
+          <div class="user-score"></div>
+        </li>
+        <li class="user-stat">
+          <div class="username"></div>
+          <div class="user-score"></div>
+        </li>
+        <li class="user-stat">
+          <div class="username"></div>
+          <div class="user-score"></div>
+        </li>
+        <li class="user-stat">
+          <div class="username"></div>
+          <div class="user-score"></div>
+        </li>
+      </ul>
+      <button id="play-again" class="play-again">Play Again</button>
+    </section>
+  </main>
+  <script src="https://cdn.jsdelivr.net/npm/dompurify@2.4.1/dist/purify.min.js"></script>
+  <script src="https://unpkg.com/validator@latest/validator.min.js"></script>
+  
+  <script src="./modal.js"></script>
+  <script type="module" src="./main.js"></script>
+</body>
+</html>
