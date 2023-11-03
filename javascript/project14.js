@@ -90,7 +90,7 @@ nextImage.addEventListener('click', function() {
 
 
 
-// [Name Toggle Start] // <!-- deployment check 11/3 1:58 PM --> // modeToggleL.addEventListener('click', toggleModeCN);
+// [Name Toggle Start]               //  [deployment check 1:58 PM]
 const userNameDisplay = document.querySelector('.usernamedisplay');
 const modeStatusCN = document.querySelector('.mode-statusCN');
 
@@ -118,13 +118,14 @@ const modeMessageCNjm = userNameDisplay.classList.contains
 modeStatusCN.innerText = "Currently Viewing " + modeMessageCNjm;
 }
 modeToggleR.addEventListener('click', toggleModeCNjm);
+// [Name Toggle End]
 
-
+// modeToggleL.addEventListener('click', toggleModeCN);  deployment check 11/3 1:58 PM
 // here is the thing. I was thinking of changing this to a carousel, but I remember something.
 // on dating apps, swiping left doesn't take you to the previous person, swiping left means pass or something.
 
 // modeToggleL.addEventListener('click', toggleModeCNjm);
-// [Name Toggle End]
+
 
 // function toggleModeCNL() {
 // userNameDisplay.classList.toggle('EGdark-mode');
