@@ -101,8 +101,8 @@ function                                                      toggleModeCNjmms()
   }
   modeToggleR.addEventListener('click',                         toggleModeCNjmms);
                
-              //  [deployment check 2:24 PM]
-              // Marion Silver Marion Silver
+              //  [deployment check 2:29 PM]
+ 
 
 
 
@@ -137,7 +137,7 @@ function                                                      toggleModeCNjmms()
 
 
 
-
+// Marion Silver Marion Silver it takes a while to check my code when I use an absolute remote path. like 10 minutes
 // so I only need mode toggle r, mode toggle L should create some kind of "PASS" event.
 
 // modeToggleL.addEventListener('click', toggleModeCN);  deployment check 11/3 1:58 PM
