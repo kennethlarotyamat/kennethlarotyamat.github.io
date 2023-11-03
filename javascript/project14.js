@@ -103,28 +103,32 @@ const modeMessageCN = userNameDisplay.classList.contains('EGdark-mode') ?
 : "Audrey Hepburn";
 modeStatusCN.innerText = "Currently Viewing " + modeMessageCN;}
 modeToggleR.addEventListener('click', toggleModeCN);
-
-function toggleModeCNL() {
-  userNameDisplay.classList.toggle('EGdark-mode');
-  const modeMessageCN = userNameDisplay.classList.contains('EGdark-mode') ?
-  'Audrey Hepburn'
-  : " Elizabeth Grant";
-  modeStatusCN.innerText = "Currently Viewing " + modeMessageCN;}
-  modeToggleL.addEventListener('click', toggleModeCNL);
+modeToggleL.addEventListener('click', toggleModeCN);
 
 
+function toggleModeCNjm() {
+userNameDisplay.classList.toggle('jmEGdark-mode');
+const modeMessageCNjm = userNameDisplay.classList.contains
+('jmEGdark-mode') ?
+'Elizabeth Grant '
+: " Josephine McClellan ";
+modeStatusCN.innerText = "Currently Viewing " + modeMessageCNjm;
+}
+modeToggleR.addEventListener('click', toggleModeCNjm);
+modeToggleL.addEventListener('click', toggleModeCNjm);
 
 
 
+// function toggleModeCNL() {
+// userNameDisplay.classList.toggle('EGdark-mode');
+// const modeMessageCN = userNameDisplay.classList.contains('EGdark-mode') ?
+// 'Elizabeth Grant'
+// : "Audrey Hepburn";
+// modeStatusCN.innerText = "Currently Viewing " + modeMessageCN;}
+// modeToggleR.addEventListener('click', toggleModeCN);
+// modeToggleL.addEventListener('click', toggleModeCNL);
 
-function                                                  toggleModeCNjm() {
-  userNameDisplay.classList.toggle                        ('jmEGdark-mode');
-  const                                                   modeMessageCNjm = userNameDisplay.classList.contains     
-                                                           ('jmEGdark-mode') ?
-                                                          'Elizabeth Grant '
-                                                           : " Josephine McClellan " ;
-  modeStatusCN.innerText = "Currently Viewing " +          modeMessageCNjm;}
-  modeToggleR.addEventListener('click',                    toggleModeCNjm);
+
 
 
 
