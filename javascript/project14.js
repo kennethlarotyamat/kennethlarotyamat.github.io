@@ -139,11 +139,15 @@ function                                                        toggleModeCNjmms
 
 
 
+// You can highlight the block of code and then do a Ctrl+/ to comment 
+// the entire block quickly, then to un-comment, highlight the entire block and
 
+// Multi-line comments
 
+// How to block comment in JavaScript?
+// Multi-line comments in JavaScript code can be added by writing the comment between a forward-slash followed by asterisk /* and asterisk followed by a forward-slash */ .
 
-
-
+// JavaScript Comment (2023 Tutorial & Examples) - BrainStation
 // https://www.google.com/search?q=marion+silver+jennifer+connelly&rlz=1C1RXQR_enUS1044US1044&oq=marion+silver+jennifer+connelly+&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCDcyMDhqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8#vhid=ZJ6zc-9PbfFUUM&vssid=l
 // https://community.metabrainz.org/t/need-your-opinion-on-apostrophe-look-alike-characters/338634
 // Need your opinion on apostrophe look-alike characters [https://community.metabrainz.org/t/need-your-opinion-on-apostrophe-look-alike-characters/338634]
