@@ -7506,6 +7506,8 @@ well, i did this much today: I created a json file, well, I created 2 json files
 // look at the trivia game app and see how it works, but, the game doesn't work from github, I have to 
 // go back to codio.
 
+It's friday. I aint got no job, but I got hella stuff to do.
+
 ...
 
 [Project 14 Outline] [Start] [Due 11/04]
