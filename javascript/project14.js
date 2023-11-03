@@ -86,24 +86,22 @@ const                                                         modeMessageCNjm
                                                               ('jmEGdark-mode') ?
                                                                 'Elizabeth Grant '
                                                               : " Josephine McClellan ";
-modeStatusCN.innerText = "Currently Viewing " +               modeMessageCNjm;
-}
+modeStatusCN.innerText = "Currently Viewing " +               modeMessageCNjm;}
 modeToggleR.addEventListener('click',                         toggleModeCNjm);
 
 
 // Marion Silver Mode
 function                                                      toggleModeCNjmms() {
-  userNameDisplay.classList.toggle                              ('msjmEGdark-mode');
-  const                                                         modeMessageCNjmms
+  userNameDisplay.classList.toggle                              ('msjmEGdark-mode');const                                                         
+                                                                modeMessageCNjmms
    = userNameDisplay.classList.contains
                                                                 ('msjmEGdark-mode') ?
                                                                   'Josephine McClellan '
                                                                 : " Marion Silver ";
-  modeStatusCN.innerText = "Currently Viewing " +               modeMessageCNjmms;
-  }
+  modeStatusCN.innerText = "Currently Viewing " +               modeMessageCNjmms;}
   modeToggleR.addEventListener('click',                         toggleModeCNjmms);
                
-              //  [deployment check 2:45 PM]
+              //  [deployment check 2:50 PM]
  
 
 
