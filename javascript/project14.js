@@ -86,7 +86,9 @@ nextImage.addEventListener('click', function() {
 
 
 // import users from "C:\Users\KLYam\OneDrive\Documents\GitHub\kennethlarotyamat.github.io\javascript\project14users.json" assert { type: 'json' }
-
+// I have to come back around to this, because, I'm already tired. I think. Sometimes i delete comments prematurely, but there is an issue with 
+// I had deleted comments that could have been useful, from my html file, not having them didn't mess things up too much, but, I think that.
+// I'll have to put them back in.
 
 
 
