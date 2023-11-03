@@ -94,13 +94,17 @@ noscript > div {
   left: 0;
   z-index: 1000;
 }
+
 /* Replace with absolute Reference */
+
 body {
   background-image: url('https://kennethlarotyamat.github.io/media/images/wall-2059909.png');
   background-attachment: fixed;
   background-size: cover;
 }
+
 /* Replace with absolute Reference */
+
 .header {
   color: #fff;
   text-align: center;
