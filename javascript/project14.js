@@ -90,9 +90,11 @@ nextImage.addEventListener('click', function() {
 
 
 const userNameDisplay = document.querySelector('.usernamedisplay');
+const modeStatusCN = document.querySelector('.mode-statusCN');
+
 const modeToggleR = document.getElementById("nextproject10");
 const modeToggleL = document.getElementById("prevproject10");
-const modeStatusCN = document.querySelector('.mode-statusCN');
+
 
 function toggleModeCN() {
 userNameDisplay.classList.toggle('EGdark-mode');
@@ -102,7 +104,13 @@ const modeMessageCN = userNameDisplay.classList.contains('EGdark-mode') ?
 modeStatusCN.innerText = "Currently Viewing " + modeMessageCN;}
 modeToggleR.addEventListener('click', toggleModeCN);
 
-
+function toggleModeCNL() {
+  userNameDisplay.classList.toggle('EGdark-mode');
+  const modeMessageCN = userNameDisplay.classList.contains('EGdark-mode') ?
+  'Audrey Hepburn'
+  : " Elizabeth Grant";
+  modeStatusCN.innerText = "Currently Viewing " + modeMessageCN;}
+  modeToggleL.addEventListener('click', toggleModeCNL);
 
 
 
@@ -117,7 +125,6 @@ function                                                  toggleModeCNjm() {
                                                            : " Josephine McClellan " ;
   modeStatusCN.innerText = "Currently Viewing " +          modeMessageCNjm;}
   modeToggleR.addEventListener('click',                    toggleModeCNjm);
-
 
 
 
