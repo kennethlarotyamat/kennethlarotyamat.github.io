@@ -7417,6 +7417,22 @@ Next
 https://developer.mozilla.org/en-US/docs/Web/CSS/background-image
 https://www.youtube.com/watch?v=wsrDHLqOAWw
 
+JSON File Structure
+JSON is structured with key and value pairs. The key is unique and is a string surrounded by double quotation marks. The Value can be a Number, string (surrounded by double quotation marks), Array, Boolean, null and object. The key and value are separated by a colon(:) in the middle with the key on the left and the value on the right. Different key/value pairs are separated by a comma(,).
+Examples by types values:
+Number
+{"age" : 34}
+String
+{"name" : "Joseph"}
+Array
+{"fruits" : ["Apple","Banana","Strawberry"]}
+Boolean
+{"Enable" : true}
+Null
+{"genre" : null}
+Object
+{"user" : {"name" : "Joseph", "age" : 34, "genre" : null}}
+
 ...
 
 1. JSON format files
@@ -7430,6 +7446,34 @@ Introduction
 JSON (JavaScript Object Notation) is an open standard file format supported by many modern programming languages for generation and parsing. JSON was based on Standard ECMA-262 3rd Edition—December 1999 which is a subset of JavaScript. Also, this file format is the most used for server to client communication.
 
 I really cant figure out how to use a JSON file from the trivia game.
+
+...
+
+I'm going to abandond trying to figure out how to make and use a json file from the trivia game, and go to the JSON module instead.
+
+2. What is a JSON file?
+JSON (JavaScript Object Notation) is a file format that is easily readable for a human and requires less formatting. It is used for sharing or transmitting data to store. The extension of this type of file is .JSON and it is supported by many modern programming languages.
+The media type used for JSON is application/json.
+JSON File Structure
+JSON is structured with key and value pairs. The key is unique and is a string surrounded by double quotation marks. The Value can be a Number, string (surrounded by double quotation marks), Array, Boolean, null and object. The key and value are separated by a colon(:) in the middle with the key on the left and the value on the right. Different key/value pairs are separated by a comma(,).
+Examples by types values:
+Number
+{"age" : 34}
+String
+{"name" : "Joseph"}
+Array
+{"fruits" : ["Apple","Banana","Strawberry"]}
+Boolean
+{"Enable" : true}
+Null
+{"genre" : null}
+
+
+Object
+{"user" : {"name" : "Joseph", "age" : 34, "genre" : null}}
+https://www.geeksforgeeks.org/json-data-types/
+
+https://docs.fileformat.com/web/json/
 
 ...
 
