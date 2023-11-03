@@ -111,12 +111,12 @@ function                                                        toggleModeCNjmms
 
 //  [JSON FILE]
 
-import users from 'https://kennethlarotyamat.github.io/javascript/project14usersv2.json' assert { type: 'json' }
-const usersValuesArray = Object.values(users)
-for (const user of usersValuesArray) {
-  gameUsers.add(user.username)
-  usersStats.entries().next().value[1].push(user)
-}
+// import users from 'https://kennethlarotyamat.github.io/javascript/project14usersv2.json' assert { type: 'json' }
+// const usersValuesArray = Object.values(users)
+// for (const user of usersValuesArray) {
+//   gameUsers.add(user.username)
+//   usersStats.entries().next().value[1].push(user)
+// }
 
 //  [JSON FILE]
 
