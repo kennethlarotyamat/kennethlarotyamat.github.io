@@ -689,8 +689,8 @@ place-items: center;
 }
 
 /* Active - Delete Duplicates */ 
-.usernamedisplay{color: rgb(0, 0, 0);}
+.usernamedisplay{color: rgb(1, 2, 3);}
 
-.EGdark-mode{color: rgb(17, 17, 17);}
-.jmEGdark-mode{color: rgb(16, 16, 16);}
-.msjmEGdark-mode{color: rgb(15, 15, 15);}
+.EGdark-mode{color: rgb(17, 17, 18);}
+.jmEGdark-mode{color: rgb(17, 16, 16);}
+.msjmEGdark-mode{color: rgb(15, 16, 15);}

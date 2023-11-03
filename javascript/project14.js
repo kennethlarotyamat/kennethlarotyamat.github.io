@@ -84,8 +84,8 @@ userNameDisplay.classList.toggle                              ('jmEGdark-mode');
 const                                                         modeMessageCNjm
  = userNameDisplay.classList.contains
                                                               ('jmEGdark-mode') ?
-                                                                'Josephine McClellan '
-                                                              : "  Elizabeth Grant";
+                                                                ' Elizabeth Grant'
+                                                              : "   Josephine McClellan";
 modeStatusCN.innerText = "Currently Viewing " +               modeMessageCNjm;}
 modeToggleR.addEventListener('click',                         toggleModeCNjm);
 // Marion Silver Mode
@@ -99,7 +99,7 @@ function                                                        toggleModeCNjmms
   modeToggleR.addEventListener('click',                         toggleModeCNjmms);
                
 
-//  [deployment check 2:53 PM]
+//  [deployment check 2:54 PM]
 // [Name Toggle End]
 
 
