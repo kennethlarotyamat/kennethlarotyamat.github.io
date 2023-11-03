@@ -3,7 +3,6 @@
   "user02" : {"fname" : "Elizabeth ", "mname" : null, "lname" : "Grant"},
   "user03" : {"fname" : "Josephine ", "mname" : null, "lname" : "McClellan"},
   "user04" : {"fname" : "Marion ", "mname" : null, "lname" : "Silver"},
-
   "user05" : {"fname" : "Alicia ", "mname" : null, "lname" : "Nash"},
   "user06" : {"fname" : "Madeleine ", "mname" : null, "lname" : "Bowen"},
   "user07" : {"fname" : "Helen ", "mname" : null, "lname" : "Benson"},
