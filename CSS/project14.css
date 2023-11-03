@@ -694,3 +694,5 @@ place-items: center;
 .EGdark-mode{color: rgb(17, 17, 18);}
 .jmEGdark-mode{color: rgb(17, 16, 16);}
 .msjmEGdark-mode{color: rgb(15, 16, 15);}
+.connectionname{width: 100%;display: flex;justify-content: center;column-gap: 1vh;}
+/* https://developer.mozilla.org/en-US/docs/Web/CSS/column-gap */
