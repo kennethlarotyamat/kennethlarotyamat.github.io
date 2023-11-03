@@ -118,7 +118,9 @@ const modeMessageCNjm = userNameDisplay.classList.contains
 modeStatusCN.innerText = "Currently Viewing " + modeMessageCNjm;
 }
 modeToggleR.addEventListener('click', toggleModeCNjm);
+
 // [Name Toggle End]
+// so I only need mode toggle r, mode toggle L should create some kind of "PASS" event.
 
 // modeToggleL.addEventListener('click', toggleModeCN);  deployment check 11/3 1:58 PM
 // here is the thing. I was thinking of changing this to a carousel, but I remember something.
