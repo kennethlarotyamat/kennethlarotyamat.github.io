@@ -103,13 +103,16 @@ modeStatusCN.innerText = "Currently Viewing " + modeMessageCN;}
 
 modeToggleR.addEventListener('click', toggleModeCN);
 
-function toggleModeCNjm() {
-  userNameDisplay.classList.toggle('jmEGdark-mode');
-  const modeMessageCNjm = userNameDisplay.classList.contains('jmEGdark-mode') ?
-  'Elizabeth Grant '
-  : " Josephine McClellan " ;
-  modeStatusCN.innerText = "Currently Viewing " + modeMessageCNjm;}
-  modeToggleR.addEventListener('click', toggleModeCNjm);
+function                                                 toggleModeCNjm() {
+  userNameDisplay.classList.toggle                       ('jmEGdark-mode');
+  const                                                  modeMessageCNjm = userNameDisplay.classList.contains     
+                                                         ('jmEGdark-mode') ?
+                                                          'Elizabeth Grant '
+                                                           : " Josephine McClellan " ;
+  modeStatusCN.innerText = "Currently Viewing " +          modeMessageCNjm;}
+  modeToggleR.addEventListener('click',                    toggleModeCNjm);
+
+  // this is working, but it's going to take forever, and once I'm finished, I would have to do this for the left button.
 
 
 
