@@ -90,7 +90,7 @@ nextImage.addEventListener('click', function() {
 
 
 
-// [Name Toggle Start]               //  [deployment check 2:12 PM]
+// [Name Toggle Start]
 const userNameDisplay = document.querySelector('.usernamedisplay');
 const modeStatusCN = document.querySelector('.mode-statusCN');
 
@@ -108,7 +108,7 @@ modeToggleR.addEventListener('click', toggleModeCN);
 
 
 
-
+               //  [deployment check 2:12 PM]
 function                                                      toggleModeCNjm() {
 userNameDisplay.classList.toggle                              ('jmEGdark-mode');
 const                                                         modeMessageCNjm
