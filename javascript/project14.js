@@ -90,7 +90,7 @@ nextImage.addEventListener('click', function() {
 
 
 
-// [Name Toggle Start]
+// [Name Toggle Start] // <!-- deployment check 11/3 1:58 PM --> // modeToggleL.addEventListener('click', toggleModeCN);
 const userNameDisplay = document.querySelector('.usernamedisplay');
 const modeStatusCN = document.querySelector('.mode-statusCN');
 
@@ -106,8 +106,8 @@ const modeMessageCN = userNameDisplay.classList.contains('EGdark-mode') ?
 modeStatusCN.innerText = "Currently Viewing " + modeMessageCN;}
 modeToggleR.addEventListener('click', toggleModeCN);
 
-// modeToggleL.addEventListener('click', toggleModeCN);
-// <!-- deployment check 11/3 1:56 PM -->
+
+
 
 function toggleModeCNjm() {
 userNameDisplay.classList.toggle('jmEGdark-mode');
