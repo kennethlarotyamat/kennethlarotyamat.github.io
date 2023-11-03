@@ -120,6 +120,9 @@ nextImage.addEventListener('click', function() {
   // this is working, but it's going to take forever, and once I'm finished, I would have to do this for the left button.
 
   // this is interesting, but it doesn't bring me any closer to using a json file in the project.
+  // but the funny thing here is, you're toggling between elisibeth grant mode, and audrey hepburn mode, and then
+  // once youre in elizabeth grant mode, you can toggle between elizabeth grant mode and marion silver mode. this 
+  // would just take forever.
 
 
 
