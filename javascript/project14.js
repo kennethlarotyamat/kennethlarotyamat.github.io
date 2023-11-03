@@ -77,8 +77,6 @@ const modeMessageCN = userNameDisplay.classList.contains('EGdark-mode') ?
 : "Audrey Hepburn";
 modeStatusCN.innerText = "Currently Viewing " + modeMessageCN;}
 modeToggleR.addEventListener('click', toggleModeCN);
-
-
 function                                                      toggleModeCNjm() {
 userNameDisplay.classList.toggle                              ('jmEGdark-mode');
 const                                                         modeMessageCNjm
@@ -103,7 +101,7 @@ function                                                      toggleModeCNjmms()
   }
   modeToggleR.addEventListener('click',                         toggleModeCNjmms);
                
-              //  [deployment check 2:23 PM]
+              //  [deployment check 2:24 PM]
               // Marion Silver Marion Silver
 
 
