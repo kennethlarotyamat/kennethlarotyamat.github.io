@@ -93,8 +93,8 @@ function                                                        toggleModeCNjmms
   userNameDisplay.classList.toggle                              ('msjmEGdark-mode');const                                                         
                                                                 modeMessageCNjmms                        = userNameDisplay.classList.contains
                                                                 ('msjmEGdark-mode') ?
-                                                                   'Josephine McClellan '
-                                                                :  " Marion Silver ";
+                                                                   ' Marion Silver '
+                                                                :  " Josephine McClellan";
   modeStatusCN.innerText = "Currently Viewing " +               modeMessageCNjmms;}
   modeToggleR.addEventListener('click',                         toggleModeCNjmms);
                
