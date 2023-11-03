@@ -89,46 +89,22 @@ nextImage.addEventListener('click', function() {
 
 
 // Select the <body> element from the DOM and assign it to the constant "body".
-const userNameDisplay = document.querySelector('usernamedisplay');
-
+const userNameDisplay = document.querySelector('.usernamedisplay');
 // Select the HTML element with the ID "mode-toggle". This is the <input> checkbox for toggling between light and dark modes.
-const modeToggleR = document.getElementById('nextproject10');
-
+const modeToggleR = document.getElementById("nextproject10");
 // Select the HTML element with the class "mode-status". This is the <h2> element that displays the current mode.
 const modeStatusCN = document.querySelector('.mode-statusCN');
-
 // Define a function named "toggleMode".
-
-
-
-
-
-
 function toggleModeCN() {
-
-
-
-  // Toggle the class "dark-mode" on the <body>. If the class exists, it is removed; if it does not exist, it is added.
-  usernamedisplay.classList.toggle('EGdark-mode');
-
-
-
-  // Check if the "dark-mode" class is present on the <body>. If so, set "modeMessage" to "Dark Mode", otherwise set it to "Light Mode".
-  const modeMessage = body.classList.contains('EGdark-mode') ?
-
-
-      'Elizabeth Grant'
-      : "Audrey Hepburn";
-
-
-
-  // Update the text of the "modeStatus" element (the <h2>) to reflect the current mode.
-  modeStatus.innerText = "Currently Viewing " + modeMessage;
-
+// Toggle the class "dark-mode" on the <body>. If the class exists, it is removed; if it does not exist, it is added.
+userNameDisplay.classList.toggle('EGdark-mode');
+// Check if the "dark-mode" class is present on the <body>. If so, set "modeMessage" to "Dark Mode", otherwise set it to "Light Mode".
+const modeMessageCN = userNameDisplay.classList.contains('EGdark-mode') ?
+'Elizabeth Grant'
+: "Audrey Hepburn";
+// Update the text of the "modeStatus" element (the <h2>) to reflect the current mode.
+modeStatusCN.innerText = "Currently Viewing " + modeMessageCN;
 }
-
-
-
 // Add a "click" event listener to the "modeToggle" element (the checkbox). When the checkbox is clicked, the "toggleMode" function is called.
 modeToggleR.addEventListener('click', toggleModeCN);
 
