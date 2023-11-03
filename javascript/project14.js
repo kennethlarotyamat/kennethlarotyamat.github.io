@@ -108,7 +108,7 @@ modeToggleR.addEventListener('click', toggleModeCN);
 
 
 
-               //  [deployment check 2:12 PM]
+               //  [deployment check 2:13 PM]
 function                                                      toggleModeCNjm() {
 userNameDisplay.classList.toggle                              ('jmEGdark-mode');
 const                                                         modeMessageCNjm
