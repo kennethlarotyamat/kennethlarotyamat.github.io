@@ -90,7 +90,7 @@ nextImage.addEventListener('click', function() {
 
 
 
-// [Name Toggle Start]               //  [deployment check 2:03 PM]
+// [Name Toggle Start]               //  [deployment check 2:12 PM]
 const userNameDisplay = document.querySelector('.usernamedisplay');
 const modeStatusCN = document.querySelector('.mode-statusCN');
 
@@ -109,15 +109,16 @@ modeToggleR.addEventListener('click', toggleModeCN);
 
 
 
-function toggleModeCNjm() {
-userNameDisplay.classList.toggle('jmEGdark-mode');
-const modeMessageCNjm = userNameDisplay.classList.contains
-('jmEGdark-mode') ?
-'Elizabeth Grant '
-: " Josephine McClellan ";
-modeStatusCN.innerText = "Currently Viewing " + modeMessageCNjm;
+function                                                      toggleModeCNjm() {
+userNameDisplay.classList.toggle                              ('jmEGdark-mode');
+const                                                         modeMessageCNjm
+ = userNameDisplay.classList.contains
+                                                              ('jmEGdark-mode') ?
+                                                              'Elizabeth Grant '
+                                                              : " Josephine McClellan ";
+modeStatusCN.innerText = "Currently Viewing " +               modeMessageCNjm;
 }
-modeToggleR.addEventListener('click', toggleModeCNjm);
+modeToggleR.addEventListener('click',                         toggleModeCNjm);
 
 // [Name Toggle End]
 // so I only need mode toggle r, mode toggle L should create some kind of "PASS" event.
