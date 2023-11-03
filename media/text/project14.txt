@@ -7402,6 +7402,17 @@ In the next two lessons, we’ll take a deep dive into more complex topics in Re
 /* <!-- https://kennethlarotyamat.github.io/CSS/p14s001to015.css --> */
 <!-- C:\Users\KLYam\OneDrive\Documents\GitHub\kennethlarotyamat.github.io\CSS\p14s001to015.css -->
 <link rel="stylesheet" href=" https://kennethlarotyamat.github.io/CSS/p14s001to015.css ">
+1. Browser Storage: Introduction
+Goals
+By the end of this lesson you will:
+Have learned what browser storage is and why it can be useful
+Understand how to work with one of the storage options available (called localStorage)
+Understand what (and what not to put in localStorage)
+Introduction
+So, what is browser storage exactly? It is a powerful tool for web developers to store and access data on the client side, used commonly for things like caching, authentication, session management and more. One big benefit of using browser storage is persisting data even if the user refreshes the page, or closes the tab or the browser entirely. When that user opens up your website again, all the data will still be there.
+There are a few different options when it comes to browser storage, but in the lesson we will focus on one in particular: localStorage. One of the advantages of localStorage over some of the alternatives is that there really isn’t that much to learn in order to use it (which we will in the project later today).
+Next
+
 
 ...
 
