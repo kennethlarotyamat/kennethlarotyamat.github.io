@@ -1,9 +1,6 @@
-
 // [Color / Grayscale Toggle Start]
-
 $(function() {
   "use strict";
-
   let bodyA = $(".bodya");
   let footer = $(".footer");
   let main = $(".main");
@@ -13,7 +10,6 @@ $(function() {
   let contentouter = $(".contentouter");
   let modeToggle = $("#mode-toggle");
   let modeStatus = $(".mode-status");
-
   function toggleMode() {
     bodyA.toggleClass("dark-modefields");
     footer.toggleClass("dark-modefields");
@@ -21,39 +17,29 @@ $(function() {
     aside.toggleClass("dark-modefields");
     subheadercenterheadertextbutton.toggleClass("dark-modefields");
     header.toggleClass("dark-modefields");
-    contentouter.toggleClass("dark-mode");
- 
+    contentouter.toggleClass("dark-mode"); 
     const modeMessage = contentouter.hasClass("dark-mode") ?
       "Pinkscale" : "Color";
-
     modeStatus.text(modeMessage);
   }
-
   modeToggle.click(toggleMode);
 });
-
 // [Color / Grayscale Toggle End]  
-
-
 
 // [Swipe Left / Swipe Right Start]
 const images = document.querySelectorAll('#sliderproject10 iframe');
 const previousImage = document.getElementById("prevproject10");
 const nextImage = document.getElementById("nextproject10");
-
-let currentIndex = 0;
- 
+let currentIndex = 0; 
 function reset() {
   for (let i = 0; i < images.length; i++) {
     images[i].classList.remove('active');
   }
 }
-
 function initializeSlider() {
   reset();
   images[currentIndex].classList.add('active');
-} 
- 
+}  
 function slideLeft() {
   reset();
   currentIndex--;
@@ -61,8 +47,7 @@ function slideLeft() {
     currentIndex = images.length - 1;
   }
   images[currentIndex].classList.add('active');
-}
- 
+} 
 function slideRight() {
   reset();
   currentIndex++;
@@ -71,17 +56,13 @@ function slideRight() {
   }
   images[currentIndex].classList.add('active');
 }
-
 initializeSlider();
-
 previousImage.addEventListener('click', function() {
   slideLeft();
 });
-
 nextImage.addEventListener('click', function() {
   slideRight();
 });
-
 // [Swipe Left / Swipe Right End]
 
 
@@ -121,6 +102,32 @@ modeStatusCN.innerText = "Currently Viewing " +               modeMessageCNjm;
 modeToggleR.addEventListener('click',                         toggleModeCNjm);
 
 // [Name Toggle End]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 // so I only need mode toggle r, mode toggle L should create some kind of "PASS" event.
 
 // modeToggleL.addEventListener('click', toggleModeCN);  deployment check 11/3 1:58 PM
