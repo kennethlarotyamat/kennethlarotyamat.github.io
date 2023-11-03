@@ -65,12 +65,6 @@ nextImage.addEventListener('click', function() {
 });
 // [Swipe Left / Swipe Right End]
 
-
-
-
-
-
-
 // [Name Toggle Start]
 const userNameDisplay = document.querySelector('.usernamedisplay');
 const modeStatusCN = document.querySelector('.mode-statusCN');
