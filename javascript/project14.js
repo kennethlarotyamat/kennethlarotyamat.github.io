@@ -28,6 +28,7 @@ $(function() {
 
 // [Swipe Left / Swipe Right Start]
 const images = document.querySelectorAll('#sliderproject10 iframe');
+const connectionNames = document.querySelectorAll('#containermyCarousel h2');
 const previousImage = document.getElementById("prevproject10");
 const nextImage = document.getElementById("nextproject10");
 let currentIndex = 0; 
@@ -35,11 +36,22 @@ function reset() {
   for (let i = 0; i < images.length; i++) {
     images[i].classList.remove('active');
   }
+  // 
+  for (let i = 0; i < connectionNames.length; i++) {
+    connectionNames[i].classList.remove('active');
+  }
+  // 
 }
 function initializeSlider() {
   reset();
   images[currentIndex].classList.add('active');
 }  
+// 
+function initializeSlider() {
+  reset();
+  connectionNames[currentIndex].classList.add('active');
+}  
+// 
 function slideLeft() {
   reset();
   currentIndex--;
@@ -48,6 +60,16 @@ function slideLeft() {
   }
   images[currentIndex].classList.add('active');
 } 
+// 
+function slideLeft() {
+  reset();
+  currentIndex--;
+  if (currentIndex < 0) {
+    currentIndex = connectionNames.length - 1;
+  }
+  connectionNames[currentIndex].classList.add('active');
+} 
+// 
 function slideRight() {
   reset();
   currentIndex++;
@@ -56,6 +78,16 @@ function slideRight() {
   }
   images[currentIndex].classList.add('active');
 }
+// 
+function slideRight() {
+  reset();
+  currentIndex++;
+  if (currentIndex >= connectionNames.length) {
+    currentIndex = 0;
+  }
+  connectionNames[currentIndex].classList.add('active');
+}
+// 
 initializeSlider();
 previousImage.addEventListener('click', function() {
   slideLeft();
