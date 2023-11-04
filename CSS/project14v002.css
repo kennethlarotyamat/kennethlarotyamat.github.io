@@ -4,7 +4,7 @@
 .blueHeader{background-color: #D4E2EB;}
 .pinkHeader{background-color: #FFEFEA;}
 .greenLeft{background-color: #CFFDBC;width: 15%;}
-.suedeCenter{background-color: #ECDEC9;width: 70%;}
+.suedeCenter{background-color: #ECDEC9;width: 70%;height: auto;aspect-ratio: 686/868;}
 .yellowRight{background-color: #FFFFBF;width: 15%;}
 .pinkFooter{background-color: #FFEFEA;}
 .coralFooter{background-color: #FADDCC;}
