@@ -50,7 +50,7 @@
 
 // here it goes [10:11 AM]
 
-const myJSON = '{"fname" : "Audrey ", "mname" : null, "lname" : "Hepburn","tagline" : "years of anger followinghours that float idly down "}';
+const myJSON = '{"fname" : "Audrey ", "mname" : null, "lname" : "Hepburn","tagline" : "years of anger following hours that float idly down "}';
 const myObj = JSON.parse(myJSON);
 document.getElementById("demoTagline").innerHTML = myObj.tagline;
 
