@@ -31,6 +31,8 @@ const images = document.querySelectorAll('#sliderproject10 iframe');
 const connectionNames = document.querySelectorAll('#containermyCarousel h2');
 const previousImage = document.getElementById("prevproject10");
 const nextImage = document.getElementById("nextproject10");
+const previousImagecn = document.getElementById("prevproject10");
+const nextImagecn = document.getElementById("nextproject10");
 let currentIndex = 0; 
 function reset() {
   for (let i = 0; i < images.length; i++) {
@@ -47,7 +49,7 @@ function initializeSlider() {
   images[currentIndex].classList.add('active');
 }  
 // 
-function initializeSlider() {
+function initializeSlidercn() {
   reset();
   connectionNames[currentIndex].classList.add('active');
 }  
@@ -61,7 +63,7 @@ function slideLeft() {
   images[currentIndex].classList.add('active');
 } 
 // 
-function slideLeft() {
+function slideLeftcn() {
   reset();
   currentIndex--;
   if (currentIndex < 0) {
@@ -79,7 +81,7 @@ function slideRight() {
   images[currentIndex].classList.add('active');
 }
 // 
-function slideRight() {
+function slideRightcn() {
   reset();
   currentIndex++;
   if (currentIndex >= connectionNames.length) {
@@ -91,9 +93,24 @@ function slideRight() {
 initializeSlider();
 previousImage.addEventListener('click', function() {
   slideLeft();
+  // slideLeftcn();
 });
 nextImage.addEventListener('click', function() {
   slideRight();
+  // slideRightcn();
+});
+
+// [Swipe Left / Swipe Right End]
+// [          C             N   ]
+
+initializeSlidercn();
+previousImagecn.addEventListener('click', function() {
+  slideLeftcn();
+  // slideLeftcn();
+});
+nextImagecn.addEventListener('click', function() {
+  slideRightcn();
+  // slideRightcn();
 });
 // [Swipe Left / Swipe Right End]
 
