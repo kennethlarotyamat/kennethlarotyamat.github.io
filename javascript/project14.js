@@ -67,9 +67,45 @@ nextImage.addEventListener('click', function() {
 
 
 
+$(document).ready(function(){
+  // Activate Carousel
+  $("#myCarousel").carousel();
+    
+
+    
+  // Enable Carousel Controls
+  $(".left").click(function(){
+    $("#myCarousel").carousel("prev");
+  });
+  $(".right").click(function(){
+    $("#myCarousel").carousel("next");
+  });
+});
 
 
 
+
+
+
+
+
+
+
+
+          // $(document).ready(function(){
+          //   // Activate Carousel
+          //   $("#myCarousel").carousel();
+              
+          
+              
+          //   // Enable Carousel Controls
+          //   $(".left").click(function(){
+          //     $("#myCarousel").carousel("prev");
+          //   });
+          //   $(".right").click(function(){
+          //     $("#myCarousel").carousel("next");
+          //   });
+          // });
 
 
 
@@ -86,37 +122,37 @@ nextImage.addEventListener('click', function() {
 
 
 // [Name Toggle Start]
-const userNameDisplay = document.querySelector('.usernamedisplay');
-const modeStatusCN = document.querySelector('.mode-statusCN');
-const modeToggleR = document.getElementById("nextproject10");
-const modeToggleL = document.getElementById("prevproject10");
+// const userNameDisplay = document.querySelector('.usernamedisplay');
+// const modeStatusCN = document.querySelector('.mode-statusCN');
+// const modeToggleR = document.getElementById("nextproject10");
+// const modeToggleL = document.getElementById("prevproject10");
 // Elizabeth Grant Mode
-function toggleModeCN() {
-userNameDisplay.classList.toggle('EGdark-mode');
-const modeMessageCN = userNameDisplay.classList.contains('EGdark-mode') ?
-'Elizabeth Grant'
-: "Audrey Hepburn";
-modeStatusCN.innerText = "Currently Viewing " + modeMessageCN;}
-modeToggleR.addEventListener('click', toggleModeCN);
+// function toggleModeCN() {
+// userNameDisplay.classList.toggle('EGdark-mode');
+// const modeMessageCN = userNameDisplay.classList.contains('EGdark-mode') ?
+// 'Elizabeth Grant'
+// : "Audrey Hepburn";
+// modeStatusCN.innerText = "Currently Viewing " + modeMessageCN;}
+// modeToggleR.addEventListener('click', toggleModeCN);
 // Josephine McClellan Mode
-function                                                      toggleModeCNjm() {
-userNameDisplay.classList.toggle                              ('jmEGdark-mode');
-const                                                         modeMessageCNjm
- = userNameDisplay.classList.contains
-                                                              ('jmEGdark-mode') ?
-                                                                ' Elizabeth Grant'
-                                                              : "   Josephine McClellan";
-modeStatusCN.innerText = "Currently Viewing " +               modeMessageCNjm;}
-modeToggleR.addEventListener('click',                         toggleModeCNjm);
+// function                                                      toggleModeCNjm() {
+// userNameDisplay.classList.toggle                              ('jmEGdark-mode');
+// const                                                         modeMessageCNjm
+//  = userNameDisplay.classList.contains
+//                                                               ('jmEGdark-mode') ?
+//                                                                 ' Elizabeth Grant'
+//                                                               : "   Josephine McClellan";
+// modeStatusCN.innerText = "Currently Viewing " +               modeMessageCNjm;}
+// modeToggleR.addEventListener('click',                         toggleModeCNjm);
 // Marion Silver Mode
-function                                                        toggleModeCNjmms() {
-  userNameDisplay.classList.toggle                              ('msjmEGdark-mode');const                                                         
-                                                                modeMessageCNjmms                        = userNameDisplay.classList.contains
-                                                                ('msjmEGdark-mode') ?
-                                                                   ' Marion Silver '
-                                                                :  " Josephine McClellan";
-  modeStatusCN.innerText = "Currently Viewing " +               modeMessageCNjmms;}
-  modeToggleR.addEventListener('click',                         toggleModeCNjmms);
+// function                                                        toggleModeCNjmms() {
+//   userNameDisplay.classList.toggle                              ('msjmEGdark-mode');const                                                         
+//                                                                 modeMessageCNjmms                        = userNameDisplay.classList.contains
+//                                                                 ('msjmEGdark-mode') ?
+//                                                                    ' Marion Silver '
+//                                                                 :  " Josephine McClellan";
+//   modeStatusCN.innerText = "Currently Viewing " +               modeMessageCNjmms;}
+//   modeToggleR.addEventListener('click',                         toggleModeCNjmms);
                
 
 //  [deployment check 2:54 PM]
@@ -140,17 +176,7 @@ function                                                        toggleModeCNjmms
 // Dawn Dwyer
 // Amanda Marsh
 
-$(document).ready(function(){
-  // Activate Carousel
-  $("#myCarousel").carousel();
-            // Enable Carousel Controls
-            $(".prevproject10").click(function(){
-              $("#myCarousel").carousel("prev");
-          });
-          $(".nextproject10").click(function(){
-              $("#myCarousel").carousel("next");
-          });
-          });
+
 
 
 // [Development Notes 11/03/2023 06:48 PM]

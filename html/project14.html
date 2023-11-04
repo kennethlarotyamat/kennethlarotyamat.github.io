@@ -27,7 +27,9 @@
 <!-- I took some time to move files from the MISC repository, and move them to the main repository, and then put the index page back 
 to the misc repository -->
 <!--  -->
-
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
 
 
 <link rel="stylesheet" href=" ..\CSS\project14.css  ">
@@ -54,7 +56,39 @@ to the misc repository -->
 </header>
 
 <div class="connectionname subheadercenterheadertextbutton subheader09232023065900">
-    <h2 style="color: #79443B;" class="usernamedisplay mode-statusCN "> Currently</h2> <h2 style="color: #A81C07;" > Viewing </h2>  <h2 style="color: OliveDrab;" > (Connection Name)  </h2>
+    <h2 style="color: #79443B;" class="usernamedisplay mode-statusCN "> Currently</h2> <h2 style="color: #A81C07;" > Viewing </h2>  
+    
+    <h2 style="color: OliveDrab;" > 
+        
+        
+
+        <div id="container myCarousel" class="carousel slide">
+        
+        <div class="carousel-inner" role="listbox">
+        
+        <div class="item active">       <h2>Audrey Hepburn</h2>
+        <div class="carousel-caption">  <h2>Audrey Hepburn</h2>
+        </div>
+        </div>
+        
+        <div class="item">              <h2>Elizabeth Grant</h2>
+        <div class="carousel-caption">  <h2>Elizabeth Grant</h2>
+        </div>
+        </div>
+        
+        <div class="item">              <h2>Josephine McClellan</h2>
+        <div class="carousel-caption">  <h2>Josephine McClellan</h2>
+        </div>
+        </div>
+        
+        <div class="item">              <h2>Marion Silver</h2>
+        <div class="carousel-caption">  <h2>Marion Silver</h2>
+        </div>
+        </div>
+        
+        </div></div> 
+    </h2>
+
 </div>
 
 <!-- <nobr style="color: #79443B;"> Chestnut</nobr> <nobr style="color: #A81C07;"> +</nobr> <nobr style="color: OliveDrab;"> -->
@@ -173,7 +207,7 @@ placeholder="e.g. - captainAwesome"
 </p>
 <div class=" d-flex justify-content-center">
 <!--  -->
-<button href="#myCarousel" class="prevproject10 buttonproject10 p-5 fs-1" id="prevproject10"> ❮ </button>
+<a class="left " href="#myCarousel" role="button"><button href="#myCarousel" class="left  buttonproject10 p-5 fs-1" id="prevproject10"> ❮ </button></a>
 <!--  -->
 </div>
 </aside>
@@ -183,11 +217,13 @@ placeholder="e.g. - captainAwesome"
 </p>
 <div class=" d-flex justify-content-center">
 <!--  -->
-<button href="#myCarousel" class="nextproject10 buttonproject10 p-5 fs-1" id="nextproject10"> ❯ </button>
+<a class="right " href="#myCarousel" role="button"><button href="#myCarousel" class="right  buttonproject10 p-5 fs-1" id="nextproject10"> ❯ </button></a>
 <!--  -->
 </div>
 </aside>
 <footer class="grid-item footer ">
+
+    
 <!--  -->
 
 <!--        
@@ -203,9 +239,9 @@ placeholder="e.g. - captainAwesome"
 -->
 
 <!--  -->
-<div class="container">
+<!-- <div class="container">
 
-<div id="myCarousel" class="carousel slide">
+<div id="myCarousel" class="carousel slide"> -->
 <!-- Indicators -->
 <!-- <ol class="carousel-indicators">
 <li class="item1 active"></li>
@@ -215,7 +251,7 @@ placeholder="e.g. - captainAwesome"
 </ol> -->
 
 <!-- Wrapper for slides -->
-<div class="carousel-inner" role="listbox">
+<!-- <div class="carousel-inner" role="listbox">
 
 <div class="item active"><h3>Audrey Hepburn</h3>
 <div class="carousel-caption"><h3>Audrey Hepburn</h3>
@@ -237,7 +273,7 @@ placeholder="e.g. - captainAwesome"
 </div>
 </div>
 
-</div></div></div>
+</div></div></div> -->
 <!-- 
 // Audrey Hepburn
 // Elizabeth Grant
@@ -293,7 +329,24 @@ crossorigin="anonymous"></script>
 [Relative]      ..\CSS\project14.css     
 -->
 
+<!-- <script>
+$(document).ready(function(){
+// Activate Carousel
+$("#myCarousel").carousel();
 
+
+
+// Enable Carousel Controls
+$(".left").click(function(){
+$("#myCarousel").carousel("prev");
+});
+$(".right").click(function(){
+$("#myCarousel").carousel("next");
+});
+});
+</script> -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
 </body>
 
 </html>
