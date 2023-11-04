@@ -50,6 +50,8 @@
 
 // here it goes [10:11 AM]
 
-// const myJSON = '{"fname" : "Audrey ", "mname" : null, "lname" : "Hepburn","tagline" : "years of anger followinghours that float idly down "}';
-// const myObj = JSON.parse(myJSON);
-// document.getElementById("demo").innerHTML = myObj.tagline;
+const myJSON = '{"fname" : "Audrey ", "mname" : null, "lname" : "Hepburn","tagline" : "years of anger followinghours that float idly down "}';
+const myObj = JSON.parse(myJSON);
+document.getElementById("demo").innerHTML = myObj.tagline;
+
+// I did it, and it worked.
