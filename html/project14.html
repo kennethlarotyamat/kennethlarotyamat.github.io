@@ -9,7 +9,7 @@
 <!--  -->
 <title>Chestnut + Hazel Connections</title>
 <!--  -->
-<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+<!-- <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css"> -->
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
 <!--  -->  
@@ -33,7 +33,9 @@ to the misc repository -->
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
 
-
+<!-- <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css"> -->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/css/bootstrap.min.css"  integrity="sha384-4bw+/aepP/YC94hEpVNVgiZdgIC5+VKNBQNGCHeKRQN+PtmoHDEXuppvnDJzQIu9" crossorigin="anonymous">
+<!-- <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css"> -->
 <link rel="stylesheet" href=" ..\CSS\project14.css  ">
 
 
@@ -68,17 +70,48 @@ to the misc repository -->
 
 <h2 style="color: OliveDrab;" > 
 
-<div id="myCarousel" class="carousel slide">
-<div class="carousel-inner" role="listbox">
+<div id="demo" class="carousel slide"  data-interval="false">
+<div class="carousel-inner">
+<div class="carousel-item active">      <h2>Audrey Hepburn</h2>          </div>
+<div class="carousel-item">             <h2>Elizabeth Grant</h2>              </div> 
+<div class="carousel-item">             <h2>Josephine McClellan</h2>             </div>
+<div class="carousel-item">             <h2>Marion Silver</h2>             </div>
+<div class="carousel-item">             <h2>Alicia Nash</h2>             </div>
+<div class="carousel-item">             <h2>Madeleine Bowen</h2>             </div>
+<div class="carousel-item">             <h2>Helen Benson</h2>             </div>
+<div class="carousel-item">             <h2>Janine Gunders</h2>             </div>
+<div class="carousel-item">             <h2>Gabriella Dʹarc</h2>             </div>
+<div class="carousel-item">             <h2>Claire Hamilton</h2>             </div>
+<div class="carousel-item">             <h2>Gloria Harper</h2>             </div>
+<div class="carousel-item">             <h2>Emma Darwin</h2>             </div>
+<div class="carousel-item">             <h2>Gwen Vanderveer</h2>             </div>
+<div class="carousel-item">             <h2>Penelope Benjamin</h2>             </div>
+<div class="carousel-item">             <h2>Eleanor Abbott</h2>             </div>
+<div class="carousel-item">             <h2>Dawn Dwyer</h2>             </div>
+<div class="carousel-item">             <h2>Amanda Marsh</h2>             </div>
+</div> 
+</div>  
 
-<div class="item active"><h2>Chania</h2></div>
-<div class="item "><h2>Chania</h2></div>
-<div class="item "><h2>Flowers</h2></div>
-<div class="item "><h2>Flowers</h2></div>
+<!--     
+// Audrey Hepburn
+// Elizabeth Grant
+// Josephine McClellan
+// Marion Silver
+// Alicia Nash
+// Madeleine Bowen
+// Helen Benson
+// Janine Gunders
+// Gabriella Dʹarc
+// Claire Hamilton
+// Gloria Harper
+// Emma Darwin
+// Gwen Vanderveer
+// Penelope Benjamin
+// Eleanor Abbott
+// Dawn Dwyer
+// Amanda Marsh 
+-->
 
-</div>
-</div>    
-    
 <!-- <div id="containermyCarousel"  class="carousel slide carousel-inner" role="listbox">
 <div class="item">              <h2>Audrey Hepburn</h2></div>
 <div class="carousel-caption">  <h2>Audrey Hepburn</h2></div>
@@ -332,7 +365,8 @@ placeholder="e.g. - captainAwesome"
 </p>
 <div class=" d-flex justify-content-center">
 <!--  -->
-<a class="leftbutton left " href="#myCarousel" role="button"><button href="#myCarousel" class="left  buttonproject10 p-5 fs-1" id="prevproject10"> ❮ </button></a>
+<!-- class="" type="button" data-bs-target="#demo" data-bs-slide="prev" -->
+<a class="leftbutton left " href="#myCarousel" role="button"><button data-bs-target="#demo" data-bs-slide="prev" type="button" href="#myCarousel" class="carousel-control-prev left  buttonproject10 p-5 fs-1" id="prevproject10"> ❮ </button></a>
 <!--  -->
 </div>
 </aside>
@@ -342,12 +376,12 @@ placeholder="e.g. - captainAwesome"
 </p>
 <div class=" d-flex justify-content-center">
 <!--  -->
-<a class="rightbutton right " href="#myCarousel" role="button"><button href="#myCarousel" class="right  buttonproject10 p-5 fs-1" id="nextproject10"> ❯ </button></a>
+<a class="rightbutton right " href="#myCarousel" role="button"><button type="button" data-bs-target="#demo" data-bs-slide="next"  href="#myCarousel" class=" carousel-control-next right  buttonproject10 p-5 fs-1" id="nextproject10"> ❯ </button></a>
 <!--  -->
 </div>
 </aside>
 <footer class="grid-item footer ">
-
+<!-- class="carousel-control-next" type="button" data-bs-target="#demo" data-bs-slide="next" -->
     <!-- <div id="carousel-example-generic" class="carousel slide" data-ride="carousel"> -->
         <!-- Indicators -->
         <!-- <ol class="carousel-indicators">
