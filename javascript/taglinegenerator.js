@@ -14,3 +14,31 @@
 // console.log(statement); 
 
 // i don't understand these instructions.
+
+// https://stackoverflow.com/questions/65341489/displaying-an-array-of-objects-one-screen-from-json-file
+//  Sometimes it's not clear to me if I've found an answer or not.
+// https://www.w3schools.com/js/js_json_intro.asp
+
+// https://www.w3schools.com/js/tryit.asp?filename=tryjson_object_dot
+// let personAge = obj.age;
+// let personFirstName = obj.fname;
+// let personMiddleName = obj.mname;
+// let personLastName = obj.lname;
+// let personTagline = obj.tagline;
+// https://www.w3schools.com/js/tryit.asp?filename=tryjson_object_dot
+// <!DOCTYPE html>
+// <html>
+// <body>
+
+// <h2>Access a JavaScript Object</h2>
+// <p id="demoTagline"></p>
+
+// <script>
+// const myJSON = '{"name":"Amanda", "age":30, "car":null}';
+// const myObj = JSON.parse(myJSON);
+// document.getElementById("demo").innerHTML = myObj.age;
+// </script>
+
+// </body>
+// </html>
+
