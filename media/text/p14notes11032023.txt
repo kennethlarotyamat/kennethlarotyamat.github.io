@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Bootstrap Example</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+  <style>
+  .carousel-inner > .item > img,
+  .carousel-inner > .item > a > img {
+    width: 70%;
+    margin: auto;
+  }
+  </style>
+</head>
+<body>
+
+<div class="container">
+
+  <div id="myCarousel" class="carousel slide">
+    <!-- Indicators -->
+
+
+    <!-- Wrapper for slides -->
+<div class="carousel-inner" role="listbox">
+
+<div class="item active"><h3>Audrey Hepburn</h3>
+<div class="carousel-caption"><h3>Audrey Hepburn</h3>
+</div>
+</div>
+
+<div class="item">              <h3>Elizabeth Grant</h3>
+<div class="carousel-caption">  <h3>Elizabeth Grant</h3>
+</div>
+</div>
+
+<div class="item">              <h3>Josephine McClellan</h3>
+<div class="carousel-caption">  <h3>Josephine McClellan</h3>
+</div>
+</div>
+
+<div class="item">              <h3>Marion Silver</h3>
+<div class="carousel-caption">  <h3>Marion Silver</h3>
+</div>
+</div>
+
+</div>
+
+    <!-- Left and right controls -->
+    <a class="left carousel-control" href="#myCarousel" role="button">
+      <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+      <span class="sr-only">Previous</span>
+    </a>
+    <a class="right carousel-control" href="#myCarousel" role="button">
+      <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+      <span class="sr-only">Next</span>
+    </a>
+  </div>
+</div>
+
+<script>
+$(document).ready(function(){
+  // Activate Carousel
+  $("#myCarousel").carousel();
+    
+
+    
+  // Enable Carousel Controls
+  $(".left").click(function(){
+    $("#myCarousel").carousel("prev");
+  });
+  $(".right").click(function(){
+    $("#myCarousel").carousel("next");
+  });
+});
+</script>
+
+</body>
+</html>
+
+https://www.w3schools.com/bootstrap/tryit.asp?filename=trybs_ref_js_carousel_js&stacked=h
+
+This is a headache, but it's slowly working
+
+...
+
+[Resources for formatting .md files]
+
+https://www.markdownguide.org/basic-syntax/
+
+https://www.inflectra.com/Support/KnowledgeBase/KB725.aspx
+
+...
