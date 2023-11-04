@@ -140,7 +140,17 @@ function                                                        toggleModeCNjmms
 // Dawn Dwyer
 // Amanda Marsh
 
-
+$(document).ready(function(){
+  // Activate Carousel
+  $("#myCarousel").carousel();
+            // Enable Carousel Controls
+            $(".prevproject10").click(function(){
+              $("#myCarousel").carousel("prev");
+          });
+          $(".nextproject10").click(function(){
+              $("#myCarousel").carousel("next");
+          });
+          });
 
 
 // [Development Notes 11/03/2023 06:48 PM]
