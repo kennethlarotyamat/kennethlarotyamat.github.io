@@ -9,7 +9,7 @@
 .pinkFooter{background-color: #FFEFEA;}
 .coralFooter{background-color: #FADDCC;}
 .violetBody{background-color: #E6E6FA;}
-*, *::before, *::after {text-wrap: wrap;font-size: 2.75vw;font-weight: 600;box-sizing:     border-box;     font-family:     'Cinzel', "Century Schoolbook","Times New Roman", Times, Courier,"Georgia", serif;    text-decoration: none;   }
+*, *::before, *::after {text-align: center;text-wrap: wrap;font-size: 2.75vw;font-weight: 600;box-sizing:     border-box;     font-family:     'Cinzel', "Century Schoolbook","Times New Roman", Times, Courier,"Georgia", serif;    text-decoration: none;   }
 
 
 
@@ -36,7 +36,7 @@
                                 [https://dictionary.cambridge.org/us/dictionary/english/if-worse-worst-comes-to-worst]
 
 [Development Commentary]        Starting over from the very beginning doesn't really feel like it's going to save me
-                                very much time or agony.
+                                very much time or agony. [New Note] I don't always like centering text.
 
 
 */
