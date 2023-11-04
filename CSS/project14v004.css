@@ -1,0 +1,115 @@
+@import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@400;500;600;700;800;900&family=Playfair+Display:ital,wght@0,400;0,500;0,600;0,700;0,800;0,900;1,400;1,500;1,600;1,700;1,800;1,900&family=Roboto+Serif:ital,opsz,wght@0,8..144,100;0,8..144,200;0,8..144,300;0,8..144,400;0,8..144,500;0,8..144,600;0,8..144,700;0,8..144,800;0,8..144,900;1,8..144,100;1,8..144,200;1,8..144,300;1,8..144,400;1,8..144,500;1,8..144,600;1,8..144,700;1,8..144,800;1,8..144,900&display=swap');
+
+.coralHeader{background-color: #FADDCC;color: #FADDCC;}
+.blueHeader{background-color: #D4E2EB;}
+.pinkHeader{background-color: #FFEFEA;}
+.greenLeft{background-color: #CFFDBC;width: 15%;}
+.suedeCenter{background-color: #ECDEC9;width: 70%;height: auto;aspect-ratio: 686/868; color: #ECDEC9;}
+iframe{width: 100%;height: auto;aspect-ratio: 686/808;}
+.yellowRight{background-color: #FFFFBF;width: 15%;}
+.pinkFooter{background-color: #FFEFEA;color: #FFEFEA;}
+.coralFooter{background-color: #FADDCC;color: #FADDCC;}
+.violetBody{background-color: #E6E6FA;}
+
+*, *::before, *::after {text-align: center;text-wrap: wrap;font-size: 2.14vw;font-weight: 686;box-sizing:     border-box;     font-family:     'Cinzel', "Century Schoolbook","Times New Roman", Times, Courier,"Georgia", serif;    text-decoration: none;   }
+
+
+
+
+
+
+.chestnutText{color: #79443B;}
+.sanguineText{color: #961906;}
+.hazelText{color: #508E29;}
+
+/* 
+
+[Resources]                     [https://developer.mozilla.org/en-US/docs/Web/CSS/color]
+                                [https://www.w3schools.com/css/css3_flexbox_container.asp]
+                                [https://developer.mozilla.org/en-US/docs/Web/CSS/flex]
+                                [https://developer.mozilla.org/en-US/docs/Web/CSS/color]
+                                [https://www.w3schools.com/css/tryit.asp?filename=trycss3_flexbox_flex-direction_column]
+                                [https://www.w3schools.com/css/tryit.asp?filename=trycss3_flexbox_flex-direction_row]
+                                [https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_flexible_box_layout/Basic_concepts_of_flexbox]
+                                [https://www.w3schools.com/bootstrap5/index.php#gsc.tab=0&gsc.q=carousel]
+                                [https://www.w3schools.com/tags/tag_span.asp]
+                                [https://developer.mozilla.org/en-US/docs/Web/CSS/text-wrap]
+                                [https://www.w3schools.com/bootstrap5/bootstrap_carousel.php]
+                                [https://dictionary.cambridge.org/us/dictionary/english/if-worse-worst-comes-to-worst]
+                                [https://www.w3schools.com/bootstrap5/bootstrap_carousel.php]
+                                [https://www.w3schools.com/css/css_align.asp]
+                                [https://www.thinkful.com/blog/whats-the-difference-between-html-vs-php/#:~:text=Language%3A,result%20of%20PHP%20is%20dynamic.]
+                                [https://www.geeksforgeeks.org/php-vs-html/]
+                                [body{display: flex;align-items:center;justify-content:  center;align-items: center;}]
+                                [https://developer.mozilla.org/en-US/docs/Web/CSS/align-content]
+                                [https://getbootstrap.com/docs/5.0/components/collapse/]
+
+[Development Commentary]        Starting over from the very beginning doesn't really feel like it's going to save me
+                                very much time or agony. [New Note] I don't always like centering text, but I only have
+                                DIV titles right now, and I don't really anticipate long bodies of text. [04:09]
+
+                                [Stack Overflow Question] [just lost my stackoverflowquestionginity]
+
+                                Bootstrap Carousel Issues, Bootstrap Version 5
+
+                                I'm new at this, and I hardly know how to put this in the correct terms, but basically, I'm making a carousel using Bootstrap 5.
+
+                                I was able to get the names to carousel toggle, but not the iframes.
+
+                                kennethlarotyamat.github.io/html/project14v002.html
+
+                                I was able to do it on a different version of this class project, but the "names carousel" toggles with bootstrap, and the iframes toggle with a javascript or jquery mechanism.
+
+                                https://kennethlarotyamat.github.io/html/project14.html
+
+                                I have no idea what to do.
+
+                                I tried having the carousel toggle buttons target 2 different ids: #demo1 for the names carousel, and #demo2 for the iframes carousel. 
+
+                                i also tried wrapping a button tag around a button tag, so the button that targeted #demo1 (names) was wrapped around another button that targeted #demo2 (iframes). 
+ 
+                                neither worked.
+                                Bootstrap Carousel Issues, Bootstrap Version 5
+                                Asked today
+                                Modified today
+                                Viewed 1 time
+
+                                Report this ad
+                                0
+
+                                I'm new at this, and I hardly know how to put this in the correct terms, but basically, I'm making a carousel using Bootstrap 5.
+
+                                I was able to get the names to carousel toggle, but not the iframes.
+
+                                kennethlarotyamat.github.io/html/project14v002.html
+
+                                I was able to do it on a different version of this class project, but the "names carousel" toggles with bootstrap, and the iframes toggle with a javascript or jquery mechanism.
+
+                                https://kennethlarotyamat.github.io/html/project14.html
+
+                                I have no idea what to do.
+
+                                I tried having the carousel toggle buttons target 2 different ids: #demo1 for the names carousel, and #demo2 for the iframes carousel.
+
+                                i also tried wrapping a button tag around a button tag, so the button that targeted #demo1 (names) was wrapped around another button that targeted #demo2 (iframes).
+
+                                neither worked.
+
+                                [Stack Overflow Question] [just lost my stackoverflowquestionginity] [11/04/2023 08:08 AM]
+
+                                [Resources]                 [https://getbootstrap.com/docs/5.0/components/collapse/]
+                                                            [https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Attributes/aria-controls]
+                                                            [https://www.w3schools.com/bootstrap5/bootstrap_carousel.php]
+
+                                [developemnt notes]
+
+                                I don't want to resort to this, but I'm ready to just use images, rather than iframes for the carousel, but I'm not
+                                really sure if that's the issue, because if the carousel can toggle a series of names, I'm sure it can toggle a series
+                                of iframes.
+
+
+*/
+
+.topThird{display: flex;flex-direction: column;}
+.centerThird{display: flex;flex-direction: row;}
+.bottomThird{display: flex;flex-direction: column;}
