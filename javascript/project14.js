@@ -68,6 +68,23 @@ nextImage.addEventListener('click', function() {
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 // [Name Toggle Start]
 const userNameDisplay = document.querySelector('.usernamedisplay');
 const modeStatusCN = document.querySelector('.mode-statusCN');
@@ -104,6 +121,26 @@ function                                                        toggleModeCNjmms
 
 //  [deployment check 2:54 PM]
 //  [Name Toggle End]
+
+
+
+
+
+
+
+// [Development Notes 11/03/2023 06:48 PM]
+// This is a headache. I was trying to use a toggle approach to the name change area, but, I think I'll use a carousel.
+
+
+// [Resources] https://www.w3schools.com/bootstrap/tryit.asp?filename=trybs_ref_js_carousel_js&stacked=h
+
+
+
+
+
+
+
+
 
 
 
