@@ -645,3 +645,19 @@ font-size: 3vh;
 
 /* list-style-type: none */
 .carousel-indicators{list-style-type: none;}
+
+    #containermyCarousel {
+    color:olivedrab;
+    }
+    
+    #containermyCarousel h2 {
+    position: absolute;
+    height: auto;
+    aspect-ratio: 680/900;
+    opacity: 0;
+    transition: all 1s ease-in-out;
+    }
+    
+    #sliderproject10 h2.active {
+    opacity: 1;
+    }
