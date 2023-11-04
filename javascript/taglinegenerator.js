@@ -55,3 +55,5 @@ const myObj = JSON.parse(myJSON);
 document.getElementById("demoTagline").innerHTML = myObj.tagline;
 
 // I did it, and it worked.
+// https://www.w3schools.com/js/tryit.asp?filename=tryjson_object_dot
+// it worked, but that was a nightmare.
