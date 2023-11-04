@@ -6,17 +6,14 @@
 
 
 
-const previousImage = document.getElementById("prevproject10");
-window.onload = function () {
-    const previousImage = document.getElementById("prevproject10");
-    
-};
+
+
 
 const images = document.querySelectorAll('#sliderproject10 iframe');
 
 const nextImage = document.getElementById("nextproject10");
 
-
+const previousImage = document.getElementById("prevproject10");
 
 let currentIndex = 0;
  
