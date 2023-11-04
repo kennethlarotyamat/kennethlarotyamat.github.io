@@ -1,0 +1,14 @@
+{
+  "name": "issue-logger",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "sass:dev": "sass --watch --style=expanded --no-source-map style.scss:css/style.css",
+    "sass:prod": "sass --style=compressed --no-source-map style.scss:css/style.css"
+  },
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "sass": "^1.57.1"
+  }
+}
