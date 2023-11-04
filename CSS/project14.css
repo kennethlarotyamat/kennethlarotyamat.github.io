@@ -643,3 +643,5 @@ font-size: 3vh;
 /* width: 100%;display: flex;justify-content: center;column-gap: 1vh; */
 }
 
+/* list-style-type: none */
+.carousel-indicators{list-style-type: none;}
