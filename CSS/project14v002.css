@@ -47,6 +47,54 @@ iframe{width: 100%;height: auto;aspect-ratio: 686/808;}
                                 very much time or agony. [New Note] I don't always like centering text, but I only have
                                 DIV titles right now, and I don't really anticipate long bodies of text. [04:09]
 
+                                [Stack Overflow Question]
+                                
+                                Bootstrap Carousel Issues, Bootstrap Version 5
+
+                                I'm new at this, and I hardly know how to put this in the correct terms, but basically, I'm making a carousel using Bootstrap 5.
+
+                                I was able to get the names to carousel toggle, but not the iframes.
+
+                                kennethlarotyamat.github.io/html/project14v002.html
+
+                                I was able to do it on a different version of this class project, but the "names carousel" toggles with bootstrap, and the iframes toggle with a javascript or jquery mechanism.
+
+                                https://kennethlarotyamat.github.io/html/project14.html
+
+                                I have no idea what to do.
+
+                                I tried having the carousel toggle buttons target 2 different ids: #demo1 for the names carousel, and #demo2 for the iframes carousel. 
+
+                                i also tried wrapping a button tag around a button tag, so the button that targeted #demo1 (names) was wrapped around another button that targeted #demo2 (iframes). 
+
+                                neither worked.
+                                Bootstrap Carousel Issues, Bootstrap Version 5
+                                Asked today
+                                Modified today
+                                Viewed 1 time
+
+                                Report this ad
+                                0
+
+                                I'm new at this, and I hardly know how to put this in the correct terms, but basically, I'm making a carousel using Bootstrap 5.
+
+                                I was able to get the names to carousel toggle, but not the iframes.
+
+                                kennethlarotyamat.github.io/html/project14v002.html
+
+                                I was able to do it on a different version of this class project, but the "names carousel" toggles with bootstrap, and the iframes toggle with a javascript or jquery mechanism.
+
+                                https://kennethlarotyamat.github.io/html/project14.html
+
+                                I have no idea what to do.
+
+                                I tried having the carousel toggle buttons target 2 different ids: #demo1 for the names carousel, and #demo2 for the iframes carousel.
+
+                                i also tried wrapping a button tag around a button tag, so the button that targeted #demo1 (names) was wrapped around another button that targeted #demo2 (iframes).
+
+                                neither worked.
+
+                                [Stack Overflow Question]
 
 
 */
