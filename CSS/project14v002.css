@@ -25,6 +25,6 @@
 
 */
 
-.topThird{display: flex;}
-.centerThird{display: flex;}
-.bottomThird{display: flex;}
+.topThird{display: flex;flex-direction: column;}
+.centerThird{display: flex;flex-direction: row;}
+.bottomThird{display: flex;flex-direction: column;}
