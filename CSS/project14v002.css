@@ -5,13 +5,13 @@
 .pinkHeader{background-color: #FFEFEA;}
 .greenLeft{background-color: #CFFDBC;width: 15%;}
 .suedeCenter{background-color: #ECDEC9;width: 70%;height: auto;aspect-ratio: 686/868; color: #ECDEC9;}
-iframe{width: 100%;height: auto;aspect-ratio: 686/868;}
+iframe{width: 100%;height: auto;aspect-ratio: 686/808;}
 .yellowRight{background-color: #FFFFBF;width: 15%;}
 .pinkFooter{background-color: #FFEFEA;color: #FFEFEA;}
 .coralFooter{background-color: #FADDCC;color: #FADDCC;}
 .violetBody{background-color: #E6E6FA;}
 
-*, *::before, *::after {text-align: center;text-wrap: wrap;font-size: 2.60vw;font-weight: 600;box-sizing:     border-box;     font-family:     'Cinzel', "Century Schoolbook","Times New Roman", Times, Courier,"Georgia", serif;    text-decoration: none;   }
+*, *::before, *::after {text-align: center;text-wrap: wrap;font-size: 2.14vw;font-weight: 686;box-sizing:     border-box;     font-family:     'Cinzel', "Century Schoolbook","Times New Roman", Times, Courier,"Georgia", serif;    text-decoration: none;   }
 
 
 
