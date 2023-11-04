@@ -1,4 +1,44 @@
 ... [Start Solution Area]
+
+
+
+
+
+
+let myString6 = "racecar";
+function reverseString6() 
+{    
+    var splitString6 = myString6.split(""); 
+    var reverseArray6 = splitString6.reverse();  
+    var joinArray6 = reverseArray6.join("");     
+    return joinArray6; 
+} 
+reverseString6("");
+console.log(myString6 + " is a palindrome:" + " " + Boolean(reverseString6("") === myString6));
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ... [End Solution Area]
 
 ... [Start Working Area]
