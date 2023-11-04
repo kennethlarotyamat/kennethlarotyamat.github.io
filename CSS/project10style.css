@@ -684,15 +684,7 @@ I saw it all
  
 
 
-  #sliderproject10 {
-    width: 100%;
-    height: auto;
-    aspect-ratio: 8.68/6.86;
-    position: relative;
-    /* align-items:; */
-
-
-  }  
+ 
 
     /* 09 23 2023 09 40 00 Chestnut + Hazel's Miscellaneous Repository README.md
 
@@ -897,3 +889,62 @@ I saw it all
     
 
   }
+  #sliderproject10 {
+    width: 100%;
+    height: auto;
+    aspect-ratio: 8.68/6.86;
+    position: relative;
+    /* align-items:; */
+
+
+  }
+  #sliderproject10 iframe {
+    position: absolute;
+
+    width: 100%;
+    height: auto;
+    aspect-ratio: 8.68/6.86;
+    opacity: 0;
+    transition: all 1s ease-in-out;
+
+
+  }  
+
+  #sliderproject10 iframe.active {
+    opacity: 1;
+  }
+
+ 
+  .buttonproject10 {
+
+
+
+    
+
+
+
+
+  }
+ 
+  .buttonproject10:hover {
+  }
+
+  button#prevproject10 {
+    
+
+
+  }
+   
+  button#nextproject10 {
+
+    
+
+  }
+  #nextproject10left{
+    
+
+  }
+  #nextproject10right{ 
+    
+
+  } 
