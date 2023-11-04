@@ -97,6 +97,16 @@ iframe{width: 100%;height: auto;aspect-ratio: 686/808;}
 
                                 [Stack Overflow Question] [just lost my stackoverflowquestionginity] [11/04/2023 08:08 AM]
 
+                                [Resources]                 [https://getbootstrap.com/docs/5.0/components/collapse/]
+                                                            [https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Attributes/aria-controls]
+                                                            [https://www.w3schools.com/bootstrap5/bootstrap_carousel.php]
+
+                                [developemnt notes]
+
+                                I don't want to resort to this, but I'm ready to just use images, rather than iframes for the carousel, but I'm not
+                                really sure if that's the issue, because if the carousel can toggle a series of names, I'm sure it can toggle a series
+                                of iframes.
+
 
 */
 
