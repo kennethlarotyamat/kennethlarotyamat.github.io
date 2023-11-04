@@ -103,15 +103,15 @@ nextImage.addEventListener('click', function() {
 // [Swipe Left / Swipe Right End]
 // [          C             N   ]
 
-initializeSlidercn();
-previousImagecn.addEventListener('click', function() {
-  slideLeftcn();
+// initializeSlidercn();
+// previousImagecn.addEventListener('click', function() {
+//   slideLeftcn();
   // slideLeftcn();
-});
-nextImagecn.addEventListener('click', function() {
-  slideRightcn();
+// });
+// nextImagecn.addEventListener('click', function() {
+//   slideRightcn();
   // slideRightcn();
-});
+// });
 // [Swipe Left / Swipe Right End]
 
 
