@@ -24,3 +24,7 @@
 
 
 */
+
+.topThird{display: flex;}
+.centerThird{display: flex;}
+.bottomThird{display: flex;}
