@@ -13,7 +13,7 @@
 
 function isPalindrome(x) {
 
-
+ 
     var testString  = x ;
     var splitString = testString.split(""); 
     var reverseArray = splitString.reverse("");  

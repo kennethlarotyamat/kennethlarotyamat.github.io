@@ -67,7 +67,7 @@ iframe{width: 100%;height: auto;aspect-ratio: 686/808;}
                                 I tried having the carousel toggle buttons target 2 different ids: #demo1 for the names carousel, and #demo2 for the iframes carousel. 
 
                                 i also tried wrapping a button tag around a button tag, so the button that targeted #demo1 (names) was wrapped around another button that targeted #demo2 (iframes). 
-
+ 
                                 neither worked.
                                 Bootstrap Carousel Issues, Bootstrap Version 5
                                 Asked today
