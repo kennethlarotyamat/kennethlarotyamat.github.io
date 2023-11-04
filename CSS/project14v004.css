@@ -116,5 +116,5 @@ iframe{width: 100%;height: auto;aspect-ratio: 686/808;}
 #sliderproject10 iframe {    transition: transform .09s ease-in-out;  }  
 .carousel-item{    transition: transform .09s ease-in-out;  }  
     
-
+/* it works. now I just need that JSON stuff set up. */
 
