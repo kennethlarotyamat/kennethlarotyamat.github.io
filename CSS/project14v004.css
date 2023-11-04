@@ -113,3 +113,8 @@ iframe{width: 100%;height: auto;aspect-ratio: 686/808;}
 .topThird{display: flex;flex-direction: column;}
 .centerThird{display: flex;flex-direction: row;}
 .bottomThird{display: flex;flex-direction: column;}
+#sliderproject10 iframe {    transition: transform .09s ease-in-out;  }  
+.carousel-item{    transition: transform .09s ease-in-out;  }  
+    
+
+
