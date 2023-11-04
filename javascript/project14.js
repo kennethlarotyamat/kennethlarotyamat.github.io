@@ -14,7 +14,7 @@ $(function() {
     bodyA.toggleClass("dark-modefields");
     footer.toggleClass("dark-modefields");
     main.toggleClass("dark-modefields");
-    aside.toggleClass("dark-modefields");
+    aside.toggleClass("dark-modefieldsalr");
     subheadercenterheadertextbutton.toggleClass("dark-modefields");
     header.toggleClass("dark-modefields");
     contentouter.toggleClass("dark-mode"); 
