@@ -57,3 +57,5 @@ document.getElementById("demoTagline").innerHTML = myObj.tagline;
 // I did it, and it worked.
 // https://www.w3schools.com/js/tryit.asp?filename=tryjson_object_dot
 // it worked, but that was a nightmare.
+// these are all from william carlos williams
+//   C:\Users\KLYam\OneDrive\Documents\GitHub\kennethlarotyamat.github.io\javascript\project14v003.json
