@@ -549,7 +549,7 @@ transition: all 0.4s ease-in;
 }
 
 .dark-modefields {
-background-color: #ffc0cb;
+background-color: #ffc0cb !important;
 color: #000000;
 transition: all 0.4s ease-in;
 }
