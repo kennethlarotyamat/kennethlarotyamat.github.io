@@ -34,7 +34,7 @@
 // <p id="demoTagline"></p>
 
 // <script>
-// const myJSON = '{"name":"Amanda", "age":30, "car":null}';
+// const myJSON = '{"name":"Aud", "age":30, "car":null}';
 // const myObj = JSON.parse(myJSON);
 // document.getElementById("demo").innerHTML = myObj.age;
 // </script>
@@ -42,3 +42,4 @@
 // </body>
 // </html>
 
+// {"fname" : "Audrey ", "mname" : null, "lname" : "Hepburn","tagline" : "years of anger followinghours that float idly down "},
