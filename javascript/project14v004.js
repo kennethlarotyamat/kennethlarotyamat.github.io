@@ -10,9 +10,13 @@
 //                              [https://strategywiki.org/wiki/SimCity_4/Other_Transportation]
 //                              [https://www.chestnutandhazel.com/]
 
-const images = document.querySelectorAll('#sliderproject10 iframe');
 const previousImage = document.getElementById("prevproject10");
+
+const images = document.querySelectorAll('#sliderproject10 iframe');
+
 const nextImage = document.getElementById("nextproject10");
+
+
 
 let currentIndex = 0;
  
