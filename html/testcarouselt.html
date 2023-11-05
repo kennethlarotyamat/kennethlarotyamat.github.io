@@ -5,17 +5,41 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
+
+
+
+<link href="..\CSS\testcarouselt.css" rel="stylesheet">
+<!-- creating a stylesheet specifically for this carousel. test -->
+<!-- forgot to link it -->
+<!--  -->
+<!-- $carousel-control-color:             $white;
+$carousel-control-width:             15%;
+$carousel-control-opacity:           .5;
+$carousel-control-hover-opacity:     .9;
+$carousel-control-transition:        opacity .15s ease; -->
+
+
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
 </head>
 <body>
+<!-- [11/05/2023 05:25] I think it looks good, and I like it, I fixed it so that it's possble to see the arrows that move the page forward and back. -->
+<!-- [11/05/2023 04:48]   Carousel -->
+<!-- [11/05/2023 04:48]   https://getbootstrap.com/docs/4.4/components/carousel/ the problem here is that google
+[11/05/2023 04:48]   sent me bootstrap version 4 first, but I'm using the bootstrap version 5
+[11/05/2023 04:48]   this is the kind of thing that causes a lot of frustration because sometimes there are
+differences that make whatever documentation I'm reading irrelevant to what I'm trying to do, given 
+the version I'm using. 
 
-<!-- Carousel -->
+
+-->
 
 
-<!-- data-bs-ride="carousel" -->
-<!-- https://stackoverflow.com/questions/14977392/bootstrap-carousel-remove-auto-slide -->
-  
-  <!-- The slideshow/carousel -->
+<!-- [11/05/2023 04:48] data-bs-ride="carousel" -->
+<!-- [11/05/2023 04:48] https://stackoverflow.com/questions/14977392/bootstrap-carousel-remove-auto-slide -->
+<!-- [11/05/2023 04:48] https://stackoverflow.com/questions/14977392/bootstrap-carousel-remove-auto-slide -->
+
+<!-- [11/05/2023 04:48] The slideshow/carousel -->
+<!-- [11/05/2023 04:48] checking page -->
 
 <div id="demo" class="carousel slide"  data-interval="false">
 <div class="carousel-inner">
@@ -24,30 +48,33 @@
 <div class="carousel-item"> <h3>New York</h3></div>
 </div> 
 </div>
+<!-- [11/05/2023 04:48] checking page. it looks like it works, and I think that I really like it.
+
+-->
 
 
 
 
-      
-    
-    
 
-    
+
+
+
 <div>
 
 <!-- Left and right controls/icons -->
 <button class="carousel-control-prev" type="button" data-bs-target="#demo" data-bs-slide="prev">
-<span class="carousel-control-prev-icon"></span>
+<span class="carousel-control-prev-icon"> ← </span>
 </button>
 <button class="carousel-control-next" type="button" data-bs-target="#demo" data-bs-slide="next">
-<span class="carousel-control-next-icon"></span>
+<span class="carousel-control-next-icon"> → </span>
 </button>
 </div>
 
 <!-- <div class="container-fluid mt-3">
-  <h3>Carousel Example</h3>
-  <p>The following example shows how to create a basic carousel with indicators and controls.</p>
+<h3>Carousel Example</h3>
+<p>The following example shows how to create a basic carousel with indicators and controls.</p>
 </div> -->
 <!-- https://stackoverflow.com/questions/14977392/bootstrap-carousel-remove-auto-slide -->
+<!-- https://getbootstrap.com/docs/5.0/components/carousel/ -->
 </body>
 </html>
