@@ -1,4 +1,4 @@
-// 09 23 2023 09 40 00
+
 
 
 
@@ -16,7 +16,8 @@ $(function(){
   });  
   
   // can create a new claass and use query selector all in the fucntion use a for each or for each loop use for each and selector all function create branch to try alternative approach
-   
+  // <!-- [ 11/04/2023 20:48 ] --> 
+  // 09 23 2023 09 40 00
   let bodyA = document.querySelector(" .bodya");
   let footer = document.querySelector(" footer");
   let main = document.querySelector(" .main");
@@ -69,7 +70,8 @@ $(function(){
 
 
 
-
+  // <!-- [ 11/04/2023 20:48 ] --> 
+    // <!-- [ 11/04/2023 20:48 ] -->  for the contact form, linked to another page earlier
 // Write your code here
 // Get all the necessary DOM elements
 const form = document.getElementById('exampleForm')
