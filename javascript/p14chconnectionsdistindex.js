@@ -10,3 +10,5 @@ $(function(){
 });
 
 // [Modal Autoplay Shutoff End]
+
+// [11/04/2023 23:00] fixed links to this page and html page [kennethlarotyamat.github.io\javascript\p14chconnectionsdistindex.js]
