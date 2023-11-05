@@ -125,7 +125,7 @@ const handleChange = () => {
       element.nextElementSibling.style.display = 'none'
       element.previousElementSibling.style.color = '#212529'
     }
-
+// [ 11/04/2023 20:48 ]
     // If the element is a checkbox or a radio button and is invalid, style it with a red border and red text
     if (!element.checkValidity()
           && (element.type === 'checkbox'

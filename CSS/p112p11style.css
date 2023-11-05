@@ -23,15 +23,15 @@
     color: #fff;
     display: none;
   }
-  
+  /* [ 11/04/2023 20:49 ] */
   #exampleForm {
     width: 40%;
   }
-  
+  /* [ 11/04/2023 20:48 ] */
   .input-group {
     margin-bottom: 1.5rem;
   }
-  
+  /* [ 11/04/2023 20:48 ] */
   .input-group:not(.radio):not(.checkbox) {
     gap: 0.25rem;
     flex-direction: column;
