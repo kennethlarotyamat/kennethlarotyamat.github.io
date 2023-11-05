@@ -2748,9 +2748,60 @@ and    she             still
 I was there
 I saw it all
 
-... */
+... 
+
+
+<!-- <iframe  src="https://github.com/kennethlarotyamat/miscellaneous" style="aspect-ratio: 8.68/6.86; height: auto; width:100%;" scrolling="yes"   
+allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen ></iframe> -->
+<!-- <link rel="stylesheet" href="..\miscellaneous\css\index.css"> -->
+<!-- <link rel="stylesheet" href="https://kennethlarotyamat.github.io/miscellaneous/css/index.css"> [this works] -->
+<!-- <iframe  src="https://github.com/kennethlarotyamat/miscellaneous" style="aspect-ratio: 8.68/6.86; height: auto; width:100%;" scrolling="yes"   
+allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen ></iframe> -->
+<!-- <link rel="stylesheet" href="..\miscellaneous\css\index.css"> -->
+<!-- <link rel="stylesheet" href="https://kennethlarotyamat.github.io/miscellaneous/css/index.css"> [this works] -->
+
+<!-- file:///C:/Users/KLYam/OneDrive/Documents/GitHub/kennethlarotyamat.github.io/other/Part2Calculator/calculatorindex.html -->
+<!-- it's done thank god that took forever, but this makes project 13 even more complete. -->
+<!-- style="center" -->
+<!-- https://stackoverflow.com/questions/8366957/how-to-center-an-iframe-horizontally -->
+<!-- margin: 1vh 1vh 1vh 1vh; padding: 1vh 1vh 1vh 1vh; -->
+<!-- display:block; -->
+<!-- 
+https://developer.mozilla.org/en-US/docs/Web/CSS/aspect-ratio
+aspect-ratio
+The aspect-ratio CSS property allows you to define the desired width-to-height ratio of an element's box. This means that even if the parent container or viewport size changes, the browser will adjust the element's dimensions to maintain the specified width-to-height ratio. The specified aspect ratio is used in the calculation of auto sizes and some other layout functions.
+At least one of the box's sizes needs to be automatic in order for aspect-ratio to have any effect. If neither the width nor height is an automatic size, then the provided aspect ratio has no effect on the box's preferred sizes. -->
+<!--   <iframe  src=".\options-pricing-calculator-project-13-part-2\src\index.html" 
+style="margin: 1vh 1vh 1vh 1vh; padding: 1vh 1vh 1vh 1vh; width:100%; height: auto; aspect-ratio: 50/29; " 
+scrolling="yes"   
+allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+allowfullscreen ></iframe>  -->
+<!-- <iframe  src=".\options-pricing-calculator-project-13-part-2\src\index.html" style="aspect-ratio: 5/3; height: auto; width:100%;" scrolling="yes"   
+allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen ></iframe> -->
+<!-- https://kennethlarotyamat.github.io/miscellaneous/other/project13/Part2Calculator/options-pricing-calculator-project-13-part-2/src/index.html -->
+<!-- C:\Users\KLYam\OneDrive\Documents\GitHub\kennethlarotyamat.github.io\other\project13\miscellaneous\other\project13\Part2Calculator\options-pricing-calculator-project-13-part-2\src\index.html -->
+<!-- file:///C:/Users/KLYam/OneDrive/Documents/GitHub/miscellaneous/other/project13/Part2Calculator/options-pricing-calculator-project-13-part-2/src/index.html -->
+<!-- <link rel="stylesheet" href="https://kennethlarotyamat.github.io/miscellaneous/css/index.css"> -->
+<!-- /*      
+[Resources]              
+https://www.linkedin.com/in/marianneshaffer/
+https://codepen.io/marnee
+https://codepen.io/shafferma08
+https://github.com/shafferma08
+ 
+
+
+// -->
+// <!-- <iframe  src="https://github.com/kennethlarotyamat/miscellaneous" style="aspect-ratio: 8.68/6.86; height: auto; width:100%;" scrolling="yes"   
+// allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen ></iframe> -->
+// <!-- <link rel="stylesheet" href="..\miscellaneous\css\index.css"> -->
+// <!-- <link rel="stylesheet" href="https://kennethlarotyamat.github.io/miscellaneous/css/index.css"> [this works] --> 
+// <!-- as far as I can tell, project 13 is done, I would have liked to work on a 3rd coding challenge, the one with hackerrank, but, knowing
+// how hard things are for me, it would probably take 6 hours, and I can use that time for something else, and the project says 2-3, and I did 2,
+// so, I'm done, the calculator is done, same thing, it's not what I wanted, but, it done according to the requirements. -->
+// <!-- C:\Users\KLYam\OneDrive\Documents\GitHub\kennethlarotyamat.github.io\CSS\tfmiscindex.css -->
 
 
 
 
-   
+*/ 
