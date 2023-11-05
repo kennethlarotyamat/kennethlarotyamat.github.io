@@ -80,7 +80,12 @@ class Calculator {
     this.zeroButton = document.getElementById("zero")
     this.decimalButton = document.getElementById("decimal")
     this.equalsButton = document.getElementById("equals")
-
+/* <!--  [11/05/2023 09:40 AM] [11/05/2023 10:02 AM]    <iframe  src=".\options-pricing-calculator-project-13-part-2\src\index.html" 
+      [11/05/2023 09:40 AM] style="margin: 1vh 1vh 1vh 1vh; padding: 1vh 1vh 1vh 1vh; width:100%; height: auto; aspect-ratio: 50/29; " 
+      [11/05/2023 09:40 AM] scrolling="yes"   
+      [11/05/2023 09:40 AM] allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+      [11/05/2023 09:40 AM]allowfullscreen ></iframe>  -->
+  <!-- <link rel="icon" type="image/svg+xml" href="/vite.svg" />  --> all the paths here are connected, and absolute, so I just need to wait for them to deploy.*/
     // Set default values for the current and previous operands and operation
     this.currentOperand = "0"
     this.previousOperand = ""
@@ -617,6 +622,67 @@ calculator.subtractButton.addEventListener("click", () => {
   calculator.chooseOperation("-")
   calculator.updateDisplay()
 })
+// ...
+
+// Kenneth Larot Yamat
+
+// "This Is Just To Say Something About The Young Housewife" (2023)
+
+// I totally ate all of the  so many    fried turkeys
+// that were hanging out
+// by the red wheelbarrow
+// you know     the one glazed with
+// soy sauce and beside the 
+//                       kentucky fried 
+//                              kung pao chickens
+//            which 
+// themselves were drenched in
+//               tabasco sauce
+
+// I request neither forgiveness
+// nor do I intend to apologize for
+//           my actions 
+
+// because 
+
+// I spent several hours
+// of quality time
+// with a certain young housewife
+
+//                     who
+
+// braless and dressed in negligee 
+
+//           and 
+
+// whose wild hair suggested
+// she spent even more additional
+// even higher quality time with
+// both the ice man
+// and the fish man
+
+//        either sequentially 
+//                or 
+//               simultaneously 
+//                      neither would surprise me
+
+// left me    breathless    exhausted
+// as well as      famished
+
+// I thought I gave a good
+// account of myself
+
+// but then along came 
+//           the milkman
+// and    she             still
+//    had enough energy 
+//        for 
+//     round four
+
+// I was there
+// I saw it all
+
+// ...
 
 calculator.addButton.addEventListener("click", () => {
   calculator.chooseOperation("+")
@@ -632,6 +698,67 @@ calculator.zeroButton.addEventListener("click", () => {
   calculator.appendNumber("0")
   calculator.updateDisplay()
 })
+// ...
+
+// Kenneth Larot Yamat
+
+// "This Is Just To Say Something About The Young Housewife" (2023)
+
+// I totally ate all of the  so many    fried turkeys
+// that were hanging out
+// by the red wheelbarrow
+// you know     the one glazed with
+// soy sauce and beside the 
+//                       kentucky fried 
+//                              kung pao chickens
+//            which 
+// themselves were drenched in
+//               tabasco sauce
+
+// I request neither forgiveness
+// nor do I intend to apologize for
+//           my actions 
+
+// because 
+
+// I spent several hours
+// of quality time
+// with a certain young housewife
+
+//                     who
+
+// braless and dressed in negligee 
+
+//           and 
+
+// whose wild hair suggested
+// she spent even more additional
+// even higher quality time with
+// both the ice man
+// and the fish man
+
+//        either sequentially 
+//                or 
+//               simultaneously 
+//                      neither would surprise me
+
+// left me    breathless    exhausted
+// as well as      famished
+
+// I thought I gave a good
+// account of myself
+
+// but then along came 
+//           the milkman
+// and    she             still
+//    had enough energy 
+//        for 
+//     round four
+
+// I was there
+// I saw it all
+
+// ...
 
 calculator.oneButton.addEventListener("click", () => {
   calculator.appendNumber("1")
@@ -667,6 +794,67 @@ calculator.sevenButton.addEventListener("click", () => {
   calculator.appendNumber("7")
   calculator.updateDisplay()
 })
+// ...
+
+// Kenneth Larot Yamat
+
+// "This Is Just To Say Something About The Young Housewife" (2023)
+
+// I totally ate all of the  so many    fried turkeys
+// that were hanging out
+// by the red wheelbarrow
+// you know     the one glazed with
+// soy sauce and beside the 
+//                       kentucky fried 
+//                              kung pao chickens
+//            which 
+// themselves were drenched in
+//               tabasco sauce
+
+// I request neither forgiveness
+// nor do I intend to apologize for
+//           my actions 
+
+// because 
+
+// I spent several hours
+// of quality time
+// with a certain young housewife
+
+//                     who
+
+// braless and dressed in negligee 
+
+//           and 
+
+// whose wild hair suggested
+// she spent even more additional
+// even higher quality time with
+// both the ice man
+// and the fish man
+
+//        either sequentially 
+//                or 
+//               simultaneously 
+//                      neither would surprise me
+
+// left me    breathless    exhausted
+// as well as      famished
+
+// I thought I gave a good
+// account of myself
+
+// but then along came 
+//           the milkman
+// and    she             still
+//    had enough energy 
+//        for 
+//     round four
+
+// I was there
+// I saw it all
+
+// ...
 
 // I'm going to take a break right now 10292023 0139
 
@@ -676,11 +864,132 @@ calculator.eightButton.addEventListener("click", () => {
 })
 
 // I need to rememeber that I need to move this into my projects carousel
+// ...
 
+// Kenneth Larot Yamat
+
+// "This Is Just To Say Something About The Young Housewife" (2023)
+
+// I totally ate all of the  so many    fried turkeys
+// that were hanging out
+// by the red wheelbarrow
+// you know     the one glazed with
+// soy sauce and beside the 
+//                       kentucky fried 
+//                              kung pao chickens
+//            which 
+// themselves were drenched in
+//               tabasco sauce
+
+// I request neither forgiveness
+// nor do I intend to apologize for
+//           my actions 
+
+// because 
+
+// I spent several hours
+// of quality time
+// with a certain young housewife
+
+//                     who
+
+// braless and dressed in negligee 
+
+//           and 
+
+// whose wild hair suggested
+// she spent even more additional
+// even higher quality time with
+// both the ice man
+// and the fish man
+
+//        either sequentially 
+//                or 
+//               simultaneously 
+//                      neither would surprise me
+
+// left me    breathless    exhausted
+// as well as      famished
+
+// I thought I gave a good
+// account of myself
+
+// but then along came 
+//           the milkman
+// and    she             still
+//    had enough energy 
+//        for 
+//     round four
+
+// I was there
+// I saw it all
+
+// ...
 calculator.nineButton.addEventListener("click", () => {
   calculator.appendNumber("9")
   calculator.updateDisplay()
 })
+// ...
+
+// Kenneth Larot Yamat
+
+// "This Is Just To Say Something About The Young Housewife" (2023)
+
+// I totally ate all of the  so many    fried turkeys
+// that were hanging out
+// by the red wheelbarrow
+// you know     the one glazed with
+// soy sauce and beside the 
+//                       kentucky fried 
+//                              kung pao chickens
+//            which 
+// themselves were drenched in
+//               tabasco sauce
+
+// I request neither forgiveness
+// nor do I intend to apologize for
+//           my actions 
+
+// because 
+
+// I spent several hours
+// of quality time
+// with a certain young housewife
+
+//                     who
+
+// braless and dressed in negligee 
+
+//           and 
+
+// whose wild hair suggested
+// she spent even more additional
+// even higher quality time with
+// both the ice man
+// and the fish man
+
+//        either sequentially 
+//                or 
+//               simultaneously 
+//                      neither would surprise me
+
+// left me    breathless    exhausted
+// as well as      famished
+
+// I thought I gave a good
+// account of myself
+
+// but then along came 
+//           the milkman
+// and    she             still
+//    had enough energy 
+//        for 
+//     round four
+
+// I was there
+// I saw it all
+
+// ...
 
 calculator.decimalButton.addEventListener("click", () => {
   calculator.appendNumber(".")
