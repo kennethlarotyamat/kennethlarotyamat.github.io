@@ -4,7 +4,7 @@
 
 
 
-// Start Iframe video auto shutoff
+// Start Iframe video auto shutoff C:\Users\KLYam\OneDrive\Documents\GitHub\kennethlarotyamat.github.io\index.html [C:\Users\KLYam\OneDrive\Documents\GitHub\kennethlarotyamat.github.io\html\project2index.html]
 
 $(function(){
   $("body").on('hidden.bs.modal', function (e) {
@@ -15,7 +15,7 @@ $(function(){
   });
 });  
 
-// End Iframe video auto shutoff
+// End Iframe video auto shutoff script.js
 
 
 // Start Color Toggler
