@@ -17,6 +17,111 @@ create a whole new repository, but, here we are.
 
 ...
 
+[CodeWars] [Start Solution Area]
+
+function isPalindrome(x) {
+
+
+    var testString  = x ;
+    var splitString = testString.split(""); 
+    var reverseArray = splitString.reverse("");  
+    var joinArray = reverseArray.join("");     
+    var lcArray = joinArray.toLowerCase();
+ 
+    
+
+if (lcArray === testString.toLowerCase()) {
+return true;
+} else {
+return false;
+}
+
+}
+
+[CodeWars] [End Solution Area]
+
+...
+
+[LeetCode] [Start Solution Area]
+
+var x = 121;
+
+var digits = x.toString().split('').reverse();
+var reverseDigits = digits.map(Number)
+console.log(reverseDigits);
+
+var joinreverseDigits = reverseDigits.join('');
+console.log(joinreverseDigits);
+
+function isPalindrome() 
+{    
+      if (joinreverseDigits == x){
+          return true
+      } else {
+          return false
+      }
+} 
+isPalindrome("");
+
+console.log(isPalindrome(""));
+
+[LeetCode] [End Solution Area]
+
+...
+
+[HackerRank] [Start Solution Area]
+
+var x = 121
+var isPalindrome = function(x) {
+
+    var result = Number(String(x).split('').reverse().join(''))
+
+    if (result == x){
+        return true
+    } else {
+        return false
+    }
+
+};
+
+console.log(isPalindrome);
+
+if (x == isPalindrome) {
+  console.log("This is a palindrome.");
+} else {
+  console.log("This is not a palindrome.");
+}
+
+console.log(isPalindrome);    
+
+var x = 1215
+var isPalindrome = function(palindromeTester) {
+
+
+ var reverse = 0;
+    var copy = x;
+
+    while (copy > 0) {
+      const digit = copy % 10;
+      reverse = reverse * 10 + digit;
+      copy = ~~(copy / 10);
+    }
+
+    return reverse == x;
+}
+
+console.log(isPalindrome);
+
+if (x == isPalindrome) {
+  console.log("This is a palindrome.");
+} else {
+  console.log("This is not a palindrome.");
+}
+
+[HackerRank] [End Solution Area]
+
+...
+
 William Carlos Williams
 
 "The Young Housewife"  (1916)
