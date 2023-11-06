@@ -6,7 +6,8 @@
 
 
 }
-
+a {color: SaddleBrown;text-decoration:none;}
+a:visted {color: SaddleBrown;text-decoration:none;}
 h1 {
     font-size: 4em;
     40px/16=2.5em;
