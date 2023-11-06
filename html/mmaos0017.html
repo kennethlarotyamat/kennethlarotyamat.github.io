@@ -39,6 +39,7 @@ crossorigin=""></script>
 // Geo URI	geo:40.809167,-96.678056
 
         const map = L.map('map').setView([40.409999, -96.682434],13);
+        
         // You clicked the map at LatLng(40.776182, -96.682434)
 
 //  set view latitude  Geo URI Spanish Steps from Roman Holiday	geo:   41.906100,       12.482800
@@ -66,16 +67,12 @@ crossorigin=""></script>
 
 var marker = L.marker([40.809167, -96.678056]).addTo(map);
 var circle = L.circle([40.814785, -96.711488], {radius: 900}).addTo(map);
+
 // (41.902535, 12.451286)
 // LatLng(40.814785, -96.711488)
-
 //
-
 // var latlngs = [[41.806200, 12.583800],[41.706200, 12.383800],[41.606200, 12.783800]];
-
 // var polygon = L.polygon(latlngs, {color: 'orange', weight:6, fillOpacity: .8}).addTo(map);
-
-
 // looks good, i'm going to check the page
 // Location Pin Text Bubble
 
@@ -92,7 +89,8 @@ var popup = L.popup()
 // .setContent("I'll never forget how you left me here!")
 // .openOn(map); 
 
-function onMapClick(e) {
+function onMapClick(e) 
+{
 alert("You clicked the map at " + e.latlng);
 }
 map.on('click', onMapClick);
