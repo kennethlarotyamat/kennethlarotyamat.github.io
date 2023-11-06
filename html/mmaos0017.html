@@ -38,7 +38,8 @@ crossorigin=""></script>
 // https://geohack.toolforge.org/geohack.php?pagename=Lincoln,_Nebraska&params=40_48_33_N_96_40_41_W_region:US-NE_type:city(291082)
 // Geo URI	geo:40.809167,-96.678056
 
-        const map = L.map('map').setView([41.792884, 12.516174],13);
+        const map = L.map('map').setView([40.409999, -96.682434],13);
+        // You clicked the map at LatLng(40.776182, -96.682434)
 
 //  set view latitude  Geo URI Spanish Steps from Roman Holiday	geo:   41.906100,       12.482800
 //  [11/06/2023 05:58 AM] I'm trying to think about where I left off. checking page.
@@ -63,9 +64,10 @@ crossorigin=""></script>
 
 // Location Pin
 
-var marker = L.marker([41.906200, 12.483800]).addTo(map);
-var circle = L.circle([41.902535, 12.451286], {radius: 1300}).addTo(map);
+var marker = L.marker([40.809167, -96.678056]).addTo(map);
+var circle = L.circle([40.814785, -96.711488], {radius: 900}).addTo(map);
 // (41.902535, 12.451286)
+// LatLng(40.814785, -96.711488)
 
 //
 
@@ -78,10 +80,11 @@ var circle = L.circle([41.902535, 12.451286], {radius: 1300}).addTo(map);
 // Location Pin Text Bubble
 
 var popup = L.popup()
-.setLatLng([41.921200, 12.493800])
-.setContent("Arcadia or Tulsa Next?")
+.setLatLng([40.831798, -96.663895])
+.setContent("I think you know The same secrets that I do")
 .openOn(map);
 
+// You clicked the map at LatLng(40.831798, -96.663895)
 // You clicked the map at LatLng(41.717909, 12.565613)
 // [I wanted to set up multiple pop ups, but I can't figure it out]
 // var popupOne = L.popupOne()
@@ -92,11 +95,7 @@ var popup = L.popup()
 function onMapClick(e) {
 alert("You clicked the map at " + e.latlng);
 }
-
 map.on('click', onMapClick);
-
-           
-
 </script>
 
 <!-- 
