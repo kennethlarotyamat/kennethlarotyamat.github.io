@@ -29,7 +29,7 @@ time on this the other day. -->
 // update locations, this is the field of view
 // Geo URI	geo:40.345278,-74.656111
 
-        const map = L.map('map').setView([42.996214, -79.037743], 13);    
+        const map = L.map('map').setView([40.145278, -74.686416], 13);    
 
                 //  set view latitude 
                 //  [11/06/2023 05:58 AM] I'm trying to think about where I left off. checking page.
@@ -52,9 +52,10 @@ time on this the other day. -->
 // Location Pin
 
 var marker = L.marker([43.096214, -79.037743]).addTo(map);
-var circle = L.circle([43.08, -79.08], {radius: 600}).addTo(map);
+var circle = L.circle([40.341571, -74.658451], {radius: 600}).addTo(map);
+// (40.304396, -74.751663) (40.294396, -74.741663) (40.314396, -74.731663)
 
-var latlngs = [[43.09, -79.07],[43.08, -79.06],[43.1, -79.05]];
+var latlngs = [[40.304396, -74.751663],[40.294396, -74.741663],[40.314396, -74.731663]];
 
 var polygon = L.polygon(latlngs, {color: 'orange', weight:6, fillOpacity: .8}).addTo(map);
 
@@ -62,7 +63,7 @@ var polygon = L.polygon(latlngs, {color: 'orange', weight:6, fillOpacity: .8}).a
 
 // Location Pin Text Bubble
 var popup = L.popup()
-.setLatLng([43.1123, -79.01])
+.setLatLng([40.345278, -74.686416])
 .setContent("How big is the universe?")
 .openOn(map); 
 
