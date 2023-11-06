@@ -89,6 +89,7 @@ iframe{width: 100%;height: auto;aspect-ratio: 686/808;}
 
                                         I don't want to resort to this, but I'm ready to just use images, rather than iframes for the carousel, but I'm not
                                         really sure if that's the issue, because if the carousel can toggle a series of names, I'm sure it can toggle a series
+                                        [11/06/2023 02:35 AM] [Development Commentary] [686/868 is called "the chestnut ratio 868/686 is called "the hazel ratio"]
                                         of iframes.
                                         <!-- 
         [References]                    [https://codepen.io/shafferma08] [https://codepen.io/marnee] [https://codepen.io/shafferma08/pen/NWERvOr]
@@ -110,6 +111,7 @@ iframe{width: 100%;height: auto;aspect-ratio: 686/808;}
                                         a lot of the issues come from clashes that occur between flex, block, and grid display. with
                                         this newer version, I went with all flex. or, the main containers are all flex. [10/04/2023 14:46]
                                         this project took pretty much forever, and it's still not quite finished. [10/05/2023 00:01]
+                                        [Development Commentary] [686/868 is called "the chestnut ratio 868/686 is called "the hazel ratio"]
 -->
 
 
