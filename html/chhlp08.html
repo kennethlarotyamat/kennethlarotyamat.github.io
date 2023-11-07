@@ -52,8 +52,8 @@ crossorigin=""></script>
 
 // Location Pin
 
-var marker = L.marker([38.266161, -112.664795]).addTo(map);
-var circle = L.circle([38.266161, -112.664795], {radius: 3600}).addTo(map);
+var marker = L.marker([38.266161, -112.694795]).addTo(map);
+var circle = L.circle([38.266161, -112.664795], {radius: 5600}).addTo(map);
 
 var latlngs = [[43.09, -79.07],[43.08, -79.06],[43.1, -79.05]];
 
@@ -64,7 +64,7 @@ var latlngs = [[43.09, -79.07],[43.08, -79.06],[43.1, -79.05]];
 // Location Pin Text Bubble
 var popup = L.popup()
 .setLatLng([38.316161, -112.664795])
-.setContent("This is the primary source of our secret sauce")
+.setContent("This is the primary source of our super secret sauce")
 .openOn(map); 
 
 function onMapClick(e) {
