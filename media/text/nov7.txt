@@ -203,3 +203,45 @@ Purchasing a domain for your localhost.
 
 Check It! (4 left)
 Next
+
+...
+
+4. Knowledge Check
+Question 1 of 2
+
+What is the primary purpose of setting up a localhost on your computer as described in the lesson?
+
+
+To access cloud hosting services.
+
+
+To publish a finished website to the internet.
+
+
+To permanently store files and data.
+
+
+To practice web development without needing to publish or pay for hosting.
+
+Check It! (4 left)
+
+Question 2 of 2
+
+In the lesson provided, which of the following is NOT a step in setting up a localhost server on Windows 10?
+
+
+Checking the box for Internet Information Services.
+
+
+Opening the Control Panel.
+
+
+Saving an image in the wwwroot folder.
+
+
+Purchasing a domain for your localhost.
+
+Check It! (4 left)
+Next
+
+...
