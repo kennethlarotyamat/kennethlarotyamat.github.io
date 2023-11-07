@@ -1,0 +1,205 @@
+3. Conclusion & Takeaways
+Conclusion & Takeaways
+Local hosting and cloud hosting each have their place in the field of website development. It’s all about deciding where you want to save your files, and striking a balance between the pros and cons in any given context. Consider the scenarios below and evaluate whether local hosting or cloud hosting is the most advisable option. After reading each scenario, circle the type of hosting you recommend.
+Scenario 1
+You’ve decided to build yourself a small website to serve as a portfolio of your work as a web developer. Eventually you will want to put it online, but for now you are still just playing around with the code, trying to get it to look polished and professional.
+Question
+Which type of hosting would you recommend? Select one of the following and justify your choice :
+
+local hosting
+cloud hosting
+I would recommend local hosting because for a portfolio it only needs to be worked on, and doesn't need a host, and it's not ready for public viewing, and there is no need to pay fees when you don't need to.
+Modify answer
+Your answer has been submitted and will be reviewed by your teacher in due course.
+Scenario 2
+Your customer wants to put up a one-page website as soon as possible so that they can begin running Google Ads that drive traffic to their page. The page will include their logo, mission statement, contact information, and opening hours. They may add to the website later, but for now, they just want a live page to work with Google Ads.
+Question
+Which type of hosting would you recommend? Select one of the following and justify your choice :
+
+local hosting
+cloud hosting
+I would recommend cloud hosting because Google needs to see the page, and there is a need for collaboration, and public viewing of the page, and there is a need to run Google Ads and drive traffic, it needs to be live.
+Modify answer
+Your answer has been submitted and will be reviewed by your teacher in due course.
+Scenario 3
+You have been contracted to work on an e-commerce website for a large company. They have a local server room that hosts their website now as it is being developed. They would like to launch the website that they have now and make no changes to the live site once it is published. They would also like to keep a copy of the site on their local servers, so that they can continue to develop new features until they are ready for the public.
+Question
+Which type of hosting would you recommend? Select one of the following and justify your choice:
+
+local hosting
+cloud hosting
+The public / published website should be using cloud hosting, but for the locally hosted page, it should use local hosting to continue development work. It's possible to have two environments in this case.
+Modify answer
+Your answer has been submitted and will be reviewed by your teacher in due course.
+Scenario 4
+Your friend has asked you to help them create a one-page HTML file with their resume’s information. Your friend has not bought a domain name yet, they only want help with building the HTML file.
+Which type of hosting would you recommend? Select one of the following and justify your choice :
+
+local hosting
+cloud hosting
+Local hosting, they don't have a domain, and they only want to work on it just for right now.
+Submit Answer!
+Attribution
+https://www.freepik.com/free-photo/website-hosting-concept-with-screen_26412543.htm
+
+
+...
+
+1. Setting Up a Localhost
+Setting Up a Localhost
+Goals
+By the end of this lesson you will:
+Understand how to set up localhost
+Set up localhost on your computer
+Practice using your newly configured localhost
+Introduction
+Learning how to set up a localhost on your computer is a handy bit of knowledge that will allow you to play around with website development, without publishing unfinished work and without needing to pay for cloud hosting. The process is different depending on your operating system. We will consider how to set up a localhost server in Windows 10. If you are not running Windows 10 or if you encounter technical difficulties, an alternative activity will be provided.
+Business Context
+In a business context, your employer may already have a hosting set up as well as IT employees who assist with configurations and access. However, it is also possible that you will work for a small business, or that you will decide to work as a freelance web developer. In the later case, knowing how to use localhost will provide you with the independence you need to get started quickly.
+Next
+
+... 
+
+nov 7 lesson 1.2
+
+...
+
+This is process depending on your operating system. 
+
+...
+
+I don't know what version operating system this is.
+
+...
+
+https://www.youtube.com/results?search_query=how+tos+setup+localhost+server+windows+10
+
+internet information services.
+
+...
+
+tech solution
+
+...
+
+2. Localhost server in Windows 10
+Localhost server in Windows 10
+Watch the following video to learn how to set up localhost in Windows 10. It is recommended that you watch the video all the way through one time and then re-watch the video, following along by doing each step on your own computer, pausing as needed. Basic steps are listed below the video link to help you in case your computer looks different than the one in the video.
+If you run into trouble (with permissions for example), you can use the alternate activity on the next page.
+Video: How to set up a local host in Windows 10
+Open your Control Panel
+Open Programs and Features
+Click on Turn Window features on or off
+turn features on or off
+In the popup, locate Internet Information Services, check the box. If you also see Internet Information Services Hostable Web Core then check that box as well. Click OK.
+edits to internet information services
+Allow your computer to search for required files and apply changes. Do not cancel.
+When your computer is finished making the changes, it may ask to restart your computer. This is normal. Save any changes you may need to in open files. Close everything including the Control Panel and restart your computer.
+You are now ready to test your localhost. Open a new tab in your browser and type localhost and hit Enter.
+You will see a window like this one:
+example window
+Using file explorer go to C:\inetpub\wwwroot and double click on iisstart.png
+It will ask what program it should use to open .png files and suggest Photos. You can just click OK. It will open the png file in photos and will look like the localhost start page.
+Save the image below as test.png in this folder: C:\inetpub\wwwroot
+practice image to save
+Now return to your browser tab to view http://localhost/test.png
+Next
+
+...
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+   <meta charset="utf-8" />
+   <title>My local web page</title>
+</head>
+<body>
+   <h1 style="text-align:center;">Locally Hosted Web Page</h1>
+   <img src="test.png" style="width:100%;" alt="This is a test image"/>
+</body>
+</html>
+
+...
+
+3. Alternate activity
+Alternate activity:
+If you do not have Windows 10 or do not have the necessary permissions to set up localhost or if you did not have the necessary permissions to save an image in the wwwroot folder, you can try this activity instead.
+Create a new folder on your computer called MyLocalWebsite.
+Save the image below as test.png in this new folder.
+image to save
+Open TextPad or Notepad on your computer.
+Copy the code below into TextPad or Notepad.
+<!DOCTYPE html>
+<html lang="en">
+<head>
+   <meta charset="utf-8" />
+   <title>My local web page</title>
+</head>
+<body>
+   <h1 style="text-align:center;">Locally Hosted Web Page</h1>
+   <img src="test.png" style="width:100%;" alt="This is a test image"/>
+</body>
+</html>
+Save the file as test.html in your MyLocalWebsite folder.
+Now use file explorer to locate this file on your computer.
+Double click on the file test.html to open it.
+The file will open in a tab on your browser. You can modify this local html file, save the changes, and refresh your browser tab to view the changes.
+Since websites include many files, it’s good practice to organize your images in a separate image folder. Create a new folder called img inside the MyLocalWebsite folder.
+Save the following images as test2.jpg and test3.jpg in this new img folder.
+test image 2
+test image 3
+Update your code in your local test.html file to read these two images from the img folder instead of the original test.png image.
+<!DOCTYPE html>
+<html lang="en">
+<head>
+   <meta charset="utf-8" />
+   <title>My local web page</title>
+</head>
+<body>
+   <h1 style="text-align:center;">Locally Hosted Web Page</h1>
+   <img src="img/test2.jpg" style="width:45%;float:left;" alt="This is a test image"/>
+   <img src="img/test3.jpg" style="width:45%;float:right;" alt="This is a test image"/>
+
+</body>
+</html>
+Next
+
+...
+
+4. Knowledge Check
+Question 1 of 2
+
+What is the primary purpose of setting up a localhost on your computer as described in the lesson?
+
+
+To access cloud hosting services.
+
+
+To publish a finished website to the internet.
+
+
+To permanently store files and data.
+
+
+To practice web development without needing to publish or pay for hosting.
+
+Check It! (4 left)
+
+Question 2 of 2
+
+In the lesson provided, which of the following is NOT a step in setting up a localhost server on Windows 10?
+
+
+Checking the box for Internet Information Services.
+
+
+Opening the Control Panel.
+
+
+Saving an image in the wwwroot folder.
+
+
+Purchasing a domain for your localhost.
+
+Check It! (4 left)
+Next
