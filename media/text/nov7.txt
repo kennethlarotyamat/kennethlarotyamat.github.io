@@ -491,4 +491,162 @@ Mark as CompletedBack to dashboard
 
 ...
 
+1. Common Website Attacks
+Common Website Attacks
+Goals
+By the end of this case you will:
+Have a basic understanding of 4 types of common website attacks
+Understand where and how these common attacks occur
+Be able to identify possible outcomes for each of these common attacks.
+Introduction
+cover image
+Image by Freepik
+Web security is a critically important aspect of web development. Protecting your website’s data, as well as the data of the website’s users must always be a top priority. Malicious actors prey on a website’s vulnerabilities for a variety of reasons. In this unit we will consider the following four types of common attacks:
+Cross site scripting (XSS)
+SQL injection
+Directory traversal
+DDoS
+and what basic steps you can take to protect your website against them.
+Business Context
+You may think that large businesses make the best targets for attack, but small businesses are desirable targets as well. One reason is that small businesses often have little to no budget for maintenance, leaving vulnerabilities unpatched for extended periods. This can make gaining access easier for attackers. Understanding how these attacks occur is the first step towards building a robust website with an eye toward web security.
+Next
 
+...
+
+1. Common Website Attacks
+Common Website Attacks
+Goals
+By the end of this case you will:
+Have a basic understanding of 4 types of common website attacks
+Understand where and how these common attacks occur
+Be able to identify possible outcomes for each of these common attacks.
+Introduction
+cover image
+Image by Freepik
+Web security is a critically important aspect of web development. Protecting your website’s data, as well as the data of the website’s users must always be a top priority. Malicious actors prey on a website’s vulnerabilities for a variety of reasons. In this unit we will consider the following four types of common attacks:
+Cross site scripting (XSS)
+SQL injection
+Directory traversal
+DDoS
+and what basic steps you can take to protect your website against them.
+Business Context
+You may think that large businesses make the best targets for attack, but small businesses are desirable targets as well. One reason is that small businesses often have little to no budget for maintenance, leaving vulnerabilities unpatched for extended periods. This can make gaining access easier for attackers. Understanding how these attacks occur is the first step towards building a robust website with an eye toward web security.
+
+...
+
+2. Cross Site Scripting (XSS)
+Cross Site Scripting (XSS)
+Cross site scripting is a type of injection attack which often occurs at the level of the web interface. For example, if you have a contact form on your website, information received in that contact form is generally safe, but if the form submission contains malicious code, that code risks being injected through the contact form. In this way, an attacker may be able to access sensitive/private information or execute malicious code on the server. There are 3 main types of cross site scripting attacks: reflected, stored and dom-based.
+Here is a short video to provide an overview of the three types of cross site scripting attacks.
+https://www.youtube.com/watch?v=DxsmEXicXEE
+SQL Injection
+The vast majority of websites pair files containing code, with a database. The code in the files communicates with the database using MySQL statements. SQL injection is also a type of injection attack that injects malicious code directly into the website database. The result can reveal sensitive/private information and give the attacker control over the website. In a worst case scenario, the attacker might even be able to take control of the server hosting the website.
+Here is a short video to provide an overview on SQL injection attacks.
+https://www.youtube.com/watch?v=Yqu93GXx0vI
+Next
+
+...
+
+3. Directory Traversal
+Directory Traversal
+Directory traversal, also known as path traversal, is an HTTP attack wherein the attacker exploits vulnerabilities to gain access to directories and files outside of the website’s root folder. If successful, the attacker can not only view sensitive files, they may also be able to execute commands on the server.
+Consider the following file structure for a very simple website:
+file structure
+Everything in the root folder can be safely accessed through a web browser, however, outside of the root, suppose there is a sensitive file that the browser should not be able to access. This sensitive file might include server logs, for example, that expose sensitive data about the file structure, existing vulnerabilities or server settings. We want to ensure that malicious actors do not have access to sensitive information.
+Let’s assume that there are numerous images stored in the ‘img’ directory. The index page will determine which image to display based on the specific filename provided in the query string (parameters included within the URL).
+So, for example, if the URL says: https://mywebsite.com/index.php?show=myimage.jpg, then the index file will load /img/myimage.jpg.
+But if the attacker modifies the query string and the variables are not sanitized or permissions are not set securely then this command will reveal the contents of the sensitive file outside of the root directory https://mywebsite.com/index.php?show=‥/‥/SensitiveFile.txt
+Here is a short video illustrating how directory traversal (using …/ to navigate directories) can be exploited to access sensitive information. https://www.youtube.com/watch?v=a0nXnY3_1gw
+Distributed Denial of Service (DDoS)
+This is a more complicated type of attack that requires the coordination of several computer systems to attack a given target. The target could be a particular website or server. The attack denies (blocks) service to regular/intended users of the target website or server. This can result in significant service interruptions impacting business and users alike.
+For example, if a target banking website is bombarded with requests, this may create a digital traffic jam of sorts that prevents the website from being accessed by regular/intended users. Clients would no longer have access to their online banking. A large-scale denial of service attack can have important social impacts and constitutes one of the major digital threats of our time.
+Here is a short video that illustrates DDoS attacks
+https://www.youtube.com/watch?v=ilhGh9CEIwM
+Next
+
+...
+
+4. Conclusion & Takeaways
+Conclusion & Takeaways
+Cross site scripting, SQL injection, Directory Traversal and Distributed Denial of Service are four of the most common types of attacks that a website can encounter.
+Understanding the basic idea behind each of these will help you construct code that better resists these and other types of attacks.
+cover image
+Image by rawpixel.com on Freepik
+Question
+Which type of attack is being described?
+
+An attacker exploits vulnerabilities using ‥/ to access files outside of the website’s root directory.
+Select an answer
+An attacker uses an army of infected computers to flood a server and interrupt service.
+Select an answer
+An attacker exploits unsanitized variables in a contact form to execute malicious script on a website.
+Select an answer
+An attacker targets a website’s database to take over the website and possibly the server it is hosted on.
+Select an answer
+Check It! (4 left)
+Attribution
+Image https://www.freepik.com/free-vector/cyber-security-concept_7970729.htm
+Cross site scripting https://www.youtube.com/watch?v=DxsmEXicXEE
+SQL Injection https://www.youtube.com/watch?v=Yqu93GXx0vI
+Directory Traversal https://www.youtube.com/watch?v=a0nXnY3_1gw
+DDoS https://www.youtube.com/watch?v=ilhGh9CEIwM
+Image https://www.freepik.com/free-photo/eye-futuristic-robot_11309679.htm
+Mark as CompletedBack to dashboard
+
+...
+
+4. Conclusion & Takeaways
+Conclusion & Takeaways
+Cross site scripting, SQL injection, Directory Traversal and Distributed Denial of Service are four of the most common types of attacks that a website can encounter.
+Understanding the basic idea behind each of these will help you construct code that better resists these and other types of attacks.
+cover image
+Image by rawpixel.com on Freepik
+Question
+Which type of attack is being described?
+
+An attacker exploits vulnerabilities using ‥/ to access files outside of the website’s root directory.
+Select an answer
+An attacker uses an army of infected computers to flood a server and interrupt service.
+Select an answer
+An attacker exploits unsanitized variables in a contact form to execute malicious script on a website.
+Select an answer
+An attacker targets a website’s database to take over the website and possibly the server it is hosted on.
+Select an answer
+Check It! (4 left)
+Attribution
+Image https://www.freepik.com/free-vector/cyber-security-concept_7970729.htm
+Cross site scripting https://www.youtube.com/watch?v=DxsmEXicXEE
+SQL Injection https://www.youtube.com/watch?v=Yqu93GXx0vI
+Directory Traversal https://www.youtube.com/watch?v=a0nXnY3_1gw
+DDoS https://www.youtube.com/watch?v=ilhGh9CEIwM
+Image https://www.freepik.com/free-photo/eye-futuristic-robot_11309679.htm
+
+...
+
+4. Conclusion & Takeaways
+Conclusion & Takeaways
+Cross site scripting, SQL injection, Directory Traversal and Distributed Denial of Service are four of the most common types of attacks that a website can encounter.
+Understanding the basic idea behind each of these will help you construct code that better resists these and other types of attacks.
+cover image
+Image by rawpixel.com on Freepik
+Question
+Which type of attack is being described?
+
+An attacker exploits vulnerabilities using ‥/ to access files outside of the website’s root directory.
+Directory Traversal
+An attacker uses an army of infected computers to flood a server and interrupt service.
+DDoS
+An attacker exploits unsanitized variables in a contact form to execute malicious script on a website.
+XSS
+An attacker targets a website’s database to take over the website and possibly the server it is hosted on.
+SQL injection
+Check It! (2 left)
+Attribution
+Image https://www.freepik.com/free-vector/cyber-security-concept_7970729.htm
+Cross site scripting https://www.youtube.com/watch?v=DxsmEXicXEE
+SQL Injection https://www.youtube.com/watch?v=Yqu93GXx0vI
+Directory Traversal https://www.youtube.com/watch?v=a0nXnY3_1gw
+DDoS https://www.youtube.com/watch?v=ilhGh9CEIwM
+Image https://www.freepik.com/free-photo/eye-futuristic-robot_11309679.htm
+
+...
