@@ -29,8 +29,8 @@ crossorigin=""></script>
 
 <script>
 // update locations, this is the field of view
-// (36.160196, -115.172424) (38.266161, -112.664795) (38.266161, -112.664795)
-        const map = L.map('map').setView([36.143500, -115.031812], 17);
+// (36.160196, -115.172424) (38.266161, -112.664795) (38.266161, -112.664795) (39.773742, -116.971436) done
+        const map = L.map('map').setView([31.773742, -116.971436], 7);
 
                 //  set view latitude 
                 //  [11/06/2023 05:58 AM] I'm trying to think about where I left off. checking page.
@@ -52,8 +52,8 @@ crossorigin=""></script>
 
 // Location Pin
 
-var marker = L.marker([36.148841, -115.031812]).addTo(map);
-var circle = L.circle([36.148841, -115.031812], {radius: 100}).addTo(map);
+var marker = L.marker([38.773742, -116.971436]).addTo(map);
+var circle = L.circle([38.773742, -116.971436], {radius: 410000}).addTo(map);
 
 var latlngs = [[43.09, -79.07],[43.08, -79.06],[43.1, -79.05]];
 
@@ -63,7 +63,7 @@ var latlngs = [[43.09, -79.07],[43.08, -79.06],[43.1, -79.05]];
 
 // Location Pin Text Bubble
 var popup = L.popup()
-.setLatLng([36.149841, -115.031812])
+.setLatLng([39.773742, -116.971436])
 .setContent("Nevada recently legalized recreational hamburgers")
 .openOn(map); 
 
