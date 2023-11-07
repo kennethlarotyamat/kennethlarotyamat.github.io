@@ -28,9 +28,9 @@ crossorigin=""></script>
 <div id="map" style=" width: 100%; height: auto; aspect-ratio: 686/868; "> </div>
 
 <script>
-// update locations, this is the field of view
+// update locations, this is the field of view (32.285471, -106.776123)
 // (36.160196, -115.172424)
-        const map = L.map('map').setView([35.391027, -115.182037], 10);
+        const map = L.map('map').setView([32.285471, -106.776123], 10);
 
                 //  set view latitude 
                 //  [11/06/2023 05:58 AM] I'm trying to think about where I left off. checking page.
@@ -52,8 +52,8 @@ crossorigin=""></script>
 
 // Location Pin
 
-var marker = L.marker([36.291027, -115.182037]).addTo(map);
-var circle = L.circle([36.291027, -115.182037], {radius: 3600}).addTo(map);
+var marker = L.marker([32.285471, -106.776123]).addTo(map);
+var circle = L.circle([32.285471, -106.776123], {radius: 3600}).addTo(map);
 
 var latlngs = [[43.09, -79.07],[43.08, -79.06],[43.1, -79.05]];
 
@@ -63,7 +63,7 @@ var latlngs = [[43.09, -79.07],[43.08, -79.06],[43.1, -79.05]];
 
 // Location Pin Text Bubble
 var popup = L.popup()
-.setLatLng([36.341027, -115.182037])
+.setLatLng([32.285471, -106.776123])
 .setContent("This is our other main business location")
 .openOn(map); 
 
