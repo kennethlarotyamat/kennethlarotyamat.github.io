@@ -245,3 +245,105 @@ Check It! (4 left)
 Next
 
 ...
+
+5. Conclusion & Takeaways
+Conclusion & Takeaways
+Though it comes with some limitations, the flexibility of working locally in web development is sometimes very convenient, especially when you are just getting started with a project. Knowing that only you can see your files can remove pressure and free you to explore, take risks and get creative. Cloud hosting can always be set up later.
+Attribution
+How to Setup localhost Server in Windows 10 Create Local Host Server IIS Server Windows 10 https://www.youtube.com/watch?v=gpSK0CbSu2g
+Free images resource https://unsplash.com/images/events/celebration
+https://unsplash.com/photos/ooxMySOfRRU Photo by Alexander Grey on Unsplash
+Open Access at the National Gallery of Art https://www.nga.gov/open-access-images.html
+“Mahana Atua” by Paul Gauguin, 1894 https://www.nga.gov/collection/art-object-page.4876.html
+“Le Sourire” by Paul Gauguin, 1899 https://www.nga.gov/collection/art-object-page.4877.html
+
+
+...
+
+1. Setting Up a Cloudhost
+Setting Up a Cloudhost
+Goals
+By the end of this case you will:
+Know how to select a cloud hosting provider and a hosting package
+Understand how to use FTP to move files
+Familiarize yourself with cPanel
+Introduction
+cover image
+Designed by Freepik
+If the decision has been made to host the website using Cloud Hosting, the next step is to determine which cloud hosting provider will be contracted to host the website. Hosting providers offer a variety of options with their hosting packages. A decision must be made regarding which cloud hosting package is best suited for your project. Once the cloud hosting environment has been set up, you can use FTP to upload local copies of your website files (stored on your computer) to the cloud. It is also possible that your hosting package includes cPanel access, in which case you can directly access and update your website files in the cloud without the need for local copies of the files.
+Business Context
+If your employer or client already has a public website, then they already have a Cloud Hosting environment. Sometimes a client does not know how to access their files but they do know who their Hosting provider is. In this case you can contact the hosting provider directly and they will provide you with either FTP or cPanel access. If your client does not have a website yet, you may need to recommend a hosting provider and package for the project as well as coordinate with the hosting provider on behalf of the client to set up the environment and gain access to it.
+Next
+
+...
+
+
+Tilak Ghimire
+  12:22 PM
+secure socket layer
+
+...
+
+1. Setting Up a Cloudhost
+Setting Up a Cloudhost
+Goals
+By the end of this case you will:
+Know how to select a cloud hosting provider and a hosting package
+Understand how to use FTP to move files
+Familiarize yourself with cPanel
+Introduction
+cover image
+Designed by Freepik
+If the decision has been made to host the website using Cloud Hosting, the next step is to determine which cloud hosting provider will be contracted to host the website. Hosting providers offer a variety of options with their hosting packages. A decision must be made regarding which cloud hosting package is best suited for your project. Once the cloud hosting environment has been set up, you can use FTP to upload local copies of your website files (stored on your computer) to the cloud. It is also possible that your hosting package includes cPanel access, in which case you can directly access and update your website files in the cloud without the need for local copies of the files.
+Business Context
+If your employer or client already has a public website, then they already have a Cloud Hosting environment. Sometimes a client does not know how to access their files but they do know who their Hosting provider is. In this case you can contact the hosting provider directly and they will provide you with either FTP or cPanel access. If your client does not have a website yet, you may need to recommend a hosting provider and package for the project as well as coordinate with the hosting provider on behalf of the client to set up the environment and gain access to it.
+Next
+
+...
+
+2. Selecting a Cloud Host & Package
+Selecting a Cloud Host & Package
+There are many web hosting providers to choose from. Some of the most popular include:
+Bluehost https://www.bluehost.com/
+HostGator https://www.hostgator.com/web-hosting/
+HOSTINGER https://www.hostinger.com/
+Each of these providers offers the choice of shared hosting, dedicated hosting, and VPS hosting (Virtual Private Server). We will briefly overview the differences between these.
+Shared Hosting - Best for small websites with low traffic
+This is the most common type of cloud hosting and is the first choice for small businesses. With shared web hosting, many websites share resources on a single server. You will only have access to your files, but you will share bandwidth, processing power and memory with the other websites on that server. While this is the least expensive hosting option, there can be disadvantages, particularly if your website is very large and/or supports a great deal of traffic. Another concern with shared hosting relates to security. If a website on the shared server becomes infected with malware, for example, it can infect other websites on that server.
+Package prices vary depending, among other things, on the amount of space included in the package. Discounted prices are offered at signup, but renewed at a different price. Other signup perks are also offered. Email should be included with a hosting package but isn’t always.
+No matter what package you select, it is always worthwhile to call the hosting provider to speak directly with a representative. They will be able to answer all of your questions about what is included for the first year only, and what is included when the package renews the following year.
+One small note regarding SSL certificates: Though free SSL certificates are generally available for at least the first year of shared hosting, these are not the best SSL certificates. Most hosting providers and/or domain name registrars offer a variety of SSL certificates as a separate product depending on the level of data encryption your website requires. For simplicity, we will not worry about SSL certificates at this time.
+Below, you will find information about three comparable hosting packages from different cloud hosting providers as of January 2023. Items in red, though included with the package, are free to everyone regardless of their web hosting provider. Items in blue are very nice to have, but you’ll want to ask the hosting provider if those benefits carry over to the following year, or if they only apply for the first year.
+It is usually also possible to purchase add-ons if there is something you want that is not included in the package you are considering. Remember that hosting providers want your business and can sometimes be flexible when presented with a competing offer. Don’t be afraid to ask lots of questions, and a little negotiation can only work in your favor.
+Bluehost	HostGator	HOSTINGER
+7.38 USD/month* *Renews at 27.08 USD/month	3.50 USD/month* *Renews at 12.99 USD/month	3.99 USD/month* *Renews at 8.99 USD/month
+40 GB SSD Storage	Unmetered disk space*	200 GB SSD Storage
+Free CDN	Unmetered bandwidth*	Unlimited Bandwidth
+Custom WP Themes	Website & domain transfers	~100 000 Visits Monthly
+SSL certificate*	SSL certificate*	Unlimited Free SSL*
+Daily Website Backup - 1year	Unlimited Websites	100 Websites
+Domain name - 1year	1 year domain registration	Free Domain ($9.99 value)
+Domain Privacy	One-click WordPress installs	Nameservers
+Malware Scanning	Email	Email
+Resource protection	30 Days Money Back Guarantee	30 Days Money Back Guarantee
+Domain manager		DNS Management
+Google my business		Unlimited Databases
+Yoast SEO		Website builder
+Cloudflare Protected
+$150 Google Ads spend match credit	$500 Google Ads spend match credit	Daily Backups ($25.08 value)
+$100 Microsoft Advertising credit*	Managed WordPress
+WordPress Acceleration
+WordPress Staging Tool
+24/7 Support
+99.90% Uptime Guarantee
+*As of January 2023
+Question
+Suppose your customer asked you to build a small (<10GB), simple, non-transactional website to showcase a local art gallery. They have already reserved a domain name. Looking at the packages above, which hosting provider would you recommend and why? You may also visit the websites of these hosting providers to see if you can find a better package.
+
+Submit Answer!
+
+Note: Although all of the recommended packages meet the customer’s shared hosting requirements, it is not advisable to choose the Bluehost package (Provider 1) due to its high cost and unreasonable renewal price.
+Next
+
+...
+
