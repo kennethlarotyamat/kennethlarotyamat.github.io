@@ -347,3 +347,148 @@ Next
 
 ...
 
+2. Selecting a Cloud Host & Package
+Selecting a Cloud Host & Package
+There are many web hosting providers to choose from. Some of the most popular include:
+Bluehost https://www.bluehost.com/
+HostGator https://www.hostgator.com/web-hosting/
+HOSTINGER https://www.hostinger.com/
+Each of these providers offers the choice of shared hosting, dedicated hosting, and VPS hosting (Virtual Private Server). We will briefly overview the differences between these.
+Shared Hosting - Best for small websites with low traffic
+This is the most common type of cloud hosting and is the first choice for small businesses. With shared web hosting, many websites share resources on a single server. You will only have access to your files, but you will share bandwidth, processing power and memory with the other websites on that server. While this is the least expensive hosting option, there can be disadvantages, particularly if your website is very large and/or supports a great deal of traffic. Another concern with shared hosting relates to security. If a website on the shared server becomes infected with malware, for example, it can infect other websites on that server.
+Package prices vary depending, among other things, on the amount of space included in the package. Discounted prices are offered at signup, but renewed at a different price. Other signup perks are also offered. Email should be included with a hosting package but isn’t always.
+No matter what package you select, it is always worthwhile to call the hosting provider to speak directly with a representative. They will be able to answer all of your questions about what is included for the first year only, and what is included when the package renews the following year.
+One small note regarding SSL certificates: Though free SSL certificates are generally available for at least the first year of shared hosting, these are not the best SSL certificates. Most hosting providers and/or domain name registrars offer a variety of SSL certificates as a separate product depending on the level of data encryption your website requires. For simplicity, we will not worry about SSL certificates at this time.
+Below, you will find information about three comparable hosting packages from different cloud hosting providers as of January 2023. Items in red, though included with the package, are free to everyone regardless of their web hosting provider. Items in blue are very nice to have, but you’ll want to ask the hosting provider if those benefits carry over to the following year, or if they only apply for the first year.
+It is usually also possible to purchase add-ons if there is something you want that is not included in the package you are considering. Remember that hosting providers want your business and can sometimes be flexible when presented with a competing offer. Don’t be afraid to ask lots of questions, and a little negotiation can only work in your favor.
+Bluehost	HostGator	HOSTINGER
+7.38 USD/month* *Renews at 27.08 USD/month	3.50 USD/month* *Renews at 12.99 USD/month	3.99 USD/month* *Renews at 8.99 USD/month
+40 GB SSD Storage	Unmetered disk space*	200 GB SSD Storage
+Free CDN	Unmetered bandwidth*	Unlimited Bandwidth
+Custom WP Themes	Website & domain transfers	~100 000 Visits Monthly
+SSL certificate*	SSL certificate*	Unlimited Free SSL*
+Daily Website Backup - 1year	Unlimited Websites	100 Websites
+Domain name - 1year	1 year domain registration	Free Domain ($9.99 value)
+Domain Privacy	One-click WordPress installs	Nameservers
+Malware Scanning	Email	Email
+Resource protection	30 Days Money Back Guarantee	30 Days Money Back Guarantee
+Domain manager		DNS Management
+Google my business		Unlimited Databases
+Yoast SEO		Website builder
+Cloudflare Protected
+$150 Google Ads spend match credit	$500 Google Ads spend match credit	Daily Backups ($25.08 value)
+$100 Microsoft Advertising credit*	Managed WordPress
+WordPress Acceleration
+WordPress Staging Tool
+24/7 Support
+99.90% Uptime Guarantee
+*As of January 2023
+Question
+Suppose your customer asked you to build a small (<10GB), simple, non-transactional website to showcase a local art gallery. They have already reserved a domain name. Looking at the packages above, which hosting provider would you recommend and why? You may also visit the websites of these hosting providers to see if you can find a better package.
+
+hostinger because they have better features at a lower cost.
+Modify answer
+Your answer has been submitted and will be reviewed by your teacher in due course.
+
+Note: Although all of the recommended packages meet the customer’s shared hosting requirements, it is not advisable to choose the Bluehost package (Provider 1) due to its high cost and unreasonable renewal price.
+Next
+
+...
+
+3. Dedicated Hosting vs VPS Hosting
+Dedicated Hosting vs VPS Hosting
+cover image
+Image by Freepik
+As we saw in the previous section, shared hosting is an affordable solution for a smaller website that sees limited traffic.
+Larger websites, however, will require additional resources. Among other things, they need more storage and more bandwidth to operate. For these websites, dedicated hosting & VPS hosting offer two alternatives to shared hosting.
+Dedicated Hosting - Ideal for larger companies with more traffic
+This kind of hosting is more expensive (between   100−
+ 150 a month), but comes with many benefits. With dedicated hosting, your website is the only one on that server. With this kind of hosting, you are not sharing bandwidth or server resources or memory with other websites. This will help your website to run faster and handle more traffic than it could with shared hosting.
+The risk of malware or virus infection from neighboring websites is also eliminated because your site is alone on the server (you have no neighbors). Since you’re paying more, you can count on improved, around-the-clock technical support from the hosting provider.
+VPS Hosting - Ideal for the in-between
+This kind of hosting is a middle-ground between shared and dedicated hosting. Your website is on a shared server BUT a specific quantity of resources, bandwidth and memory are dedicated to your website. It is perfect for a website that has outgrown shared hosting but is not quite big enough to require dedicated hosting.
+As with shared hosting, there are different packages available depending on the volume of server resources/bandwidth/memory that will be dedicated exclusively to your website, but you can expect to pay somewhere around $50 per month.
+
+A website expects more than 100 000 visitors per month and expects it will process an average of 20 000 transactions per month. What kind of hosting solution is right for this website?
+
+
+Shared hosting
+
+
+Dedicated hosting
+
+
+VPS hosting
+
+Check It! (4 left)
+
+
+A medium sized business is expanding. Their website currently runs on a shared hosting solution, but lately, during peak traffic periods, the website runs very slowly and reports for the last few months show that they are losing sales when this happens. They would like a hosting solution that can better accommodate this increase in traffic without slowing down the site. What kind of hosting solution is right for this website?
+
+
+Dedicated hosting
+
+
+Shared hosting
+
+
+VPS hosting
+
+Check It! (4 left)
+
+
+A small non-transactional website for a local business receives less than 1000 visitors per month. What kind of hosting solution is right for this website?
+
+
+Shared hosting
+
+
+Dedicated hosting
+
+
+VPS hosting
+
+Check It! (4 left)
+Next
+
+...
+
+4. FTP : File Transfer Protocol
+FTP : File Transfer Protocol
+FTP is a means of moving files between your computer and the cloud hosting environment. You can upload files to the host server or download files from that host server. There are several programs that help you do this, but FileZilla ( https://filezilla-project.org/ ) is FREE and widely used because it is available for Mac, Windows and Linux systems. There is also an affordable PRO version of the software that offers additional features, though generally the free software is sufficient.
+The software must be downloaded to your computer and access to a website can be added using the login credentials provided to you by your web hosting provider.
+One of the major advantages of using FTP is that you can upload and download not only files, but entire folders, including sub-folders with a simple drag and drop. Though it may take some time, the folder and sub-folder structure will be respected, which is great for moving a website from localhost to cloudhost, or for backing-up folders locally before making changes on the server files.
+You can view some screenshots of the software here: https://filezilla-project.org/client_screenshots.php
+Here is a short introductory video to FileZilla
+https://www.youtube.com/watch?v=JilbuyOGA00
+Getting to know cPanel
+cPanel access is sometimes included with your cloud hosting package. There are hosting providers who will only make cPanel available at an additional charge.
+cPanel is an easy-to-use website management platform offering a wide variety of features including a file manager, database access, virus scanner, PHP version manager and more. It is accessed through your web browser using login credentials provided to you by your web hosting provider. Always request cPanel access to your hosting environment as cPanel tools are tremendously helpful for web development.
+You can view features and screenshots of the platform here
+https://cpanel.net/products/cpanel-whm-features/
+Here is a short introductory video to cPanel
+https://www.youtube.com/watch?v=nwM5xd_AJOs
+Next
+
+...
+
+5. Conclusion & Takeaways
+Conclusion & Takeaways
+Selecting the best cloud hosting solution for your web project can seem a little daunting at first glance. There are so many features, packages and providers to choose from. Prices are often listed as discount prices for first-time clients and it is not always apparent what the renewal prices will be. Those low first-time prices also often depend on contracts that are billed annually even though prices are advertised as monthly.
+To make the best choice, you need to think about what your project requires. If it is a small website, then a shared hosting solution is desirable. If it is a large website that expects a good deal of traffic, then dedicated hosting is more appropriate. If the website is medium sized, meaning it requires dedicated resources but is not large enough to justify the expense of dedicated hosting, then VPS hosting offers a reasonable middle-ground between shared and dedicated hosting.
+Once you have a cloud hosted environment for your website, you will need to access it. FTP software like FileZilla and cPanel access will provide you with the means of managing your website.
+Attribution
+https://www.freepik.com/free-vector/cloud-computing-polygonal-wireframe-technology-concept_12071198.htm
+https://www.freepik.com/free-vector/abstract-creative-website-hosting-illustration_21743698.htm
+Bluehost https://www.bluehost.com/
+HostGator https://www.hostgator.com/web-hosting/
+HOSTINGER https://www.hostinger.com/
+FileZilla screenshots https://filezilla-project.org/client_screenshots.php
+Introduction to FileZilla https://www.youtube.com/watch?v=JilbuyOGA00
+cPanel features https://cpanel.net/products/cpanel-whm-features/
+Introduction to cPanel https://www.youtube.com/watch?v=nwM5xd_AJOs
+Mark as CompletedBack to dashboard
+
+...
+
+
