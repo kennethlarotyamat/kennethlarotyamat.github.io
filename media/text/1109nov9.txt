@@ -310,3 +310,20 @@ Mark as CompletedBack to dashboard
 </aside>
 
 ...
+
+1. Defending Against XSS
+Defending Against XSS
+Goals
+By the end of this case you will:
+Understand how filtering user input resists cross site scripting (XSS)
+Use javascript to validate user input in a form
+Use javascript to sanitize user input variables
+Introduction
+Now that we have a solid understanding of some common website attacks, we must learn how to defend against them. Cybersecurity is a field unto itself, but as a website developer there are many things you can do to protect your employer/client and their data, as well as to protect users who visit your website. In this section, we will consider simple defenses against XSS attacks by learning how to filter user inputs on simple contact forms.
+cover image, contact form
+Image by storyset on Freepik
+Business Context
+While larger companies do employ cybersecurity experts to safeguard their websites, their servers, and their networks, smaller companies will depend on their web developers to make their websites as safe as possible. Web hosting providers also have a critically important role to play in securing the websites they host by securing their servers. As a website developer, you are not responsible for server level security. You are however responsible for ensuring that the website you build, and the code it uses, respect web security best practices.
+Next
+
+...
