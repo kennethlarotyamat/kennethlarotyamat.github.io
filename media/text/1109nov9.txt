@@ -1,0 +1,33 @@
+1
+
+Web Hosting and Web Security Concepts 1 - Tuesday, November 7
+
+In the first lesson you will understand what local hosting is, understand what cloud hosting is , understand the difference between local hosting and cloud hosting and be able to select between local hosting and cloud hosting in a given context. In the second lesson you will cover how to set up localhost, set up localhost on your computer and practice using your newly configured localhost. In the third lesson you will know how to select a cloud hosting provider and a hosting package, understand how to use FTP to move files and familiarize yourself with cPanel. By the fourth lesson you have a basic understanding of 4 types of common website attacks ,understand where and how these common attacks occur and be able to identify possible outcomes for each of these common attacks.
+
+Session Recording - Module 16 Day 1 - Tue., November 7
+Module 16 Lesson 1.1
+Module 16 Lesson 1.2
+Module 16 Lesson 1.3
+Module 16 Lesson 1.4
+
+2
+
+Web Hosting and Web Security Concepts 2 - Thursday, November 9
+
+In the first lesson you will understand how filtering user input resists cross site scripting (XSS), use JavaScript to validate user input in a for and to sanitize user input variables. In the second lesson you will understand the importance of specifying your base directory, know the difference between full paths and relative paths, understand how to use relative paths to include files in your code, and practice sanitizing a variable containing a file path. In the third lesson you will learn about the OWASP Foundation, join the OWASP community, familiarize yourself with the OWASP Top Ten security risks and understand how the OWASP Top Ten list is produced. By the fourth lesson you will understand WordPress security risks, install the Wordfence Security plugin, familiarize yourself with WordFence settings and capabilities and perform a Wordfence security scan.
+
+1. Defending Against XSS
+Defending Against XSS
+Goals
+By the end of this case you will:
+Understand how filtering user input resists cross site scripting (XSS)
+Use javascript to validate user input in a form
+Use javascript to sanitize user input variables
+Introduction
+Now that we have a solid understanding of some common website attacks, we must learn how to defend against them. Cybersecurity is a field unto itself, but as a website developer there are many things you can do to protect your employer/client and their data, as well as to protect users who visit your website. In this section, we will consider simple defenses against XSS attacks by learning how to filter user inputs on simple contact forms.
+cover image, contact form
+Image by storyset on Freepik
+Business Context
+While larger companies do employ cybersecurity experts to safeguard their websites, their servers, and their networks, smaller companies will depend on their web developers to make their websites as safe as possible. Web hosting providers also have a critically important role to play in securing the websites they host by securing their servers. As a website developer, you are not responsible for server level security. You are however responsible for ensuring that the website you build, and the code it uses, respect web security best practices.
+Next
+
