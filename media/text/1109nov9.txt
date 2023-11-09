@@ -327,3 +327,26 @@ While larger companies do employ cybersecurity experts to safeguard their websit
 Next
 
 ...
+
+for next saturday, the 18th, the finale the last class will be shorter, we will do the 
+celebration with optional TA breakout rooms and work on other stuff and go to breakout 
+rooms and can just leave after 11.
+
+1. Defending Against Directory Traversal
+Defending Against Directory Traversal
+Goals
+By the end of this case you will:
+Understand the importance of specifying your base directory
+Know the difference between full paths and relative paths
+Understand how to use relative paths to include files in your code
+Practice sanitizing a variable containing a file path
+Introduction
+Since directory traversal involves an attacker attempting to gain access to content outside of the website’s root directory, the first line of defense occurs at the server level. Your web host will set permissions on the directories in your hosting environment which should prevent an attacker from gaining access to higher level directories.
+That being said, you can still make your code more robust against directory traversal attacks.
+cover image, magnifying glass and slides
+Image by rawpixel.com on Freepik
+Business Context
+Your employer/customer may know absolutely nothing about common cyber security attacks and how to guard against them. They will depend on you to integrate responsible and safe code and to advise them of any security precautions they should take. Web development is a field in which lifelong learning is rewarded. Never stop learning how to improve your code, because hackers will never stop trying to hack it.
+Next
+
+...
