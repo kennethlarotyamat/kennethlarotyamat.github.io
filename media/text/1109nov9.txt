@@ -584,4 +584,7 @@ You would like to include the file base_directory/inc/functions.php in your orde
 ../inc/functions.php
 Submit Answer!
 
+in this case, we are already in the account, the root or base directory, so we just need the two dots for 
+this to work.
+
 ...
