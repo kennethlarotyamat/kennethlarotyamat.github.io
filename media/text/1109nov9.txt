@@ -737,3 +737,231 @@ Next
 
 People who are seasoned and more accomplished tend 
 to be the most friendly and helpful.
+
+...
+
+4. Conclusion & Takeaways
+Conclusion & Takeaways
+OWASP offers exciting and affordable opportunities to access software security knowledge, cultivate your professional expertise, network with other professionals and participate in an active and ethical like-minded community.
+A security-first approach to web development is forward-thinking and increasingly the industry standard. The OWASP community is an excellent place to start taking this approach. Whether you consult their Slack channel or join a local chapter, it’s important to remember that you are not in this alone. You are part of a larger international community that seeks to make the web a safer place. Ask questions, make friends, and cultivate your security skills.
+Attribution
+About the OWASP foundation https://youtu.be/GJADjlBbv3Y
+Slack https://slack.com
+To join OWASP Slack channel https://owasp.org/about/
+OWASP Top 10 (YouTube) https://www.youtube.com/watch?v=hryt-rCLJUA
+OWASP Top 10 (Website) https://owasp.org/www-project-top-ten
+
+...
+
+4. Conclusion & Takeaways
+Conclusion & Takeaways
+OWASP offers exciting and affordable opportunities to access software security knowledge, cultivate your professional expertise, network with other professionals and participate in an active and ethical like-minded community.
+A security-first approach to web development is forward-thinking and increasingly the industry standard. The OWASP community is an excellent place to start taking this approach. Whether you consult their Slack channel or join a local chapter, it’s important to remember that you are not in this alone. You are part of a larger international community that seeks to make the web a safer place. Ask questions, make friends, and cultivate your security skills.
+Attribution
+About the OWASP foundation https://youtu.be/GJADjlBbv3Y
+Slack https://slack.com
+To join OWASP Slack channel https://owasp.org/about/
+OWASP Top 10 (YouTube) https://www.youtube.com/watch?v=hryt-rCLJUA
+OWASP Top 10 (Website) https://owasp.org/www-project-top-ten
+
+...
+
+3. Major Security Risks
+Major Security Risks
+The OWASP Top Ten is a standard awareness document intended for developers. It highlights the top 10 security risks so that developers can apply focus to the most important/high risk areas.
+Here is an introductory video about the OWASP Top Ten and how it can be used.
+https://www.youtube.com/watch?v=hryt-rCLJUA
+You can read more about the OWASP Top Ten on their website:
+https://owasp.org/www-project-top-ten/
+As you can see, insecure design and injection both feature on this list of top 10 concerns. Using the OWASP Top Ten to minimize security risk is an effective first step in securing the code you develop.
+In the OWASP Top Ten, cross site scripting or XSS attacks are included in which category?
+Injection
+Check It! (3 left)
+
+
+How does OWASP compile their top 10 lists of security concerns?
+
+
+Using GitHub repositories
+
+
+Industry contributor surveys
+
+
+Using information from chapters and worldwide members
+
+
+Public consensus
+
+
+Through open-source community software projects
+
+
+All of the above
+
+
+With data gathered during training conferences
+
+Check It! (3 left)
+
+Injection used to be the number one security risk but it is now number three. What is considered to be the number one security risk now?
+
+Broken Access Control
+Check It! (3 left)
+Next
+
+...
+
+1. WordPress Security Part 1
+WordPress Security
+Goals
+By the end of this case you will:
+Understand WordPress security risks
+Install the Wordfence Security plugin
+Familiarize yourself with WordFence settings and capabilities
+Perform a Wordfence security scan
+Introduction
+WordPress, as you know, is a website content management system that offers many advantages. It’s also important to be mindful of the security risks that can emerge at various stages of development and how to mitigate them. The OWASP Top Ten Web Application Security Risks includes Vulnerable and Outdated Components which is of particular relevance to WordPress websites.
+cover image security lock
+Image by kjpargeter on Freepik
+Business Context
+Approximately 63% of websites are built in WordPress making it very likely that you will work in WordPress as a developer. If you are building the website from the ground up, you will be able to include basic security measures at the outset. If, however, the website is already in place, it will be important to assess the security measures in place and to scan for vulnerabilities in order to take the steps necessary to secure the website’s existing vulnerabilities.
+WordPress Vulnerabilities
+WordPress websites are built using themes and plugins that can present malicious actors with vulnerable points of entry. When new versions that include security patches are released you must update WordPress/theme/plugin versions to ensure that your website is not exposed to attacks that could have been prevented.
+Installing too many plugins on a website exposes that website to an increased number of security risks. It is recommended that you limit the number of plugins your website requires and that you delete plugins and themes that you are not using. With fewer plugins, your website will be more secure, will load more quickly and will require less maintenance.
+Take a quick look at this list of plugin vulnerabilities to understand the scope of the problem. https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins
+Defending WordPress Websites
+Let’s make your personal WordPress website more secure by installing the Wordfence Security plugin.
+Step 1: If you can remember from Module 8, we installed LocalWP to set up a local WordPress environment on our computers. Open the application LocalWP and go to your Admin settings.
+Tip: It is crucial to ensure that we exclusively use LocalWP for installing plugins, whether they are free or paid, rather than installing them directly on wordpress.com.
+Step 2: Using the left-hand menu, navigate to Plugins → Add New
+Step 3: Use the search bar in the upper left-hand corner to search for Wordfence
+Step 4: Click Install Now button on the Wordfence Security plugin
+install wordfence button
+Step 5: Once it is installed, click the Activate button.
+Step 6: Using the left-hand menu, navigate to Wordfence Dashboard
+wordfence menu
+It may ask you for your email address. This is the email address that will receive security notifications and status updates. Ensure that you check this email regularly.
+Here is the screenshot you will see:
+alt text
+Click ‘Get your Wordfence license’
+You will then be brought to the following screen:
+alt text
+Under ‘Free’ click ‘Get a Free License’
+Then you will see the following screen, enter your email and press Yes for ‘Would you like to receive emails’ and check off the box for terms and conditions and click Register
+alt text
+Your license key is going to be emailed to you, and you will receive the following email.
+alt text
+You then have to copy the long number below and go back to your Wordpress where you will be greeted with the same popup as before:
+alt text
+This time click ‘Install an existing license’ and once you click that, all you need to do is enter your email and the long license key that you copied, accept the terms and conditions and proceed. You will now have installed your free license. Click 'Go to Dashboard’.
+The Wordfence dashboard will give you an overview of your website security, and it is on this page that you will see (in the future) any security notifications or vulnerabilities that may have been identified in a recent scan.
+Next
+
+...
+
+go to the wordpress website made earlier in the class. 
+go to plugins and add a new one 
+add wordfence. 
+
+...
+
+1. WordPress Security Part 1
+WordPress Security
+Goals
+By the end of this case you will:
+Understand WordPress security risks
+Install the Wordfence Security plugin
+Familiarize yourself with WordFence settings and capabilities
+Perform a Wordfence security scan
+Introduction
+WordPress, as you know, is a website content management system that offers many advantages. It’s also important to be mindful of the security risks that can emerge at various stages of development and how to mitigate them. The OWASP Top Ten Web Application Security Risks includes Vulnerable and Outdated Components which is of particular relevance to WordPress websites.
+cover image security lock
+Image by kjpargeter on Freepik
+Business Context
+Approximately 63% of websites are built in WordPress making it very likely that you will work in WordPress as a developer. If you are building the website from the ground up, you will be able to include basic security measures at the outset. If, however, the website is already in place, it will be important to assess the security measures in place and to scan for vulnerabilities in order to take the steps necessary to secure the website’s existing vulnerabilities.
+WordPress Vulnerabilities
+WordPress websites are built using themes and plugins that can present malicious actors with vulnerable points of entry. When new versions that include security patches are released you must update WordPress/theme/plugin versions to ensure that your website is not exposed to attacks that could have been prevented.
+Installing too many plugins on a website exposes that website to an increased number of security risks. It is recommended that you limit the number of plugins your website requires and that you delete plugins and themes that you are not using. With fewer plugins, your website will be more secure, will load more quickly and will require less maintenance.
+Take a quick look at this list of plugin vulnerabilities to understand the scope of the problem. https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins
+Defending WordPress Websites
+Let’s make your personal WordPress website more secure by installing the Wordfence Security plugin.
+Step 1: If you can remember from Module 8, we installed LocalWP to set up a local WordPress environment on our computers. Open the application LocalWP and go to your Admin settings.
+Tip: It is crucial to ensure that we exclusively use LocalWP for installing plugins, whether they are free or paid, rather than installing them directly on wordpress.com.
+Step 2: Using the left-hand menu, navigate to Plugins → Add New
+Step 3: Use the search bar in the upper left-hand corner to search for Wordfence
+Step 4: Click Install Now button on the Wordfence Security plugin
+install wordfence button
+Step 5: Once it is installed, click the Activate button.
+Step 6: Using the left-hand menu, navigate to Wordfence Dashboard
+wordfence menu
+It may ask you for your email address. This is the email address that will receive security notifications and status updates. Ensure that you check this email regularly.
+Here is the screenshot you will see:
+alt text
+Click ‘Get your Wordfence license’
+You will then be brought to the following screen:
+alt text
+Under ‘Free’ click ‘Get a Free License’
+Then you will see the following screen, enter your email and press Yes for ‘Would you like to receive emails’ and check off the box for terms and conditions and click Register
+alt text
+Your license key is going to be emailed to you, and you will receive the following email.
+alt text
+You then have to copy the long number below and go back to your Wordpress where you will be greeted with the same popup as before:
+alt text
+This time click ‘Install an existing license’ and once you click that, all you need to do is enter your email and the long license key that you copied, accept the terms and conditions and proceed. You will now have installed your free license. Click 'Go to Dashboard’.
+The Wordfence dashboard will give you an overview of your website security, and it is on this page that you will see (in the future) any security notifications or vulnerabilities that may have been identified in a recent scan.
+Next
+
+443 - 868 
+
+...
+
+2. WordPress Security Part 2
+Step 7: Navigate to All Options in the Wordfence sub-menu
+Step 8: This is where we will configure your Wordfence plugin. There are premium options that can be accessed for a subscription fee, but these will not be discussed at this time.
+wordfence setup
+If you haven’t already, be sure to enter your email address to receive security alerts.
+Always select the Recommended settings if you are unsure.
+Hide the WordPress version from attackers. It’s none of their business
+It is wise to disable code execution in the uploads directory.
+Scroll down to Email Alert Preferences and decide if there are alerts you would prefer not to receive.
+Below that you can also select how frequently you would like to receive Activity Reports.
+Scroll down to Basic Firewall Options. A firewall acts as a protective barrier against attackers. The firewall status may be set to learning mode and this is ok to start, but eventually it should be set to Enabled and Protecting.
+If you can, click Optimize the Wordfence Firewall.
+click optimize
+Click on Advanced Firewall Options and then scroll down to Rules. These Wordfence rules guard against some common attacks. You may notice that some of the attack categories are familiar to you ex. XSS and Traversal. All of these rules should be activated, though you do have the option to turn them off individually. If you are worried that your rules may be out of date, you also have the option to Manually refresh rules.
+refresh rules
+Scroll down to Brute Force Protection.
+brute force protection
+This option should be on. Below that you can decide how strict your login rules are. Different websites will require different settings here. If many users need to login all of the time, you may not want to be too strict and lock valid users out. Security is important, but so is the user experience. For example, if you check the option Immediately lock out invalid usernames, valid users who forgot their account details may get blocked from the public website (not good).
+You should absolutely check the option: Prevent the use of passwords leaked in data breaches.
+Scroll down to Additional Options
+You should Enforce strong passwords for all members. It is safe to select all or most of these additional options.
+enforce strong passwords
+Step 9: Remember to save your changes.
+Next
+
+...
+
+3. Scanning WordPress for Vulnerabilities
+Scanning WordPress for Vulnerabilities
+Now that we have configured Wordfence, we can also use it to scan our website files/themes/plugins for known vulnerabilities.
+Using the left-hand menu, navigate to Scan in the Wordfence sub-menu.
+From this page you can click the Start New Scan button to begin scanning your website.
+start scan button
+This may take some time and it’s important to give the scan time to run to completion. It is worth noting that websites do slow down while they are being scanned. Since we do not want to have a negative impact on user experience, security scans are best performed during low traffic periods.
+Once the scan is complete, you can scroll down to see Results Found.
+Activity
+What are the results of your Wordfence Security Scan? Share a screen capture or list of results.
+
+Submit Answer!
+
+It is essential that regular security scans are performed on any website. New vulnerabilities will arise over time. Regular security scans allow you to identify and patch the vulnerabilities so that your website is not exposed to attack.
+Note that you should always have a backup of your website ready to restore before attempting to update plugins or themes. Occasionally, updates will break the front end of the website and if this cannot be remedied promptly, you may need to restore your backup.
+Sample Answer:
+sample answer
+Next
+
+...
+
+
