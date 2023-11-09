@@ -138,3 +138,114 @@ After being sanitized, what is the value of string fullname?
 Submit Answer!
 Next
 
+2. Filtering User Inputs
+Filtering User Inputs
+You will recall that Cross Site Scripting attacks occur when malicious code is injected through a form on the website. The attacker needs to inject and execute their malicious code. You can prevent this by validating inputs and sanitizing variables. This is known as input encoding. The attacker will still be able to enter their malicious code, but your code will intercept it and clean it up before it can run, thereby thwarting the attack.
+Consider the following HTML form.
+newsletter signups
+This form will take input from the user (name and email address) in order to add the user to the list of Newsletter recipients. If an attacker tries to enter malicious code in the name or email fields, we will need to intercept the attack.
+When the user clicks the submit button, a JavaScript function is called that will validate and sanitize the user inputs so that they can be safely submitted. If the user inputs are unsafe, the form will not submit and instead show an error message.
+The HTML code for this form, as well as the JavaScript function are included below.
+Save the code below as a file in your localhost environment, then view the file in your browser.
+<!DOCTYPE html>
+<html lang="en">
+<head>
+   <meta charset="utf-8" />
+   <title>My Basic Form</title>
+</head>
+<body>
+   <h1 style="text-align:center;">Newsletter Sign-Up</h1>
+   <form name="MyForm"  method="Post" action="thankyou.html">
+     <div style="text-align:center;">
+     <input type="text" name="fullname"  placeholder="Your name">
+     <input type="text" name="email"  placeholder="Your email">
+     <input type="submit" name="submit"  value="Submit" onClick="javascript:return validateInputs();">
+    </div>
+   </form>
+<script>
+function validateInputs()
+  {
+    //declaration of variables
+    var SubmitForm;
+    var FormErrors;
+
+    //Initially set SubmitForm to true. 
+    SubmitForm = true;
+
+    //Retrieve variables to be validated and sanitized
+    //Assume they are dangerous for now
+    var fullname    = new String(document.MyForm.fullname.value);
+    var email   = new String(document.MyForm.email.value);
+
+    //Check that the user inputs are not blank
+    //JavaScript logical operator for OR : ||
+    if ( fullname.length<1 || email.length<1 )
+    {
+    FormErrors = "All fields are mandatory. Please complete the form.";
+    SubmitForm = false;
+    } else {
+//Set up a filter for the pattern of an email
+//Learn more about referencing characters:          //https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_Expressions/Character_Classes
+
+var filter = /^([\w-]+(?:\.[\w-]+)*)@((?:[\w-]+\.)*\w[\w-]{0,66})\.([a-z]{2,6}(?:\.[a-z]{2})?)$/i;
+    
+    //Use test() method to check user email against the filter
+    //test() method: https://www.w3schools.com/jsref/jsref_regexp_test.asp     
+    if (!filter.test(email))
+    {
+        FormErrors = "Your form contains invalid field entries. Please correct your form before submitting";
+        SubmitForm = false;
+     }
+    }
+    
+    if (SubmitForm == false)
+    {
+        //The form cannot be submitted.
+        alert(FormErrors);
+        return false;
+    } else {
+        //SANITIZE user inputs by allowing only [a-z 0-9 _ - . @] 
+        //strip forbidden characters
+        fullname = fullname.replace(/[^a-z0-9\s\-]/gim,"");
+        fullname = fullname.trim();
+        email = email.replace(/[^a-z0-9_@.-]/gim,"");
+        email = email.trim();
+
+        //ready to submit
+        document.MyForm.submit();
+    }
+}
+</script>
+</body>
+</html>
+Try submitting the form using your name and email address.
+You should get a crash page on thankyou.html because you have not created this page yet.
+Create and save an HTML file called thankyou.html then try the form again.
+If you made it to your new thankyou.html page, then the form was successfully submitted.
+Question
+Which of the following is more secure? Why?
+
+<input type=”text” name=”firstname” placeholder=”First name”>
+<input type=”text” name=”firstname” placeholder=”First name” maxlength="20">
+<input type=”text” name=”firstname” placeholder=”First name” size="20">
+Submit Answer!
+Question
+What does it mean to sanitize a variable?
+
+Submit Answer!
+Question
+A user enters the following input in the Full Name field:
+
+<script>$SOMETHING</script>
+The validation function in the form sanitizes this variable as follows:
+
+fullname = fullname.replace(/[^a-z0-9\s\-]/gim,"");
+After being sanitized, what is the value of string fullname?
+
+Submit Answer!
+Next
+
+...
+
+putting javascript in the. in a different page helps with security somewhat. it just makes it slightly more difficult for 
+people to mess with your website.
