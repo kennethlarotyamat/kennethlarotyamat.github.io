@@ -587,4 +587,39 @@ Submit Answer!
 in this case, we are already in the account, the root or base directory, so we just need the two dots for 
 this to work.
 
+want to sanitize the user input to sanitize the string. closed 
+when I rebooted my whole computer.
+
+
+
+...
+
+3. Conclusion & Takeaways
+Conclusion & Takeaways
+Good code is safe code. By taking basic precautions against common attacks, you can protect your website and its users from malicious actors. Forms can be weak points in terms of security because they allow users to enter and submit inputs. By restricting, validating and sanitizing user inputs your code can be made more robust. ALL user inputs should ALWAYS be sanitized before they are submitted.
+Remember that cybersecurity is fluid. Attacks evolve as vulnerabilities emerge and web developers must implement new security practices and patches as they become available. A responsible web developer is proactive in learning about emerging threats so that their code can be maintained and made robust in the face of new attacks.
+Attribution
+Image https://www.freepik.com/free-vector/characters-people-searching-through-files_3530103.htm
+Arbitrary File Read Video https://www.youtube.com/watch?v=Jg5lb_dmwuM
+Relative vs Absolute Path https://www.youtube.com/watch?v=ZQLpSOGOj8E
+Mark as CompletedBack to dashboard
+
+...
+
+1. The OWASP® Foundation
+The OWASP® Foundation
+Goals
+By the end of this case you will:
+Learn about the OWASP Foundation
+Join the OWASP community
+Familiarize yourself with the OWASP Top Ten security risks
+Understand how the OWASP Top Ten list is produced
+Introduction
+The Open Web Application Security Project® (OWASP) is the world’s largest non-profit foundation concerned with software security. Their work seeks to improve software security through community-led open-source software projects. They have hundreds of chapters worldwide and provide valuable education and training conferences for professionals interested in developing their software security knowhow.
+security image lock
+Image by rawpixel.com on Freepik
+Business Context
+Security is always a primary concern, and even if you are not inclined to attend software security conferences, OWASP is a valuable and credible source of security information. Familiarize yourself with their tools, resources, community and training opportunities.
+Next
+
 ...
