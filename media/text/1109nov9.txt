@@ -289,3 +289,24 @@ Your answer has been submitted and will be reviewed by your teacher in due cours
 Next
 
 ...
+
+3. Conclusion & Takeaways
+Conclusion & Takeaways
+Controlling user inputs on forms is an essential element of defense against XSS attacks. This can be done by limiting the length of inputs, matching inputs against expected patterns, and of course most importantly sanitizing variables before submitting them.
+Never output unsanitized user inputs.
+Attribution
+Image https://www.freepik.com/free-vector/get-touch-concept-illustration_8960459.htm
+test() method https://www.w3schools.com/jsref/jsref_regexp_test.asp
+referencing characters https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_Expressions/Character_Classes
+Mark as CompletedBack to dashboard
+
+...
+
+      <aside class="grid-item aside-two">
+
+<form action="mailto:info@chestnutandhazel.com" target="_blank" method="post"> <td style="width:20%; height: 20%;" >First Name  <br><input type="text" id="firstname" name="firstname"><br><br>Last Name <br><input type="text" id="lastname" name="lastname"><br><br>Email  <br><input type="text" id="email" name="email"><br><br> Telephone  <br><input type="text" id="telephone" name="telephone"><br><br> Website <br><input type="text" id="website" name="website"><br><br>  Comments <br><input style="width: 100%; height: auto; aspect-ratio: 8.68 / 6.08;" type="text" id="comments" name="comments" ><br><br> <h2><div  height="100px">    <button id="submitinformationcontactbutton" type="submit"   >Reach Out</button> </div>  </td></form>
+
+
+</aside>
+
+...
