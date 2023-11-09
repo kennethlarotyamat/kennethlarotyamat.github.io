@@ -964,4 +964,196 @@ Next
 
 ...
 
+3. Scanning WordPress for Vulnerabilities
+Scanning WordPress for Vulnerabilities
+Now that we have configured Wordfence, we can also use it to scan our website files/themes/plugins for known vulnerabilities.
+Using the left-hand menu, navigate to Scan in the Wordfence sub-menu.
+From this page you can click the Start New Scan button to begin scanning your website.
+start scan button
+This may take some time and it’s important to give the scan time to run to completion. It is worth noting that websites do slow down while they are being scanned. Since we do not want to have a negative impact on user experience, security scans are best performed during low traffic periods.
+Once the scan is complete, you can scroll down to see Results Found.
+Activity
+What are the results of your Wordfence Security Scan? Share a screen capture or list of results.
+
+...
+
+
+It is essential that regular security scans are performed on any website. New vulnerabilities will arise over time. Regular security scans allow you to identify and patch the vulnerabilities so that your website is not exposed to attack.
+Note that you should always have a backup of your website ready to restore before attempting to update plugins or themes. Occasionally, updates will break the front end of the website and if this cannot be remedied promptly, you may need to restore your backup.
+Sample Answer:
+
+...
+
+4. Git Reviews
+Git Reviews
+Git is a free version control system that is the most widely used version control system in the world and is considered the industry standard for developers. Version control refers to tracking and managing code changes. Version control allows teams to review code before it is live, and to restore previous versions if something goes wrong with the live version. In the context of performing WordPress version and plugin security updates, Git’s version control allows you to undo and analyze any updates that would cause a display or compatibility problem.
+Major Benefits of using Git
+Access to a complete change history of every file.
+Branching (new code) and merging (combine branches) capability.
+Ability to trace back changes, review and analyze them
+Getting started with Git
+To get started, follow the instructions on this page to install Git for Windows. https://git-scm.com/download/win
+download git
+It is recommended that you accept the default (recommended) settings as you click “Next” through the installation. As we saw in the video, once you have installed Git, you can write your first commands to configure your username and email address.
+command line git setup
+Now you are ready to create your first Git repository. Watch this video to see how Git is set up. The start of the video shows the steps you just completed. The second half of the video will help you create your first repository, your first file and to do your first commit. Follow along in your Git terminal to get hands on Git experience. https://git-scm.com/video/get-going
+Getting to know Git
+As so many developer job openings list knowledge of Git as a required or preferred skill, taking the time to learn Git will strengthen your application.
+Further reading to learn Git (documentation / instruction book / videos): https://git-scm.com/doc
+Once you have worked through the instruction book and are more familiar with Git commands, you may want to download this Git “cheat sheet” so that you don’t have to look up every command as you go: https://www.atlassian.com/git/tutorials/atlassian-git-cheatsheet
+Best Practices for using Git
+Commit often. Every time you “commit”, you are capturing a snapshot of the code base. This will be a version that you could return to if needed. It is better to commit too often rather than not often enough. A group of commits can always be combined to simplify the development history later on.
+When you commit you can and should leave a detailed log message explaining why you are making this commit and what is contained within it.
+Make sure to git pull (fetch) the global copy so you are working with the most recent version of the code.
+Use the staging area to collect/review a group of edits before writing them to a commit.
+
+Why do people use Git?
+
+
+To allow version control
+
+
+To facilitate collaboration of development teams
+
+
+To track changes made to code
+
+
+All of the above
+
+Check It! (4 left)
+
+
+What does a commit do?
+
+
+Merge two branches of code into the global code.
+
+
+Capture a snapshot of the code base.
+
+
+Download the most recent version of the global code to your local environment?
+
+Check It! (4 left)
+Next
+
+...
+
+5. Conclusion & Takeaways
+Conclusion & Takeaways
+With continuously evolving cyber security threats, it is essential to monitor websites for vulnerabilities and resolve them as they occur. Prioritize WordPress version updates and Plugin version updates as outdated versions pose security risks. The Wordfence security plugin, and other plugins like it, can be configured to improve your website security and to identify vulnerabilities. Limiting the number of plugins that your site requires and ensuring that only secure versions of these plugins are used, will go a long way toward improving your site’s performance and security.
+Cybersecurity is a rapidly growing field. Security scanning is often a web developer’s responsibility, so knowing how to do this is important. Learning about cPanel, file and folder permissions, or other security tools can make you more marketable. Sign up for security newsletters (wordfence has one) to learn how security breaches are investigated and uncovered. One employer has stated “If I’m hiring a web designer and they have an interest in security, that appeals to me.”
+Beware! Updates can (occasionally) break the front end of your website so proceed with caution. It is good practice to make updates in the development environment rather than in production when possible. It is also wise to have a website backup on hand so that a broken site can be restored promptly when there is a problem following a plugin update.
+Attribution
+Image https://www.freepik.com/free-photo/3d-internet-secuirty-badge_38007814.htm
+Vulnerable and Outdated Components - OWASP Top Ten Web Application Security Risks https://owasp.org/Top10/A06_2021-Vulnerable_and_Outdated_Components/
+Further reading re: WordPress Security https://developer.wordpress.org/apis/security/
+Further reading re: Wordpress Sanitization https://developer.wordpress.org/apis/security/sanitizing/
+WordPress plugin vulnerabilities https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins
+WordFence Security (Free version) https://www.wordfence.com/products/wordfence-free/
+Downloading Git for Window https://git-scm.com/download/win
+Video - Git basics episode 3 https://git-scm.com/video/get-going
+Git Documentation https://git-scm.com/doc
+Git cheat sheet https://www.atlassian.com/git/tutorials/atlassian-git-cheatsheet
+Mark as CompletedBack to dashboard
+
+...
+
+5. Conclusion & Takeaways
+Conclusion & Takeaways
+With continuously evolving cyber security threats, it is essential to monitor websites for vulnerabilities and resolve them as they occur. Prioritize WordPress version updates and Plugin version updates as outdated versions pose security risks. The Wordfence security plugin, and other plugins like it, can be configured to improve your website security and to identify vulnerabilities. Limiting the number of plugins that your site requires and ensuring that only secure versions of these plugins are used, will go a long way toward improving your site’s performance and security.
+Cybersecurity is a rapidly growing field. Security scanning is often a web developer’s responsibility, so knowing how to do this is important. Learning about cPanel, file and folder permissions, or other security tools can make you more marketable. Sign up for security newsletters (wordfence has one) to learn how security breaches are investigated and uncovered. One employer has stated “If I’m hiring a web designer and they have an interest in security, that appeals to me.”
+Beware! Updates can (occasionally) break the front end of your website so proceed with caution. It is good practice to make updates in the development environment rather than in production when possible. It is also wise to have a website backup on hand so that a broken site can be restored promptly when there is a problem following a plugin update.
+Attribution
+Image https://www.freepik.com/free-photo/3d-internet-secuirty-badge_38007814.htm
+Vulnerable and Outdated Components - OWASP Top Ten Web Application Security Risks https://owasp.org/Top10/A06_2021-Vulnerable_and_Outdated_Components/
+Further reading re: WordPress Security https://developer.wordpress.org/apis/security/
+Further reading re: Wordpress Sanitization https://developer.wordpress.org/apis/security/sanitizing/
+WordPress plugin vulnerabilities https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins
+WordFence Security (Free version) https://www.wordfence.com/products/wordfence-free/
+Downloading Git for Window https://git-scm.com/download/win
+Video - Git basics episode 3 https://git-scm.com/video/get-going
+Git Documentation https://git-scm.com/doc
+Git cheat sheet https://www.atlassian.com/git/tutorials/atlassian-git-cheatsheet
+Mark as CompletedBack to dashboard
+
+...
+
+4. Git Reviews
+Git Reviews
+Git is a free version control system that is the most widely used version control system in the world and is considered the industry standard for developers. Version control refers to tracking and managing code changes. Version control allows teams to review code before it is live, and to restore previous versions if something goes wrong with the live version. In the context of performing WordPress version and plugin security updates, Git’s version control allows you to undo and analyze any updates that would cause a display or compatibility problem.
+Major Benefits of using Git
+Access to a complete change history of every file.
+Branching (new code) and merging (combine branches) capability.
+Ability to trace back changes, review and analyze them
+Getting started with Git
+To get started, follow the instructions on this page to install Git for Windows. https://git-scm.com/download/win
+download git
+It is recommended that you accept the default (recommended) settings as you click “Next” through the installation. As we saw in the video, once you have installed Git, you can write your first commands to configure your username and email address.
+command line git setup
+Now you are ready to create your first Git repository. Watch this video to see how Git is set up. The start of the video shows the steps you just completed. The second half of the video will help you create your first repository, your first file and to do your first commit. Follow along in your Git terminal to get hands on Git experience. https://git-scm.com/video/get-going
+Getting to know Git
+As so many developer job openings list knowledge of Git as a required or preferred skill, taking the time to learn Git will strengthen your application.
+Further reading to learn Git (documentation / instruction book / videos): https://git-scm.com/doc
+Once you have worked through the instruction book and are more familiar with Git commands, you may want to download this Git “cheat sheet” so that you don’t have to look up every command as you go: https://www.atlassian.com/git/tutorials/atlassian-git-cheatsheet
+Best Practices for using Git
+Commit often. Every time you “commit”, you are capturing a snapshot of the code base. This will be a version that you could return to if needed. It is better to commit too often rather than not often enough. A group of commits can always be combined to simplify the development history later on.
+When you commit you can and should leave a detailed log message explaining why you are making this commit and what is contained within it.
+Make sure to git pull (fetch) the global copy so you are working with the most recent version of the code.
+Use the staging area to collect/review a group of edits before writing them to a commit.
+
+Why do people use Git?
+
+
+To allow version control
+
+
+To facilitate collaboration of development teams
+
+
+To track changes made to code
+
+
+All of the above
+
+Check It! (3 left)
+
+
+What does a commit do?
+
+
+Merge two branches of code into the global code.
+
+
+Capture a snapshot of the code base.
+
+
+Download the most recent version of the global code to your local environment?
+
+Check It! (3 left)
+Next
+
+...
+
+5. Conclusion & Takeaways
+Conclusion & Takeaways
+With continuously evolving cyber security threats, it is essential to monitor websites for vulnerabilities and resolve them as they occur. Prioritize WordPress version updates and Plugin version updates as outdated versions pose security risks. The Wordfence security plugin, and other plugins like it, can be configured to improve your website security and to identify vulnerabilities. Limiting the number of plugins that your site requires and ensuring that only secure versions of these plugins are used, will go a long way toward improving your site’s performance and security.
+Cybersecurity is a rapidly growing field. Security scanning is often a web developer’s responsibility, so knowing how to do this is important. Learning about cPanel, file and folder permissions, or other security tools can make you more marketable. Sign up for security newsletters (wordfence has one) to learn how security breaches are investigated and uncovered. One employer has stated “If I’m hiring a web designer and they have an interest in security, that appeals to me.”
+Beware! Updates can (occasionally) break the front end of your website so proceed with caution. It is good practice to make updates in the development environment rather than in production when possible. It is also wise to have a website backup on hand so that a broken site can be restored promptly when there is a problem following a plugin update.
+Attribution
+Image https://www.freepik.com/free-photo/3d-internet-secuirty-badge_38007814.htm
+Vulnerable and Outdated Components - OWASP Top Ten Web Application Security Risks https://owasp.org/Top10/A06_2021-Vulnerable_and_Outdated_Components/
+Further reading re: WordPress Security https://developer.wordpress.org/apis/security/
+Further reading re: Wordpress Sanitization https://developer.wordpress.org/apis/security/sanitizing/
+WordPress plugin vulnerabilities https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins
+WordFence Security (Free version) https://www.wordfence.com/products/wordfence-free/
+Downloading Git for Window https://git-scm.com/download/win
+Video - Git basics episode 3 https://git-scm.com/video/get-going
+Git Documentation https://git-scm.com/doc
+Git cheat sheet https://www.atlassian.com/git/tutorials/atlassian-git-cheatsheet
+Mark as CompletedBack to dashboard
+
+...
+
 
