@@ -249,3 +249,9 @@ Next
 
 putting javascript in the. in a different page helps with security somewhat. it just makes it slightly more difficult for 
 people to mess with your website.
+
+...
+
+What is the glaring validation issue with this form?
+There are two fields here. The name is not being validated, we also need to validate the name field as well.
+need to run a filter test on the name, and also apply it to the name area.
