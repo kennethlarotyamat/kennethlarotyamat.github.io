@@ -1170,6 +1170,7 @@ Certainly! You can create a simple JavaScript function to check if the user inpu
 
 javascript
 Copy code
+
 function isFilenameValid(filename) {
   // Check if the filename includes the string `../`
   return !filename.includes('../');
@@ -1184,6 +1185,7 @@ if (isFilenameValid(userInputFilename)) {
   // Reject the filename
   console.log("Invalid filename. Please choose a different one.");
 }
+
 In this example, the isFilenameValid function uses the includes method to check if the string ../ is present in the user input filename. 
 The function returns true if the filename is valid (i.e., does not contain ../) and false otherwise. You can customize this function 
 further based on your specific requirements.
