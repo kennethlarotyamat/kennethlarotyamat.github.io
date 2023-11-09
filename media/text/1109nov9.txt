@@ -255,3 +255,37 @@ people to mess with your website.
 What is the glaring validation issue with this form?
 There are two fields here. The name is not being validated, we also need to validate the name field as well.
 need to run a filter test on the name, and also apply it to the name area.
+
+...
+
+If you made it to your new thankyou.html page, then the form was successfully submitted.
+Question
+Which of the following is more secure? Why?
+
+<input type=”text” name=”firstname” placeholder=”First name”>
+<input type=”text” name=”firstname” placeholder=”First name” maxlength="20">
+<input type=”text” name=”firstname” placeholder=”First name” size="20">
+2. maxlength="20" size doesn't limit user input, only display
+Modify answer
+Your answer has been submitted and will be reviewed by your teacher in due course.
+Question
+What does it mean to sanitize a variable?
+
+to check the contents of a variable or submission for unsafe characters before using it.
+Modify answer
+Your answer has been submitted and will be reviewed by your teacher in due course.
+Question
+A user enters the following input in the Full Name field:
+
+<script>$SOMETHING</script>
+The validation function in the form sanitizes this variable as follows:
+
+fullname = fullname.replace(/[^a-z0-9\s\-]/gim,"");
+After being sanitized, what is the value of string fullname?
+
+scriptSOMETHINGscript
+Modify answer
+Your answer has been submitted and will be reviewed by your teacher in due course.
+Next
+
+...
