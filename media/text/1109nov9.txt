@@ -1160,5 +1160,38 @@ Laura Gauthier Lead Instructor
 
 ...
 
+Default (GPT-3.5)
+
+User
+A user input names a file to be uploaded to the server. You would like to sanitize that user input to make sure that it does not contain the string ‥/
+Write a short JavaScript function that checks if the user input filename includes the string ‥/
+ChatGPT
+Certainly! You can create a simple JavaScript function to check if the user input filename includes the string ../. Here's an example function:
+
+javascript
+Copy code
+function isFilenameValid(filename) {
+  // Check if the filename includes the string `../`
+  return !filename.includes('../');
+}
+
+// Example usage:
+const userInputFilename = "example/file/path.txt";
+if (isFilenameValid(userInputFilename)) {
+  // Proceed with uploading the file
+  console.log("File is valid. Uploading...");
+} else {
+  // Reject the filename
+  console.log("Invalid filename. Please choose a different one.");
+}
+In this example, the isFilenameValid function uses the includes method to check if the string ../ is present in the user input filename. 
+The function returns true if the filename is valid (i.e., does not contain ../) and false otherwise. You can customize this function 
+further based on your specific requirements.
+
+...
+
+
+
+
 
 
