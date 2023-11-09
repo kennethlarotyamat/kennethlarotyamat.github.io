@@ -350,3 +350,94 @@ Your employer/customer may know absolutely nothing about common cyber security a
 Next
 
 ...
+
+
+Google
+difference between modem and router
+
+Images
+Videos
+Vs router
+Spectrum
+Speed
+Shopping
+Xfinity
+Tabular form
+Cable modem
+All filters
+Tools
+SafeSearch
+Generative AI is experimental. Info quality may vary. Learn more
+A modem connects your home network to your internet service provider (ISP). A router connects your devices to your home network or WiFi network so they can communicate with each other. 
+
+Lifewire
+Here are some other differences between modems and routers: 
+Modem
+A box that connects your home network to your ISP. Modems translate different digital languages from the components that make up your home network.
+Router
+A box that lets all of your wired and wireless devices use your internet connection at once. Routers create the network inside your house.
+While they can operate independently, most people use them together. 
+
+Modem vs. Router: What's the Difference? | Wirecutter
+Sep 7, 2022
+
+The New York Times
+
+Modem vs router: What's the difference? - ZDNet
+Mar 8, 2023
+
+ZDNet
+
+Modem vs Router... What's the Difference? | Learn | Hitron
+
+Hitron Americas
+
+What Is a Modem? | Linksys: US
+
+linksys.com
+
+Modem vs Router – What is the Difference? Do I Need Both?
+
+Verizon
+
+Modem vs Router: What's the Difference? - Xfinity
+
+Xfinity
+Do I need both a modem and a router?
+Should I connect Ethernet to the modem or router?
+Is a modem better than WiFi?
+Ask a follow up...
+
+A modem is a box that connects your home network to your internet service provider, or ISP. A router is a box that lets all of your wired and wireless devices use that internet connection at once and allows them to talk to one another directly.Sep 7, 2022
+
+Modem vs. Router: What's the Difference? | Wirecutter
+
+...
+
+
+Google
+are modems still used
+
+Images
+Shopping
+News
+Videos
+Books
+Maps
+Flights
+Finance
+All filters
+Tools
+SafeSearch
+Generative AI is experimental. Info quality may vary. Learn more
+Yes, modems are still used today. They act as gateways to the internet, converting signals from your internet service provider (ISP) into a format that your devices can understand. Modems are essential for modern communication because they allow us to connect computers to each other over long distances. 
+Modems are used for: 
+Streaming videos
+Downloading files
+High-speed computer network links to outlying areas
+Connecting computers to each other over long distances using existing infrastructure such as telephone lines, cable TV networks, or satellite networks
+There are different types of modems, including: Radio modems, Cable modems. 
+You can purchase compatible modems separately from any retailer to cut down on the monthly cost. Broadband providers also “rent” modems as part of their subscription plans. 
+You can test your internet speed with online tools like Speedtest.net. If you feel that your internet speeds have decreased or you are seeing issues with increased buffering and lagging or breaking in the connection, it could be time for a new modem. 
+
+...
