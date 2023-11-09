@@ -441,3 +441,66 @@ You can purchase compatible modems separately from any retailer to cut down on t
 You can test your internet speed with online tools like Speedtest.net. If you feel that your internet speeds have decreased or you are seeing issues with increased buffering and lagging or breaking in the connection, it could be time for a new modem. 
 
 ...
+
+1. Defending Against Directory Traversal
+Defending Against Directory Traversal
+Goals
+By the end of this case you will:
+Understand the importance of specifying your base directory
+Know the difference between full paths and relative paths
+Understand how to use relative paths to include files in your code
+Practice sanitizing a variable containing a file path
+Introduction
+Since directory traversal involves an attacker attempting to gain access to content outside of the website’s root directory, the first line of defense occurs at the server level. Your web host will set permissions on the directories in your hosting environment which should prevent an attacker from gaining access to higher level directories.
+That being said, you can still make your code more robust against directory traversal attacks.
+cover image, magnifying glass and slides
+Image by rawpixel.com on Freepik
+Business Context
+Your employer/customer may know absolutely nothing about common cyber security attacks and how to guard against them. They will depend on you to integrate responsible and safe code and to advise them of any security precautions they should take. Web development is a field in which lifelong learning is rewarded. Never stop learning how to improve your code, because hackers will never stop trying to hack it.
+Next
+
+...
+
+2. Don’t Open the Door
+Don’t Open the Door
+The most effective way to prevent directory traversal is to avoid passing any user supplied input to the file system in the first place. If the door is never open, an attacker will never be able to get through it. The risk arrives when a user has the opportunity to speak to the file system through a form or through a querystring as seen in unit 2.1.
+BASE_DIRECTORY
+Even if the door is closed, it is considered good practice to establish the base directory in your code. Website development platforms like WordPress will do this by default, but if you are not using a content management system, you can explicitly set the base directory as a variable to be used throughout your code.
+The second most important thing you can do is to sanitize user input variables, as you did in the previous unit, to ensure that they do not contain directory traversing inputs. User inputs must always be sanitized.
+Below is a screenshot that showcases an example of how to specify your base directory. It is assumed that the userInput has been sanitized.
+Before processing the file, this code double checks that the file path begins with the base directory. This is another effective mitigation tactic against directory traversal.
+code to double check
+Taken from: https://www.youtube.com/watch?v=Jg5lb_dmwuM
+If the file path does not begin with the base_directory, the file absolutely must not be processed.
+Using Relative Paths
+Please take a moment to view this short video to refresh your memory about the difference between full (absolute) paths and relative paths: https://www.youtube.com/watch?v=EJ0xvY5wT5Q
+Understanding how to use …/ as a means of navigating a file system will help you better understand directory traversal attacks and how to prevent them. Suppose your website URL is https://mysite.com.
+You are working in a file whose full path is https://mysite.com/shop/category1/singleproduct.php
+And you would like to include a file whose full path is https://mysite.com/js/functions.js
+When you include this file, you could of course include it with the full path, but using a relative path is best. Every …/ moves you up a directory from where you currently are.
+Suppose you are standing at singleproduct.php.
+file path
+The first …/ will take you into the category1 directory.
+The next …/ will take you into the shop directory.
+The next …/ will take you into the base directory for https://mysite.com .
+directory traversal
+Then you must go forward into the js directory before naming the file you want to include.
+In this case, the relative path to include would be ‥/‥/‥/js/functions.js
+Exercise
+You are working in a file with full path: base_directory/my_account/orders.php
+
+You would like to include the file base_directory/inc/functions.php in your orders.php file. What path will you use to include the file?
+
+Submit Answer!
+A user input names a file to be uploaded to the server. You would like to sanitize that user input to make sure that it does not contain the string ‥/
+Write a short JavaScript function that checks if the user input filename includes the string ‥/
+
+Submit Answer!
+Next
+
+...
+
+you can choose when it comes to choosing langagues, whenever
+we use or can avoide query strings, we should avoid them, and.
+
+...
