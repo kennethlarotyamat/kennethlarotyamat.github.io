@@ -697,3 +697,43 @@ Check It! (2 left)
 Next
 
 ...
+
+2. About OWASP
+About OWASP
+Here is a brief introductory video to OWASP
+https://youtu.be/GJADjlBbv3Y
+Activity: Join the OWASP community
+To get a better feel for the OWASP community, we will join their Slack community.
+If you do not already have a Slack account, visit https://slack.com/ to create one.
+Now visit this page and join OWASP’s Slack community. https://owasp.org/about/
+email input
+After you have entered your email to join, return to https://slack.com/ and you should see a pending invitation from OWASP. Click “JOIN TEAM”.
+pending invitation
+Welcome to the OWASP community. You can browse different topics by clicking “All channels”
+slack connect channels
+Take a moment to look around and see if any of those channels are of particular interest to you. #Learning and #Developers are good places to start.
+
+Who can join the OWASP community?
+
+
+Software developers
+
+
+Website developers
+
+
+Security specialists
+
+
+Newbies with no security experience
+
+
+All of the above
+
+Check It! (2 left)
+Next
+
+...
+
+People who are seasoned and more accomplished tend 
+to be the most friendly and helpful.
