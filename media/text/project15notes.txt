@@ -1,3 +1,13 @@
+I was having a really hard time setting up react using the node.js terminal, but I figured out how to use it. 
+the way it's done in class, we don't install anything on our computer. it's done in a browser in a browser based 
+IDE, in Codio, but I really don't want to do this in codio, I want to do this on VS code, so I have to install it 
+on my computer. anyway. I did that, I installed node.js, and then started following the instructions, but nothing worked.
+
+but then, I was able to get it to work.
+
+
+...
+
 <!-- C:\Users\KLYam\OneDrive\Documents\GitHub\kennethlarotyamat.github.io\html\reactCDNuse.html -->
 
 ...
