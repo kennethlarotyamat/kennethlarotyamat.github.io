@@ -283,3 +283,21 @@ Next
 
 ...
 
+undestand what will make the customer really get into the 
+services that the company can provide.
+
+...
+
+2. Helping Your Client Feel Heard
+Helping Your Client Feel Heard
+The start of your relationship with a given client often consists of a meeting or a phone call where the client will talk to you about what they are looking for. Whether they are starting a new project or building on an existing one, this stage of the relationship sets the tone for what follows. This is your opportunity to show the customer that you are actively listening to their needs and responding in kind.
+Remember that your client is not a developer. They may say things that are not technically correct, but this is not the time to correct them. In the first interaction, you are listening to their story to understand their long-term vision. It’s ok to take notes, but do not interrupt them. Make eye contact. Nod and smile encouragingly. Save your questions for the end. Detailed specifications will be produced only after you have a solid understanding of what will make this client’s heart sing.
+Managing Expectations and Building Trust
+Managing client expectations starts with setting clear goals. Suppose your client has requested a functionality add-on to their e-commerce website. You estimate that you will need 2 weeks to deliver the add-on. Telling your customer that you will be able to launch the new functionality in two weeks, does not leave you any wiggle room for unexpected hurdles that can and do arise. If the customer expects a 2 week delivery timeline, and you run into trouble and miss the deadline, the customer will not be happy and they will not trust your ability to estimate deliverables.
+In this case, it would have been better to tell the customer that you will be ready to begin testing the new functionality in 2 weeks, and anticipate launching in 3 weeks time. This way, you have wiggle room for incidentals, you can deliver in line with the customer’s expectations, and the customer can trust in your ability to estimate deliverables.
+Similarly, you want to be transparent about your fee structure. Most clients would rather know what to expect upfront. Zero clients want to be surprised with unexpected invoices.
+The same idea applies to your availability. If you are not available for work on the weekends, that’s allowed, but you have to be clear about that with your customer. Customers need to know when they can call you to collaborate on the project. If they expect you are working, and then can’t reach you, they will perceive you to be slacking off.
+Next
+
+...
+
