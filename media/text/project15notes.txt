@@ -3,7 +3,8 @@ the way it's done in class, we don't install anything on our computer. it's done
 IDE, in Codio, but I really don't want to do this in codio, I want to do this on VS code, so I have to install it 
 on my computer. anyway. I did that, I installed node.js, and then started following the instructions, but nothing worked.
 
-but then, I was able to get it to work.
+but then, I was able to get it to work. I have some screenshots of how it all went down and they are somewhere in this 
+repository.
 
 
 ...
