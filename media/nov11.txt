@@ -56,4 +56,7 @@ Next
 focusing on individuals is the emphasis, rather than the specific processes.
 working software over documentation. comment code and all that, it's not that 
 documentation is bad, first priority is sofware that works, before we have the 
-documentation. 
+documentation. happy customers are the priority.
+
+...
+
