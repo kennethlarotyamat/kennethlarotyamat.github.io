@@ -525,3 +525,146 @@ https://www.youtube.com/watch?v=Nv_q2cCs9LM
 
 ...
 
+1. Contact Forms in WordPress
+Contact Forms in WordPress
+Goals
+By the end of this case you will:
+Install the Contact Form 7 plugin for WordPress
+Create a simple contact form for your website
+Protect your website by integrating Google reCaptcha V3 on your form
+Introduction
+Creating contact forms in WordPress is relatively straight-forward. There are a variety of (free and paid) form builder plugins available and your choice of plugin will depend on what it is you need your form to do.
+Select a plugin that receives regular updates and that is highly rated. Plugins that have not received any updates in two years are considered abandoned. It is not recommended that you use abandoned plugins.
+cover image
+Image by Freepik
+Business Context
+As a developer, you may be called on to create new forms and/or modify existing forms in WordPress. If your employer/customer is already using a certain plugin for their forms, and assuming that plugin is secure, you should work with the plugin that is already in place. Only introduce a new form solution if the existing solution is no longer secure or is no longer compatible with the rest of the website.
+Next
+
+...
+
+2. Contact Form 7 - Installation & Configuration
+Before we proceed with the plugin installation steps, let’s review a few troubleshooting steps:
+1. Use LocalWP
+If you can remember from Module 8, we installed LocalWP to set up a local WordPress environment on our computers. It is crucial to ensure that we exclusively use LocalWP for installing plugins, whether they are free or paid, rather than installing them directly on wordpress.com.
+If you are installing plugins directly on www.wordpress.com, you might come across a prompt like this to upgrade:
+wordpress.com upgrade
+If you don’t have LocalWP installed, you can download it from https://localwp.com/. If you need help with the installation process, please refer to this video.
+2. Revert IIS setting from Module 16 Lesson 1.2
+Another problem that you might encounter when attempting to view your site using LocalWP is the following error:
+wordpress.com upgrade
+To resolve this error, you need to revert back the IIS changes you made, on Module 16, Lesson 1.2.
+Open your Control Panel
+Open Programs and Features
+Click on Turn Window features on or off
+turn features on or off
+In the popup, locate Internet Information Services, uncheck the box. If you also see Internet Information Services Hostable Web Core then uncheck that box as well. Click OK.
+edits to internet information services
+When your computer is finished making the changes, it may ask to restart your computer. This is normal. Save any changes you may need to in open files. Close everything including the Control Panel and restart your computer.
+Contact Form 7 - Installation & Configuration
+Now, let’s create a simple contact form for your personal website using the plugin Contact Form 7.
+Step 1: Using the left-hand menu, navigate to Plugins → Add New
+Step 2: Use the search bar in the upper left-hand corner to search for Contact Form 7
+Step 3: Click Install Now button on the Contact Form 7 plugin
+install button
+Step 4: Once it is installed, click the Activate button.
+Step 5: Using the left-hand menu, navigate to Contact → Contact Forms
+contact forms
+Step 6: Notice that a default contact form is already in place. Click Edit on the default form.
+edit or duplicate
+Step 7: Begin by re-naming the form to something else along the lines of
+Contact YourFullName
+Step 8: The default form includes the fields name, email, subject, message
+Let’s also add a phone number field. Your code should look something like this:
+<label> Your name
+    [text* your-name autocomplete:name] </label>
+
+<label> Your email
+    [email* your-email autocomplete:email] </label>
+
+<label> Your phone number
+    [tel usrphone placeholder "123-456-7890"] </label>
+
+<label> Subject
+    [text* your-subject] </label>
+
+<label> Your message (optional)
+    [textarea your-message] </label>
+
+[submit "Submit"]
+Step 9: Remember to Save your changes.
+Step 10: So far, by editing code in the Form tab, we have only added the phone number field to the front end form. We still must add the phone number to the notification email. This is done in the Mail tab. Navigate to the Mail tab now.
+Mail tab
+Step 11: In this tab you can modify the To, From and Subject of the notification email that will be sent when someone uses the contact form.
+(Note that it is good practice to send From the domain name of the website.
+For example, the website https://mysite.com could send email from contact@mysite.com. )
+Add the phone number field to the body of the email that will be sent. Your code should look something like this:
+From: [your-name] <[your-email]>
+Subject: [your-subject]
+
+Phone: [usrphone]
+
+Message Body:
+[your-message]
+
+-- 
+This email was sent from a contact form on [_site_title] ([_site_url])
+By default this is a text email, but Contact Form 7 does offer the option (free) of sending an email in HTML format so that you can style the appearance of this email as desired.
+Step 12: Remember to save your form.
+save button
+Step 13: Now that we have a contact form, we can integrate it on our contact page. Return to Contact → Contact Forms. Your contact form has a shortcode that you must copy.
+shortcode
+Step 14: Now that you have copied the shortcode for your contact form, use the left-hand menu to navigate to Pages. If you do not have a contact page yet, you will need to create one now.
+Paste the shortcode into the body of the page. Publish the changes.
+Step 15: View your contact page, including your new contact form, on the front end of your website. You can submit a test to receive the notification email.
+Please note that your form has not been styled and may look less than excellent depending on your active theme. If you have some time now, modify your theme’s css file to style the form.
+Next
+
+...
+
+3. Protecting Your Contact Form
+Protecting Your Contact Form
+We have a contact form that works, but is vulnerable to spam. Bots will flood your inbox with junk unless you activate some form of spam filter. We will integrate Google reCAPTCHA V3 to limit bot spam that comes through the form.
+Navigate to Contact → Integration
+Scroll down to reCAPTCHA and click Setup Integration.
+setup recaptcha intergraion
+We must create a Site Key and a Secret Key.
+In a new browser tab, login to your google account the visit: https://www.google.com/recaptcha/admin/create
+Complete the form as follows:
+Google reCAPTCHA
+Once you click SUBMIT, you will be taken to a screen that includes your site key and your secret key. These must be copied and pasted into their respective fields in the Contact Form integration screen from your previous browser tab.
+create a site key and secret key
+Remember to Save Changes. Your form now has some protection from Spam.
+save changes
+Next
+
+...
+
+4. Turning Design into Code
+Turning Design into Code
+The contact form we just created is very plain. Depending on your active theme, it may look like the image on the left. We will want to make the front end of this form much more attractive to users.
+Sometimes you will be presented with designs that you will “bring to life” on the website. Suppose you were given the task to create the following form on the right. Notice that it contains all the same fields as your new contact form. That means we can use our new contact form as a starting point for design integration, so that the end result looks like the form on the right.
+Plain	Designed
+form example	finished example
+To do this, you will need not only a mock-up (as above), but also specifications regarding fonts, spacing, margins, padding, components and interaction, functionality requirements and responsive design requirements. Even if it is not specified, all of your code should be responsive for optimal display across screen sizes.
+The designer can provide you with all of the relevant specifications. As a developer, your job is not to critique the design work, but rather to implement it. Designers are artistic individuals who are emotionally invested in their work. It is essential that you maintain an open back-and-forth dialogue with designers on your team. Ask as many questions as you must to get the job done and, if you must provide design feedback, keep your feedback as complimentary as possible.
+Think about how you can use CSS to modify the layout of your form so that it is visually appealing for users.
+Next
+
+...
+
+5. Conclusion & Takeaways
+Conclusion & Takeaways
+Adding a contact form to a WordPress website is a straightforward task that will make your website more interactive and will help you gather leads. No matter what form builder plugin you decide to use, that plugin must receive regular security updates as security patches are released in new plugin versions. It is also important to protect contact forms against spam. All form builders will offer some kind of anti-spam integration. Forms must be secure, functional and attractive to users, in that order.
+Learn more about creating forms with Contact Form 7:
+https://contactform7.com/docs/
+Attribution
+Image https://www.freepik.com/free-vector/contact-concept-landing-page_5102922.htm
+Contact Form 7 Documentation https://contactform7.com/docs/
+Google reCAPTCHA keys https://www.google.com/recaptcha/admin/create
+Mark as CompletedBack to dashboard
+
+...
+
+
+
