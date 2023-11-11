@@ -1,3 +1,8 @@
+I'm copying versions into my project 15 repository of projects I'm going to refactor.
+it takes forever for a page to deploy. or file.
+
+...
+
 I was having a really hard time setting up react using the node.js terminal, but I figured out how to use it. 
 the way it's done in class, we don't install anything on our computer. it's done in a browser in a browser based 
 IDE, in Codio, but I really don't want to do this in codio, I want to do this on VS code, so I have to install it 
