@@ -22,3 +22,33 @@ Next
 
 ...
 
+2. Overview of Agile
+What is Agile?
+Agile illustration
+Agile is a paradigm in project management based on the Agile Manifesto, written in 2001 by a group of seventeen software professionals who met to discuss the philosophy behind lightweight software development. The Manifesto outlines 4 key values and 12 principles. These values and principles form the basis of Agile and guide the practices and techniques in Agile methodologies. We’ll explore the key values and principles more shortly.
+Agile, in a nutshell, is a response to the limitations of the traditional Waterfall model for project management and represents a monumental shift in the approach to software development. The Waterfall model was linear and required detailed planning and documentation, which often led to longer development cycles and difficulty in accommodating changes. Agile, with its iterative and incremental approach, presents a great solution to these issues.
+While the principles and values of Agile are constant, within the Agile paradigm there are several methodologies or frameworks that teams can use to implement Agile. In this lesson we will focus on Scrum, which is one of the most popular implementations of Agile in software development.
+Agile Values and Principles
+As mentioned earlier, the Agile Manifesto (the seminal work that established Agile as a philosophy and methodology for product development), sets out 4 key values and 12 guiding principles. Let’s now explore each of these values and principles to better understand what Agile is.
+4 Key Values:
+Agile core values
+Individuals and Interactions over Processes and Tools: Agile places a higher value on individuals and their interactions. While processes and tools are important, they should serve the people doing the work, not the other way around.
+Working Software over Comprehensive Documentation: In traditional methodologies, large amounts of time are spent creating detailed documentation. Agile, however, places emphasis on delivering working software. That’s not to say documentation isn’t important in Agile; it’s about creating documentation that truly delivers value.
+Customer Collaboration over Contract Negotiation: Rather than negotiating terms and sticking strictly to them, Agile encourages continuous customer or stakeholder involvement. The idea is to work with the customer throughout the development process to understand their needs and adapt the product accordingly.
+Responding to Change over Following a Plan: In Agile, change is not only expected but also welcomed, even late in development. Agile teams are ready to respond to change in order to provide the customer with the best possible product. While having a plan is important, the ability to adapt to changes is viewed as more crucial.
+12 Guiding Principles:
+Our highest priority is to satisfy the customer through early and continuous delivery of valuable software.
+Welcome changing requirements, even late in development. Agile processes harness change for the customer’s competitive advantage.
+Deliver working software frequently, from a couple of weeks to a couple of months, with a preference to the shorter timescale.
+Business people and developers must work together daily throughout the project.
+Build projects around motivated individuals. Give them the environment and support they need, and trust them to get the job done.
+The most efficient and effective method of conveying information to and within a development team is face-to-face conversation.
+Working software is the primary measure of progress.
+Agile processes promote sustainable development. The sponsors, developers, and users should be able to maintain a constant pace indefinitely.
+Continuous attention to technical excellence and good design enhances agility.
+Simplicity–the art of maximizing the amount of work not done–is essential.
+The best architectures, requirements, and designs emerge from self-organizing teams.
+At regular intervals, the team reflects on how to become more effective, then tunes and adjusts its behavior accordingly.
+Next
+
+...
