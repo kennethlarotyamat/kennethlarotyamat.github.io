@@ -242,3 +242,28 @@ Next
 
 ...
 
+8. Conclusion & Takeaways
+Conclusion & Takeaways
+In this lesson, we covered the roots of Agile and Scrum, their principles, artifacts, roles, and events, some real-world applications, and common tools used by Agile teams. Agile and Scrum are more than just methodologies - they represent a mindset; as we touched on, they are a way of approaching work that values individuals and interactions, customer collaboration, and responsiveness to change. As you continue your journey in software development, it’s crucial to keep learning, exploring and adapting…
+This is the [Agile] Way.
+Mandalorian meme - This is the Way
+Attribution
+Agile Manifesto https://agilemanifesto.org/
+The Scrum Framework at a glance https://www.scrumalliance.org/about-scrum#!section2
+Agile agility nimble quick fast volant concept Free Photo. (2021, August 11). Freepik. https://www.freepik.com/free-photo/agile-agility-nimble-quick-fast-volant-concept_17057425.htm
+Agile Alliance. (2023a, April 15). Agile Manifesto for Software Development | Agile Alliance. Agile Alliance |. https://www.agilealliance.org/agile101/the-agile-manifesto/
+Agile Alliance. (2023b, July 29). Agile Essentials | Agile Alliance. Agile Alliance |. https://www.agilealliance.org/agile-essentials/
+Agile method concept illustration Free Vector. (2022, June 29). Freepik. https://www.freepik.com/free-vector/agile-method-concept-illustration_28902469.htm
+Agile principles. (2023, January 6). https://www.productplan.com/glossary/agile-principles/
+Arun, R. (2023). What is Agile: Understanding Agile Methodology and Principles. Simplilearn.com. https://www.simplilearn.com/tutorials/agile-scrum-tutorial/what-is-agile
+Atlassian. (n.d.). What is Agile? | Atlassian. https://www.atlassian.com/agile
+Cprime Inc. (2023, April 17). What is Agile? - What is Scrum? - Agile FAQ’s | Cprime. Cprime. https://www.cprime.com/resources/what-is-agile-what-is-scrum/
+Dark mode concept illustration Free Vector. (2020, December 11). Freepik. https://www.freepik.com/free-vector/dark-mode-concept-illustration_11608452.htm
+Drapkin, A. (2023). The key principles of Scrum in Project Management. Tech.co. https://tech.co/project-management-software/key-principles-scrum
+Gradient blue agile core values infographic Free Vector. (2020, June 20). Freepik. https://www.freepik.com/free-vector/gradient-blue-agile-core-values-infographic_8848307.htm
+McCormack, C. (2023). Introduction to agile. monday.com Blog. https://monday.com/blog/project-management/introduction-to-agile/
+Ops, D. (2023, April 15). What does INVEST Stand For? | Agile Alliance. Agile Alliance |. https://www.agilealliance.org/glossary/invest/
+Scrum infographic Free Vector. (2020, June 17). Freepik. https://www.freepik.com/free-vector/scrum-infographic_8806106.htm
+Mark as CompletedBack to dashboard
+
+...
