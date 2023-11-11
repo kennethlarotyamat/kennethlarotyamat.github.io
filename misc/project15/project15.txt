@@ -1,0 +1,211 @@
+4. Conclusion
+Project: Add to Personal Website
+As with other modules, we’ve once again covered a lot this week. Being exposed to frontend 
+frameworks for the first time constitutes a significant shift of mentality in terms of the 
+way we build web applications, and can definitely be difficult and confusing at first. If 
+you struggled with this module, don’t beat yourself up! Keep practicing, practicing, practicing, 
+and you’ll be a master of React soon enough. For now, take a moment and truly appreciate how 
+far you’ve come since the beginning of this course!
+Speaking of practice… use this project time now to try and implement what you learned throughout this week.
+One suggestion would be to try and refactor your personal website in React. Alternatively, you could 
+try searching Google for some React project ideas and attempt to build one of them. Or, maybe you’ve 
+got your own idea for a React project already and could try building that.
+As always, whatever project you choose to work on, happy coding!
+Submission steps:
+Before you click on "Mark as Completed":
+You need to do one of the following: either upload all of your files to Codio or deploy a GitHub Page for this project.
+Also, if you mark this project as complete but any of the boxes are blank, your TA will be unable to grade your project.
+Codio upload:
+Make sure all of your project code has been uploaded to Codio.
+If you did not write your code in Codio, you will need to import all of the required files into your workspace file tree.
+You can do this by going to File => Upload Files, and either manually importing each file, or dragging and dropping your project folder.
+Please refer to this video if you are unsure of what to do.
+GitHub Pages:
+If you would rather upload your project to GitHub, please make sure to have the project deployed as a 
+GitHub page so we can thoroughly test it.
+If you are unsure of how to do this, please follow these instructions.
+It is important to understand you will need to make a separate repository for every project. You cannot deploy multiple 
+pages from the same repository, even with different branches.
+Also, no matter whether you uploaded your files from your computer or not, make sure to thoroughly test your code! This 
+only takes a few minutes, but will prevent the amount of resubmissions because you missed something.
+GitHub Repo & Pages Links
+If your project is uploaded to Codio, simply type "N/A".
+
+Submit Answer!
+Summarize your React Application
+Please provide a summary of the React application you developed and describe its functionality.
+
+Submit Answer!
+Mark as CompletedBack to dashboard
+
+...
+
+https://www.youtube.com/watch?v=9Ko6_tb5Z6Q
+
+...
+
+3
+
+Front-end Frameworks + CMS 3 - Saturday, November 4
+
+In the first lesson you will learn how to generate a new Angular project using the Angular CLI , learn some common Angular CLI commands and get a high-level overview of the structure of a basic Angular project. In the second lesson you will understand the benefits of Vue.js, learn how to generate a new Vue project and discover how the different files in a Vue project connect together.
+
+Session Recording - Module 15 Day 3 - Sat., November 4
+Module 15 Lesson 3.1
+Module 15 Lesson 3.2
+Module 15 Lesson 3.3 & Project 15
+
+...
+
+https://www.youtube.com/watch?v=aRRXAX_HwWc
+
+...
+
+1. Introduction to React
+Goals
+By the end of this lesson, you should understand:
+What React is, and what single page applications (SPAs) are
+The purpose of React and why it was created
+Several key concepts of React such as components, the virtual DOM, and one-way data binding
+Introduction
+In this lesson, we will begin learning about the immensely popular and powerful frontend JavaScript library React. First, we’ll delve a bit into the fascinating evolution of frontend development, charting the progression from early vanilla JavaScript to the emergence of libraries and frameworks that have revolutionized the way web applications are built today. Additionally, we will discuss the concept of single-page applications (SPAs) in greater depth, exploring their advantages, challenges, and the role of React in facilitating their development. By understanding the historical context and the advancements that led to the creation of React, you will gain a deeper appreciation for its significance in modern web development and its role in shaping the future of frontend technologies.
+
+...
+
+Generative AI is experimental. You may see inaccurate creative content. Learn more
+To set up a React
+ project using Create React App, you can use the following steps:
+Open a terminal
+ or command line on your computer.
+Install the Create React App package globally by running the following command:
+npm install -g create-react-app
+Use code with caution.
+Learn more
+Create a new React project by running the following command:
+npx create-react-app my-react-app
+Use code with caution.
+Learn more
+Change directory to the new project folder by running the following command:
+cd my-react-app
+Use code with caution.
+Learn more
+Start the development server by running the following command:
+npm start
+Use code with caution.
+Learn more
+Open your browser and go to http://localhost
+:3000. You should see the React logo on the screen.
+Here are some additional things you can do:
+You can customize the project by editing the files in the src/ folder.
+You can add new features to the project by installing npm packages.
+You can deploy the project to a production server once you are finished developing it.
+
+...
+
+https://legacy.reactjs.org/docs/create-a-new-react-app.html
+
+...
+
+https://react.dev/learn/start-a-new-react-project
+
+https://react.dev/learn/start-a-new-react-project
+
+...
+
+Generative AI is experimental. You may see inaccurate creative content. Learn more
+Here are the steps on how to refactor your personal website in React:
+Create a new React project.
+You can use the create-react-app command to create a new React project. For example:
+npx create-react-app my-website
+Use code with caution.
+Learn more
+Copy your website's content into the React project.
+Once you have created a new React project, you can copy your website's content into the project. This includes all of your HTML, CSS, and JavaScript files.
+Break down your website's content into components.
+Once you have copied your website's content into the React project, you need to break down the content into components. This means that you need to identify the different parts of your website and create a separate component for each part.
+Write code for each component.
+Once you have broken down your website's content into components, you need to write code for each component. This code will be responsible for rendering the component and handling any user interactions.
+Combine the components into a single application.
+Once you have written code for each component, you need to combine the components into a single application. This can be done by importing the components into a main file and then rendering them using the ReactDOM.render() method.
+Deploy the application.
+Once you have combined the components into a single application, you can deploy the application. This can be done by using a service like Netlify or Heroku.
+Here are some additional tips for refactoring your personal website in React:
+Use a library like Redux to manage the state of your application.
+Use a CSS framework like Bootstrap or Material UI to style your application.
+Use a testing framework like Jest to test your application.
+Use a continuous integration (CI) service like Travis CI or CircleCI to automatically build and test your application.
+
+...
+
+4. Conclusion
+
+Project: Add to Personal Website
+
+As with other modules, we’ve once again covered a lot this week. Being exposed to frontend 
+frameworks for the first time constitutes a significant shift of mentality in terms of the way 
+we build web applications, and can definitely be difficult and confusing at first. If you 
+struggled with this module, don’t beat yourself up! Keep practicing, practicing, practicing, 
+and you’ll be a master of React soon enough. For now, take a moment and truly appreciate how 
+far you’ve come since the beginning of this course!
+
+Speaking of practice… use this project time now to try and implement what you learned 
+throughout this week.
+
+One suggestion would be to try and refactor your personal website in React. Alternatively, 
+you could try searching Google for some React project ideas and attempt to build one of them. 
+Or, maybe you’ve got your own idea for a React project already and could try building that.
+As always, whatever project you choose to work on, happy coding!
+
+Submission steps:
+
+Before you click on "Mark as Completed":
+You need to do one of the following: either upload all of your files to Codio or deploy a GitHub Page for this project.
+Also, if you mark this project as complete but any of the boxes are blank, your TA will be unable to grade your project.
+
+Codio upload:
+
+Make sure all of your project code has been uploaded to Codio.
+If you did not write your code in Codio, you will need to import all of the required files into your workspace file tree.
+You can do this by going to File => Upload Files, and either manually importing each file, or dragging and dropping your project folder.
+Please refer to this video if you are unsure of what to do.
+
+GitHub Pages:
+
+If you would rather upload your project to GitHub, please make sure to have 
+the project deployed as a GitHub page so we can thoroughly test it.
+If you are unsure of how to do this, please follow these instructions.
+It is important to understand you will need to make a separate repository 
+for every project. You cannot deploy multiple pages from the same repository, 
+even with different branches. Also, no matter whether you uploaded your files 
+from your computer or not, make sure to thoroughly test your code! This only 
+takes a few minutes, but will prevent the amount of resubmissions because you missed something.
+
+...
+
+https://legacy.reactjs.org/docs/create-a-new-react-app.html
+
+https://react.dev/
+
+https://react.dev/learn/start-a-new-react-project
+
+https://react.dev/
+
+...
+
+DEEP DIVE
+Can I use React without a framework? 
+
+Hide Details
+You can definitely use React without a framework—that’s how you’d use React for a part of your page. However, if you’re building a new app or a site fully with React, we recommend using a framework.
+
+Here’s why.
+
+Even if you don’t need routing or data fetching at first, you’ll likely want to add some libraries for them. As your JavaScript bundle grows with every new feature, you might have to figure out how to split code for every route individually. As your data fetching needs get more complex, you are likely to encounter server-client network waterfalls that make your app feel very slow. As your audience includes more users with poor network conditions and low-end devices, you might need to generate HTML from your components to display content early—either on the server, or during the build time. Changing your setup to run some of your code on the server or during the build can be very tricky.
+
+These problems are not React-specific. This is why Svelte has SvelteKit, Vue has Nuxt, and so on. To solve these problems on your own, you’ll need to integrate your bundler with your router and with your data fetching library. It’s not hard to get an initial setup working, but there are a lot of subtleties involved in making an app that loads quickly even as it grows over time. You’ll want to send down the minimal amount of app code but do so in a single client–server roundtrip, in parallel with any data required for the page. You’ll likely want the page to be interactive before your JavaScript code even runs, to support progressive enhancement. You may want to generate a folder of fully static HTML files for your marketing pages that can be hosted anywhere and still work with JavaScript disabled. Building these capabilities yourself takes real work.
+
+React frameworks on this page solve problems like these by default, with no extra work from your side. They let you start very lean and then scale your app with your needs. Each React framework has a community, so finding answers to questions and upgrading tooling is easier. Frameworks also give structure to your code, helping you and others retain context and skills between different projects. Conversely, with a custom setup it’s easier to get stuck on unsupported dependency versions, and you’ll essentially end up creating your own framework—albeit one with no community or upgrade path (and if it’s anything like the ones we’ve made in the past, more haphazardly designed).
+
+If you’re still not convinced, or your app has unusual constraints not served well by these frameworks and you’d like to roll your own custom setup, we can’t stop you—go for it! Grab react and react-dom from npm, set up your custom build process with a bundler like Vite or Parcel, and add other tools as you need them for routing, static generation or server-side rendering, and more.
+
+...

@@ -1,0 +1,272 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <!-- Font Awesome -->
+  <link
+    href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css"
+    rel="stylesheet"
+  />
+  <!-- Google Fonts -->
+  <link
+    href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700&display=swap"
+    rel="stylesheet"
+  />
+  <!-- MDB -->
+  <link
+    href="https://cdnjs.cloudflare.com/ajax/libs/mdb-ui-kit/6.1.0/mdb.min.css"
+    rel="stylesheet"
+  />
+  <link rel="stylesheet" href="css/style.css">
+  <title>Issue Logger</title>
+</head>
+<body>
+  <header id="header" class="header container">
+    <div class="brand">
+      <div class="brand__name">
+        <h1>issueLogger</h1>
+      </div>
+    </div>
+    <div class="header-btns">
+      <button class="btn btn-secondary clear-issues-btn">Clear Issue Log</button>
+      <button class="btn new-issue-btn" data-mdb-toggle="modal" data-mdb-target="#newIssueModal"><span>+</span> Track New Issue</button>
+    </div>
+  </header>
+  <main class="fullpage container main">
+    <section class="team-members">
+      <h1>TEAM MEMBERS</h1>
+      <article id="team-members__list" class="team-members__list">
+        <div class="team-member__details">
+          <img 
+            src="" 
+            class="avatar rounded-circle mb-3 shadow-4-strong"
+            alt="Avatar"
+          />
+          <h5 class="mb-2"></h5>
+          <p class="text-muted issues-detail">
+            <span class="badge issues-number">0</span>
+            <span>Assigned</span>
+          </p>
+        </div>
+        <div class="team-member__details">
+          <img 
+            src="" 
+            class="avatar rounded-circle mb-3 shadow-4-strong"
+            alt="Avatar"
+          />
+          <h5 class="mb-2"></h5>
+          <p class="text-muted issues-detail">
+            <span class="badge issues-number">0</span>
+            <span>Assigned</span>
+          </p>
+        </div>
+        <div class="team-member__details">
+          <img 
+            src="" 
+            class="avatar rounded-circle mb-3 shadow-4-strong"
+            alt="Avatar"
+          />
+          <h5 class="mb-2"></h5>
+          <p class="text-muted issues-detail">
+            <span class="badge issues-number">0</span>
+            <span>Assigned</span>
+          </p>
+        </div>
+        <div class="team-member__details">
+          <img 
+            src="" 
+            class="avatar rounded-circle mb-3 shadow-4-strong"
+            alt="Avatar"
+          />
+          <h5 class="mb-2"></h5>
+          <p class="text-muted issues-detail">
+            <span class="badge issues-number">0</span>
+            <span>Assigned</span>
+          </p>
+        </div>
+        <div class="team-member__details">
+          <img 
+            src="" 
+            class="avatar rounded-circle mb-3 shadow-4-strong"
+            alt="Avatar"
+          />
+          <h5 class="mb-2"></h5>
+          <p class="text-muted issues-detail">
+            <span class="badge issues-number">0</span>
+            <span>Assigned</span>
+          </p>
+        </div>
+        <div class="team-member__details">
+          <img 
+            src="" 
+            class="avatar rounded-circle mb-3 shadow-4-strong"
+            alt="Avatar"
+          />
+          <h5 class="mb-2"></h5>
+          <p class="text-muted issues-detail">
+            <span class="badge issues-number">0</span>
+            <span>Assigned</span>
+          </p>
+        </div>
+        <div class="team-member__details">
+          <img 
+            src="" 
+            class="avatar rounded-circle mb-3 shadow-4-strong"
+            alt="Avatar"
+          />
+          <h5 class="mb-2"></h5>
+          <p class="text-muted issues-detail">
+            <span class="badge issues-number">0</span>
+            <span>Assigned</span>
+          </p>
+        </div>
+        <div class="team-member__details">
+          <img 
+            src="" 
+            class="avatar rounded-circle mb-3 shadow-4-strong"
+            alt="Avatar"
+          />
+          <h5 class="mb-2"></h5>
+          <p class="text-muted issues-detail">
+            <span class="badge issues-number">0</span>
+            <span>Assigned</span>
+          </p>
+        </div>
+      </article>
+    </section>
+    <section class="active-issues">
+      <div class="active-issues__heading">
+        <h1>ACTIVE ISSUES</h1>
+      </div>
+      <article id="active-issues__list" class="active-issues__list">
+        <div id="no-issues-msg" class="no-issues-msg">
+          <h2>No active issues at the moment.</h2>
+          <h2>All systems "go"!</h2>
+        </div>
+      </article>
+    </section>
+  </main>
+  <div class="modal fade" id="newIssueModal" tabindex="-1" aria-labelledby="newIssueModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-fullscreen">
+      <div class="modal-content">
+        <div class="modal-header">
+          <h1 class="modal-title fs-3" id="newIssueModalLabel">Track a new issue</h1>
+          <button type="button" class="btn-close" data-mdb-dismiss="modal" aria-label="Close"></button>
+        </div>
+        <div class="modal-body">
+          <form id="add-issues-form" class="add-issues-form" novalidate>
+            <div class="form-item-wrapper">
+              <div class="form-item">
+                <div class="form-outline">
+                  <input type="text" id="issue-summary" class="form-control form-control-lg" required/>
+                  <label class="form-label" for="issue-summary">Issue Summary</label>
+                </div>
+              </div>
+              <small class="feedback">Required</small>
+            </div>
+
+            <div class="form-item-wrapper">
+              <div class="form-item">
+                <div class="form-outline">
+                  <textarea id="issue-description" class="form-control form-control-lg" required></textarea>
+                  <label class="form-label" for="issue-description">Issue description</label>
+                </div>
+              </div>
+              <small class="feedback">Required</small>
+            </div>
+
+            <div class="form-item-wrapper">
+              <div class="form-item">
+                <div class="form-floating">
+                  <select id="assign-to" class="form-select" aria-label="Select team member" required>
+                    <option value="" selected>Select team member</option>
+                  </select>
+                  <label for="assign-to" class="text-muted">Assign to:</label>
+                </div>
+              </div>
+              <small class="feedback">Required</small>
+            </div>
+
+            <div class="form-item-wrapper">
+              <div class="form-item">
+                <div class="form-floating">
+                  <select id="issue-priority" class="form-select" aria-label="Select issue priority" required>
+                    <option value="" selected>Select issue priority</option>
+                    <option value="Low" >Low</option>
+                    <option value="Medium" >Medium</option>
+                    <option value="High" >High</option>
+                    <option value="Critical" >Critical</option>
+                  </select>
+                  <label for="issue-priority" class="text-muted">Priority:</label>
+                </div>
+              </div>
+              <small class="feedback">Required</small>
+            </div>
+
+            <div class="form-item-wrapper">
+              <div class="form-item">
+                <div class="form-floating">
+                  <select id="issue-status" class="form-select" aria-label="Select issue status" required>
+                    <option value="" selected>Select issue status</option>
+                    <option value="New" >New</option>
+                    <option value="In Progress" >In Progress</option>
+                    <option value="Resolved" >Resolved</option>
+                    <option value="Closed" >Closed</option>
+                  </select>
+                  <label for="issue-status" class="text-muted">Status:</label>
+                </div>
+              </div>
+              <small class="feedback">Required</small>
+            </div>
+
+            <div class="row">
+              <div class="col-md-6">
+                <div class="form-item">
+                  <div class="form-outline">
+                    <input type="date" id="date-assigned" class="form-control form-control-lg" required />
+                    <label class="form-label" for="date-assigned">Date assigned</label>
+                  </div>
+                </div>
+                <small class="feedback">Required</small>
+              </div>
+              <div class="col-md-6">
+                <div class="form-item">
+                  <div class="form-outline">
+                    <input type="date" id="due-date" class="form-control form-control-lg" required />
+                    <label class="form-label" for="due-date">Due date</label>
+                  </div>
+                </div>
+                <small class="feedback">Required</small>
+              </div>
+            </div>
+            <div class="row form-submit-control">
+              <div class="col-md-6">
+                <button type="button" class="btn btn-secondary modal-close" data-mdb-dismiss="modal">Close</button>
+              </div>
+              <div class="col-md-6">
+                <button id="modal-save-changes" type="submit" class="btn modal-save-changes" data-mdb-dismiss="modal" disabled>Save changes</button>
+              </div>
+            </div>
+          </form>
+        </div>
+      </div>
+    </div>
+  </div>
+  <footer id="footer" class="footer container">
+    <div class="footer__content">
+      &copy; 2023 IssueLogger. All rights reserved.
+    </div>
+  </footer>
+
+  <script src="https://cdn.jsdelivr.net/npm/dompurify@2.4.1/dist/purify.min.js"></script>
+  <script src="https://unpkg.com/validator@latest/validator.min.js"></script>
+  <!-- MDB -->
+  <script
+    type="text/javascript"
+    src="https://cdnjs.cloudflare.com/ajax/libs/mdb-ui-kit/6.1.0/mdb.min.js"
+  ></script>
+  <script type="module" src="./main.js"></script>
+</body>
+</html>

@@ -1,0 +1,437 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+
+
+// Variables
+$brand-color: rgb(14, 94, 57);
+$brand-color-light: rgb(26, 136, 85);
+$brand-color-hover: rgb(17, 77, 49);
+
+$error-color: rgb(211, 70, 70);
+
+
+*, *::before, *::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: "Poppins", sans-serif;
+  position: relative;
+}
+
+.container {
+  width: min(100% - 1rem, 1400px);
+  margin-inline: auto;
+}
+
+.fullpage {
+  min-height: 100vh;
+}
+
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding-block: 1rem;
+}
+
+.brand, .header-btns {
+  display: flex;
+  align-items: center;
+  gap: 2.5rem;
+}
+
+.brand__name {
+  color: $brand-color;
+  
+  h1 {
+    font-size: 3rem;
+  }
+}
+
+.clear-issues-btn {
+  padding-block: 0.55rem !important;
+  font-family: "Poppins", sans-serif;
+  font-size: 1.1rem;
+  color: $brand-color;
+  min-height: 2.825rem;
+
+  &:hover {
+    color: $brand-color-hover;
+  }
+}
+
+.new-issue-btn {
+  background-color: $brand-color;
+  color: #fff;
+  border: 1px solid gray;
+  font-family: "Poppins", sans-serif;
+  padding: 0.3rem 1.4rem;
+  display: flex;
+  align-items: center;
+  border-radius: 5px;
+  font-size: 1.1rem;
+  cursor: pointer;
+  transition: all 200ms ease;
+
+  &:hover {
+    background-color: $brand-color-hover;
+    color: #fff;
+  }
+
+  &:active {
+    background-color: $brand-color-hover !important;
+    color: #fff !important;
+    transform: scale(0.98);
+    transition: all 200ms ease-in-out;
+  }
+
+  & > span {
+    margin-right: 0.8rem;
+    font-size: 1.4rem;
+  }
+}
+
+.main {
+  display: flex;
+  flex-direction: column;
+  gap: 3rem;
+}
+
+.team-members__list,
+.active-issues__list {
+  margin-top: 2rem;
+  border: 1px solid gray;
+  border-radius: 10px;
+}
+
+.team-members {
+  margin-top: 3rem;
+
+  h1 {
+    text-align: center;
+    font-size: 2rem;
+  }
+
+  &__list {
+    min-height: 10rem;
+    padding: 2rem;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(105px, 1fr));
+    gap: 0.5rem;
+  }
+
+  .team-member__details {
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+
+    h5 {
+      font-size: 0.9rem;
+      font-weight: 600;
+    }
+  }
+
+  .avatar {
+    width: 5rem !important;
+  }
+
+  .issues-detail {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 0.25rem;
+    margin-bottom: 0;
+  }
+
+  .issues-number {
+    background-color: $brand-color;
+  }
+}
+
+.active-issues {
+
+  &__list {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    gap: 1.2rem;
+    min-height: 45vh;
+    padding: 3.5rem 2rem;
+
+    h2 {
+      color: gray;
+    }
+
+    .card {
+      width: 100%;
+      cursor: pointer;
+    }
+
+    .issue {
+      display: flex;
+      align-items: center;
+      justify-content: space-evenly;
+      gap: 0.75rem
+    }
+
+    .issue-id__heading {
+      font-weight: bold;
+    }
+
+    .issue-summary {
+      max-width: 24ch;
+    }
+
+    .issue-summary__text {
+      overflow: hidden;
+      text-overflow: ellipsis;
+      white-space: nowrap;
+    }
+  }
+
+  .no-issues-img {
+    width: 10rem;
+  }
+
+  .no-issues-msg {
+    text-align: center;
+
+    & :nth-child(2) {
+      font-size: 2.5rem;
+    }
+  }
+
+
+  .active-issues__heading {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  h1 {
+    text-align: center;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 2rem;
+  }
+}
+
+.modal-body {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.add-issues-form {
+  display: flex;
+  flex-direction: column;
+  gap: 1.2rem;
+ 
+  & input {
+    width: 20rem;
+  }
+
+  #assign-to label {
+    color: $brand-color;
+  }
+
+  #assign-to > option:first-child,
+  #issue-priority > option:first-child,
+  #issue-status > option:first-child {
+    font-weight: bold;
+  }
+
+  .form-outline .form-control:focus~.form-label {
+    color: $brand-color;
+  }
+  .form-outline .form-control:focus:invalid~.form-label {
+    color: $error-color;
+  }
+
+  .form-outline .form-control:focus~.form-notch .form-notch-leading {
+    border-color: $brand-color;
+    box-shadow: -1px 0 0 0 $brand-color,0 1px 0 0 $brand-color,0 -1px 0 0 $brand-color;
+  }
+
+  .form-outline .form-control:focus:invalid~.form-notch .form-notch-leading {
+    border-color: $error-color;
+    box-shadow: -1px 0 0 0 $error-color,0 1px 0 0 $error-color,0 -1px 0 0 $error-color;
+  }
+
+  .form-outline .form-control:focus~.form-notch .form-notch-middle {
+    border-color: $brand-color;
+    box-shadow: 0 1px 0 0 $brand-color;
+    border-top: 1px solid transparent;
+  }
+
+  .form-outline .form-control:focus:invalid~.form-notch .form-notch-middle {
+    border-color: $error-color;
+    box-shadow: 0 1px 0 0 $error-color;
+    border-top: 1px solid transparent;
+  }
+  
+  .form-outline .form-control:focus~.form-notch .form-notch-trailing {
+    border-color: $brand-color;
+    box-shadow: 1px 0 0 0 $brand-color,0 -1px 0 0 $brand-color,0 1px 0 0 $brand-color;
+  }
+  .form-outline .form-control:focus:invalid~.form-notch .form-notch-trailing {
+    border-color: $error-color;
+    box-shadow: 1px 0 0 0 $error-color,0 -1px 0 0 $error-color,0 1px 0 0 $error-color;
+  }
+
+  .form-floating>.form-select~label {
+    color: $brand-color;
+  }
+  .form-floating>.form-select:focus:invalid~label {
+    color: $error-color;
+  }
+
+  .form-select:focus {
+    border-color: $brand-color;
+    outline: 0;
+    box-shadow: inset 0 0 0 1px $brand-color;
+  }
+  .form-select:focus:invalid {
+    border-color: $error-color;
+    outline: 0;
+    box-shadow: inset 0 0 0 1px $error-color;
+  }
+
+  .form-item {
+    margin-bottom: 0.5rem;
+
+    input {
+      width: 100%;
+    }
+  }
+
+  .feedback {
+    display: none;
+    color: rgb(211, 70, 70);
+  }
+
+  .form-control {
+    width: 100%;
+  }
+
+  .form-submit-control {
+    margin-top: 1.5rem;
+    & > * {
+      max-width: max-content;
+    }
+  }
+}
+
+.modal-save-changes {
+  background-color: $brand-color;
+  color: #fff;
+  transition: all 200ms ease-in-out;
+
+  &:hover {
+    background-color: $brand-color-hover;
+    color: #fff;
+  }
+
+  &:active {
+    background-color: $brand-color-hover !important;
+    color: #fff !important;
+    transform: scale(0.98);
+    transition: all 200ms ease-in-out;
+  }
+
+  &:disabled,
+  &[disabled] {
+    background-color: $brand-color-light;
+    color: #fff;
+    cursor: not-allowed;
+  }
+}
+
+.modal-close {
+  color: $brand-color;
+  
+  &:active {
+    transform: scale(0.98) !important;
+    transition: all 200ms ease-in-out !important;
+  }
+}
+
+.footer {
+  margin-top: 3rem;
+}
+
+
+@media (max-width: 1200px) {
+  .team-members__list {
+    grid-template-columns: repeat(auto-fill, minmax(155px, 1fr));
+    gap: 2rem;
+  }
+}
+
+@media (max-width: 1000px) {
+  .header {
+    flex-direction: column;
+
+    &-btns {
+      gap: 1rem;
+      margin-top: 2rem;
+    }
+  }
+
+  .issue-card-segment {
+    font-size: 0.85rem;
+  }
+}
+
+@media (max-width: 768px) {
+  .card {
+    align-items: flex-start;
+    overflow-x: scroll;
+  }
+
+  .issue-card-segment {
+    font-size: 0.75rem;
+  }
+}
+
+@media (max-width: 500px) {
+  .header-btns {
+    flex-direction: column-reverse;
+  }
+
+  .clear-issues-btn {
+    width: 100%;
+  }
+
+  .active-issues .no-issues-msg :nth-child(2) {
+    font-size: 1.75rem;
+  }
+
+  .active-issues__list {
+    padding-inline: 1rem;
+  }
+
+  .active-issues__list h2 {
+    font-size: 1.1rem;
+  }
+
+  .active-issues__list .issue {
+    gap: 1rem;
+    padding-inline: 1.25rem;
+    justify-content: space-between;
+  }
+
+  .issue-id,
+  .issue-summary,
+  .issue-priority,
+  .date-assigned {
+    display: none;
+  }
+}
