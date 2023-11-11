@@ -99,3 +99,51 @@ Check It! (1 left)
 Next
 
 ...
+
+4. Overview of Scrum
+What is Scrum?
+Scrum illustration
+Scrum, named after a formation in rugby where team members act together to get the ball, is a lightweight yet powerful framework for complex product development. It doesn’t provide detailed instructions for every scenario but offers a set of rules, roles, events, and artifacts for managing work. Scrum embraces the Agile principles of flexibility, speed, customer collaboration, and continuous improvement.
+Scrum Principles
+Scrum operates on six key principles:
+Empirical Process Control: Scrum relies on evidence-based decision-making where progress is based on observed results rather than predictions.
+Self-organization: Teams are given the autonomy to manage and organize their work, leveraging the expertise of its members.
+Collaboration: All stakeholders, including team members and customers, work closely together throughout the development process.
+Value-based prioritization: Features and tasks are prioritized based on their value to the customer or project outcome.
+Time-boxing: Work is structured into fixed-length intervals (sprints) with specific goals, ensuring timely delivery and feedback.
+Iterative development: The product is developed and improved in small increments, allowing for regular feedback and adjustments.
+Scrum framework
+Components of Scrum
+Scrum Artifacts
+Scrum Artifacts are tools that provide information and give insights into the product and the project. These include the Product Backlog, a prioritized list of desired product features or changes; the Sprint Backlog, a subset of the Product Backlog that the team commits to deliver during a Sprint; and the Increment, the sum of all Product Backlog items completed during a Sprint and the value of the increments of all previous Sprints. These artifacts help teams plan and track their work, assess their progress, and adapt their plans as needed.
+Scrum Roles
+There are three main roles in Scrum: the Product Owner, the Scrum Master, and the Development Team.
+The Product Owner is the key stakeholder who has a vision of what they wish to build and conveys that vision to the team. The Scrum Master facilitates the Scrum process, removes impediments, and helps the team perform at their highest level. The Development Team is the group of professionals who do the work of delivering a potentially releasable product Increment at the end of each Sprint.
+Scrum Events
+Scrum Ceremonies, also known as events, provide the framework for the team to get work done in a structured manner, facilitate communication, and reduce unnecessary meetings.
+These include Sprint Planning (where the team determines the product backlog items they will work on during the sprint and discusses the plan for delivering the product increment), Daily Scrum (a quick meeting for the team to sync up and plan their day’s work), Sprint Review (where the team, stakeholders, and Product Owner review what was accomplished during the sprint and update the backlog), and Sprint Retrospective (where the team reflects on their performance during the sprint and discusses ways to improve for the next sprint).
+User Stories
+User story illustration
+User Stories are a powerful tool in Agile and Scrum, serving as a simple description of a product feature from the end-user’s perspective.
+Effective User Stories should conform to the INVEST criteria: Independent (can be developed in any sequence), Negotiable (details can be worked out over time), Valuable (provides value to the customer), Estimable (enough information is provided to estimate size), Small (can be completed within one sprint), and Testable (clear acceptance criteria are defined).
+A User Story might be something like: “As a user, I want a search function on the homepage so that I can easily find information on the website.” The corresponding acceptance criteria might include: “Given I am on the homepage, when I enter ‘FAQ’ into the search bar and hit enter, then the FAQ page should appear in the search results.”
+Question 3 of 3
+
+Which Scrum principle suggests that decisions should be based on observed realities?
+
+
+Value-based prioritization
+
+
+Time-boxing
+
+
+Empirical Process Control
+
+
+Collaboration
+
+Check It! (4 left)
+Next
+
+...
