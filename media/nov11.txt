@@ -196,3 +196,15 @@ Next
 
 
 ...
+
+frontend-frameworks--lesson-3-3slashproject-15---sat---nov--4
+
+...
+
+frontend-frameworks--lesson-3-3slashproject-15---sat---nov--4
+
+...
+
+One suggestion would be to try and refactor your personal website in React. Alternatively, you could try searching Google for some React project ideas and attempt to build one of them. Or, maybe you’ve got your own idea for a React project already and could try building that.
+
+...
