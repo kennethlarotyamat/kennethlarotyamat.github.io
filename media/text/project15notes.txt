@@ -6,6 +6,9 @@ on my computer. anyway. I did that, I installed node.js, and then started follow
 but then, I was able to get it to work. I have some screenshots of how it all went down and they are somewhere in this 
 repository.
 
+...
+
+      <!-- C:\Users\KLYam\OneDrive\Documents\GitHub\kennethlarotyamat.github.io\html\reactCDNuse.html -->
 
 ...
 
