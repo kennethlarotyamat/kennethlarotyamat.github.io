@@ -267,3 +267,19 @@ Scrum infographic Free Vector. (2020, June 17). Freepik. https://www.freepik.com
 Mark as CompletedBack to dashboard
 
 ...
+
+Lesson 3.2 
+
+1. Client / Stakeholder Management
+Client / Stakeholder Management
+Goals
+By the end of this case you will:
+Understand why client/stakeholder management is one of the most important things a professional web developer does
+Familiarize yourself with the concept of scope creep
+Recognize that perception is reality
+Introduction
+If your work puts you in direct contact with your client, it will be necessary to manage that client’s expectations. A well-managed client is a happy client, and you too will reap the benefits of having happy clients. Regular and targeted communication with your client can help build trust which in turn facilitates the client/stakeholder management task.
+Next
+
+...
+
