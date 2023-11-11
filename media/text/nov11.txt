@@ -493,3 +493,12 @@ As a developer, you may be called on to create new forms and/or modify existing 
 Next
 
 ...
+
+I'm thinking right now. Project 15 should be pretty easy. 
+the only issue is setting up the environment or whatever 
+to refactor the page or project I want to refactor using 
+react. This should be easy, but there have been many times 
+that I thought something would be easy, and it turned out 
+to me a total nightmare to do.
+
+...

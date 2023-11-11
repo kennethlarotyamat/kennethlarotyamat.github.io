@@ -1,3 +1,13 @@
+I'm thinking right now. Project 15 should be pretty easy. 
+the only issue is setting up the environment or whatever 
+to refactor the page or project I want to refactor using 
+react. This should be easy, but there have been many times 
+that I thought something would be easy, and it turned out 
+to me a total nightmare to do.
+
+I copied my misc repositry page and I'm going to use it as 
+the project 15 landing page.
+
 ...
 
 https://react.dev/learn/add-react-to-an-existing-project
