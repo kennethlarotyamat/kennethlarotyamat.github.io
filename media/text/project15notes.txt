@@ -1,3 +1,9 @@
+It seems to be working, and what I mean is, the node.js terminal seems to be 
+installing whatever it is I need installed to create a react app, so maybe I don't 
+need to use only CDNs as a result. I'll see where this goes.
+
+...
+
 I'm probably never going to figure out this terminal garbage. 
 I'm going to use the React CDN.
 
