@@ -1,3 +1,14 @@
+<!-- [11/05/2023 09:45 AM] [Deployment Test] [11/05/2023 09:45 AM] [Deployment Test] <link rel="icon"  href="..\media\favicon22223211223211.png">     -->
+<!-- migration test -->
+<!-- <iframe  src="https://github.com/kennethlarotyamat/miscellaneous" style="aspect-ratio: 8.68/6.86; height: auto; width:100%;" scrolling="yes"   
+allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen ></iframe> -->
+<!-- [11/05/2023 09:45 AM] [Deployment Test] <link rel="stylesheet" href="..\miscellaneous\css\index.css"> -->
+<!-- This should work.  -->
+<!-- <link rel="stylesheet" href="C:\Users\KLYam\OneDrive\Documents\GitHub\kennethlarotyamat.github.io\CSS\tfmiscindex.css"> -->
+<!-- <link rel="stylesheet" href="../CSS/tfmiscindex.css"> -->
+<!-- <link rel="stylesheet" href="https://kennethlarotyamat.github.io/CSS/tfmiscindex.css"> -->
+<!-- <link rel="stylesheet" href="C:\Users\KLYam\OneDrive\Documents\GitHub\kennethlarotyamat.github.io\CSS\tfmiscindex.css"> -->
+
 4. Conclusion
 Project: Add to Personal Website
 As with other modules, we’ve once again covered a lot this week. Being exposed to frontend 
