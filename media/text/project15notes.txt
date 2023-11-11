@@ -8,7 +8,7 @@ repository.
 
 ...
 
-      <!-- C:\Users\KLYam\OneDrive\Documents\GitHub\kennethlarotyamat.github.io\html\reactCDNuse.html -->
+<!-- C:\Users\KLYam\OneDrive\Documents\GitHub\kennethlarotyamat.github.io\html\reactCDNuse.html -->
 
 ...
 
