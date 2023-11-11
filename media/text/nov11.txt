@@ -365,3 +365,18 @@ Next
 Conclusion
 Effective Client / Stakeholder management is an important part of forming and maintaining successful customer relationships. Making sure your customer feels heard is where trust begins. Limiting scope creep using clearly written contractual specifications helps to manage client expectations and end of cycle satisfaction. Remember that perception is reality and that regular communications foster trust and forge rapport. Satisfied customers are more easily retained for future business, and they are more likely to provide referrals for new business.
 Mark as CompletedBack to dashboard
+
+...
+
+1. Cross-Browser and Device Testing
+Cross-Browser and Device Testing
+Goals
+By the end of this case you will:
+Know what cross-browser and device testing refers to
+Understand why no project is complete without this step
+Learn to use “inspect” in Chrome to test different screen sizes.
+Introduction
+When a website is nearly ready to go live, the final step is cross-browser testing and device testing. In this step, you must try to use the website (as a target user might) on different browsers and different devices. Typically browsers tested include Chrome and Safari, but depending on your customer, you may also need to test on Microsoft Edge and FireFox. Testing for different devices means desktop screens, laptops, tablets and different cell phones. Don’t worry if you don’t have all those devices, we will use a Chrome feature to test different screen sizes. Your goal is for the website to display and function seamlessly regardless of screen size, and no matter which browser is used.
+Next
+
+...
