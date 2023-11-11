@@ -52,3 +52,8 @@ At regular intervals, the team reflects on how to become more effective, then tu
 Next
 
 ...
+
+focusing on individuals is the emphasis, rather than the specific processes.
+working software over documentation. comment code and all that, it's not that 
+documentation is bad, first priority is sofware that works, before we have the 
+documentation. 
