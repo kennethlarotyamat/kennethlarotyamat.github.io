@@ -8,6 +8,17 @@ repository.
 
 ...
 
+<!-- https://kennethlarotyamat.github.io/project15/misc/refactoredproject12.html --> <!-- C:\Users\KLYam\OneDrive\Documents\GitHub\project15\misc\refactoredproject12.html -->
+
+<!-- https://kennethlarotyamat.github.io/project15/index.html  --> <!-- C:\Users\KLYam\OneDrive\Documents\GitHub\project15\index.html -->
+
+<!-- this project doesn't even use any javascript, so I'm not sure how I would refactor this using react -->
+<!-- C:\Users\KLYam\OneDrive\Documents\GitHub\project15\misc\refactoredp112p11hamburgersdistindex.html -->
+<!-- C:\Users\KLYam\OneDrive\Documents\GitHub\kennethlarotyamat.github.io\html\p112p11hamburgersdistindex.html -->
+<!-- C:\Users\KLYam\OneDrive\Documents\GitHub\project15\index.html -->
+
+...
+
 <!-- [11/06/2023 12:07 PM] Work on these for map pins [11/06/2023 12:11 PM] Page Names have been updated for maps, this isn't really something that anyone would see but, I took
 the time to take care of it.  I want to test something. -->
 
