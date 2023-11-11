@@ -1,3 +1,13 @@
+<!-- C:\Users\KLYam\OneDrive\Documents\GitHub\kennethlarotyamat.github.io\javascript\tfmiscindex.js -->
+<!--   <script src="..\miscellaneous\javascript\index.js"></script> -->
+<!-- Deployment Test Tag [ 11/03/2023 06:59 PM ] -->
+<!-- C:\Users\KLYam\OneDrive\Documents\GitHub\kennethlarotyamat.github.io\media\text\READMEmiscREP.md -->
+<!-- C:\Users\KLYam\OneDrive\Documents\GitHub\kennethlarotyamat.github.io\media\text\README.md -->
+<!-- <iframe  src="https://github.com/kennethlarotyamat/miscellaneous" style="aspect-ratio: 8.68/6.86; height: auto; width:100%;" scrolling="yes"   
+allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen ></iframe> -->
+<!-- <form class="exampleForm" id="exampleForm" autocomplete="off" action="mailto:info@chestnutandhazel.com" target="" method="post" novalidate>  </form> -->
+<!-- Deployment Test Tag [ 11/03/2023 06:59 PM ] -->
+
 <!-- [11/05/2023 09:45 AM] [Deployment Test] [11/05/2023 09:45 AM] [Deployment Test] <link rel="icon"  href="..\media\favicon22223211223211.png">     -->
 <!-- migration test -->
 <!-- <iframe  src="https://github.com/kennethlarotyamat/miscellaneous" style="aspect-ratio: 8.68/6.86; height: auto; width:100%;" scrolling="yes"   
