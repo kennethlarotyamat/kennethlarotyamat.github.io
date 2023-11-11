@@ -1,3 +1,7 @@
+I don't even understand what to do here.
+
+...
+
 I'm going to see what refactoring project 12 does. this is the project where I use the most JavaScript.
 
 ...
