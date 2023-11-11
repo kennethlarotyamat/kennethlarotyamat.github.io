@@ -232,3 +232,13 @@ Asana website screenshot
 Next
 
 ...
+
+7. Certifications
+Becoming certified can enhance your understanding of Agile and Scrum and boost your credibility in the field. There are several certification programs available:
+Certified ScrumMaster (CSM): Offered by the Scrum Alliance, the CSM certification validates your understanding of Scrum principles and your skill in applying Scrum in projects.
+Professional Scrum Master (PSM): Offered by Scrum.org, the PSM certification comes in three levels (I, II, and III), each with an increasing depth of knowledge and expertise in Scrum.
+PMI Agile Certified Practitioner (PMI-ACP): Offered by the Project Management Institute (PMI), the PMI-ACP certification recognizes knowledge of Agile principles and skill with various Agile methodologies.
+Next
+
+...
+
