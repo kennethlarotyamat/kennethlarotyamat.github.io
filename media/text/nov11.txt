@@ -208,3 +208,15 @@ frontend-frameworks--lesson-3-3slashproject-15---sat---nov--4
 One suggestion would be to try and refactor your personal website in React. Alternatively, you could try searching Google for some React project ideas and attempt to build one of them. Or, maybe you’ve got your own idea for a React project already and could try building that.
 
 ...
+
+6. Common Software Tools
+Tools can play a significant role in implementing Agile and Scrum effectively. Jira, Trello, and Asana are some popular ones. Jira, developed by Atlassian, is an issue tracking product that allows bugs tracking and agile project management. It can manage the entire life cycle of a task, from requirement to deployment. Trello, with its Kanban-style boards, lists, and cards, is great for managing and visualizing project tasks. Asana allows for task assignments, commenting, and tracking, making it a useful tool for managing work, especially in a remote setting. These tools can help teams collaborate, track progress, manage changes, and stay aligned with their goals.
+JIRA
+Jira website screenshot
+TRELLO
+Trello website screenshot
+ASANA
+Asana website screenshot
+Next
+
+...
