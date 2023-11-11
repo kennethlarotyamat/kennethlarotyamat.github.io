@@ -345,3 +345,23 @@ In this case, it would have been better to tell the customer that you will be re
 Similarly, you want to be transparent about your fee structure. Most clients would rather know what to expect upfront. Zero clients want to be surprised with unexpected invoices.
 The same idea applies to your availability. If you are not available for work on the weekends, that’s allowed, but you have to be clear about that with your customer. Customers need to know when they can call you to collaborate on the project. If they expect you are working, and then can’t reach you, they will perceive you to be slacking off.
 Next
+
+...
+
+3. Perception is Reality
+Perception is Reality
+When you call or email your customer to give them an update on their project, they perceive you as working hard. When you fail to call or email your customer to give them an update, they perceive you as not working at all, even if you are working harder than you ever have in your entire life. This is what we mean by perception is reality. You have to manage your client’s perception of you and of the work you are doing for them.
+If you have included many “extras” on the project, but you never told your client about these “extras”, your client is unable to perceive and therefore unable to appreciate the extra effort that you made. Communicating is not bragging. Tell your customer explicitly what you have done for them using simple (non-technical) language they can understand. Only then can they perceive how hard you are working for them, and this too will build trust in the relationship.
+Scope Creep
+Scope creep occurs when clients request work that is not included within the scope of the initial project. This might occur, for example, if you are integrating a new homepage layout and the client asks you to fix a few typos on their About-Us page “while you’re in there”. If the request is very small, you might use your discretion to decide whether or not to fulfill the request, but small “extras” can add up, and before you know it, you may have crept well beyond the initial project’s scope.
+This is problematic because you are being asked to do more work without additional financial compensation. Furthermore, the customer’s expectations regarding launch timelines will not change even though they are causing delays with additional requests. That means that if you miss deadlines, their trust in your capacity is negatively impacted.
+It is best to develop and sign detailed specifications regarding the project scope up front and to make clear that while you are overjoyed to receive any additional requests, the specifications for those requests will be drawn up as part of a separate mandate with a revised timeline if applicable. This way the customer’s expectations are adjusted and scope creep is limited.
+Further reading : https://www.projectmanager.com/blog/5-ways-to-avoid-scope-creep
+Next
+
+...
+
+4. Conclusion
+Conclusion
+Effective Client / Stakeholder management is an important part of forming and maintaining successful customer relationships. Making sure your customer feels heard is where trust begins. Limiting scope creep using clearly written contractual specifications helps to manage client expectations and end of cycle satisfaction. Remember that perception is reality and that regular communications foster trust and forge rapport. Satisfied customers are more easily retained for future business, and they are more likely to provide referrals for new business.
+Mark as CompletedBack to dashboard
