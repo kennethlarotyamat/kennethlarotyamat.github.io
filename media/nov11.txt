@@ -1,0 +1,24 @@
+1. Agile & Scrum
+Goals
+By the end of this lesson, you should:
+Have a basic understanding of Agile and Scrum principles and methodologies
+Be familiar with the importance and benefits of Agile and Scrum in the software development process
+Introduction
+Agile concept
+When working as part of a software development team, efficient collaboration and project management can often be challenging. The Agile and Scrum methodologies have become vital tools for addressing these challenges, with their focus on enhancing efficiency, adaptability, and stakeholder satisfaction. This lesson will provide you with a basic overview of Agile and Scrum, as well as their key principles.
+Next
+
+...
+
+1. Agile & Scrum
+Goals
+By the end of this lesson, you should:
+Have a basic understanding of Agile and Scrum principles and methodologies
+Be familiar with the importance and benefits of Agile and Scrum in the software development process
+Introduction
+Agile concept
+When working as part of a software development team, efficient collaboration and project management can often be challenging. The Agile and Scrum methodologies have become vital tools for addressing these challenges, with their focus on enhancing efficiency, adaptability, and stakeholder satisfaction. This lesson will provide you with a basic overview of Agile and Scrum, as well as their key principles.
+Next
+
+...
+
