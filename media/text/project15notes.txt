@@ -1,3 +1,43 @@
+<!-- <!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>Project 15</title>
+
+<link rel="icon" href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhis5UXOyPLEmBDmRjOHERNBK5CSCBwelHPiOaPwzn903vmcdjBQ_QFy9t4b5N-WNQaxgDTKjK4l7VsbpzXJ9Y82q7MJrdk8c3xq3Nty_TvvAAK1SglaLV9c3f4alOXkW8tYJEZ50WBzNW2tWXdj-ssJLN3HNPhqw0A1DQMNdwJu0aNGArbOUZ3nyvXO-A/s320/Chestnut%20+%20Hazel%20%200123%20(12)%2000%20002%20048.png">
+
+<link rel="stylesheet" href="C:\Users\KLYam\OneDrive\Documents\GitHub\project15\project15.css">
+
+</head>
+<body>
+
+    <p>
+        
+        I set up node.js 
+        I don't know what to do, because I didn't really follow along 
+        during the lesson involving react.
+
+    </p>
+
+
+<p>
+This is where I will work on project 15. I've procrastinated on this quite a bit. I'm starting it on the due date.
+</p>
+
+<p>
+    I haven't really decided what to do with this yet.
+</p>
+
+
+ -->
+
+<!-- migration test -->
+<!-- <script src="C:\Users\KLYam\OneDrive\Documents\GitHub\project15\project15.js"></script>
+</body>
+</html> -->
+
 <!-- C:\Users\KLYam\OneDrive\Documents\GitHub\kennethlarotyamat.github.io\javascript\tfmiscindex.js -->
 <!--   <script src="..\miscellaneous\javascript\index.js"></script> -->
 <!-- Deployment Test Tag [ 11/03/2023 06:59 PM ] -->
