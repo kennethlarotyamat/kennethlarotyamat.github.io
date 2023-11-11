@@ -502,3 +502,22 @@ that I thought something would be easy, and it turned out
 to me a total nightmare to do.
 
 ...
+
+1. Contact Forms in WordPress
+Contact Forms in WordPress
+Goals
+By the end of this case you will:
+Install the Contact Form 7 plugin for WordPress
+Create a simple contact form for your website
+Protect your website by integrating Google reCaptcha V3 on your form
+Introduction
+Creating contact forms in WordPress is relatively straight-forward. There are a variety of (free and paid) form builder plugins available and your choice of plugin will depend on what it is you need your form to do.
+Select a plugin that receives regular updates and that is highly rated. Plugins that have not received any updates in two years are considered abandoned. It is not recommended that you use abandoned plugins.
+cover image
+Image by Freepik
+Business Context
+As a developer, you may be called on to create new forms and/or modify existing forms in WordPress. If your employer/customer is already using a certain plugin for their forms, and assuming that plugin is secure, you should work with the plugin that is already in place. Only introduce a new form solution if the existing solution is no longer secure or is no longer compatible with the rest of the website.
+Next
+
+...
+
