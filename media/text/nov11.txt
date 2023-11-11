@@ -380,3 +380,97 @@ When a website is nearly ready to go live, the final step is cross-browser testi
 Next
 
 ...
+
+<iframe width="1257" height="707" src="https://www.youtube.com/embed/uhb3B2Bbn3I" title="&quot;Dedication to Cornelius Nepos&quot; by Caius Valerius Catullus" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+...
+
+<iframe width="1257" height="707" src="https://www.youtube.com/embed/F9oq5dU1aoc" title="&quot;Lesbia&#39;s Sparrow&quot; by Caius Valerius Catullus" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+...
+
+<iframe width="1257" height="707" src="https://www.youtube.com/embed/kub7sRpDyrU" title="&quot;Approach of Winter&quot; by William Carlos Williams" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+...
+
+1. Cross-Browser and Device Testing
+Cross-Browser and Device Testing
+Goals
+By the end of this case you will:
+Know what cross-browser and device testing refers to
+Understand why no project is complete without this step
+Learn to use “inspect” in Chrome to test different screen sizes.
+Introduction
+When a website is nearly ready to go live, the final step is cross-browser testing and device testing. In this step, you must try to use the website (as a target user might) on different browsers and different devices. Typically browsers tested include Chrome and Safari, but depending on your customer, you may also need to test on Microsoft Edge and FireFox. Testing for different devices means desktop screens, laptops, tablets and different cell phones. Don’t worry if you don’t have all those devices, we will use a Chrome feature to test different screen sizes. Your goal is for the website to display and function seamlessly regardless of screen size, and no matter which browser is used.
+Next
+
+...
+
+2. Defining the scope of your testing
+Defining the scope of your testing
+It is important to include which browsers and devices your website will support in the contracted project specifications. Without this detail, your customer may insist the code be made compatible with versions of Explorer, for example, which are no longer supported.
+Responsive Design Includes Cell Phones
+Even if your website is intended to be used primarily on desktops, the design must nevertheless be responsive for optimal display across all screen sizes, including cell phones. As of 2021, 85% of Americans owned a smartphone, up from just 35% in 2011. Knowing this, it is not surprising that the field of Web Development has adopted a mobile-first mindset. Google search results also prioritize responsive websites in their search results, meaning your website will be penalized in search ranking if it is not mobile-friendly.
+Next
+
+...
+
+4. Knowledge Check
+Question 1 of 2
+
+What does cross-browser and device testing refer to?
+
+
+Reviewing website design only on Chrome browser
+
+
+Testing the website on various internet devices without considering the browser compatibility
+
+
+Checking the website’s security across multiple browsers
+
+
+Testing the website’s display and functionality on different browsers and devices
+
+Check It! (3 left)
+
+Question 2 of 2
+
+Why is it essential to have a responsive design for websites, even if they are intended primarily for desktops?
+
+
+To give developers a challenge in designing
+
+
+Because a majority of Americans still use desktops as their primary device
+
+
+To ensure seamless display across all screen sizes and prevent penalization in Google search ranking
+
+
+Because mobile phones cannot access non-responsive websites
+
+Check It! (4 left)
+Next
+
+...
+
+5. Conclusion
+Conclusion
+Cross-browser and device testing is the final stage of producing a product you can be proud of. When this stage is omitted or rushed you can trust that your client will find display and functionality problems post-launch. That outcome dramatically reduces customer satisfaction and should be avoided at all costs. Instead, test your site on different browsers and devices until you are sure there are no bugs. Leave your client overjoyed with their flawless new website so that they remain your client for future business and sing your praises to everyone with ears.
+Attribution
+https://www.pewresearch.org/internet/fact-sheet/mobile/
+https://www.apple.com/
+Mark as CompletedBack to dashboard
+
+...
+
+<iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" 
+frameborder="0" height="auto" src="https://www.youtube.com/embed/AE6UnUduNuU" style="aspect-ratio: 8.68/6.86;" title=" " width="100%"></iframe>
+
+<iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" 
+frameborder="0" height="auto" src="https://www.youtube.com/embed/oUCFHtym8dI" style="aspect-ratio: 8.68/6.86;" title=" " width="100%"></iframe>
+
+<iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" 
+frameborder="0" height="auto" src="https://www.youtube.com/embed/kub7sRpDyrU" style="aspect-ratio: 8.68/6.86;" title=" " width="100%"></iframe>
+
