@@ -1,3 +1,106 @@
+This is already a nightmare.
+
+
+...
+
+Generative AI is experimental. You may see inaccurate creative content. Learn more
+To change directories
+ in the terminal
+, you can use the cd command. The syntax is:
+cd <directory name>
+Use code with caution.
+Learn more
+For example, to change to the "Downloads" directory
+, you would type:
+cd Downloads
+Use code with caution.
+Learn more
+To change to the parent directory, you would type:
+cd ..
+Use code with caution.
+Learn more
+To change to the root directory
+, you would type:
+cd /
+Use code with caution.
+Learn more
+You can also use the cd command to navigate to a directory that is located multiple levels up. For example, to change to the "Documents" directory that is located two levels up, you would type:
+cd Documents
+Use code with caution.
+Learn more
+You can also use the cd command to navigate to a directory that is located on a different drive. For example, to change to the "C:\Users" directory on the C drive, you would type:
+cd C:\Users
+Use code with caution.
+Learn more
+If you are not sure what directory you are currently in, you can use the pwd command to print the current working directory
+.
+Here are some examples of how to use the cd command:
+cd Downloads
+Use code with caution.
+Learn more
+Change to the "Downloads" directory.
+cd ..
+Use code with caution.
+Learn more
+Change to the parent directory.
+cd /
+Use code with caution.
+Learn more
+Change to the root directory.
+cd Documents
+Use code with caution.
+Learn more
+Change to the "Documents" directory that is located two levels up.
+cd C:\Users
+Use code with caution.
+Learn more
+Change to the "C:\Users" directory on the C drive.
+pwd
+Use code with caution.
+Learn more
+Print the current working directory.
+
+
+
+
+Export
+How to change directory from C to D in CMD?
+How do I change the default folder in Mac terminal?
+Ask a follow up...
+
+
+
+
+https://code.visualstudio.com/docs/nodejs/reactjs-tutorial#:~:text=Using%20React%20in%20Visual%20Studio,navigation%20out%20of%20the%20box.
+
+...
+
+start a New React Project
+If you want to build a new app or a new website fully with React, we recommend picking one of the React-powered frameworks popular in the community. Frameworks provide features that most apps and sites eventually need, including routing, data fetching, and generating HTML.
+
+Note
+You need to install Node.js for local development. You can also choose to use Node.js in production, but you don’t have to. Many React frameworks support export to a static HTML/CSS/JS folder.
+
+Production-grade React frameworks 
+Next.js 
+Next.js is a full-stack React framework. It’s versatile and lets you create React apps of any size—from a mostly static blog to a complex dynamic application. To create a new Next.js project, run in your terminal:
+
+ Terminal
+ Copy
+
+npx create-next-app@latest
+
+If you’re new to Next.js, check out the Next.js tutorial.
+
+Next.js is maintained by Vercel. You can deploy a Next.js app to any Node.js or serverless hosting, or to your own server. Next.js also supports a static export which doesn’t require a server.
+
+
+...
+
+npx create-next-app@latest
+
+...
+
 I'm thinking right now. Project 15 should be pretty easy. 
 the only issue is setting up the environment or whatever 
 to refactor the page or project I want to refactor using 
