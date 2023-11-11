@@ -60,3 +60,42 @@ documentation. happy customers are the priority.
 
 ...
 
+3. Knowledge Check
+Question 1 of 3
+
+Which of the following is NOT one of the key values of the Agile Manifesto?
+
+
+Customer collaboration over contract negotiation.
+
+
+Comprehensive documentation over working software.
+
+
+Responding to change over following a plan.
+
+
+Individuals and interactions over processes and tools.
+
+Check It! (3 left)
+
+Question 2 of 3
+
+Which model did Agile primarily emerge as a response to, due to its limitations in project management?
+
+
+Kanban
+
+
+Lean
+
+
+Waterfall
+
+
+Scrum
+
+Check It! (1 left)
+Next
+
+...
