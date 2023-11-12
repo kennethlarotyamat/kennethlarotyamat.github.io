@@ -16,6 +16,9 @@ is done in a way that I like it. DONE!
 
 ...
 
+<!-- C:\Users\KLYam\OneDrive\Documents\GitHub\project15\my-react-app\vite\video.js -->
+<!--  -->
+<!--  -->
 <!-- [ Absolute Path, Remote ] [ https://kennethlarotyamat.github.io/miscellaneous/html/tictactoe.html ] -->
 <!-- C:\Users\KLYam\OneDrive\Documents\GitHub\miscellaneous\html\tictactoe.html -->
 
