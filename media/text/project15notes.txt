@@ -4,6 +4,14 @@ more time on it, plus, it is my project, and I want it to be interesting. I also
 to get myself into work mode, since I've just been playing computer games for so many days, and 
 not really doing anything else.
 
+I'm almost done with this, and it was somewhat quicker than I thought that it would be, I actually 
+have to redo a Professional Development Project, the last one. and I also still have to get back 
+to project 15.
+
+...
+
+<!-- Button works, need to update based on page         33.748889, -84.39         -->
+
 ...
 
                 //  set view latitude 
