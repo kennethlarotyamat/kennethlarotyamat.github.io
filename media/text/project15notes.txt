@@ -10,6 +10,10 @@ to project 15.
 
 ...
 
+update locations, this is the field of view    
+
+...
+
                 //  set view latitude 
                 //  [11/06/2023 05:58 AM] I'm trying to think about where I left off. checking page.
                 //  [11/06/2023 01:53 AM] latitude 

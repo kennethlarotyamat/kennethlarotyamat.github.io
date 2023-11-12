@@ -21,7 +21,7 @@ crossorigin=""></script>
 <div id="map" style=" width: 100%; height: auto; aspect-ratio: 686/868; "> </div>
 
 <script>
-// update locations, this is the field of view    40.72422, -74.172574
+// 40.72422, -74.172574
 
         const map = L.map('map').setView([40.72422, -74.172574], 13);
 
@@ -37,9 +37,9 @@ crossorigin=""></script>
 var marker = L.marker([40.72422, -74.172574]).addTo(map);
 var circle = L.circle([40.72422, -74.172574], {radius: 600}).addTo(map);
 
-// 40.76422, -74.172574           40.76422, -74.172574             40.76422, -74.172574
+// 40.76422, -74.172574           40.74422, -74.152574             40.77422, -74.152574
 
-var latlngs = [[43.09, -79.07],[43.08, -79.06],[43.1, -79.05]];
+var latlngs = [[40.76422, -74.172574],[40.74422, -74.152574],[40.77422, -74.152574]];
 
 var polygon = L.polygon(latlngs, {color: 'orange', weight:6, fillOpacity: .8}).addTo(map);
 
