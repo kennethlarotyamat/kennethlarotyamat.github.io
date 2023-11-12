@@ -23,7 +23,7 @@ crossorigin=""></script>
 <script>
 // update locations, this is the field of view     45.631111,-122.671667
 
-        const map = L.map('map').setView([45.631111,-122.671667],  13);
+        const map = L.map('map').setView([45.601111,-122.671667],  14);
 
 
 
@@ -37,15 +37,19 @@ crossorigin=""></script>
 var marker = L.marker([45.631111,-122.671667]).addTo(map);
 var circle = L.circle([45.631111,-122.671667], {radius: 600}).addTo(map);
 //  45.631111,-122.671667             45.601111,-122.641667                45.661111,-122.611667
-var latlngs = [[45.631111,-122.671667],[45.601111,-122.641667],[45.661111,-122.611667]];
+//                                      (45.600576, -122.641325)
+//                                      45.623095, -122.629995
+//             (45.630839, -122.671881)
+//             (45.6333, -122.658319)
+var latlngs = [[45.6333, -122.658319],[45.623095, -122.629995],[45.661111,-122.611667]];
 
 var polygon = L.polygon(latlngs, {color: 'orange', weight:6, fillOpacity: .8}).addTo(map);
 
 
 
-// Location Pin Text Bubble
+// Location Pin Text Bubble (45.637802, -122.672052)
 var popup = L.popup()
-.setLatLng([45.631111,-122.671667])
+.setLatLng([45.637802, -122.672052])
 .setContent("I am good -- I'm very good. I'll see you back on deck.")
 .openOn(map); 
 
