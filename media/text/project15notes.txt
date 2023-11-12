@@ -6,6 +6,26 @@ not really doing anything else.
 
 ...
 
+<!-- 
+[Citations]    [http://www.openstreetmap.org/copyright]
+  
+  7. Conclusion & Takeaways
+map: used to create a map on a page and manipulate it
+tileLayer: used to load and display tile layers on the map
+Marker: used to display clickable/draggable icons on the map
+Polygon: A class for drawing polygon overlays on a map
+Circle: A class for drawing circle overlays on a map
+Leaflet allows easy interaction with and manipulation of maps.
+The documentation is very complete.
+With knowledge in JavaScript and Leaflet you can create big projects.
+Attribution
+Quick Start Guide - Leaflet - a JavaScript library for interactive maps. (n.d.). [Video]. https://leafletjs.com/examples/quick-start/
+
+
+ -->
+
+...
+
                 //  set view latitude 
                 //  [11/06/2023 05:58 AM] I'm trying to think about where I left off. checking page.
                 //  [11/06/2023 01:53 AM] latitude 
