@@ -10,6 +10,9 @@ to project 15. Alright, so all the maps are done and updated for project 14, I d
 was necessary to do 20 different leaflet pages, but, I think it looks nice, plus I have a few
 leaflet pages for the hamburgers project I did a while ago.
 
+but, getting back to project 15. I think that I'm going to start with a few simple things that 
+just use the CDN before I start using all those packages I installed.
+
 ...
 
 <!-- 
