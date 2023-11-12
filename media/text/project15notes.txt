@@ -19,6 +19,9 @@ few simple things that just use the CDN before I start using all those
 packages I installed. That's all done, project 14 
 is done in a way that I like it. DONE!
 
+This was not too exciting, boring, a few stuff using the React CDN, 
+and all of this stuff is stuff from the React Website itself.
+
 ...
 
 <!-- C:\Users\KLYam\OneDrive\Documents\GitHub\project15\my-react-app\vite\video.js -->
