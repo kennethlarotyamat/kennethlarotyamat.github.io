@@ -1,3 +1,9 @@
+I've come back around to project 14 to update the map links to leaflet, to give all the pages 
+a customized location. project 14 hasn't been graded yet, so I figured I would spend a little 
+more time on it, plus, it is my project, and I want it to be interesting.
+
+...
+
                 //  set view latitude 
                 //  [11/06/2023 05:58 AM] I'm trying to think about where I left off. checking page.
                 //  [11/06/2023 01:53 AM] latitude 
