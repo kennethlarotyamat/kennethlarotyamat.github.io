@@ -1,6 +1,3 @@
-Chestnut + Hazel's Miscellaneous Repository README.md
-
-...
 
 "Everything I had done has to be done 
 over; I was on the wrong track entirely, 
@@ -241,3 +238,8 @@ I was there
 I saw it all
 
 ...
+
+Chestnut + Hazel's Miscellaneous Repository README.md
+
+...
+
