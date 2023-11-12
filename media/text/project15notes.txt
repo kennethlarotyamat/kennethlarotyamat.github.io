@@ -1,17 +1,22 @@
-I've come back around to project 14 to update the map links to leaflet, to give all the pages 
-a customized location. project 14 hasn't been graded yet, so I figured I would spend a little 
-more time on it, plus, it is my project, and I want it to be interesting. I also Kind of need 
-to get myself into work mode, since I've just been playing computer games for so many days, and 
+I've come back around to project 14 to update the map links to 
+leaflet, to give all the pages a customized location. project 14 
+hasn't been graded yet, so I figured I would spend a little 
+more time on it, plus, it is my project, and I want it to be 
+interesting. I also Kind of need to get myself into work mode, 
+since I've just been playing computer games for so many days, and 
 not really doing anything else.
 
-I'm almost done with this, and it was somewhat quicker than I thought that it would be, I actually 
-have to redo a Professional Development Project, the last one. and I also still have to get back 
-to project 15. Alright, so all the maps are done and updated for project 14, I don't think that it 
-was necessary to do 20 different leaflet pages, but, I think it looks nice, plus I have a few
+I'm almost done with this, and it was somewhat quicker than I 
+thought that it would be, I actually have to redo a Professional 
+Development Project, the last one. and I also still have to get back 
+to project 15. Alright, so all the maps are done and updated for 
+project 14, I don't think that it was necessary to do 20 different 
+leaflet pages, but, I think it looks nice, plus I have a few
 leaflet pages for the hamburgers project I did a while ago.
 
-but, getting back to project 15. I think that I'm going to start with a few simple things that 
-just use the CDN before I start using all those packages I installed. That's all done, project 14 
+but, getting back to project 15. I think that I'm going to start with a 
+few simple things that just use the CDN before I start using all those 
+packages I installed. That's all done, project 14 
 is done in a way that I like it. DONE!
 
 ...
