@@ -239,7 +239,4 @@ I saw it all
 
 ...
 
-Chestnut + Hazel's Miscellaneous Repository README.md
-
-...
 
