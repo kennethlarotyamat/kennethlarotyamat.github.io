@@ -24,7 +24,7 @@ crossorigin=""></script>
 <script>
 // update locations, this is the field of view
 
-        const map = L.map('map').setView([46.813889,-71.208056], 13);
+        const map = L.map('map').setView([46.713889,-71.208056], 12);
 
                 //  set view latitude 
                 //  [11/06/2023 05:58 AM] I'm trying to think about where I left off. checking page.
@@ -47,11 +47,11 @@ crossorigin=""></script>
 // Location Pin
 
 var marker = L.marker([46.813889,-71.208056]).addTo(map);
-var circle = L.circle([46.813889,-71.208056], {radius: 600}).addTo(map);
+var circle = L.circle([46.813889,-71.208056], {radius: 1600}).addTo(map);
 
-// 46.813889,-71.208056    46.813889,-71.208056     46.813889,-71.208056
+// 46.813889,-71.208056    46.803889,-71.198056     46.823889,-71.188056
 
-var latlngs = [[43.09, -79.07],[43.08, -79.06],[43.1, -79.05]];
+var latlngs = [[46.713889,-71.208056],[46.703889,-71.198056],[46.723889,-71.188056]];
 
 var polygon = L.polygon(latlngs, {color: 'orange', weight:6, fillOpacity: .8}).addTo(map);
 
@@ -59,7 +59,7 @@ var polygon = L.polygon(latlngs, {color: 'orange', weight:6, fillOpacity: .8}).a
 
 // Location Pin Text Bubble
 var popup = L.popup()
-.setLatLng([46.813889,-71.208056])
+.setLatLng([46.833889,-71.208056])
 .setContent("Mysteries -- mysteries going on all the time. Every moment. Right under our noses.")
 .openOn(map); 
 
