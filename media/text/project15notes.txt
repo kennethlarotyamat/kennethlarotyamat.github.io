@@ -6,6 +6,22 @@ including the 58 videos I haven't uploaded yet.
 
 ...
 
+<!-- https://kennethlarotyamat.github.io/project15/misc/refactoredproject12.html --> <!-- C:\Users\KLYam\OneDrive\Documents\GitHub\project15\misc\refactoredproject12.html -->
+
+<!-- https://kennethlarotyamat.github.io/project15/index.html  --> <!-- C:\Users\KLYam\OneDrive\Documents\GitHub\project15\index.html -->
+
+<!-- this project doesn't even use any javascript, so I'm not sure how I would refactor this using react -->
+<!-- C:\Users\KLYam\OneDrive\Documents\GitHub\project15\misc\refactoredp112p11hamburgersdistindex.html -->
+<!-- C:\Users\KLYam\OneDrive\Documents\GitHub\kennethlarotyamat.github.io\html\p112p11hamburgersdistindex.html -->
+<!-- C:\Users\KLYam\OneDrive\Documents\GitHub\project15\index.html -->
+<!-- https://kennethlarotyamat.github.io/project15/misc/refactoredproject14v004.html -->
+
+<!-- C:\Users\KLYam\OneDrive\Documents\GitHub\kennethlarotyamat.github.io\html\project14v004.html -->
+<!-- C:\Users\KLYam\OneDrive\Documents\GitHub\project15\misc\refactoredproject14v004.html -->
+<!-- https://kennethlarotyamat.github.io\project15\misc\refactoredproject14v004.html -->
+
+...
+
 I'm copying versions into my project 15 repository of projects I'm going to refactor.
 it takes forever for a page to deploy. or file.
 
