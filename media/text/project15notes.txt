@@ -4,6 +4,9 @@ I don't remember where I left off, I've been getting sidetracked. I'm going to c
 gaming. I have videos uploaded on my youtube channel going out until September of 2024, and that's not 
 including the 58 videos I haven't uploaded yet.
 
+I don't know what to do right now. this should be easy, it's set up. that particular challenge is now 
+over, and now I just have to get down to business. I want to refactor the index page as well.
+
 ...
 
 <!-- https://kennethlarotyamat.github.io/project15/misc/refactoredproject12.html --> <!-- C:\Users\KLYam\OneDrive\Documents\GitHub\project15\misc\refactoredproject12.html -->
