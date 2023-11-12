@@ -10,6 +10,24 @@ to project 15.
 
 ...
 
+<!-- 
+[Development Commentary]                        [11/05/2023 03:35]
+
+Even with as much time as I've spent on this, and seemingly no closer to getting a JSON file working, I seem to have
+made a breakthrough with this carousel. The iframes look like they are interactive in a way that they were not interactive
+in the original Project 10 version of the carousel.
+
+I'm setting up links to see if the iframes in the carousel work, and if they do, then that means this should work. and I can
+get project 14 completed, even though this seems like it was kind of a long digression from the requirements of project 14.
+
+[file:///C:/Users/KLYam/OneDrive/Documents/GitHub/kennethlarotyamat.github.io/html/jcs0018.html] 
+
+-->
+
+<!-- href="https://en.wikipedia.org/wiki/Lana_Del_Rey" target="_self"  [11/05/2023 02:55] -->
+
+...
+
 //  set view latitude  Geo URI Spanish Steps from Roman Holiday	geo:   41.906100,       12.482800
 //  [11/06/2023 05:58 AM] I'm trying to think about where I left off. checking page.
 //  [11/06/2023 01:53 AM] latitude 
