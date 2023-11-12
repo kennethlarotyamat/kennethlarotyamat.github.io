@@ -13,7 +13,7 @@ crossorigin=""></script>
 
 <title> Monica Geller: Let's Meet Up ! </title>
 
-<!-- [11/06/2023 06:09 AM] I think that this page is set up Update Names -->
+<!-- [11/06/2023 06:09 AM] I think that this page is set up Update Names -->  
 </head>
 
 <body>
@@ -21,22 +21,11 @@ crossorigin=""></script>
 <div id="map" style=" width: 100%; height: auto; aspect-ratio: 686/868; "> </div>
 
 <script>
-// update locations, this is the field of view
+// update locations, this is the field of view     40.783333, -73.966667
 
-        const map = L.map('map').setView([42.996214,
+        const map = L.map('map').setView([40.628801, -73.993692], 13);
 
-                //  set view latitude 
-                //  [11/06/2023 05:58 AM] I'm trying to think about where I left off. checking page.
-                //  [11/06/2023 01:53 AM] latitude 
-                //  [11/06/2023 02:35 AM] [Development Commentary] [686/868 is called "the chestnut ratio 868/686 is called "the hazel ratio"] 
-                //  [11/06/2023 05:58 AM] [Attribution] [http://www.openstreetmap.org/copyright]
-                //  [11/06/2023 05:58 AM] I think I remember, I have to set up this page first, and then move on to creating the other 18 pages. 
-                //  [11/06/2023 05:59 AM] <!-- [11/06/2023 03:01 AM] [Development Commentary] [686/868 is called "the chestnut ratio 868/686 is called 
-                // "the hazel ratio"] [11/06/2023 03:01 AM] [Development Commentary] [686/868 is called "the chestnut ratio 868/686 is called "the hazel ratio"] 
-                // [11/06/2023 01:53 AM] [11/06/2023 01:53 AM] [Development Commentary] [686/868 is called "the chestnut ratio 868/686 is called "the hazel ratio"]-->
 
-            -79.037743], // longitude set view latitude 
-            13);    //zoom
 
         const tiles = L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
             maxZoom: 19,
@@ -45,10 +34,10 @@ crossorigin=""></script>
 
 // Location Pin
 
-var marker = L.marker([43.096214, -79.037743]).addTo(map);
-var circle = L.circle([43.08, -79.08], {radius: 600}).addTo(map);
-
-var latlngs = [[43.09, -79.07],[43.08, -79.06],[43.1, -79.05]];
+var marker = L.marker([40.793141, -73.960304]).addTo(map);
+var circle = L.circle([40.738801, -73.993692], {radius: 600}).addTo(map);
+// 40.738801, -73.993692            40.718801, -73.963692                     40.768801, -73.963692
+var latlngs = [[40.721092, -73.981419],[40.718801, -73.963692],[40.768801, -73.963692]];
 
 var polygon = L.polygon(latlngs, {color: 'orange', weight:6, fillOpacity: .8}).addTo(map);
 
@@ -56,8 +45,8 @@ var polygon = L.polygon(latlngs, {color: 'orange', weight:6, fillOpacity: .8}).a
 
 // Location Pin Text Bubble
 var popup = L.popup()
-.setLatLng([43.1123, -79.01])
-.setContent("The last time we ever crossed paths.")
+.setLatLng([40.746461, -74.034977])
+.setContent("Say it: no ideas but in things! nothing but the blank faces of the houses and cylindrical trees—Say it, no ideas but in things, nothing but the blank faces of the houses and cylindrical trees.")
 .openOn(map); 
 
 function onMapClick(e) {
@@ -69,8 +58,16 @@ map.on('click', onMapClick);
            
 
 </script>
+<!-- Say it: no ideas but in things! nothing but the blank faces of the houses and cylindrical trees—Say it, no ideas but in things, nothing but the blank faces of the houses and cylindrical trees. -->
 
-<!-- 
+
+
+
+<!--  —Say it: no ideas but in things!
+nothing but the blank faces of the houses
+and cylindrical trees—Say it, no ideas but in things,
+nothing but the blank faces of the houses
+and cylindrical trees.
 [Citations]    [http://www.openstreetmap.org/copyright]
   
   7. Conclusion & Takeaways
