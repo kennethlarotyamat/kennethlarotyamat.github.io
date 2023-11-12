@@ -21,9 +21,9 @@ crossorigin=""></script>
 <div id="map" style=" width: 100%; height: auto; aspect-ratio: 686/868; "> </div>
 
 <script>
-// update locations, this is the field of view
+// update locations, this is the field of view     45.631111,-122.671667
 
-        const map = L.map('map').setView([42.996214, -79.037743],  13);
+        const map = L.map('map').setView([45.631111,-122.671667],  13);
 
 
 
@@ -34,9 +34,9 @@ crossorigin=""></script>
 
 // Location Pin
 
-var marker = L.marker([43.096214, -79.037743]).addTo(map);
-var circle = L.circle([43.08, -79.08], {radius: 600}).addTo(map);
-
+var marker = L.marker([45.631111,-122.671667]).addTo(map);
+var circle = L.circle([45.631111,-122.671667], {radius: 600}).addTo(map);
+//  45.631111,-122.671667             45.631111,-122.671667                45.631111,-122.671667
 var latlngs = [[43.09, -79.07],[43.08, -79.06],[43.1, -79.05]];
 
 var polygon = L.polygon(latlngs, {color: 'orange', weight:6, fillOpacity: .8}).addTo(map);
@@ -45,7 +45,7 @@ var polygon = L.polygon(latlngs, {color: 'orange', weight:6, fillOpacity: .8}).a
 
 // Location Pin Text Bubble
 var popup = L.popup()
-.setLatLng([43.1123, -79.01])
+.setLatLng([45.631111,-122.671667])
 .setContent("The last time we ever crossed paths.")
 .openOn(map); 
 
@@ -168,77 +168,7 @@ var polygon = L.polygon(latlngs, {color: 'orange'}).addTo(map);
 
  -->
 
-<!-- that didn't work -->
-<!-- var latlngs = [43.09, -79.07],[43.08, -79.06],[43.1, -79.05],];
 
-var polygon = L.polygon(latlngs, {color: 'orange'}).addTo(map);  -->
-<!-- [work area]
-
-var latlngs = [43.09, -79.07],[43.08, -79.06],[43.1, -79.05],];
-
-var polygon = L.polygon(latlngs, {color: 'orange'}).addTo(map); 
-
-[work area] --> 
-
-<!-- weight	Number	3	Stroke width in pixels -->
-
-<!-- fillOpacity	Number	0.2	Fill opacity. -->
-
-<!-- https://leafletjs.com/reference.html#polygon -->
-
-<!-- [43.09, -79.07]
-[43.08, -79.06]
-[43.1, -79.05] -->
-
-
-<!-- https://leafletjs.com/reference.html#polygon -->
-
-<!-- 
-  Leaflet was created 11 years ago by Volodymyr Agafonkin, a Ukrainian citizen living in Kyiv.
-
-Russian bombs are now falling over Volodymyr’s hometown. His family, his friends, his neighbours, thousands and thousands of absolutely wonderful people, are either seeking refuge or fighting for their lives.
-
-The Russian soldiers have already killed tens of thousands of civilians, including women and children, and are committing mass war crimes like gang rapes, executions, looting, and targeted bombings of civilian shelters and places of cultural significance. The death toll keeps rising, and Ukraine needs your help.
-
-As Volodymyr expressed a few days before the invasion:
-
-If you want to help, educate yourself and others on the Russian threat, follow reputable journalists, demand severe Russian sanctions and Ukrainian support from your leaders, protest war, reach out to Ukrainian friends, donate to Ukrainian charities. Just don’t be silent.
-
-Ukrainians are recommending the Come Back Alive charity. For other options, see StandWithUkraine.
-
-If an appeal to humanity doesn’t work for you, I’ll appeal to your egoism: the future of Ukrainian citizens is the future of Leaflet.
-
-It is chilling to see Leaflet being used for documenting Russia’s war crimes, factual reporting of the war and for coordination of humanitarian efforts in Romania and in Poland. We commend these uses of Leaflet.
-
-If you support the actions of the Russian government (even after reading all this), do everyone else a favour and carry some seeds in your pocket.
-
-Yours truly,
-Leaflet maintainers.
- -->
-
-<!-- 
-Coordinates:
-[43.09, -79.07]
-[43.08, -79.06]
-[43.1, -79.05]
-Options:
-Color: orange
-fillOpacity: 0.8
-weight: 6
-Your map should now look like the one below.
- -->
-<!-- 
-[43.09, -79.07]
-[43.08, -79.06]
-[43.1, -79.05] 
--->
-
-
-
-<!-- https://leafletjs.com/reference.html#polygon -->
-<!-- Most tile providers such as OpenStreetMap and Google Maps require an attribution, 
-please check the copyright notice of the tiles provider before publishing your page 
-in production. -->
 
 
 
