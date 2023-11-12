@@ -10,6 +10,14 @@ to project 15.
 
 ...
 
+<!-- Button works, need to update based on page -->
+<!-- Button works, need to update based on page -->
+<!-- Jennifer Connelly as Dawn Dwyer Levov from wikipedia  -->
+<!-- href="https://en.wikipedia.org/wiki/Lana_Del_Rey" target="_self"   [11/05/2023 03:40] [11/05/2023 02:55] -->
+
+
+...
+
                 //  set view latitude 
                 //  [11/06/2023 05:58 AM] I'm trying to think about where I left off. checking page.
                 //  [11/06/2023 01:53 AM] latitude 
