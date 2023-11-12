@@ -21,9 +21,9 @@ crossorigin=""></script>
 <div id="map" style=" width: 100%; height: auto; aspect-ratio: 686/868; "> </div>
 
 <script>
-// update locations, this is the field of view
+// update locations, this is the field of view       42.281389, -83.748333
 
-        const map = L.map('map').setView([42.996214, -79.037743], 13);
+        const map = L.map('map').setView([42.281389, -83.748333], 13);
 
 
 
@@ -34,9 +34,9 @@ crossorigin=""></script>
 
 // Location Pin
 
-var marker = L.marker([43.096214, -79.037743]).addTo(map);
-var circle = L.circle([43.08, -79.08], {radius: 600}).addTo(map);
-
+var marker = L.marker([42.281389, -83.748333]).addTo(map);
+var circle = L.circle([42.281389, -83.748333], {radius: 600}).addTo(map);
+// 42.281389, -83.748333              42.281389, -83.748333              42.281389, -83.748333
 var latlngs = [[43.09, -79.07],[43.08, -79.06],[43.1, -79.05]];
 
 var polygon = L.polygon(latlngs, {color: 'orange', weight:6, fillOpacity: .8}).addTo(map);
@@ -45,8 +45,8 @@ var polygon = L.polygon(latlngs, {color: 'orange', weight:6, fillOpacity: .8}).a
 
 // Location Pin Text Bubble
 var popup = L.popup()
-.setLatLng([43.1123, -79.01])
-.setContent("The last time we ever crossed paths.")
+.setLatLng([42.281389, -83.748333])
+.setContent("The collaboration begins!")
 .openOn(map); 
 
 function onMapClick(e) {
