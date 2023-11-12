@@ -23,7 +23,7 @@ crossorigin=""></script>
 <script>
 // update locations, this is the field of view
 
-        const map = L.map('map').setView([33.518889, -84.39], 13);
+        const map = L.map('map').setView([33.518889, -84.390000], 13);
 
 
 
@@ -34,13 +34,13 @@ crossorigin=""></script>
 
 // Location Pin
 
-var marker = L.marker([33.748889, -84.39]).addTo(map);
-var circle = L.circle([33.748889, -84.39], {radius: 3600}).addTo(map);
+var marker = L.marker([33.748889, -84.390000]).addTo(map);
+var circle = L.circle([33.748889, -84.390000], {radius: 3600}).addTo(map);
 
 
 
 
-var latlngs = [[33.749157, -84.38221],[33.758889, -84.35],[33.778889, -84.35]];
+var latlngs = [[33.749157, -84.38221],[33.758889, -84.35],[33.778889, -84.350000]];
 
 var polygon = L.polygon(latlngs, {color: 'orange', weight:6, fillOpacity: .8}).addTo(map);
 
@@ -48,7 +48,7 @@ var polygon = L.polygon(latlngs, {color: 'orange', weight:6, fillOpacity: .8}).a
 
 // Location Pin Text Bubble
 var popup = L.popup()
-.setLatLng([33.762289, -84.409847])
+.setLatLng([33.800844, -84.381695])
 .setContent("You've had dreams about me? because I don't think you see what I'm getting at.")
 .openOn(map); 
 
