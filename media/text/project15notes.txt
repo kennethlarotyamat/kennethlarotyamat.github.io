@@ -16,6 +16,28 @@ is done in a way that I like it. DONE!
 
 ...
 
+https://kennethlarotyamat.github.io/project15/index.html
+
+https://kennethlarotyamat.github.io/project15/misc/refactoredproject14v004.html
+
+https://kennethlarotyamat.github.io/html/reactCDNuse.html
+
+https://kennethlarotyamat.github.io/project15/misc/reactbuttons.html
+
+http://localhost:3000/
+
+https://kennethlarotyamat.github.io/project15/misc/reactbuttons.html
+
+file:///C:/Users/KLYam/OneDrive/Documents/GitHub/project15/misc/reactbuttons.html
+
+view-source:file:///C:/Users/KLYam/OneDrive/Documents/GitHub/project15/misc/reactbuttons.html
+
+...
+
+https://legacy.reactjs.org/docs/create-a-new-react-app.html
+
+...
+
 <!-- 
   Leaflet was created 11 years ago by Volodymyr Agafonkin, a Ukrainian citizen living in Kyiv.
 
