@@ -43,10 +43,16 @@ crossorigin=""></script>
 var marker = L.marker([41.906200, 12.483800]).addTo(map);
 var circle = L.circle([41.902535, 12.451286], {radius: 1300}).addTo(map);
 
+// 41.899071, 12.524929        41.829071, 12.504929                41.919071, 12.500929
+//                                      41.827723, 12.505016
+var latlngs = [[41.899071, 12.524929],[41.874147, 12.509136],[41.919071, 12.500929]];
+
+var polygon = L.polygon(latlngs, {color: 'orange', weight:6, fillOpacity: .8}).addTo(map);
+
 
 var popup = L.popup()
 .setLatLng([41.921200, 12.493800])
-.setContent("I'll never forget how you left me here!")
+.setContent("I hate this nightgown. I hate all my nightgowns, and I hate all my underwear too.")
 .openOn(map);
 
 

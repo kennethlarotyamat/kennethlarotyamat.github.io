@@ -11,7 +11,8 @@ was necessary to do 20 different leaflet pages, but, I think it looks nice, plus
 leaflet pages for the hamburgers project I did a while ago.
 
 but, getting back to project 15. I think that I'm going to start with a few simple things that 
-just use the CDN before I start using all those packages I installed.
+just use the CDN before I start using all those packages I installed. That's all done, project 14 
+is done in a way that I like it. DONE!
 
 ...
 
