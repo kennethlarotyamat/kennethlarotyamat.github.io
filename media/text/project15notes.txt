@@ -11,6 +11,7 @@ to project 15.
 ...
 
 update locations, this is the field of view    
+.setContent("This is how we know we're alive: when we get things wrong")
 
 ...
 
