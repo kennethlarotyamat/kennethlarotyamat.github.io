@@ -16,6 +16,11 @@ is done in a way that I like it. DONE!
 
 ...
 
+<!-- [ Absolute Path, Remote ] [ https://kennethlarotyamat.github.io/miscellaneous/html/tictactoe.html ] -->
+<!-- C:\Users\KLYam\OneDrive\Documents\GitHub\miscellaneous\html\tictactoe.html -->
+
+...
+
 https://kennethlarotyamat.github.io/project15/index.html
 
 https://kennethlarotyamat.github.io/project15/misc/refactoredproject14v004.html
