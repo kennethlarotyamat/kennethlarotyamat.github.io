@@ -20,7 +20,13 @@ packages I installed. That's all done, project 14
 is done in a way that I like it. DONE!
 
 This was not too exciting, boring, a few stuff using the React CDN, 
-and all of this stuff is stuff from the React Website itself.
+and all of this stuff is stuff from the React Website itself. I'm 
+going to test out a few more CDN React things, and then try something
+else with react. This should be really useful, when I think about my 
+most recent update to the Chestnut + Hazel Connections project, I had 
+to create 20 seperate Jennifer Connelly Pages, and 20 different Meet 
+Me at our Spot pages, that's 40 pages that I had to create, and supposedly 
+I wouldnt have to do that if I could set up create for that project.
 
 ...
 
