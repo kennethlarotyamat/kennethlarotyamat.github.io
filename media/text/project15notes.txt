@@ -1,3 +1,9 @@
+...
+
+<!-- C:\Users\KLYam\OneDrive\Documents\GitHub\project15\misc\fruitssandbox.html -->
+
+...
+
 I've come back around to project 14 to update the map links to 
 leaflet, to give all the pages a customized location. project 14 
 hasn't been graded yet, so I figured I would spend a little 
