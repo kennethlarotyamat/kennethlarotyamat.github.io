@@ -4,6 +4,14 @@
 <!-- C:\Users\KLYam\OneDrive\Documents\GitHub\project15\misc\fruitssandbox.html -->
 <!-- file:///C:/Users/KLYam/OneDrive/Documents/GitHub/kennethlarotyamat.github.io/html/tictactoe.html -->
 
+C:\Users\KLYam\OneDrive\Documents\GitHub\kennethlarotyamat.github.io\html\tictactoe.html
+
+C:\Users\KLYam\OneDrive\Documents\GitHub\project15\index.html
+
+C:\Users\KLYam\OneDrive\Documents\GitHub\kennethlarotyamat.github.io\html\tictactoe.html
+
+C:\Users\KLYam\OneDrive\Documents\GitHub\project15\misc\fruitssandbox.html
+
 ...
 
 I've come back around to project 14 to update the map links to 
