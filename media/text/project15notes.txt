@@ -1,6 +1,8 @@
 ...
 
+<!-- [ Absolute Path, Remote ] [ https://kennethlarotyamat.github.io/project15/index.html ] -->
 <!-- C:\Users\KLYam\OneDrive\Documents\GitHub\project15\misc\fruitssandbox.html -->
+<!-- file:///C:/Users/KLYam/OneDrive/Documents/GitHub/kennethlarotyamat.github.io/html/tictactoe.html -->
 
 ...
 
