@@ -1,3 +1,7 @@
+I'm not sure if I'm going to use .md or .txt files for the text area, or, if maybe I want to change this to an HTML file.
+
+...
+
 User
 i need an anchor button that changes a src within an iframe
 ChatGPT
@@ -36,3 +40,5 @@ Is this conversation helpful so far?
 Message ChatGPT…
 
 ChatGPT can make mistakes. Consider checking important information.
+
+...
