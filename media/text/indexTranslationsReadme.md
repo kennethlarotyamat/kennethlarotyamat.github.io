@@ -8,6 +8,9 @@ but then changes to Translation Title when the Translation Title File is selecte
 
 ...
 
+![Chat GPT Response](https://kennethlarotyamat.github.io/miscellaneous/media/images/Screenshot2023-11-22-214506.png|alt=ChatGPTResponse)  
+
+[[https://kennethlarotyamat.github.io/miscellaneous/media/images/Screenshot2023-11-22-214506.png|alt=ChatGPTResponse]]
 ![Chat GPT Response](https://kennethlarotyamat.github.io/miscellaneous/media/images/Screenshot2023-11-22-214506.png "Chat GPT Response")
 
 User
