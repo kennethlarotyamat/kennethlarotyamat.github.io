@@ -8,6 +8,8 @@ but then changes to Translation Title when the Translation Title File is selecte
 
 ...
 
+![The San Juan Mountains are beautiful!](https://kennethlarotyamat.github.io/miscellaneous/media/images/Screenshot2023-11-22-214506.png "San Juan Mountains")
+
 User
 i need an anchor button that changes a src within an iframe
 ChatGPT
