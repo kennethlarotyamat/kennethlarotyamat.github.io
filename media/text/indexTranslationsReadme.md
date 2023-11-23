@@ -8,6 +8,10 @@ but then changes to Translation Title when the Translation Title File is selecte
 
 ...
 
+It's not possible to put an image into a .md file as far as I can tell.
+
+...
+
 ![Chat GPT Response](https://kennethlarotyamat.github.io/miscellaneous/media/images/Screenshot2023-11-22-214506.png)
 
 <img src="https://kennethlarotyamat.github.io/miscellaneous/media/images/Screenshot2023-11-22-214506.png" alt="Chat GPT Response" width="100%" height="600">
