@@ -1,5 +1,11 @@
 I'm not sure if I'm going to use .md or .txt files for the text area, or, if maybe I want to change this to an HTML file.
 
+This might be like the Chestnut + Hazel Connections Version 4. where I need a button that changes the source for the iframe, but also
+changes the Title,
+
+for example, it's going to start with the Development Commentary Title, with the Development Commentary .md file, 
+but then changes to Translation Title when the Translation Title File is selected.
+
 ...
 
 User
