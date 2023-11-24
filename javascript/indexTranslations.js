@@ -21,11 +21,11 @@ document.getElementById("documentHeader").innerText = newHeadingText2;
   });
 
   document.getElementById('changeSrcBtn3').addEventListener('click', function() {
-    var newSource3 = 'https://kennethlarotyamat.github.io/media/text/indexTranslationsReadme.md'; // Replace this URL with your desired source
+    var newSource3 = 'https://kennethlarotyamat.github.io/project16/media/text/readme.md'; // Replace this URL with your desired source
     
     var iframe = document.getElementById('myIframe');
     iframe.src = newSource3;
-    var newHeadingText3 = "Development Commentary";
+    var newHeadingText3 = "Project 16 Readme";  // Replace this Title with your desired Title
   document.getElementById("documentHeader").innerText = newHeadingText3;
     });
 
