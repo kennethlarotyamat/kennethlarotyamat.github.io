@@ -1,3 +1,7 @@
+
+
+// Modal shutoff Start
+
 $(function(){
     $("body").on('hidden.bs.modal', function (e) {
       var $iframes = $(e.target).find("iframe");
@@ -8,6 +12,10 @@ $(function(){
   });  
 $(function() {
   "use strict";
+
+  // Modal shutoff End
+
+  // Grayscale Toggle Start
 
   let bodyA = $(".bodya");
   let footer = $(".footer");
@@ -36,3 +44,5 @@ $(function() {
 
   modeToggle.click(toggleMode);
 });
+
+  // Grayscale Toggle End
