@@ -5,6 +5,10 @@ var newSource = 'https://kennethlarotyamat.github.io/media/text/fmop10mREADME.md
 
 var iframe = document.getElementById('myIframe');
 iframe.src = newSource;
+
+var newHeadingText = "Project 13 Readme";
+document.getElementById("documentHeader").innerText = newHeadingText;
+
 });
 
 document.getElementById('changeSrcBtn2').addEventListener('click', function() {
