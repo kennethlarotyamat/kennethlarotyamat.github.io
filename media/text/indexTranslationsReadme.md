@@ -1,3 +1,9 @@
+This is awesome! it actually works, the title and the document
+change when clicked! I'm going to come back around to this and
+continue to work on it later.
+
+...
+
 Certainly! Here's an example of a JavaScript function that changes the text of an `<h1>` element when a button is clicked:
 
 HTML:
