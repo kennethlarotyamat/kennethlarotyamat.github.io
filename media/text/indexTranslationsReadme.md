@@ -1,3 +1,30 @@
+Certainly! Here's an example of a JavaScript function that changes the text of an `<h1>` element when a button is clicked:
+
+HTML:
+```html
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Change Text</title>
+</head>
+<body>
+  <h1 id="heading">Original Heading</h1>
+  <button onclick="changeHeadingText()">Change Text</button>
+
+  <script>
+    function changeHeadingText() {
+      var newHeadingText = "New Heading Text";
+      document.getElementById("heading").innerText = newHeadingText;
+    }
+  </script>
+</body>
+</html>
+```
+
+In this example, when the button is clicked, the `changeHeadingText()` function is triggered. Inside this function, it gets the `<h1>` element by its ID ("heading") and updates its `innerText` property to a new value ("New Heading Text"). You can modify the `newHeadingText` variable to set any text you want for the `<h1>` element.
+
+...
+
 I put the code that ChatGPT recommended into the page, and now
 I just need to wait for the javascript file to deploy on GitHub.
 
