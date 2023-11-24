@@ -1,3 +1,22 @@
+
+Copy code
+<button id="changeSrcBtn">Change iframe source</button>
+<iframe id="myIframe" src="https://www.example.com" width="600" height="400"></iframe>
+JavaScript:
+
+html
+Copy code
+<script>
+  document.getElementById('changeSrcBtn').addEventListener('click', function() {
+    var newSource = 'https://www.newsource.com'; // Replace this URL with your desired source
+    
+    var iframe = document.getElementById('myIframe');
+    iframe.src = newSource;
+  });
+</script>
+
+...
+
 I'm not sure if I'm going to use .md or .txt files for the text area, or, if maybe I want to change this to an HTML file.
 
 This might be like the Chestnut + Hazel Connections Version 4. where I need a button that changes the source for the iframe, but also
