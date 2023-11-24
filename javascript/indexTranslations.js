@@ -1,4 +1,12 @@
+// iframe document swap Start
 
+document.getElementById('changeSrcBtn').addEventListener('click', function() {
+    var newSource = 'https://kennethlarotyamat.github.io/media/text/fmop10mREADME.md'; // Replace this URL with your desired source
+    
+    var iframe = document.getElementById('myIframe');
+    iframe.src = newSource;
+    });
+// iframe document swap end
 
 // Modal shutoff Start
 
