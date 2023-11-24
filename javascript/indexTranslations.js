@@ -16,6 +16,8 @@ document.getElementById('changeSrcBtn2').addEventListener('click', function() {
   
   var iframe = document.getElementById('myIframe');
   iframe.src = newSource2;
+  var newHeadingText2 = "Development Commentary";
+document.getElementById("documentHeader").innerText = newHeadingText2;
   });
 // iframe document swap end
 
