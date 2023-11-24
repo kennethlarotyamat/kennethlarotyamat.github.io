@@ -8,7 +8,7 @@ iframe.src = newSource;
 });
 
 document.getElementById('changeSrcBtn2').addEventListener('click', function() {
-  var newSource2 = 'https://kennethlarotyamat.github.io/media/text/fmop10mREADME.md'; // Replace this URL with your desired source
+  var newSource2 = 'https://kennethlarotyamat.github.io/media/text/indexTranslationsReadme.md'; // Replace this URL with your desired source
   
   var iframe = document.getElementById('myIframe');
   iframe.src = newSource2;
