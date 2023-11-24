@@ -19,6 +19,16 @@ document.getElementById('changeSrcBtn2').addEventListener('click', function() {
   var newHeadingText2 = "Development Commentary";
 document.getElementById("documentHeader").innerText = newHeadingText2;
   });
+
+  document.getElementById('changeSrcBtn3').addEventListener('click', function() {
+    var newSource3 = 'https://kennethlarotyamat.github.io/media/text/indexTranslationsReadme.md'; // Replace this URL with your desired source
+    
+    var iframe = document.getElementById('myIframe');
+    iframe.src = newSource3;
+    var newHeadingText3 = "Development Commentary";
+  document.getElementById("documentHeader").innerText = newHeadingText3;
+    });
+
 // iframe document swap end
 
 // Modal shutoff Start
