@@ -1,4 +1,4 @@
-// iframe document swap Start
+// iframe document swap START
 
 document.getElementById('changeSrcBtn').addEventListener('click', function() {
 var newSource = 'https://kennethlarotyamat.github.io/media/text/fmop10mREADME.md'; // Replace this URL with your desired source
@@ -29,7 +29,7 @@ var newHeadingText3 = "Project 16 Readme";  // Replace this Title with your desi
 document.getElementById("documentHeader").innerText = newHeadingText3;
 });
 
-// iframe document swap end
+// iframe document swap END
 
 // Spanish to English Buttons START
 
