@@ -6,7 +6,9 @@ while playing the games themselves because my computer slows down
 a lot.
 
 Buying a new gaming laptop is something that I thought about, but
-I think that I'll wait to do it.
+I think that I'll wait to do it. A gaming computer that can play
+the games I want to play doesn't look too expensive, but I really
+have to wait to spend that kind of money right now.
 
 ...
 
