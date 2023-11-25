@@ -4,6 +4,20 @@ the next stage in this project is to pick 4 authors to translate.
 I'll pick four authors to translate from English to Spanish,
 and 4 authors to translate from Spanish to English.
 
+For English to Spanish:
+
+William Carlos Williams
+T. S. Eliot
+Wallace Stevens
+E. E. Cummings
+
+For Spanish to English:
+
+Rubén Darío
+César Vallejo
+Pablo Neruda
+Miguel de Unamuno
+
 ...
 
 This is awesome! it actually works, the title and the document
