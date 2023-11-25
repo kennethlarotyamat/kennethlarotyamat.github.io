@@ -44,7 +44,7 @@ document.getElementById("documentHeader").innerText = newHeadingText3s1;
 
   
 document.getElementById('changeSrcBtn3s2').addEventListener('click', function() {
-var newSource3s2 = 'https://kennethlarotyamat.github.io/project16/media/text/readme.md'; // Replace this URL with your desired source
+var newSource3s2 = 'https://kennethlarotyamat.github.io/project16/media/text/translationFiles/cvs2.md'; // Replace this URL with your desired source
 
 var iframe = document.getElementById('myIframe');
 iframe.src = newSource3s2;
