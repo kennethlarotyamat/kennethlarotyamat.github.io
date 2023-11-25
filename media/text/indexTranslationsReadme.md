@@ -17,6 +17,10 @@ César Vallejo with José de Espronceda
 & 
 Pablo Neruda with Antonio Machado
 
+I created a few additional javascript functions to allow
+the contact forms to be visible inside the ifram and clickable
+inside the list.
+
 ...
 
 I think that everything has been set up, once everything is
