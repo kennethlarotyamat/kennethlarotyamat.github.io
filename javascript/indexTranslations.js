@@ -114,7 +114,7 @@ document.getElementById('changeSrcBtn3e1').addEventListener('click', function() 
       });
 
       document.getElementById('changeSrcBtn3e4').addEventListener('click', function() {
-        var newSource3e4 = 'https://kennethlarotyamat.github.io/    C:\Users\KLYam\OneDrive\Documents\GitHub\project16\media\text\translationFiles\eece4.md '; // Replace this URL with your desired source
+        var newSource3e4 = 'https://kennethlarotyamat.github.io/project16/media/text/translationFiles/eece4.md '; // Replace this URL with your desired source
         
         var iframe = document.getElementById('myIframe');
         iframe.src = newSource3e4;
