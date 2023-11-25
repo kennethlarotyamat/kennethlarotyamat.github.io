@@ -212,4 +212,4 @@ modeStatus.text(modeMessage);
 modeToggle.click(toggleMode);
 });
 
-// Grayscale Toggle End
+// Grayscale Toggle END
