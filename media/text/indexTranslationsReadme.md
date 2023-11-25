@@ -1,3 +1,10 @@
+So I set up the .md files for the four authors that I'm going
+to translate from English to Spanish, and the four authors
+that I'm going to translate from Spanish to English. I selected
+all authors whose work I expect to be in the Public Domain.
+
+...
+
 Getting the Readme iFrame and Document Title swap to work is complete,
 the next stage in this project is to pick 4 authors to translate.
 
