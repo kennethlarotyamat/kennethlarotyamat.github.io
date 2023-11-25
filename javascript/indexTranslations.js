@@ -43,14 +43,14 @@ document.getElementById("documentHeader").innerText = newHeadingText3s1;
 });
 
   
-  document.getElementById('changeSrcBtn3s2').addEventListener('click', function() {
-    var newSource3s2 = 'https://kennethlarotyamat.github.io/project16/media/text/readme.md'; // Replace this URL with your desired source
-    
-    var iframe = document.getElementById('myIframe');
-    iframe.src = newSource3s2;
-    var newHeadingText3s2 = "Project 16 Readme";  // Replace this Title with your desired Title
-    document.getElementById("documentHeader").innerText = newHeadingText3s2;
-    });
+document.getElementById('changeSrcBtn3s2').addEventListener('click', function() {
+var newSource3s2 = 'https://kennethlarotyamat.github.io/project16/media/text/readme.md'; // Replace this URL with your desired source
+
+var iframe = document.getElementById('myIframe');
+iframe.src = newSource3s2;
+var newHeadingText3s2 = "Project 16 Readme";  // Replace this Title with your desired Title
+document.getElementById("documentHeader").innerText = newHeadingText3s2;
+});
 
     
     document.getElementById('changeSrcBtn3s3').addEventListener('click', function() {
