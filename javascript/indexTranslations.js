@@ -63,14 +63,14 @@ document.getElementById("documentHeader").innerText = newHeadingText3s3;
 });
 
       
-      document.getElementById('changeSrcBtn3s4').addEventListener('click', function() {
-        var newSource3s4 = 'https://kennethlarotyamat.github.io/project16/media/text/readme.md'; // Replace this URL with your desired source
-        
-        var iframe = document.getElementById('myIframe');
-        iframe.src = newSource3s4;
-        var newHeadingText3s4 = "Project 16 Readme";  // Replace this Title with your desired Title
-        document.getElementById("documentHeader").innerText = newHeadingText3s4;
-        });
+document.getElementById('changeSrcBtn3s4').addEventListener('click', function() {
+var newSource3s4 = 'https://kennethlarotyamat.github.io/project16/media/text/translationFiles/mdus4.md'; // Replace this URL with your desired source
+
+var iframe = document.getElementById('myIframe');
+iframe.src = newSource3s4;
+var newHeadingText3s4 = "Miguel de Unamuno";  // Replace this Title with your desired Title
+document.getElementById("documentHeader").innerText = newHeadingText3s4;
+});
 
         document.getElementById('changeSrcBtn3s5').addEventListener('click', function() {
           var newSource3s5 = 'https://kennethlarotyamat.github.io/project16/media/text/readme.md'; // Replace this URL with your desired source
