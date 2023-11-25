@@ -48,7 +48,7 @@ var newSource3s2 = 'https://kennethlarotyamat.github.io/project16/media/text/tra
 
 var iframe = document.getElementById('myIframe');
 iframe.src = newSource3s2;
-var newHeadingText3s2 = "Project 16 Readme";  // Replace this Title with your desired Title
+var newHeadingText3s2 = "César Vallejo";  // Replace this Title with your desired Title
 document.getElementById("documentHeader").innerText = newHeadingText3s2;
 });
 
