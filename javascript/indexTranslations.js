@@ -84,6 +84,46 @@ document.getElementById("documentHeader").innerText = newHeadingText3s5;
 
 // Spanish to English Buttons END
 
+// English to Spanish Buttons Start
+
+document.getElementById('changeSrcBtn3e1').addEventListener('click', function() {
+  var newSource3e1 = 'https://kennethlarotyamat.github.io/project16/media/text/translationFiles/wcwe1.md '; // Replace this URL with your desired source
+  
+  var iframe = document.getElementById('myIframe');
+  iframe.src = newSource3e1;
+  var newHeadingText3e1 = "Project 16 Readme";  // Replace this Title with your desired Title
+  document.getElementById("documentHeader").innerText = newHeadingText3e1;
+  });
+
+  document.getElementById('changeSrcBtn3e2').addEventListener('click', function() {
+    var newSource3e2 = 'https://kennethlarotyamat.github.io/project16/media/text/translationFiles/tsee2.md'; // Replace this URL with your desired source
+    
+    var iframe = document.getElementById('myIframe');
+    iframe.src = newSource3e2;
+    var newHeadingText3e2 = "Project 16 Readme";  // Replace this Title with your desired Title
+    document.getElementById("documentHeader").innerText = newHeadingText3e2;
+    });
+
+    document.getElementById('changeSrcBtn3e3').addEventListener('click', function() {
+      var newSource3e3 = 'https://kennethlarotyamat.github.io/project16/media/text/translationFiles/wse3.md'; // Replace this URL with your desired source
+      
+      var iframe = document.getElementById('myIframe');
+      iframe.src = newSource3e3;
+      var newHeadingText3e3 = "Project 16 Readme";  // Replace this Title with your desired Title
+      document.getElementById("documentHeader").innerText = newHeadingText3e3;
+      });
+
+      document.getElementById('changeSrcBtn3e4').addEventListener('click', function() {
+        var newSource3e4 = 'https://kennethlarotyamat.github.io/    C:\Users\KLYam\OneDrive\Documents\GitHub\project16\media\text\translationFiles\eece4.md '; // Replace this URL with your desired source
+        
+        var iframe = document.getElementById('myIframe');
+        iframe.src = newSource3e4;
+        var newHeadingText3e4 = "Project 16 Readme";  // Replace this Title with your desired Title
+        document.getElementById("documentHeader").innerText = newHeadingText3e4;
+        });
+
+//  English to Spanish Buttons End 
+
 // Modal shutoff Start
 
 $(function(){
