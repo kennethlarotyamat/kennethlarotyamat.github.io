@@ -72,14 +72,14 @@ var newHeadingText3s4 = "Miguel de Unamuno";  // Replace this Title with your de
 document.getElementById("documentHeader").innerText = newHeadingText3s4;
 });
 
-        document.getElementById('changeSrcBtn3s5').addEventListener('click', function() {
-          var newSource3s5 = 'https://kennethlarotyamat.github.io/project16/media/text/readme.md'; // Replace this URL with your desired source
-          
-          var iframe = document.getElementById('myIframe');
-          iframe.src = newSource3s5;
-          var newHeadingText3s5 = "Project 16 Readme";  // Replace this Title with your desired Title
-          document.getElementById("documentHeader").innerText = newHeadingText3s5;
-          });
+document.getElementById('changeSrcBtn3s5').addEventListener('click', function() {
+var newSource3s5 = 'https://kennethlarotyamat.github.io/project16/media/text/translationFiles/jrs5.md'; // Replace this URL with your desired source
+
+var iframe = document.getElementById('myIframe');
+iframe.src = newSource3s5;
+var newHeadingText3s5 = "José Rizal";  // Replace this Title with your desired Title
+document.getElementById("documentHeader").innerText = newHeadingText3s5;
+});
         
 
 // Spanish to English Buttons END
