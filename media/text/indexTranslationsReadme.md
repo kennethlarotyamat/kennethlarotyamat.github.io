@@ -1,3 +1,8 @@
+I'm putting together the texts that I'll be translating for 
+this project.
+
+...
+
 I think that everything has been set up, once everything is
 deployed, then I can focus on making translations for the
 pages that I've set up.
