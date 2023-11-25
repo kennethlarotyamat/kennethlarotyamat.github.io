@@ -1,3 +1,9 @@
+I think that everything has been set up, once everything is
+deployed, then I can focus on making translations for the
+pages that I've set up.
+
+...
+
 So I set up the .md files for the four authors that I'm going
 to translate from English to Spanish, and the four authors
 that I'm going to translate from Spanish to English. I selected
