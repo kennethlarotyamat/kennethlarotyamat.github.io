@@ -42,7 +42,7 @@ var newHeadingText3s1 = "Rubén Darío";  // Replace this Title with your desire
 document.getElementById("documentHeader").innerText = newHeadingText3s1;
 });
 
-  
+
 document.getElementById('changeSrcBtn3s2').addEventListener('click', function() {
 var newSource3s2 = 'https://kennethlarotyamat.github.io/project16/media/text/translationFiles/cvs2.md'; // Replace this URL with your desired source
 
@@ -53,14 +53,14 @@ document.getElementById("documentHeader").innerText = newHeadingText3s2;
 });
 
     
-    document.getElementById('changeSrcBtn3s3').addEventListener('click', function() {
-      var newSource3s3 = 'https://kennethlarotyamat.github.io/project16/media/text/readme.md'; // Replace this URL with your desired source
-      
-      var iframe = document.getElementById('myIframe');
-      iframe.src = newSource3s3;
-      var newHeadingText3s3 = "Project 16 Readme";  // Replace this Title with your desired Title
-      document.getElementById("documentHeader").innerText = newHeadingText3s3;
-      });
+document.getElementById('changeSrcBtn3s3').addEventListener('click', function() {
+var newSource3s3 = 'https://kennethlarotyamat.github.io/project16/media/text/translationFiles/pns3.md'; // Replace this URL with your desired source
+
+var iframe = document.getElementById('myIframe');
+iframe.src = newSource3s3;
+var newHeadingText3s3 = "Pablo Neruda";  // Replace this Title with your desired Title
+document.getElementById("documentHeader").innerText = newHeadingText3s3;
+});
 
       
       document.getElementById('changeSrcBtn3s4').addEventListener('click', function() {
