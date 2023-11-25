@@ -167,20 +167,20 @@ document.getElementById("documentHeader").innerText = newHeadingText3e44;
 
 // Contact Form Buttons END
 
-// Modal shutoff Start
+// Modal shutoff START
 
 $(function(){
-    $("body").on('hidden.bs.modal', function (e) {
-      var $iframes = $(e.target).find("iframe");
-      $iframes.each(function(index, iframe){
-        $(iframe).attr("src", $(iframe).attr("src"));
-      });
-    });
-  });  
+$("body").on('hidden.bs.modal', function (e) {
+var $iframes = $(e.target).find("iframe");
+$iframes.each(function(index, iframe){
+$(iframe).attr("src", $(iframe).attr("src"));
+});
+});
+});  
 $(function() {
-  "use strict";
+"use strict";
 
-  // Modal shutoff End
+// Modal shutoff END
 
 // Grayscale Toggle START
 
