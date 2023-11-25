@@ -11,7 +11,7 @@ the games I want to play doesn't look too expensive, but I really
 have to wait to spend that kind of money right now.
 
 
-Two Spanish Language Authors have been replace
+Two Spanish Language Authors have been replaced
 
 César Vallejo with José de Espronceda
 & 
