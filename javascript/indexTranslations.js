@@ -129,8 +129,8 @@ document.getElementById('changeSrcBtnCF1').addEventListener('click', function() 
   
   var iframe = document.getElementById('myIframe');
   iframe.src = newSource3e41;
-  var newHeadingText3e4 = "Newsletter Sign-Up 2";  // Replace this Title with your desired Title
-  document.getElementById("documentHeader").innerText = newHeadingText3e4;
+  var newHeadingText3e41 = "Newsletter Sign-Up 2";  // Replace this Title with your desired Title
+  document.getElementById("documentHeader").innerText = newHeadingText3e41;
   });
 
   document.getElementById('changeSrcBtnCF2').addEventListener('click', function() {
@@ -138,8 +138,8 @@ document.getElementById('changeSrcBtnCF1').addEventListener('click', function() 
     
     var iframe = document.getElementById('myIframe');
     iframe.src = newSource3e42;
-    var newHeadingText3e4 = "E. E. Cummings";  // Replace this Title with your desired Title
-    document.getElementById("documentHeader").innerText = newHeadingText3e4;
+    var newHeadingText3e42 = "Newsletter Sign-Up";  // Replace this Title with your desired Title
+    document.getElementById("documentHeader").innerText = newHeadingText3e42;
     });
 
     document.getElementById('changeSrcBtnCF3').addEventListener('click', function() {
@@ -147,8 +147,8 @@ document.getElementById('changeSrcBtnCF1').addEventListener('click', function() 
       
       var iframe = document.getElementById('myIframe');
       iframe.src = newSource3e43;
-      var newHeadingText3e4 = "E. E. Cummings";  // Replace this Title with your desired Title
-      document.getElementById("documentHeader").innerText = newHeadingText3e4;
+      var newHeadingText3e43 = "E. E. Cummings";  // Replace this Title with your desired Title
+      document.getElementById("documentHeader").innerText = newHeadingText3e43;
       });
 
       document.getElementById('changeSrcBtnCF4').addEventListener('click', function() {
@@ -156,8 +156,8 @@ document.getElementById('changeSrcBtnCF1').addEventListener('click', function() 
         
         var iframe = document.getElementById('myIframe');
         iframe.src = newSource3e44;
-        var newHeadingText3e4 = "E. E. Cummings";  // Replace this Title with your desired Title
-        document.getElementById("documentHeader").innerText = newHeadingText3e4;
+        var newHeadingText3e44 = "E. E. Cummings";  // Replace this Title with your desired Title
+        document.getElementById("documentHeader").innerText = newHeadingText3e44;
         });
 
 // Contact Form Buttons START
