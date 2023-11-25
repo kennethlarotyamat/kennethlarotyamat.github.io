@@ -542,8 +542,8 @@ input:checked + .slider:before {
 
 #chmrrm111120230553pm{text-align: center;}
 
-.grid-item aside-two pointOne 
-{
+#pointOneAside
+{ 
 padding: 1vh;
 color: black;
-}
+} 
