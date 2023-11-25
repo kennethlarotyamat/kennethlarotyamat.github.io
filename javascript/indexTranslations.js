@@ -122,7 +122,8 @@ var newHeadingText3e4 = "E. E. Cummings";  // Replace this Title with your desir
 document.getElementById("documentHeader").innerText = newHeadingText3e4;
 });
 
-//  English to Spanish Buttons End 
+//  English to Spanish Buttons END 
+
 // Contact Form Buttons START
 document.getElementById('changeSrcBtnCF1').addEventListener('click', function() {
 var newSource3e41 = 'https://kennethlarotyamat.github.io/project16/html/newslettersignup2.html'; // Replace this URL with your desired source
