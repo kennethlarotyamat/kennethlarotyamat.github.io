@@ -58,7 +58,7 @@ var newSource3s3 = 'https://kennethlarotyamat.github.io/project16/media/text/tra
 
 var iframe = document.getElementById('myIframe');
 iframe.src = newSource3s3;
-var newHeadingText3s3 = "Pablo Neruda";  // Replace this Title with your desired Title
+var newHeadingText3s3 = "Antonio Machado";  // Replace this Title with your desired Title
 document.getElementById("documentHeader").innerText = newHeadingText3s3;
 });
 
