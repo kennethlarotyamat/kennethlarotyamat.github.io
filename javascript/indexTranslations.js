@@ -123,7 +123,7 @@ document.getElementById("documentHeader").innerText = newHeadingText3e4;
 });
 
 //  English to Spanish Buttons End 
-
+// Contact Form Buttons START
 document.getElementById('changeSrcBtnCF1').addEventListener('click', function() {
 var newSource3e41 = 'https://kennethlarotyamat.github.io/project16/html/newslettersignup2.html'; // Replace this URL with your desired source
 
@@ -160,7 +160,7 @@ var newHeadingText3e44 = "Initial Contact Form";  // Replace this Title with you
 document.getElementById("documentHeader").innerText = newHeadingText3e44;
 });
 
-// Contact Form Buttons START
+// Contact Form Buttons END
 
 
 
