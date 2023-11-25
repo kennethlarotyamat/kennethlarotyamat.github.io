@@ -253,3 +253,6 @@ https://kennethlarotyamat.github.io/html/project10index.html
 
 
 ...
+
+There isn't anything here right now. I'm just posting this so that this page is deployed for when I'm ready to put something here.
+I will put something here, but right now, there is nothing here. 
