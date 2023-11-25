@@ -1,5 +1,12 @@
 I'm putting together the texts that I'll be translating for 
-this project.
+this project. I'm also working on my YouTube videos. For video
+editing, I'm mostly just consolidating and speeding up videos
+and adding music, and uploading them, and I can't really do this
+while playing the games themselves because my computer slows down
+a lot.
+
+Buying a new gaming laptop is something that I thought about, but
+I think that I'll wait to do it.
 
 ...
 
