@@ -1,3 +1,11 @@
+Getting the Readme iFrame and Document Title swap to work is complete,
+the next stage in this project is to pick 4 authors to translate.
+
+I'll pick four authors to translate from English to Spanish,
+and 4 authors to translate from Spanish to English.
+
+...
+
 This is awesome! it actually works, the title and the document
 change when clicked! I'm going to come back around to this and
 continue to work on it later.
