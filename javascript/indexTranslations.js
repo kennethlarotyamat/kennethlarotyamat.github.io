@@ -1,3 +1,4 @@
+
 // iframe document swap START
 
 document.getElementById('changeSrcBtn').addEventListener('click', function() {
@@ -81,7 +82,6 @@ var newHeadingText3s5 = "José Rizal";  // Replace this Title with your desired 
 document.getElementById("documentHeader").innerText = newHeadingText3s5;
 });
 
-
 // Spanish to English Buttons END
 
 // English to Spanish Buttons Start
@@ -125,6 +125,7 @@ document.getElementById("documentHeader").innerText = newHeadingText3e4;
 //  English to Spanish Buttons END 
 
 // Contact Form Buttons START
+
 document.getElementById('changeSrcBtnCF1').addEventListener('click', function() {
 var newSource3e41 = 'https://kennethlarotyamat.github.io/project16/html/newslettersignup2.html'; // Replace this URL with your desired source
 
@@ -160,10 +161,6 @@ iframe.src = newSource3e44;
 var newHeadingText3e44 = "Initial Contact Form";  // Replace this Title with your desired Title
 document.getElementById("documentHeader").innerText = newHeadingText3e44;
 });
-
-// Contact Form Buttons END
-
-
 
 // Contact Form Buttons END
 
