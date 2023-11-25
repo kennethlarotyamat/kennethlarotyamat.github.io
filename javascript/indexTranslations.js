@@ -91,7 +91,7 @@ document.getElementById('changeSrcBtn3e1').addEventListener('click', function() 
   
   var iframe = document.getElementById('myIframe');
   iframe.src = newSource3e1;
-  var newHeadingText3e1 = "Project 16 Readme";  // Replace this Title with your desired Title
+  var newHeadingText3e1 = "William Carlos Williams";  // Replace this Title with your desired Title
   document.getElementById("documentHeader").innerText = newHeadingText3e1;
   });
 
