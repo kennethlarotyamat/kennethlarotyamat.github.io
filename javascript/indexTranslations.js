@@ -182,7 +182,7 @@ $(function() {
 
   // Modal shutoff End
 
-// Grayscale Toggle Start
+// Grayscale Toggle START
 
 let bodyA = $(".bodya");
 let footer = $(".footer");
