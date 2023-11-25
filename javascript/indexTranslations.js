@@ -182,34 +182,34 @@ $(function() {
 
   // Modal shutoff End
 
-  // Grayscale Toggle Start
+// Grayscale Toggle Start
 
-  let bodyA = $(".bodya");
-  let footer = $(".footer");
-  let main = $(".main");
-  let aside = $("aside");
-  let subheadercenterheadertextbutton = $(".subheadercenterheadertextbutton");
-  let header = $(".header");
-  let contentouter = $(".contentouter");
-  let modeToggle = $("#mode-toggle");
-  let modeStatus = $(".mode-status");
+let bodyA = $(".bodya");
+let footer = $(".footer");
+let main = $(".main");
+let aside = $("aside");
+let subheadercenterheadertextbutton = $(".subheadercenterheadertextbutton");
+let header = $(".header");
+let contentouter = $(".contentouter");
+let modeToggle = $("#mode-toggle");
+let modeStatus = $(".mode-status");
 
-  function toggleMode() {
-    bodyA.toggleClass("dark-modefields");
-    footer.toggleClass("dark-modefields");
-    main.toggleClass("dark-modefields");
-    aside.toggleClass("dark-modefields");
-    subheadercenterheadertextbutton.toggleClass("dark-modefields");
-    header.toggleClass("dark-modefields");
-    contentouter.toggleClass("dark-mode");
+function toggleMode() {
+bodyA.toggleClass("dark-modefields");
+footer.toggleClass("dark-modefields");
+main.toggleClass("dark-modefields");
+aside.toggleClass("dark-modefields");
+subheadercenterheadertextbutton.toggleClass("dark-modefields");
+header.toggleClass("dark-modefields");
+contentouter.toggleClass("dark-mode");
 
-    const modeMessage = contentouter.hasClass("dark-mode") ?
-      "Grayscale" : "Color";
+const modeMessage = contentouter.hasClass("dark-mode") ?
+"Grayscale" : "Color";
 
-    modeStatus.text(modeMessage);
-  }
+modeStatus.text(modeMessage);
+}
 
-  modeToggle.click(toggleMode);
+modeToggle.click(toggleMode);
 });
 
-  // Grayscale Toggle End
+// Grayscale Toggle End
