@@ -52,7 +52,7 @@ var newHeadingText3s2 = "José de Espronceda";  // Replace this Title with your 
 document.getElementById("documentHeader").innerText = newHeadingText3s2;
 });
 
-    
+
 document.getElementById('changeSrcBtn3s3').addEventListener('click', function() {
 var newSource3s3 = 'https://kennethlarotyamat.github.io/project16/media/text/translationFiles/pns3.md'; // Replace this URL with your desired source
 
@@ -62,7 +62,7 @@ var newHeadingText3s3 = "Antonio Machado";  // Replace this Title with your desi
 document.getElementById("documentHeader").innerText = newHeadingText3s3;
 });
 
-      
+
 document.getElementById('changeSrcBtn3s4').addEventListener('click', function() {
 var newSource3s4 = 'https://kennethlarotyamat.github.io/project16/media/text/translationFiles/mdus4.md'; // Replace this URL with your desired source
 
@@ -80,7 +80,7 @@ iframe.src = newSource3s5;
 var newHeadingText3s5 = "José Rizal";  // Replace this Title with your desired Title
 document.getElementById("documentHeader").innerText = newHeadingText3s5;
 });
-        
+
 
 // Spanish to English Buttons END
 
@@ -143,22 +143,22 @@ document.getElementById("documentHeader").innerText = newHeadingText3e42;
 });
 
 document.getElementById('changeSrcBtnCF3').addEventListener('click', function() {
-  var newSource3e43 = 'https://kennethlarotyamat.github.io/project16/html/project11contactform.html'; // Replace this URL with your desired source
-  
-  var iframe = document.getElementById('myIframe');
-  iframe.src = newSource3e43;
-  var newHeadingText3e43 = "Project 11 Contact Form";  // Replace this Title with your desired Title
-  document.getElementById("documentHeader").innerText = newHeadingText3e43;
-  });
+var newSource3e43 = 'https://kennethlarotyamat.github.io/project16/html/project11contactform.html'; // Replace this URL with your desired source
 
-  document.getElementById('changeSrcBtnCF4').addEventListener('click', function() {
-    var newSource3e44 = 'https://kennethlarotyamat.github.io/project16/html/project9contactform.html'; // Replace this URL with your desired source
-    
-    var iframe = document.getElementById('myIframe');
-    iframe.src = newSource3e44;
-    var newHeadingText3e44 = "Initial Contact Form";  // Replace this Title with your desired Title
-    document.getElementById("documentHeader").innerText = newHeadingText3e44;
-    });
+var iframe = document.getElementById('myIframe');
+iframe.src = newSource3e43;
+var newHeadingText3e43 = "Project 11 Contact Form";  // Replace this Title with your desired Title
+document.getElementById("documentHeader").innerText = newHeadingText3e43;
+});
+
+document.getElementById('changeSrcBtnCF4').addEventListener('click', function() {
+var newSource3e44 = 'https://kennethlarotyamat.github.io/project16/html/project9contactform.html'; // Replace this URL with your desired source
+
+var iframe = document.getElementById('myIframe');
+iframe.src = newSource3e44;
+var newHeadingText3e44 = "Initial Contact Form";  // Replace this Title with your desired Title
+document.getElementById("documentHeader").innerText = newHeadingText3e44;
+});
 
 // Contact Form Buttons START
 
