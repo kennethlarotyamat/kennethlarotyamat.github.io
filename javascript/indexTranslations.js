@@ -124,6 +124,48 @@ document.getElementById("documentHeader").innerText = newHeadingText3e4;
 
 //  English to Spanish Buttons End 
 
+document.getElementById('changeSrcBtnCF1').addEventListener('click', function() {
+  var newSource3e41 = 'https://kennethlarotyamat.github.io/project16/html/newslettersignup2.html'; // Replace this URL with your desired source
+  
+  var iframe = document.getElementById('myIframe');
+  iframe.src = newSource3e41;
+  var newHeadingText3e4 = "Newsletter Sign-Up 2";  // Replace this Title with your desired Title
+  document.getElementById("documentHeader").innerText = newHeadingText3e4;
+  });
+
+  document.getElementById('changeSrcBtnCF2').addEventListener('click', function() {
+    var newSource3e42 = 'https://kennethlarotyamat.github.io/project16/media/text/translationFiles/eece4.md '; // Replace this URL with your desired source
+    
+    var iframe = document.getElementById('myIframe');
+    iframe.src = newSource3e42;
+    var newHeadingText3e4 = "E. E. Cummings";  // Replace this Title with your desired Title
+    document.getElementById("documentHeader").innerText = newHeadingText3e4;
+    });
+
+    document.getElementById('changeSrcBtnCF3').addEventListener('click', function() {
+      var newSource3e43 = 'https://kennethlarotyamat.github.io/project16/media/text/translationFiles/eece4.md '; // Replace this URL with your desired source
+      
+      var iframe = document.getElementById('myIframe');
+      iframe.src = newSource3e43;
+      var newHeadingText3e4 = "E. E. Cummings";  // Replace this Title with your desired Title
+      document.getElementById("documentHeader").innerText = newHeadingText3e4;
+      });
+
+      document.getElementById('changeSrcBtnCF4').addEventListener('click', function() {
+        var newSource3e44 = 'https://kennethlarotyamat.github.io/project16/media/text/translationFiles/eece4.md '; // Replace this URL with your desired source
+        
+        var iframe = document.getElementById('myIframe');
+        iframe.src = newSource3e44;
+        var newHeadingText3e4 = "E. E. Cummings";  // Replace this Title with your desired Title
+        document.getElementById("documentHeader").innerText = newHeadingText3e4;
+        });
+
+// Contact Form Buttons START
+
+
+
+// Contact Form Buttons END
+
 // Modal shutoff Start
 
 $(function(){
