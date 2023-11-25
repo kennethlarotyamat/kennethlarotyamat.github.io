@@ -10,6 +10,13 @@ I think that I'll wait to do it. A gaming computer that can play
 the games I want to play doesn't look too expensive, but I really
 have to wait to spend that kind of money right now.
 
+
+Two Spanish Language Authors have been replace
+
+César Vallejo with José de Espronceda
+& 
+Pablo Neruda with Antonio Machado
+
 ...
 
 I think that everything has been set up, once everything is
