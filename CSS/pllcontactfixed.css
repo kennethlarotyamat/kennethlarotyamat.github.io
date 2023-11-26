@@ -503,6 +503,7 @@ a {
 
 .aside-one:hover {
   /* transform: scale(1.02); */
+  text-decoration: none;
 }
  
 .aside-two {
