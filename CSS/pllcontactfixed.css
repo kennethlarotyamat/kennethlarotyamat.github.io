@@ -437,7 +437,7 @@ a {
   text-decoration: none;
 }
 .griditemsasidelefttextdrasideleft:hover {
-  transform: scale(1.08);
+  /* transform: scale(1.08); */
   color: black;
   text-decoration: none;
 }
@@ -502,7 +502,7 @@ a {
 
 
 .aside-one:hover {
-  transform: scale(1.02);
+  /* transform: scale(1.02); */
 }
  
 .aside-two {
@@ -511,7 +511,7 @@ a {
   vertical-align: top;
 }
 .aside-two:hover {
-  transform: scale(1.02);
+  /* transform: scale(1.02); */
   vertical-align: top;
 }
 
