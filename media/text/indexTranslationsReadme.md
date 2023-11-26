@@ -1,3 +1,12 @@
+I'm going to forget about messing around with fixing the
+project 11 contact form, for whatever reason, it does not 
+work. It's the same thing as what i have on my landing page,
+so I don't know why it doesn't work. so dumn. I might try one
+ more thing. but then again, I really have to work on my
+ translations project, and this is just something I'm messing
+ around with.
+...
+
 I'm putting together the texts that I'll be translating for 
 this project. I'm also working on my YouTube videos. For video
 editing, I'm mostly just consolidating and speeding up videos
