@@ -180,8 +180,8 @@ document.getElementById('changeSrcBtn3e4MT').addEventListener('click', function(
         
         var iframe = document.getElementById('myIframe');
         iframe.src = newSource3e44mts;
-        var newHeadingText3e44 = "Initial Contact Form";  // Replace this Title with your desired Title
-        document.getElementById("documentHeader").innerText = newHeadingText3e44;
+        var newHeadingText3e44mts = "Miscellaneous Translations";  // Replace this Title with your desired Title
+        document.getElementById("documentHeader").innerText = newHeadingText3e44mts;
         });
 
 // Misc Translation Start        
