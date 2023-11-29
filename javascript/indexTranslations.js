@@ -164,6 +164,28 @@ document.getElementById("documentHeader").innerText = newHeadingText3e44;
 
 // Contact Form Buttons END
 
+// Misc Translation Start
+
+document.getElementById('changeSrcBtnCF4').addEventListener('click', function() {
+    var newSource3e44 = 'https://kennethlarotyamat.github.io/project16/html/project9contactform.html'; // Replace this URL with your desired source
+    
+    var iframe = document.getElementById('myIframe');
+    iframe.src = newSource3e44;
+    var newHeadingText3e44 = "Initial Contact Form";  // Replace this Title with your desired Title
+    document.getElementById("documentHeader").innerText = newHeadingText3e44;
+    });
+
+    document.getElementById('changeSrcBtnCF4').addEventListener('click', function() {
+        var newSource3e44 = 'https://kennethlarotyamat.github.io/project16/html/project9contactform.html'; // Replace this URL with your desired source
+        
+        var iframe = document.getElementById('myIframe');
+        iframe.src = newSource3e44;
+        var newHeadingText3e44 = "Initial Contact Form";  // Replace this Title with your desired Title
+        document.getElementById("documentHeader").innerText = newHeadingText3e44;
+        });
+
+// Misc Translation Start        
+
 // Modal shutoff START
 
 $(function(){
