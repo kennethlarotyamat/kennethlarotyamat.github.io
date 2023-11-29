@@ -176,10 +176,10 @@ document.getElementById('changeSrcBtn3e4MT').addEventListener('click', function(
     });
 
     document.getElementById('changeSrcBtn3s5MT').addEventListener('click', function() {
-        var newSource3e44 = 'https://kennethlarotyamat.github.io/project16/media/text/translationFiles/spanishMisc.md'; // Replace this URL with your desired source
+        var newSource3e44mts = 'https://kennethlarotyamat.github.io/project16/media/text/translationFiles/spanishMisc.md'; // Replace this URL with your desired source
         
         var iframe = document.getElementById('myIframe');
-        iframe.src = newSource3e44;
+        iframe.src = newSource3e44mts;
         var newHeadingText3e44 = "Initial Contact Form";  // Replace this Title with your desired Title
         document.getElementById("documentHeader").innerText = newHeadingText3e44;
         });
