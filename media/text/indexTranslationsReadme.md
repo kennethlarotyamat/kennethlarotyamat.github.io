@@ -11,9 +11,9 @@ I'm going to forget about messing around with fixing the
 project 11 contact form, for whatever reason, it does not 
 work. It's the same thing as what i have on my landing page,
 so I don't know why it doesn't work. so dumn. I might try one
- more thing. but then again, I really have to work on my
- translations project, and this is just something I'm messing
- around with.
+more thing. but then again, I really have to work on my
+translations project, and this is just something I'm messing
+around with.
 ...
 
 I'm putting together the texts that I'll be translating for 
@@ -89,18 +89,18 @@ HTML:
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Change Text</title>
+<title>Change Text</title>
 </head>
 <body>
-  <h1 id="heading">Original Heading</h1>
-  <button onclick="changeHeadingText()">Change Text</button>
+<h1 id="heading">Original Heading</h1>
+<button onclick="changeHeadingText()">Change Text</button>
 
-  <script>
-    function changeHeadingText() {
-      var newHeadingText = "New Heading Text";
-      document.getElementById("heading").innerText = newHeadingText;
-    }
-  </script>
+<script>
+function changeHeadingText() {
+var newHeadingText = "New Heading Text";
+document.getElementById("heading").innerText = newHeadingText;
+}
+</script>
 </body>
 </html>
 ```
@@ -122,12 +122,12 @@ JavaScript:
 html
 Copy code
 <script>
-  document.getElementById('changeSrcBtn').addEventListener('click', function() {
-    var newSource = 'https://www.newsource.com'; // Replace this URL with your desired source
-    
-    var iframe = document.getElementById('myIframe');
-    iframe.src = newSource;
-  });
+document.getElementById('changeSrcBtn').addEventListener('click', function() {
+var newSource = 'https://www.newsource.com'; // Replace this URL with your desired source
+
+var iframe = document.getElementById('myIframe');
+iframe.src = newSource;
+});
 </script>
 
 ...
@@ -176,12 +176,12 @@ JavaScript:
 html
 Copy code
 <script>
-  document.getElementById('changeSrcBtn').addEventListener('click', function() {
-    var newSource = 'https://www.newsource.com'; // Replace this URL with your desired source
-    
-    var iframe = document.getElementById('myIframe');
-    iframe.src = newSource;
-  });
+document.getElementById('changeSrcBtn').addEventListener('click', function() {
+var newSource = 'https://www.newsource.com'; // Replace this URL with your desired source
+
+var iframe = document.getElementById('myIframe');
+iframe.src = newSource;
+});
 </script>
 Replace 'https://www.newsource.com' with the URL you want to set as the new source for the iframe.
 
