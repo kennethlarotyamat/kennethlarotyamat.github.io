@@ -1,3 +1,12 @@
+Sources for Rubén Darío 
+
+https://www.gutenberg.org/ebooks/search/?query=Rub%C3%A9n+Dar%C3%ADo+&submit_search=Go%21
+
+
+https://www.gutenberg.org/cache/epub/52894/pg52894.txt
+
+...
+
 I'm going to forget about messing around with fixing the
 project 11 contact form, for whatever reason, it does not 
 work. It's the same thing as what i have on my landing page,
