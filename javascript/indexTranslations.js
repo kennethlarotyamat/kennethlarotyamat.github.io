@@ -166,8 +166,8 @@ document.getElementById("documentHeader").innerText = newHeadingText3e44;
 
 // Misc Translation Start
 
-document.getElementById('changeSrcBtnCF4').addEventListener('click', function() {
-    var newSource3e44 = 'https://kennethlarotyamat.github.io/project16/html/project9contactform.html'; // Replace this URL with your desired source
+document.getElementById('changeSrcBtn3e4MT').addEventListener('click', function() {
+    var newSource3e44 = 'https://kennethlarotyamat.github.io/project16/media/text/translationFiles/englishMisc.md'; // Replace this URL with your desired source
     
     var iframe = document.getElementById('myIframe');
     iframe.src = newSource3e44;
