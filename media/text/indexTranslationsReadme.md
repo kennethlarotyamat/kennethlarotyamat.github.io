@@ -201,28 +201,28 @@ ChatGPT can make mistakes. Consider checking important information.
 
 ...
 
-<!--      C:\Users\KLYam\OneDrive\Documents\GitHub\kennethlarotyamat.github.io\html\indexTranslations.html
-        
-        
-        [11/06/2023 08:56 AM] [Leaflet Update Point]
+C:\Users\KLYam\OneDrive\Documents\GitHub\kennethlarotyamat.github.io\html\indexTranslations.html
+
+
+[11/06/2023 08:56 AM] [Leaflet Update Point]
 
 Development Notes - I want to bring the swipe left and right text down slightly, and 
 kind of change the fields to that swiping left and right 
 doesn't have to be exactly on the text, but in the general colored field 
 file:///C:/Users/KLYam/OneDrive/Documents/GitHub/kennethlarotyamat.github.io/html/project14v004.html 
 
--->
 
-<!-- [11/06/2023 06:16 AM] checking page Looks good. -->
-<!-- 
-        [11/06/2023 01:53 AM]   [Resources] [https://dev.to/ingosteinke/inspecting-the-wrong-elements-in-the-browser--3jce]
-        [Development Notes]     refer to [Oct 28] course material to figure out map stuff to figure out how to use
-                                leaflet or maps for the [meet me at our spot] section. [Oct 2.3] [11/06/2023 01:53 AM] it's
-                                in, it's working, meet me at our spot button is working with leaflet.
-                                [11/06/2023 01:53 AM] I'm going to leave this page for now and continue working on project 14
-                                version 4 and continue the leaflet aspect of the project. [11/06/2023 01:53 AM]
-        [11/06/2023 01:53 AM]   checking page. [11/06/2023 01:53 AM] [11/06/2023 01:53 AM] 
--->
+
+[11/06/2023 06:16 AM] checking page Looks good.
+
+[11/06/2023 01:53 AM]   [ Resources ] [ https://dev.to/ingosteinke/inspecting-the-wrong-elements-in-the-browser--3jce ]
+[Development Notes]     refer to [Oct 28] course material to figure out map stuff to figure out how to use
+leaflet or maps for the [meet me at our spot] section. [Oct 2.3] [11/06/2023 01:53 AM] it's
+in, it's working, meet me at our spot button is working with leaflet.
+[11/06/2023 01:53 AM] I'm going to leave this page for now and continue working on project 14
+version 4 and continue the leaflet aspect of the project. [11/06/2023 01:53 AM]
+[11/06/2023 01:53 AM]   checking page. [11/06/2023 01:53 AM] [11/06/2023 01:53 AM] 
+
 <!-- [11/05/2023 06:00 AM] align="center"  align="center" Image from https://leafletjs.com/index.html -->
 
 <!-- [11/05/2023 09:45 AM] [Deployment Test] [11/05/2023 06:00 AM] [11/05/2023 05:56 AM]  moved development notes to a central location. These will be moved to a dedicated text file 
