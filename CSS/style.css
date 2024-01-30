@@ -12,26 +12,25 @@
 
 .divchestnutandhazellandingpageheaderbutton {
   font-size: 4vw;
-      text-align: center;
-    vertical-align: middle;
-  }
+  text-align: center;
+  vertical-align: middle;
+}
+
 #centerheadertextbutton {
-    text-align: center;
-    vertical-align: middle;
-    
-  }
+  text-align: center;
+  vertical-align: middle;
+
+}
 
 
-  .subheadercenterheadertextbutton 
-  {
-    text-align: center;
-    vertical-align: middle;
-    grid-area: sbhead;
-    background-color: #ffefea;
-    padding: 2vh;
-    
-  }
-  
+.subheadercenterheadertextbutton {
+  text-align: center;
+  vertical-align: middle;
+  grid-area: sbhead;
+  background-color: #ffefea;
+  padding: 2vh;
+
+}
 
 
 button:not(#modalbutton1):not(#modalbutton2) {
