@@ -12,6 +12,12 @@ Everything up-to-date
 I don't know what the heck is going on but nothing is committing right now, and I'm not sure what the issue is, or
 what is causing this.
 
+I'm worried about this semester
+being the one and only semester
+I ever complete.
+
+If I don't get a B average. It's basically over.
+
 */
 public class TestScore {
 
