@@ -1,7 +1,18 @@
 // Write your code here
 import questions from './questions.json' assert { type: 'json' }
 import users from './users.json' assert { type: 'json' }
+/*
 
+
+> git push origin main:main
+error: RPC failed; HTTP 400 curl 92 HTTP/2 stream 7 was not closed cleanly: CANCEL (err 8)
+send-pack: unexpected disconnect while reading sideband packet
+fatal: the remote end hung up unexpectedly
+Everything up-to-date
+
+
+
+*/
 // Get all DOM elements
 const usernameInput = document.getElementById('username')
 const validationMsg = document.getElementById('validation-msg')
