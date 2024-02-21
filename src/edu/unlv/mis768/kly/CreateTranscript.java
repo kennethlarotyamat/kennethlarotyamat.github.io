@@ -13,6 +13,30 @@ CreateTranscript.java is a non-project file, only syntax errors are reportedJava
 
 I don't know what to do about this.
 
+anyway, nothing is committing and I wonder, what's the issue
+there 
+
+it seems that incoming stuff, like video streaming,
+seems to be working just fine
+
+but outgoing stuff seems to be
+slow, like
+
+I'm uploading a video to YouTube, but it's taking forever,
+and
+I don't really know what's causing that particular issue.
+
+I know that I didn't create this file in eclipse, and
+I wonder if that's why i'm getting 
+whatever message I'm looking
+at.
+
+Silly garbage
+
+I don't know what the issue is
+
+
+
 */
 
 package edu.unlv.mis768.kly.individualassignment2;
@@ -52,6 +76,42 @@ public class CreateTranscript {
 		this.letterGrade = letterGrade;
 	}
 	
+
+/*
+ * 
+ * whenever it rains there are a whole bunch of
+ * issues, even when I'm out working.
+ * 
+ * I'm stressed out because I had an
+ * unexpected expense
+ * 
+ * when it comes to 
+ * well, the
+ * 
+ * i had to pay to get the garage door fixed.
+ * 
+ * the guy comes around
+ * and tries to sell me several repair packages
+ * that are way more than 
+ * what I was originally looking to get fixed.
+ * like 800 900 and 1200 packages, and that's basically nothing
+ * I'm looking to get done.
+ * 
+ 
+ > git push origin main:main
+error: RPC failed; HTTP 400 curl 92 HTTP/2 stream 7 was not closed cleanly: CANCEL (err 8)
+send-pack: unexpected disconnect while reading sideband packet
+fatal: the remote end hung up unexpectedly
+Everything up-to-date
+
+
+ Constantly getting all these error messages
+ about why nothing is committing. this is dumb.
+ 
+ * 
+ */
+
+
 // the above getter and setters are much as they were when created by eclipse	
 	public double getNumberGrade() {
 		if (letterGrade.trim().equalsIgnoreCase("A") || letterGrade.trim().equalsIgnoreCase("A+")) { 		    		// Assigns numerical value to user entered letter grade ignores white spaces and ignores case 
