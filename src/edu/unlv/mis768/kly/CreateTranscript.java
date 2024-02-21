@@ -108,6 +108,21 @@ Everything up-to-date
  Constantly getting all these error messages
  about why nothing is committing. this is dumb.
  
+ Jesus
+ I don't know what to do.
+ stuck.
+ everything is such a nightmare.
+
+ I can't really afford
+ to focus exclusively on going to school
+ or just school work.
+
+ I can't really do that again. it puts me way behind.
+
+ and I can't really
+ just work. I'm not really making enough money.
+ this is a nightmare.
+
  * 
  */
 
