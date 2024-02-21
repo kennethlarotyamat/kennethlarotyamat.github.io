@@ -7,6 +7,12 @@
      								calculated and printed at the end of the file                          		
      						    	 
   		Date Due:					February 18th, 2024
+
+
+CreateTranscript.java is a non-project file, only syntax errors are reportedJava(16)
+
+I don't know what to do about this.
+
 */
 
 package edu.unlv.mis768.kly.individualassignment2;
@@ -135,6 +141,8 @@ public class CreateTranscript {
  * 
  * 
  /* 
+what a headache
+nothing is committing right now. and I'm wasting all my time here.
 
 > git push origin main:main
 error: RPC failed; HTTP 400 curl 92 HTTP/2 stream 7 was not closed cleanly: CANCEL (err 8)
@@ -280,7 +288,7 @@ D- and below
 //
 //}
 // I don't know what this is: // super();
-// TODO Auto-generated constructor stub
+// TO DO Auto-generated constructor stub
 //public CreateTranscript(String courseNumber, int courseHours, String letterGrade, double numberGrade,
 //		double gradePointAverage) {
 //	super();
@@ -292,7 +300,7 @@ D- and below
 //}
 //public CreateTranscript() {
 //	super();
-//	// TODO Auto-generated constructor stub
+//	// TO DO Auto-generated constructor stub
 //}
 //private String studentName;			// these aren't required, and I might not get around to implementing them
 //private String studentNumber;
