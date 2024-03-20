@@ -5061,13 +5061,34 @@ repayments start, and I don't want to
 be crushed by student loans and credit 
 cards at the same time.
 
-...
+363
 
-Well, I wonder if someone is helping me out here, but, who knows. I want to say someone is obviously helping me out, because something kind of funny just happened.
+ // maybe it makes sense to be = keyboard.nextDouble();  
+ // the width of the parcel  
+ // the length of the parcel  
+ // the weight of the parcel 
+ // the dimensional weight of a package to be 
+ // shipped, based on the dimensions of the package.
 
-...
+364
 
-I want to write something here, but I'm not sure what to write, and it's not for a lack of things to write, it's just that I have no idea what I should write about, considering the number of things that I could write about.
+Well, I wonder if someone 
+is helping me out here, but, 
+who knows. I want to say 
+someone is obviously helping 
+me out, because something 
+kind of funny just happened.
+
+365
+
+I want to write something 
+here, but I'm not sure what 
+to write, and it's not for a 
+lack of things to write, it's 
+just that I have no idea what 
+I should write about, 
+considering the number of 
+things that I could write about.
 
 ...
 
