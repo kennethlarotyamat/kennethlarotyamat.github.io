@@ -5351,11 +5351,34 @@ around and come back.
 
 385
 
+// /**/System.out.println(" Data for Package # 1"); // entryNumber// this number
+// needs to increment depending on the number of packages. // this number needs
+// to iterate depending on the number of packages.
 
+// this line is being moved down System.out.println("Please enter the"+ red + "
+// weight "+reset+"of your parcel:"); // " and the "+ red +"dimensions "+reset+
+// System.out.println(" "); // I don't know what's going on here, the line won't
+// skip. I know what it is, it's on the wrong line.
+// keyboard.nextLine();
 
-That was discouraging, so I'm going to take a break from online dating. This is the second time I deleted, second or maybe third time I've deleted a dating profile in the last month. I switched accounts for some of my autopay expenses, and I'm kind of just waiting until the switch over becomes active.
+// System.out.println("Please enter the"+ red + " weight "+reset+"of your
+// parcel:");
+// double packageWeight = keyboard.nextDouble(); // this needs to be a double.
+// // String packageWeight = keyboard.nextLine(); // this needs to be a double.
+// // String packageWeight = keyboard.nextLine();
+// keyboard.nextLine();
 
-...
+// Package package = new Package(packageWeight, packageLength, packageWidth,
+// packageHeight);
+
+386
+
+That was discouraging, so I'm going to take a break from online dating. 
+This is the second time I deleted, second or maybe third time I've deleted 
+a dating profile in the last month. I switched accounts for some of my 
+autopay expenses, and I'm kind of just waiting until the switch over becomes active.
+
+387
 
 Queen of the Goths
 
