@@ -4291,7 +4291,8 @@ they would make grape juice.
 
 317
 
-and I have to ask if you knew who the people were
+and I have to ask if you 
+knew who the people were
 who changed the fruits into
 
 different kinds of drinks
@@ -4307,7 +4308,7 @@ know or
 did they
 not know
 
-...
+318
 
 These are where
 the oranges are turned
