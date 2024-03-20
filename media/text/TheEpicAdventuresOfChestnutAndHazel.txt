@@ -3722,7 +3722,8 @@ I good grade is an asset in a figurative sense
 279
 
 // i figured that if I moved the files into - or a i moved the 
-// .java classes into a new package, that it would throw errors since the Book.java files are not in
+// files, the .java classes into a new package, that it would 
+// throw errors since the Book.java files are not in
 // the same package. 
 // figurative
 
