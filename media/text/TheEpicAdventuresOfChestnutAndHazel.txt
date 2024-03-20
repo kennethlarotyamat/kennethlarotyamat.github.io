@@ -8218,6 +8218,698 @@ i really do.
 
 517
 
+it isn't
+clear to me know
+and it wasn't clear
+to me then what it
+was all about.
+
+518
+
+Notes, Thoughts, and Reflections While Using the Bloomberg Terminal
+
+these were 
+more amazing
+
+these were more
+interesting than what 
+I thought about before.
+
+these were more interesting 
+than what I thought about 
+before these were better 
+than the butter that was in 
+the cup of oranges 
+that were in the wine glass 
+that were in the fermented oranges 
+that were in the fermented grapes.
+
+519
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+something
+happened
+no one
+knows what it was
+but it was
+something that
+no one was
+anticipating
+
+...
+
+so. i dont know. i was planning on just continuing to work on the project, but, i might just withdraw from the class entirely, and re-enroll next semester.
+
+i realize that im not really the type of person who can work with just anyone.
+
+so i really have to think about how to approach things until the end of the semester.
+
+i have to think about why it wasn't a good match, but, she was working, and going to school at the same time.
+
+and. i really don't know what to say about that. technically im working right and going to school too.
+
+i dont have an employer. because im self employed and in the publishing business.
+
+you know what. i never incorporated chestnut and hazel, or even got as far as registering an it as a company.
+
+id register it as a partnership, you know, as the most logical next baby-step, but i feel that listing 
+
+kenneth larot yamat, 
+
+and 
+
+kenneth larot yamat, the one and only
+
+as partners 
+
+would be perceived as facetious.
+
+and i havent officially registered trademarks for chestnut and hazel, chestnut & hazel, or chestnut + hazel.
+
+maybe this is a sign that i should go ahead and do that.
+
+...
+
+Okay, i figured something out.
+
+the .prn file isn't for a pocket calculator, although it can be used in one,
+
+it's for SAS, or the statistical analysis system.
+
+...
+
+this is really funny. i was trying to figure out what a .prn file is, and it's used for pocket calculator spreadsheets. 
+
+here is the thing.
+
+okay.
+
+i had a ti-89 titanium
+
+so i never bothered to learn ms excel, or, well. i guess i mean, i didn't really.
+
+i mean in terms of years ago, when, i was in class and we had something or other to do in ms excel, i would just follow along using my ti-89 spreadsheet, rather than following along in ms excel.
+
+but the .prn file that i was trying to open earlier was probably from a spreadsheet that was exported from someone's pocket calculator, and then uploaded to where i can download it.
+
+
+...
+
+
+
+
+
+
+
+ 
+...
+
+ 
+
+
+
+
+
+...
+
+
+
+
+
+
+
+
+
+
+...
+
+today is tuesday. what did i get done today?
+
+so. i think i figured something out to the internship / work search issue.
+
+i'm going to use the bloomberg terminal.
+
+anyway.
+
+that's exactly what i tried to do this morning. 
+
+i figured that. since today is tuesday. i can work on something other than coursework.
+
+so i worked on the work search.
+
+i didn't know where to start,
+but
+
+only in the sense that i didn't know
+where
+i wanted to start.
+
+so i just started exploring the tabs.
+
+anyway. a lot of the companies that i'm interested in don't really have any openings. many don't even have a career page.
+
+so.
+
+i just mailed out a bunch of hand written letters.
+
+the first company I called up. i mentioned that they were listed on the campus job board, but when i went to their website, they didn't even have a career page.
+
+the person who answered the phone mentioned that they didn't have any openings, and they rarely have open positions.
+
+so i figured i'd mail them a letter, saying that i'm interested in working for their company one day.
+
+...
+
+what's on my mind right now? Tuesday. tomorrow is tuesday.
+
+...
+
+it was kind of tedious, but I did it. i really have to figure out how to put this into words. but I went ticker by ticker. i mean. it didn't take a hell of a lot of time, but it really was tedious. really tedious.
+
+...
+
+There was one silly issue that I had because, I don't know what this would be refered to in the spreadsheet application that I typically use, but:
+
+It's Called Freeze Panes / Freeze Rows.
+
+Silly.
+
+...
+
+So here is one thing. I need to use two sources, I need to use Bloomberg for the Expected Returns, and I need to use State Street for the weights within the index.
+
+see screenshot below.
+
+I'm trying to highlight how I'm using the information from both sources, Bloomberg and State Street.
+
+...
+
+
+
+
+
+...
+
+Below is a screenshot of the "custom" tab for the watchlist analytics function, and I'm wanting to put in a formula, but I don't know how to format formulas for the Bloomberg Terminal.
+
+the issue is i want to be able to do Excel Stuff without opening Excel.
+
+...
+
+
+
+
+
+
+
+
+
+
+
+...
+
+okay. so there are more screenshots here than i can really discuss.
+
+i'm looking at the watchlist analytics for S5INDU and S5MATR in the Bloomberg terminal.
+
+There is one thing that I'm interested in. and it's the tap at the far right that says "Custom"
+
+I tried working with it, but, I haven't come up with anything.
+...
+
+ 
+
+
+
+
+
+
+...
+
+
+i think that i figured something out.
+
+...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+...
+
+
+S5INDU is the ticker of the industrials index - XLI is the ETF that tracks the materials index
+S5MATR is the ticker of the materials index - XLB is the ETF that tracks the materials index
+
+
+...
+
+so what was it?
+
+it was odd. 
+
+the sectors i intended on focusing on was materials.
+
+how it works in this class is that industrials and materials are grouped together for the purposes of group assignments.
+
+i remember when sectors were being assigned, the person who is my current group partner called out industrials, and i called out materials.
+
+so i was under the impression that my group partner would want to work the industrials sector.
+
+but when we spoke today, my group partner mentioned wanting to focus on materials.
+
+but when we had minor group work together, my group partner went into the industrial set first, and then the materials set next.
+
+this isn't a problem. really. but, i just don't know. if this is going to continue to oscillate back and forth or what.
+
+what i'm thinking is. it really might not matter, the reason being that even though i might like materials, if.
+
+well
+
+it just shouldn't matter if i look at industrials or materials.
+
+...
+
+so what happened the other night? well, i was at the library later, I think about 45 minutes after midnight, I wanted to get a bunch of stuff done, but, I was tired, and there seem to be as many distractions during the night as there are during the day.
+
+anyway. I want to continue working on my paper.
+
+so in the example student paper, correlations are drawn between the index performance of the financials index, as well as the performance of the real estate index.
+
+what what should I look at in my case?
+
+what I'm thinking about is looking at the various correlations between the materials sector and various commodities.
+
+so in the screenshot below i'm looking at the historical beta for the materials index and the
+
+i think this is brent crude?
+
+let me look.
+
+okay, so it's WTI crude, but what does that mean?
+
+...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+...
+
+now what the hell was i thinking about? I think that i'm somewhat tired, and i'll come back to this later. it's just usually so crowded around here that I really can't get anything done, and I think that it's more or less the same issue.
+
+...
+
+well, i think that i've found something that I can amuse myself with whenever i think that i'm becoming distracted.
+
+...
+
+but it's basically this. I have an idea, and it is an amazing idea, and I think that most people will be impressed by it, if it can be executed in a way that people find interesting, and I think that most people will find it interesting because even when I just think about it, I'm intersted in it myself, and you think that most people will be interested in it, but, they probably won't be interested in it because it is such a trivial thing to pursue.
+
+here is what I think about most things.
+
+...
+
+I can't figure out what the hell I was working on earlier, but I have found something that I'm interested in. I really have, and I think that I want to explore more of what I'm doing with this. and this should be the most amazing thing that will ever happen to the universe, and people all around the universe will be amazed with what I'm about to produce, and I will be quoted the universe over, by other sentient life forms, and even non-living forms of sentience, 
+
+inanimate entities, and consciousnesses from the void will come.
+
+...
+
+well. i'm going to start here:
+
+I'm going to look at the components in the materials sector of the  S&P 1500 index.
+
+...
+
+Well. truth is. I'm not sure where I was going to go with bond yields for the materials sector, I think what I wanted to do was to check into.
+
+I guess somehow figure how sensitive the materials sector is to interest rates. I could probably use the other chart to figure out a correlation between the two.
+
+like um. ten year treasuries and xlb.
+
+but i'm sure that. um. 
+
+i really want something more accurate.
+
+I want to figure out what each company is actually paying in terms of interest coupon payments and how this interacts.
+
+but i'm going to forget about this for now and look at something else. but what was it though? for whatever reason I can't recall what the hell I was thinking about.
+
+...
+
+I wanted to look at something, but I'm not sure where I'm going with this. What I think I was trying to look up, was.
+
+I wanted to search. something like bonds. or. i wanted to see how the bond yields compare for companies listed in the materials sector, and compare these to dividend yields for the same companies, but here is the thing.
+
+I'm not sure if this would really mean anything. I'm 
+
+I guess. I'm currently under the assumption. that the bond yields should be comparable to the dividend yields, but I'm not sure why I'm assuming this. I guess, I'm not sure what makes me think that the bond yields should be comparable, so I'm not sure why I would want to figure out if the information in the Bloomberg terminal would either confirm my assumption or suspicion or hypothesis or what.
+
+there are other things that I kind of want to look into here as well.
+
+...
+
+anyway. I think that this is as much note taking as I'm going to do for the day, and then I'm going to head home.
+
+...
+
+So I think this is the 5 year Volatility and Risk analysis, and the citation for this screenshot should be styled as:
+
+S5MATR Index Historical Beta 5 YR, via Bloomberg LP, Accessed August 28, 2022
+
+Notes:
+
+Historical Beta
+
+and 
+
+Regression Analysis
+
+are the same thing.
+
+I think, unless I'm missing something.
+
+What I mean is, it seems that when a person is trying to determine the historical beta of an index, or some other security against a benchmark
+
+it's the same thing as performing a regression analysis of an index or some other security against a benchmark,
+
+and it's possible that I already learned this at some point in the past
+
+or maybe someone already told me this before, or maybe I came across this somewhere or another.
+
+anyway.
+
+the reason I'm fussing over this mentally is that the other day I said something like:
+
+
+
+"So I would basically pay twice as much for the full set, right?"
+
+and then the guy said
+
+"No, you would just pay double for all four over the quoted price of just two."
+
+and this is always annoying because, it's possible that two people are saying the same thing using different words, but there is always one person in any conversation who really doesn't understand that the same thing can be said in multiple ways. 
+
+
+...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+...
+
+I figured out how to put all four of the things I'm looking at into a single chart, the only thing is, is that it isn't very interesting to look at.
+
+SPX Index Comparative Returns, 3 Year, via Bloomberg LP Accessed August 28, 2022 
+
+so the part of the assignment that I'm trying to work on has me look at: 
+
+Price Performance, Total Return Analysis, Volatility and Risk Analysis, and Those are for YTD and 3YR Periods
+
+and Positive Alpha over a 5 year period.
+...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+...
+
+The next thing that I want to do is look at the ETFs for the S&P 500 Materials index vs the ETF for the S&P 500 index
+
+The Citations should look like:
+
+XLB US Equity Total Return Analysis, 3 Year, via Bloomberg LP, accessed August 28, 2022
+
+the second would appear as:
+
+SPY US Equity Total Return Analysis, 3 Year, via Bloomberg LP, accessed August 28, 2022
+
+
+
+...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+...
+
+So what I'm I supposed to look at next? 
+
+Okay, so I need to compare the Total Return for S&P 500 Materials Index against the S&P 500 Index.
+
+the issue here is that I need to put the total return for both indices into a single graph, and not have 2 separate graphs, but I forgot how to do that.
+
+anyway, as far as citation styling goes, I think that I would style the first as:
+
+S5MATR Index Total Return Analysis, August 26, 2019 - August 26, 2022, via Bloomberg LP, accessed August 28, 2022
+
+the second would appear as:
+
+SPX Index Total Return Analysis, August 26, 2019 - August 26, 2022, via Bloomberg LP, accessed August 28, 2022
+
+...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+...
+
+So what I need to figure out next is: 
+
+How do I put this screen shot into the appropriate citation format? I'm thinking it should be: 
+
+SPTRSC15 Index Members, August 28th 2022, via Bloomberg LP, accessed August 28th 2022
+
+with an in-text appearance of: 
+
+(Bloomberg, 2022)
+
+here are a few things that I want to do with the paper.
+
+one is that I want to use the Bloomberg Terminal as the primary resource, and if possible, the only resource,
+
+and
+
+I want to keep whatever graphics and images and charts that I use in the paper and class presentation to be screenshots and screen captures from the Bloomberg Terminal,
+
+the other thing that I want to mention is that when i'm searching the materials sector, I'm alternating the columns between the GICS and BICS classification systems.
+
+
+...
+
+
+
+
+
+...
+
+It really annoys me when the weather is hot and windy, because I want to keep the window open when it's hot, but the shades won't stop moving when it's windy and the window is open. I'm thinking about Sunday, and what to do on Sunday. I didn't apply for any internships or positions since I last wrote about wanting to find one. There's this endless competition between my desire to work on things of personal interest and things of professional interest, and educational pursuits are kind of a combination of both, or maybe educational pursuits are at the intersection of personal interests and professional interests. 
+
+...
+
+One thing about putting notes on my blog from sources around the internet is that I think it might make more sense to take screenshots of what I find, rather than copying and pasting the material because I file copyrights on the text from my blog, and I obviously can't file a copyright claim for text that I didn't write myself, so to prevent me from accidentally filing a copyright claim on someone else's content, I'll just make a reference to other people's content using screenshots, rather than copying and pasting the text.
+
+There is also this other issue with inserting images into my blog. The issue involves where the lines break, and I guess I just figured out what happens. so I guess I answered the question to the issue that I was having. so there.
+
+...
+
+
+
+
+
+...
+...
+
+The sector analysis paper is due before the Bloomberg Certification is due, so, I guess I'll get started on that first.
+...
+
+
+...
+
+ i went out to eat. i was on campus for
+several hours doing course work. what else?
+I think that I'm going to work on something.
+
+
+when I got home after going out to eat. and
+spending time on campus. and then going
+out to eat again, i um. had trouble turning
+on my laptop and i was really frustrated
+about it. but i eventually got it turned out.
+
+
+
+
+...
+
+
+I'm tired. and hungry.
+it's 330 am.
+what could i eat?
+
+
+...
+
+I submitted a copyright claim for the previous post
+and I'm thinking that for this post I'll just make it
+one big
+well
+what i'm thinking is that i'll take a different
+approach to how i format this post and
+i think that i'm going to skip out on creating
+
+
+lines between newer content and older content
+and i'm not sure how this will look or how it will
+appear. but i guess i'll see.
+
+
+nah. you know what. now that i think about it. i do
+have to create marks that separate one train of
+thought from another train of thought and kind
+of demarcate where one train of though begins
+and where one ends. so
+
+
+never mind.
+well. i kind of want to head back to campus to
+get some work done at the library. i think that today
+i spent about 3 hours in the lab. i went to lunch at
+
+
+11 AM, arrived at campus around 1 PM and left
+at around 4 PM. or a little after.
+
+
+there is an event at the stadium and it's packed and loud
+and noisy and i think that i'll wait it out for now. i did
+get an email from the student newspaper, and it had
+an article or an advertisement of an information
+section about student housing options that are on
+campus, and i think that i'll explore those at some
+point.
+
 you're wondering what
 that feeling is. it's sweat!
 you've been working out
