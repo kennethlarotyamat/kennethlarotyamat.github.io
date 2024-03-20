@@ -142,6 +142,122 @@ I think that might be it.
 
 11
 
+Chestnut + Hazel was
+originally founded as the DM Literary Review.
+
+12
+
+I really don't know what to do about money right now.
+
+13
+
+"Everything I had done has to be done over; I was on the wrong track entirely, and after working hard most of that time: I'm still only at the beginning." - Gustave Flaubert
+
+14
+
+I don't know what to do right now.
+
+15
+
+[Development Notes]
+
+<!-- https://stackoverflow.com/questions/40211944/stop-playing-video-in-iframe-when-modal-is-closed -->
+<!-- check for deployment after a while. this was moved from codepen into vscode and uploaded to GitHub to make this function better.
+I really want to update this, maybe even change the look of it. -->
+
+16
+
+I think this was about my chestnut + hazel connections page for project 14.
+
+17
+
+I'm uploading content to my YouTube channel, I'm not sure how exciting these videos are. 
+some of these videos are very long, and take a long time to upload as well, and I can't really upload all of them at once because 
+my account doesn't have those permissions just yet.
+
+18
+
+my nails aren't that long, but I had to cut them because they are messing with my ability to type again. 
+
+19
+
+I really don't know what to do about money.
+
+20
+
+[Development Commentary]
+
+<!-- [11/05/2023 06:00 AM] [11/04/2023 23:10] -->
+<!-- [11/05/2023 06:00 AM]
+[11/05/2023 06:00 AM] [Development Commentary] [11/05/2023 03:35] [11/05/2023 03:40]
+[11/05/2023 06:00 AM]
+
+Even with as much time as I've spent on this, and seemingly no closer to getting a JSON file working, I seem to have
+made a breakthrough with this carousel. The iframes look like they are interactive in a way that they were not interactive
+in the original Project 10 version of the carousel.
+
+I'm setting up links to see if the iframes in the carousel work, and if they do, then that means this should work. and I can
+get project 14 completed, even though this seems like it was kind of a long digression from the requirements of project 14.
+
+-->
+
+21
+
+I'm spending some time today to work on my blog, as well as my YouTube channel. I don't know. I need to do something with these gaming videos, like add narration, or, say something, about what I'm thinking, about what some of my decisions are when I'm playing. I'm kind of thinking of going with the Vanilla version, rather than playing with so many mods, but, if there isn't one annoying issue with the game, there is usually some other annoying issue. One thing that takes up a lot more time than I would like it to, is the whole business of managing the faction and ruling dynasty.
+
+22
+
+This is one of my earlier videos from the channel, when I spent time reading poetry and all of that. It's interesting to see all of the voice over stuff that can be done with text to speech programs. I actually saw an advertisement for one that I was really impressed with.
+
+23
+
+
+24
+
+"Here's to momma dollar, and poppa dollar!"
+
+25
+
+I don't know what to do about money.
+
+26
+
+This is such a nightmare. Everything.
+
+27
+
+There is an issue with posting youtube videos in iframes, they have to have /embed/ in the source path. 
+headache. I thought that the video just wasn't totally live or deployed on YouTube, but it might be totally not going to work.
+
+28
+
+ It seems like my upload limit for my YouTube channel is 8 videos for any 24 hour period. Nothing I've produced 
+ is particularly interesting, but, I'll come up with something.
+
+29
+
+Total War  ROME 2 Battle of Ephesus
+
+The Spartans are on the warpath throughout Asia Minor, no one can stop them, except for the even more amazing 
+Roman Military! They will be stopped! Even if they! are! Sparta!
+
+30
+
+I'm spending way too much time playing computer games. I'm trying to make something out of it by recording videos 
+while I play, but the videos I make aren't all that amazing.
+
+31
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -154,7 +270,47 @@ I think that might be it.
 
 ...
 
-Chestnut + Hazel was
-originally founded as the DM Literary Review.
+
+
+
+Walking Through The Grass (2019)
+
+I remember walking 
+to work, about a mile or so 
+to a hotel where I worked, and
+I had to walk through the grass
+and the grass
+was always wet, really wet, and 
+my pants would get wet too 
+and my boots would get wet 
+and my socks would get wet.
+
+...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+...
+
+I spent a lot of time on that project, I really enjoy the end result. I still want to make the contact modal work. These are comments removed from my GitHub files.
 
 ...
