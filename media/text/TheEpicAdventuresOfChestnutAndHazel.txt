@@ -10629,7 +10629,6 @@ With Distinction
 694
 
 // Shipment shipment = new Shipment();
-
 // Shipment shipment = new Shipment(billableWeight);
 
 // i really don't know how to resolve this issue.
