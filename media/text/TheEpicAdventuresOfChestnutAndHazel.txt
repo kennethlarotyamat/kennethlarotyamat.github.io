@@ -1615,6 +1615,12 @@ inside the list.
 
 135
 
+I think that I accidentally
+posted. copied and pasted 
+the same post twice.
+
+136
+
 I think that everything has been set up, once everything is
 deployed, then I can focus on making translations for the
 pages that I've set up.
