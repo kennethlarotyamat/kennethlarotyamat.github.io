@@ -10863,9 +10863,29 @@ therapeutic blowjobs can be.
 
 713
 
-So I have an interview for a position tomorrow, and I'm actually kind of excited about it. The pay is in line with what I was making at Amazon, and sometimes I think: I'm probably more useful as a customer, than as an employee, although, I'm certain that I'm the most amazing employee of every company that I've ever worked at.
+So I have an interview for a position tomorrow, and I'm actually 
+kind of excited about it. The pay is in line with what I was making 
+at Amazon, and sometimes I think: I'm probably more useful as a 
+customer, than as an employee, although, I'm certain that I'm the 
+most amazing employee of every company that I've ever worked at.
 
-* * *
+714
+
+function isPalindrome(x) {
+let reverse= x.split('').reverse().join('')
+if (reverse.toLowerCase()==x.toLowerCase()){
+return true;
+}
+else{
+return false;
+}
+}
+
+this looks the most like something I would have done, or 
+the approach I would have taken, but it isn't clear to me 
+why this works, and mine didn't
+
+715
 
 I don't know how overtime would work. I am serious about going back to college.
 
