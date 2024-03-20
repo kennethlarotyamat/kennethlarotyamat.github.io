@@ -5277,11 +5277,32 @@ not the answer to that question!
 
 381
 
-Sometimes when I go out to eat I get the feeling that the food was microwaved after being pulled out of a bag from something I could have purchased from the frozen food section of the grocery store.
+// new instance of the Shipment class. 
+// pulls Shipment class
 
-I went and got an oil change, which was something I've been meaning to do for a while, and when I was getting the oil change, the technician recommended that I get my transmission fluid changed, so I did that as well. I really don't want to spend more than I need to right now, but I know that I've put a hell of a lot of miles on my car over the last few months, so I need to weigh being cautious with my spending against the risks of unexpected car problems from skipping on maintenance now.
+// into the demo class.
+// int theFrequentShipperIdentificationNumber;
 
-...
+// double theNumberOfOutsideLinerInches = 0;
+// double theDimensionalWeight = 0;
+
+Sometimes when I go out to eat I get the feeling 
+that the food was microwaved after being pulled 
+out of a bag from something I could have purchased 
+from the frozen food section of the grocery store.
+
+I went and got an oil change, which was something 
+I've been meaning to do for a while, and when I was 
+getting the oil change, the technician recommended 
+that I get my transmission fluid changed, so I did 
+that as well. I really don't want to spend more than 
+I need to right now, but I know that I've put a hell 
+of a lot of miles on my car over the last few months, 
+so I need to weigh being cautious with my spending 
+against the risks of unexpected car problems from 
+skipping on maintenance now.
+
+382
 
 I have to think. I was thinking about pursuing a graduate certificate in Spanish Translation at UNLV. One issue is that out-of-state tuition would make this cost prohibitive, but it's possible that my time in Nevada during 2018 would count toward my status as a Nevada resident, this is something I have to look into, and I'd probably have to request records from the Nevada DMV.
 
