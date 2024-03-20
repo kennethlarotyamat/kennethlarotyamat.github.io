@@ -13005,7 +13005,9 @@ changes, before pushing, but, i deleted the file locally before i could do
 that, so [were all talking to eachother about this still being an amazing]
 for some reason i couldn't remove it from my list of committed  
 changes to push. anyway. I think it's more or less resolved at this point.
-</p> [and how they were all amazing where they were all amazing where they]
+[I would say yes!] </p> [and how they were all amazing where they were all amazing where they]
+
+875
 
  <p>...</p><p class= "adventuretitle" >Adventure # 33 - 10/27/2023 19:23</p>
 
