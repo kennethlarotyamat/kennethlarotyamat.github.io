@@ -1977,10 +1977,16 @@ that are interesting
 and that you will be happy to see and 
 you will enjoy them.
 
-I know what to do now, like going forward and stuff. I'm going to say this:
+I know what to do now, like going 
+forward and stuff. I'm going to say this:
 
 
-"Yeah, I know a whole bunch of stuff, all the craziest dirt and everything. Basically. I have all the information you need, even the things that other people don't know, and even the things that other people couldn't even imagine."
+"Yeah, I know a whole bunch of stuff, 
+all the craziest dirt and everything. 
+Basically. I have all the information 
+you need, even the things that other 
+people don't know, and even the things 
+that other people couldn't even imagine."
 
 maybe you know the things that you haven't
 already learned so you will learn them.
@@ -1992,6 +1998,8 @@ over and think that
 the new things are
 nonsensical, but they
 actually make sense.
+
+168
 
 
 
