@@ -13057,59 +13057,57 @@ I bought a call option with a 53 strike and a December expiration.
 
 878
 
+[I am really thirsty] <p>...</p><p>I fixed the titles. It wasn't really clear, 
+even to me, where one adventure ended, and another adventure begun. so. Yeah. 
+I fixed it. [I want to go to the store and get a drink I am so thirsty and]
+[well I really want to get something to drink a soda] </p> <p>...</p> [something]
 
+<img src=".\media\Screenshot 2023-10-26 152846.png" alt="SPLG Chart Screenshot"> 
+[I am still thirsty and I still want something to drink and I am thirsty] 
+[and I still want something to drink] <br> <p>SPLG Chart Screenshot</p> 
 
-
-<p>...</p><p>I fixed the titles. It wasn't really clear, even to me, where one adventure ended, and another adventure begun. so. Yeah. 
-
-I fixed it.
-</p> <p>...</p>
-
-<img src=".\media\Screenshot 2023-10-26 152846.png" alt="SPLG Chart Screenshot"> <br> <p>SPLG Chart Screenshot</p> 
-
-<p>I went ahead and cancelled my orders. It's against my better judgement to be selling right now, but I can only really sell first 
+<p>I went ahead and cancelled my orders. It's against my 
+better judgement to be selling right now, but I can only really sell first 
 and then buy the shares back at a lower price.
-</p>
+[maybe these things will be better and will be more] </p> [amazing for all time]
 
 <img src=" .\media\Screenshot 2023-10-26 152846.png " alt="SPLG Chart Screenshot"> <br> <p>SPLG Chart Screenshot</p>
-
+[these were the things that made me angry and made me change my mind about things that made me think]
 <img src=".\media\Screenshot 2023-10-26 153916.png" alt="SPLG Chart Screenshot"> <br> <p>SPLG Chart Screenshot</p>
-
+[that made me think harder about trivial questions about life that made me wonder about all things]
 <img src=".\media\Screenshot 2023-10-26 153923.png" alt="SPLG Chart Screenshot"> <br> <p>SPLG Chart Screenshot</p>
 
-<p>
+879
 
+[start all the things over do all the things over] <p>
 <br>        Estimate        SPLG 10/27/2023        <br>
 <br>        Range           .60
 <br>        Midpoint        48.73
 <br>        Low/High        48.43 - 49.03
+[do them all over do them all over again] </p>
 
+<p> I'm trying to think. It's against my better judgement to sell, but 
+I can only sell first and then buy back in, and I don't have any cash to buy in and then sell later. I'll do 1 share.</p>
 
-</p>
+<img src=".\media\Screenshot 2023-10-26 171630.png" alt="SPLG OTO Order Screenshot"> <br> <p>SPLG OTO Order Screenshot</p>
+<p>I need to see how this works. I set it up so that the triggering order is cancelled at the end of the day if it isn't filled. If the triggering order 
 
-  <p> I'm trying to think. It's against my better judgement to sell, but 
-     I can only sell first and then buy back in, and I don't have any cash to buy in and then sell later. I'll do 1 share.</p>
+is cancelled, the untriggered order should also be cancelled, but, if the triggering order is filled, the triggered order should stay open until cancelled. 
+I'm entering this order to make sure that this is how it works.
+[but I think] </p>
+<p>...</p><p class= "adventuretitle" >Adventure # 30 - 10/26/2023 07:50</p>
+[that things often go wrong] <p>
 
-     <img src=".\media\Screenshot 2023-10-26 171630.png" alt="SPLG OTO Order Screenshot"> <br> <p>SPLG OTO Order Screenshot</p>
+880
 
-     <p>I need to see how this works. I set it up so that the triggering order is cancelled at the end of the day if it isn't filled. If the triggering order 
+I cancelled all open orders and put a new set of orders in. I have to start paying more attention to this again. I think I have, not a new approach, but an adjustment
+in mind. I don't want to have too many orders open at any given time. So I'm thinking that I have to adjust and merge orders as I go along. One issue that
+I'm facing right now is that I don't have very much cash to work with. With the T + 2 settlement restrictions that I'm facing, I can really only
+trade a third of my cash on any given day, and I kind of tied up a lot of it writing that cash secured put option. The idea was that I could collect interest on
+the cash collateral, in addition to collecting the premium for writing the put option as well as getting 100 shares into SPLG for less than 49.90. I'll see how this goes, 
+the put option has a November 17 expiration date.
 
-      is cancelled, the untriggered order should also be cancelled, but, if the triggering order is filled, the triggered order should stay open until cancelled. 
-      
-      I'm entering this order to make sure that this is how it works.
-     </p>
-
-  <p>...</p><p class= "adventuretitle" >Adventure # 30 - 10/26/2023 07:50</p>
-
-  <p>
-    
-    I cancelled all open orders and put a new set of orders in. I have to start paying more attention to this again. I think I have, not a new approach, but an adjustment
-
-  in mind. I don't want to have too many orders open at any given time. So I'm thinking that I have to adjust and merge orders as I go along. One issue that
-  I'm facing right now is that I don't have very much cash to work with. With the T + 2 settlement restrictions that I'm facing, I can really only
-  trade a third of my cash on any given day, and I kind of tied up a lot of it writing that cash secured put option. The idea was that I could collect interest on
-  the cash collateral, in addition to collecting the premium for writing the put option as well as getting 100 shares into SPLG for less than 49.90. I'll see how this goes, 
-  the put option has a November 17 expiration date.
+881
 
 
   </p> <p>...</p> <p>Whoever bought that option  seems to have made a bunch of money.</p>
