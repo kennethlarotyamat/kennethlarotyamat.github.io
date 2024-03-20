@@ -7380,10 +7380,15 @@ case, even though there is a single application for the 14 posts that
 I registered, each post is registered as part of a larger registration, 
 using the previous method that I used, I would have to compile all the 
 posts into a single post, and then register that single post as 
-a "Collective Work" that I'd have a claim on. This distinction probably 
-isn't obvious to someone who doesn't register copyrights, but an analogy 
-that might make this easier to understand, is that it's like having 14 
-different deeds to 14 different 1 acre plots of land, rather than having 
+a "Collective Work" that I'd have a claim on. 
+
+This distinction probably 
+isn't obvious to someone who doesn't 
+register copyrights, but an analogy 
+that might make this easier to understand, 
+is that it's like having 14 
+different deeds to 14 different 1 acre plots of 
+land, rather than having 
 1 deed to a single 14 acre plot of land.
 
 465
