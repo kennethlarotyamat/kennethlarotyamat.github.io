@@ -4587,10 +4587,11 @@ Notes: 			this sequence is based on + 00.03 to Sell orders and - 00.02 to
 
 332
 
-
-
-
-I slept for something like 3 hours and I feel fully rechanged. This is really weird. Usually I'm dead tired even if I stay asleep an hour before I start work, and that's usually a hell of a lot of hours of sleep.
+I slept for something like 3 hours and 
+I feel fully rechanged. This is really weird. 
+Usually I'm dead tired even if I stay asleep 
+an hour before I start work, and that's 
+usually a hell of a lot of hours of sleep.
 
 ...
 
