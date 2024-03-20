@@ -10589,20 +10589,44 @@ propping up Zelenskyy.
 
 692
 
-The reason I'm not entirely in favor of student loan forgiveness is this: education expenses receive a tax credit, and a portion of student loan payments are tax deductible, so anyone receiving student loan forgiveness is triple dipping at the tax-payer's expense.
-Kenneth Larot Yamat
-@KennethLYamat
-·
-6h
-Another reason is that many employers offer tuition and education reimbursement incentives, and it's not really a huge indignity for anyone from an economically disadvantaged group, for example, the proletariat, to bag groceries, or pour coffee, or pack boxes, or count cash.
+The reason I'm not entirely in favor of 
+student loan forgiveness is this: education 
+expenses receive a tax credit, and a portion 
+of student loan payments are tax deductible, 
+so anyone receiving student loan forgiveness 
+is triple dipping at the tax-payer's expense.
 
-* * *
+Project Proposal:		To create a program that automatically creates
+                                trading tickets for a security, for example, buy 
+                                and sell orders for shares of an exchange traded fund.
+                                
+                                A user would only manually enter the first order, either to 
+                                buy or sell a security, the program would populate and submit 
+                                a new ticket based on the fulfillment of the previous ticket, 
+                                the chain of tickets would continue until the user decided to
+                                cancel the chain.
+                                
+                                Another application of this program would be to serve as a
+                                treasury management solution.
 
+Another reason is that many employers offer tuition and 
+education reimbursement incentives, and it's not really 
+a huge indignity for anyone from an economically disadvantaged 
+group, for example, the proletariat, to bag groceries, or pour 
+coffee, or pack boxes, or count cash.
 
+693
 
+with everything 
+that is going on in the world
+well. the world will end.
+the end is
+coming soon. really soon.
+or maybe not.
+everything will be fine.
 With Distinction
 
-* * *
+694
 
 I'm going to leave the unemployment stuff alone for now. I was offered a position with AO Smith, and I accepted.
 
