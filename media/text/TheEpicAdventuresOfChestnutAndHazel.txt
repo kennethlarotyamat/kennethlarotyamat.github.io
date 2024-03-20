@@ -13056,36 +13056,36 @@ I bought a call option with a 53 strike and a December expiration.
 <img src=".\media\Screenshot 2023-10-26 131509.png" alt="New Orders for 10/27/2023"><br> <p>New Orders for 10/27/2023</p> 
 
 878
-   
 
- 
 
-  <p>...</p><p>I fixed the titles. It wasn't really clear, even to me, where one adventure ended, and another adventure begun. so. Yeah. 
 
-    I fixed it.
-  </p> <p>...</p>
 
-  <img src=".\media\Screenshot 2023-10-26 152846.png" alt="SPLG Chart Screenshot"> <br> <p>SPLG Chart Screenshot</p> 
+<p>...</p><p>I fixed the titles. It wasn't really clear, even to me, where one adventure ended, and another adventure begun. so. Yeah. 
 
-  <p>I went ahead and cancelled my orders. It's against my better judgement to be selling right now, but I can only really sell first 
-    and then buy the shares back at a lower price.
-  </p>
+I fixed it.
+</p> <p>...</p>
 
-  <img src=" .\media\Screenshot 2023-10-26 152846.png " alt="SPLG Chart Screenshot"> <br> <p>SPLG Chart Screenshot</p>
+<img src=".\media\Screenshot 2023-10-26 152846.png" alt="SPLG Chart Screenshot"> <br> <p>SPLG Chart Screenshot</p> 
 
-  <img src=".\media\Screenshot 2023-10-26 153916.png" alt="SPLG Chart Screenshot"> <br> <p>SPLG Chart Screenshot</p>
+<p>I went ahead and cancelled my orders. It's against my better judgement to be selling right now, but I can only really sell first 
+and then buy the shares back at a lower price.
+</p>
 
-  <img src=".\media\Screenshot 2023-10-26 153923.png" alt="SPLG Chart Screenshot"> <br> <p>SPLG Chart Screenshot</p>
+<img src=" .\media\Screenshot 2023-10-26 152846.png " alt="SPLG Chart Screenshot"> <br> <p>SPLG Chart Screenshot</p>
 
-  <p>
+<img src=".\media\Screenshot 2023-10-26 153916.png" alt="SPLG Chart Screenshot"> <br> <p>SPLG Chart Screenshot</p>
 
-    <br>        Estimate        SPLG 10/27/2023        <br>
-    <br>        Range           .60
-    <br>        Midpoint        48.73
-    <br>        Low/High        48.43 - 49.03
+<img src=".\media\Screenshot 2023-10-26 153923.png" alt="SPLG Chart Screenshot"> <br> <p>SPLG Chart Screenshot</p>
 
-    
-  </p>
+<p>
+
+<br>        Estimate        SPLG 10/27/2023        <br>
+<br>        Range           .60
+<br>        Midpoint        48.73
+<br>        Low/High        48.43 - 49.03
+
+
+</p>
 
   <p> I'm trying to think. It's against my better judgement to sell, but 
      I can only sell first and then buy back in, and I don't have any cash to buy in and then sell later. I'll do 1 share.</p>
