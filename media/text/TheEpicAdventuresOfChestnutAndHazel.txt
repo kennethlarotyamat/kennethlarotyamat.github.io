@@ -10628,36 +10628,73 @@ With Distinction
 
 694
 
-I'm going to leave the unemployment stuff alone for now. I was offered a position with AO Smith, and I accepted.
+// Shipment shipment = new Shipment();
 
-* * *
+// Shipment shipment = new Shipment(billableWeight);
 
-I'll forget about the social security disability stuff as well.
+// i really don't know how to resolve this issue.
+// (formatDoubleDollars.format)
 
-* * *
+// DecimalFormat formatDoubleDollars = new DecimalFormat("0.00");
+// i don't know what to do here
+// I think that I got this thing to work. let's see if it actually does work or
+// not.
 
-I think I finished my FAFSA stuff. Well. I did finish my FAFSA stuff.
+// System.out.println(packageShippingChargeArray);
+// packageShippingChargeArray
+// I know what the issue is: I changed the name of the array earlier 
+// I was unhappy about all that really unhappy about everything.
+// shipment.packageShippingCostsArray.add(billableWeight);
 
-* * *
+// CreateTranscript transcript = new CreateTranscript(courseNumber, courseHours,
+// letterGrade);
+// transcript.setLetterGrade(letterGrade);
+// numberGradeArray.add(transcript.getNumberGrade());
 
-Kenneth Larot Yamat
-@KennethLYamat
-·
-2m
-Mao Zedong was going to lead the Wanton Assault team into a verloren hoop charge at the Wehrmacht's left flank, then rear guard, but he got bogged down fighting the Imperial Sushi Masters and the Prince of the Peking Duck Dynasty: Chiang Kai-shek!
+// shipment.packageShippingCostsArray.add(billableWeight)
+// numberGradeArray.add(transcript.getNumberGrade()); 
+// letter grade converted
+// to numerical value and added to array
+// shipment.addShippingCost(billableWeight); 
+// here is where the things went wrong where things didn't work out.
+// packageShippingCostsArray.add(shippingCost);
 
-#VladimirPutin
-#Stalingrad
-Kenneth Larot Yamat
-@KennethLYamat
+// System.out.println(reset+"The parcel has a dimensional weight of: " +
+// formatDouble.format(dimensionalWeight));
+// entryNumber++;
 
-* * *
+695
 
-Nightmare. I'm tired. an old friend asked me to hang out tonight. we met up. and went to 7-11. waste of time. i think that she was happy to see me, and i was happy to see her, but i have all this other shit that i have to take care of. even though i'm not working now, and it will be a while before i go back to work.
+I'm going to leave the unemployment 
+stuff alone for now. I was offered a 
+position with AO Smith, and I accepted.
 
-* * *
-·
-17m
+696
+
+I'll forget about the social 
+security disability stuff as well.
+
+I think I finished my FAFSA stuff. 
+Well. I did finish my FAFSA stuff.
+
+Mao Zedong was going to lead the Wanton 
+Assault team into a verloren hoop charge 
+at the Wehrmacht's left flank, then rear 
+guard, but he got bogged down fighting 
+the Imperial Sushi Masters and the Prince 
+of the Peking Duck Dynasty: Chiang Kai-shek!
+
+697
+
+Nightmare. I'm tired. an old friend asked me to hang out 
+tonight. we met up. and went to 7-11. waste of time. i 
+think that she was happy to see me, and i was happy to see 
+her, but i have all this other shit that i have to take 
+care of. even though i'm not working now, and it will be a 
+while before i go back to work.
+
+698
+
 I fought for the Allies at Stalingrad as part of the Fried Rice Auxiliaries of the Red Army, Ho Chi Minh and Emiliano Zapata were my Comrades in Arms, but the Soviets had logistical problems then, as now, and we were given only one rifle for the three of us.
 
 #vladimirputin
