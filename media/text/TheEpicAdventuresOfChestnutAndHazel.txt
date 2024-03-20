@@ -151,7 +151,8 @@ I really don't know what to do about money right now.
 
 13
 
-"Everything I had done has to be done over; I was on the wrong track entirely, and after working hard most of that time: I'm still only at the beginning." - Gustave Flaubert
+"Everything I had done has to be done over; I was on the wrong track entirely, and after working hard 
+most of that time: I'm still only at the beginning." - Gustave Flaubert
 
 14
 
@@ -274,29 +275,6 @@ you only want the video, and not the whole page that's on YouTube.
 
 34
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-...
-
-
-
-
 Walking Through The Grass (2019)
 
 I remember walking 
@@ -309,32 +287,9 @@ my pants would get wet too
 and my boots would get wet 
 and my socks would get wet.
 
-...
+36
 
+I spent a lot of time on that project, I really enjoy the end result. I 
+still want to make the contact modal work. These are comments removed from my GitHub files.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-...
-
-I spent a lot of time on that project, I really enjoy the end result. I still want to make the contact modal work. These are comments removed from my GitHub files.
-
-...
+37
