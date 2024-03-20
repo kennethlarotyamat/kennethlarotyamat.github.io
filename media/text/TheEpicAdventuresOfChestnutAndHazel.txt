@@ -12922,8 +12922,12 @@ to myself: "Didn't I just pay that bill last month?"
 
 869
 
-<p><iframe  src="https://www.youtube.com/embed/2hGmoMrvSYo" style="aspect-ratio: 8.68/6.86; height: auto; width:100%;" scrolling="yes"   
-  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen ></iframe></p>
+but what was it that changed? [x] <p> <iframe  src="https://www.youtube.com/embed/2hGmoMrvSYo" [can you tell me that much?]
+style="aspect-ratio: 8.68/6.86; height: auto; width:100%;" [at least that much so that I can figure out how to deal with]
+scrolling="yes" [the issues that you are facing and having challenges with that were so amazing?]   
+allow="accelerometer; autoplay; clipboard-write; [maybe the computer code will be interesting and they will get greater]
+encrypted-media; gyroscope; picture-in-picture; [I have to audit MIS 768 what a nightmare, what a nightmare]
+web-share" allowfullscreen ></iframe> </p>
 
 
 
