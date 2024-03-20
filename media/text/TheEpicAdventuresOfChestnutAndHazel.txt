@@ -12684,7 +12684,8 @@ they could not be and how they said something.
 845
 
 //but there was something // <!-- [11/05/2023 09:32 AM] <iframe  src=".\options-pricing-calculator-project-13-part-2\src\index.html" 
-this was where we were the other day // [11/05/2023 09:32 AM] style="margin: 1vh 1vh 1vh 1vh; padding: 1vh 1vh 1vh 1vh; width:100%; height: auto; aspect-ratio: 50/29; " 
+this was where we were the other day // [11/05/2023 09:32 AM] style="margin: 1vh 1vh 1vh 1vh; padding: 
+// maybe there was something you didn't know // 1vh 1vh 1vh 1vh; width:100%; height: auto; aspect-ratio: 50/29; " 
 [11/05/2023 09:32 AM] scrolling="yes"   
 [11/05/2023 09:32 AM] allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
 [11/05/2023 09:32 AM] allowfullscreen ></iframe>  C:\Users\KLYam\OneDrive\Documents\GitHub\kennethlarotyamat.github.io\javascript\calculatorbasefilescript.js -->
