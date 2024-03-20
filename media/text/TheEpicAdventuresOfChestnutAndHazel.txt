@@ -4225,9 +4225,13 @@ that you are describing to me.
 
 313
 
-So after cleaning up all of the posts that were flagged, I got another notice that the issue has been flagged again, and so I have to spend time looking through my blog again and figure out where all the offending posts are.  
+So after cleaning up all of the posts that were flagged, 
+I got another notice that the issue has been flagged again, 
+and so I have to spend time looking through my blog again 
+and figure out where all the offending posts are.  
 
-This is somewhat difficult given that there are so many posts for me to look through.
+This is somewhat difficult given that there are so many 
+posts for me to look through.
 
 ...
 
