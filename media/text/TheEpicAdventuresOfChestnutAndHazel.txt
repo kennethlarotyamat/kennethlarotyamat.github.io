@@ -9881,7 +9881,6 @@ stupid things and things
 that aren't smart to do.
 
 You know.
-
 Revised, annotated and updated 
 on 10/09/2022 @ 05:40 PM originally published on 05/05/2022 at 01:18 AM
 have tests have bests and these 
@@ -9893,16 +9892,36 @@ have problems and then more. way more.
 
 654
 
-...
-
 Kenneth Larot Yamat
 
-📮5892 Losee RD STE 132 PMB 176, North Las Vegas, NV 89081-6200 📧info@chestnutandhazel.com ‎‎☎+1-816-724-5293
+📮5892 Losee RD STE 132 PMB 176, North Las 
+Vegas, NV 89081-6200 📧info@chestnutandhazel.com 
+☎+1-816-724-5293
 
+these are where they are and 
+where they tend to be where they would have been.
 
+655
 
+// Commoditized  // commoditized // Commoditized  // specified by the user // commoditized // incumbents
+// this was interesting - eclipse doesn't really say that this is where the class Book was, but
+// i figured that if I moved the files into - or a i moved the .java classes into a new package, 
+// that it would throw errors since the Book.java files are not in
+// the same package.
+//find the position of > the indicates the beginning of the data field
+// unlikley 
+// Value of AI should be highest when it reaches maturity - unlikely 
+// to be comoditized - meaning standardized product or indistinguishable from other AI products.
+//Rideshare // encroachment // incumbents // incumbents // incumbents // encroachment 
+// A Scanner object for getting input from the keyboard // Isomers
+// incumbents // exploitative // tweets // blog posts // devalue their // Artificial 
+// Professionals // Multidisciplinary // Illnesses // "Isomers refer to compounds that have the same molecular formula but are structurally different."
+// Over-used // Internalization // Artifacts // Overused // independently // Monomers 
+// internalisation // programme // loopthink // Loopthink // informatics // Healthcare // Inaccurate // interoperability // imagery
+// read the next line
+// write the content of the Book object
 
-
+656
 
 So, kenneth your worst fears are over. You just needed to celebrate something. Other. Than going to work.
 
