@@ -1625,7 +1625,13 @@ I think that everything has been set up, once everything is
 deployed, then I can focus on making translations for the
 pages that I've set up.
 
-...
+137
+
+I haven't even looked at the Spanish Translation 
+project in a while. After not passing the Spanish Entrance 
+exam I more or less figured I would put it on the back burner. 
+
+138
 
 So I set up the .md files for the four authors that I'm going
 to translate from English to Spanish, and the four authors
