@@ -10180,6 +10180,21 @@ this is how it all happens and how it all works out
 @return outputFileName with csv file extension
 and how new things are old things the best things.
 
+Uber
+
+Module 1 	Vicky
+Module 2	Kelly
+Module 3 	Kenneth
+Module 4 	Group Paper
+
+i couldn't see the csv folder that was being created, it was being filtered out
+so i removed all filters, and now I see everything. 
+
+D:\GitHub\MIS76810032024Sprg\src\MIS768\booktest.csv 
+// for whatever reason this doesn't seem to be showing up in my eclipse like in the video. in the class.
+// https://unlv.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=c65b75ac-c935-4946-bc8d-b117002f504a&start=0
+
+
 */
 
 664
