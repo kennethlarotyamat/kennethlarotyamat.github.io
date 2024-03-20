@@ -3864,12 +3864,33 @@ finally get around to registering a few trademarks.
 
 288
 
+// the backslash is called an escape character needs to add a backslash 
+// I remember that there was something about file paths here, 
+// when there has to be double backslashes.		
 
-...
+// I'm following along with the video, but rather than
+// deleting the code, I'm just going to comment it out for now. 
+// D:\GitHub\MIS76810032024Sprg\src\MIS768\edu\improvedbooktestparttwo.csv
+// I don't know why it's not showing up in eclipse, or not showing up right away.
+// something about the file paths. I found them.
 
-I didn't get much sleep this morning. I was busy setting up the new domain and emails for it and doing a little writing that I found that it was noon before I even got a chance to lay down and rest. So I'm at six hours of sleep for the day which is a lot less than usual but I'll see how this goes.
 
-The fact that I had so many energy drinks the day before may have also played into it as well. It's hot. Really hot, and it's hot enough that the AC in my car accomplishes almost nothing when it's running. I don't remember it being this hot the last time I was in Vegas five years ago.
+289
+
+I didn't get much sleep this morning. I was busy 
+setting up the new domain and emails for it and 
+doing a little writing that I found that it was 
+noon before I even got a chance to lay down and 
+rest. So I'm at six hours of sleep for the day 
+which is a lot less than usual but I'll see how 
+this goes.
+
+The fact that I had so many energy drinks the day 
+before may have also played into it as well. It's 
+hot. Really hot, and it's hot enough that the AC in 
+my car accomplishes almost nothing when it's running. 
+I don't remember it being this hot the last time I was 
+in Vegas five years ago.
 
 ...
 
