@@ -3717,6 +3717,15 @@ after creating something useful from the knowlege I'd
 obtained while taking the course would create an actual 
 asset.
 
+I good grade is an asset in a figurative sense
+
+279
+
+// i figured that if I moved the files into - or a i moved the 
+// .java classes into a new package, that it would throw errors since the Book.java files are not in
+// the same package. 
+// figurative
+
 So many emails and I'm really nobody notable.
 
 Anyway, pants. I kind of want to have a 2 week supply of pants, but I'm not sure I really need that many. It's just that some times. I don't really need 14 pairs of pants, It's just sometimes I don't always have the time to do laundry every week.
