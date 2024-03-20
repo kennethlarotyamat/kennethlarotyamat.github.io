@@ -1950,9 +1950,12 @@ it's been about a month and three weeks.
 
 165
 
-I'm so tired. My sleep cycle has shifted over the past few weeks. I'm still worried about not landing a position yet. I'm depleting my savings, and for me, that's not really ideal.
+I'm so tired. My sleep cycle has shifted over the 
+past few weeks. I'm still worried about not landing 
+a position yet. I'm depleting my savings, and for me, 
+that's not really ideal.
 
-...
+166
 
 I still haven't landed a position yet, and I'm under a little bit of stress as a result. I can't believe I didn't get approved for unemployment.
 
