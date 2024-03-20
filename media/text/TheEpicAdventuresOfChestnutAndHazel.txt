@@ -11260,11 +11260,18 @@ On this day
 Kenneth Larot Yamat
 October 11, 2012
 Shared with Public
-TMH4 - Yesterday: Hump day. I can fix that hump. What hump? Always be closing.
+TMH4 - Yesterday: Hump day. 
+I can fix that hump. What hump? Always be closing.
 
-...
+742
 
-"Salesforce Profile Deletion 1.0012331223122525365456456464554" by Kenneth Larot Yamat
+I'm trying to think right now.
+this is taking forever. but I did scrape and compile everything from
+my blog, and I think. right now I'm just hunting down conent 
+from my GitHub repositories, anything here that I've written.
+
+These are from somewhere. "Salesforce Profile Deletion 1.0012331223122525365456456464554" 
+by Kenneth Larot Yamat
 
 This was my Sales Force profile while working at
 Viator, a company owned by Trip Advisor
@@ -11303,106 +11310,28 @@ Academics
 *Consumer of TripAdvisor Funyuns, Mediocre Honors
 *Participant at the Viator Carrot Consumption Convention, Inferior Honors
 
-...
+743
 
-https://www.poetryfoundation.org/poems/50372/ode-i-5-to-pyrrha
+I'm more tired than ever. More than 
+I can possibly imagine. Today was a 
+long day. Small victories I guess.
 
-...
-
-Ode I, 5: To Pyrrha
-BY HORACE
-TRANSLATED BY JOHN MILTON
-What slender youth, bedew’d with liquid odors,
-Courts thee on roses in some pleasant cave,
-             Pyrrha? For whom bind’st thou
-             In wreaths thy golden hair,
-Plain in thy neatness? O how oft shall he
-Of faith and changed gods complain, and seas
-             Rough with black winds, and storms
-             Unwonted shall admire!
-Who now enjoys thee credulous, all gold,
-Who, always vacant, always amiable
-             Hopes thee, of flattering gales
-             Unmindful. Hapless they
-To whom thou untried seem’st fair. Me, in my vow’d
-Picture, the sacred wall declares to have hung
-             My dank and dropping weeds
-             To the stern god of sea.
-
-...
-
-Literal English Translation
-What slender boy, drenched in liquid perfumes,
-presses hard upon you on many a rose,
-Pyrrha, under cover of a pleasing cave?
-For whom do you bind back your yellow hair,
- 
-Simple with elegance? Alas, how often will he lament
-faithlessness and changed gods, and in surprise
-He will marvel at
-rough waters with black winds,
- 
-he who now enjoys you, believing, you are golden,
-who hopes that you will be always free, always lovable,
-he who is ignorant of the treacherous breeze!
-Wretched are they for whom
- 
-you, untried, shine. As for me, the sacred wall
-with its votive tablet declares that I have
-hung up my dripping garments
-to the god who rules over the sea.
-
-...
-
-Original Latin
-
-quis multa gracilis te puer in rosa
-  perfusus liquidis urget odoribus
-      grato, Pyrrha, sub antro?
-        cui flavam religas comam,
-
-simplex munditiis? heu quotiens fidem
-  mutatosque deos flebit et aspera
-      nigris aequora ventis
-         emirabitur insolens,
-
-  qui nunc te fruitur credulus aurea,
-qui semper vacuam, semper amabilem
-      sperat, nescius aurae
-         fallacis! miseri, quibus
-
-  intemptata nites. me tabula sacer
-  votiva paries indicat uvida
-    suspendisse potenti
-         vestimenta maris deo.
-
-...
-
-https://en.wikipedia.org/wiki/Lorem_ipsum
-
-...
-
-https://www.poetryfoundation.org/poems/50372/ode-i-5-to-pyrrha
-
-...
-
-https://en.wikisource.org/wiki/Translation:Odes_(Horace)/Book_I/5
-
-...
-
-Adventure # 2 - 10/10/2023 20:41
-
-I'm more tired than ever. More than I can possibly imagine. Today was a long day. Small victories I guess.
-
-Adventure # 1 - 10/10/2023 10:48
+744
 
 I consider this published, even if it's unlikley anyone will come across this
 or read it. There are times when I want to write things, but, less and less I feel
 the desire to write them on chestnutandhazel.com I don't know what it is, but, I'm
 starting to feel more "On Stage" when I write and post things there.
 
-Maybe a few years back it seemed, it felt like there wasn't anyone really, you know
+745
+
+Maybe a few years back it seemed, it 
+felt like there wasn't anyone really, you know
 reading it.
+
+746
+
+I'm really feeling unhappy.
 
 I need to be working on Project 11, but for some reason I'm just not really getting anything done.
 I've managed to figure out where my Contact Form is. It's something that I haven't really messed with
