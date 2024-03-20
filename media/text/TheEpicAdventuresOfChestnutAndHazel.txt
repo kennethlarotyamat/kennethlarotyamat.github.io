@@ -12922,14 +12922,14 @@ to myself: "Didn't I just pay that bill last month?"
 
 869
 
-but what was it that changed? [x] <p> <iframe  src="https://www.youtube.com/embed/2hGmoMrvSYo" [can you tell me that much?]
+but what was it that changed? [x] <p> <iframe [c] src="https://www.youtube.com/embed/2hGmoMrvSYo" [can you tell me that much?]
 style="aspect-ratio: 8.68/6.86; height: auto; width:100%;" [at least that much so that I can figure out how to deal with]
 scrolling="yes" [the issues that you are facing and having challenges with that were so amazing?]   
 allow="accelerometer; autoplay; clipboard-write; [maybe the computer code will be interesting and they will get greater]
 encrypted-media; gyroscope; picture-in-picture; [I have to audit MIS 768 what a nightmare, what a nightmare]
-web-share" allowfullscreen ></iframe> </p>
+web-share" allowfullscreen ></iframe> </p> [q] you said that you were [interested in what it was] [here and there]
 
-
+870
 
   <p>...</p><p class= "adventuretitle" >Adventure # 35 - 10/30/2023 13:21</p>
 
