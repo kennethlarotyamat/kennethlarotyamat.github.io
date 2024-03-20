@@ -11113,18 +11113,16 @@ haec olim meminisse juvabit Militat omnis amans  omnia vincit amor
 734
 
 I got sidetracked yet again. The above text should read something like 
-How beautiful you are standing there! who gullibly believes you are everything? who seeks pain to derive some pleasure from pain? What madness
+How beautiful you are standing there! who gullibly believes you are everything? 
+who seeks pain to derive some pleasure from pain? What madness
 posesses you? We will remember this fondly: every lover is a fighter: Love conquers all.
-
 This is basically just a collage of different latin quotes. Famous ones. including the most famous latin text of all: 
 
 lorem ipsum.
-
 This is supposed to be funny. The most famous latin quote should be omnia vincit amor, love conquers all, but I don't think that it is, i mean, more
 well known than lorem ipsum. the other funny thing is that, delorem ipsum, is from, i guess, cicero, but his most famous line should actually be:
 
 Carthago delenda est
-
 and um, I guess I came across: Militat omnis amans, from Ovid
 which translates to:
 
@@ -11136,12 +11134,11 @@ Which is really funny because that's clearly a response to the phrase: "I'm a lo
 and he does this to omnia vincent amore as well, where he say something like:
 
 Love conquers all? so too will I triumph over love!
-
 but I couldn't find that quote online, or at least, I had a lot of trouble finding it because all searches for
-
 Omnia vincent amore, ovid come up only with virgils original line.
-
 anyway.
+
+735
 
 I got sidetracked again, I had an ititial version of project 8 that I was having a lot of trouble with, so, I stopped working on it and
 started completely over. There is a screenshot of it in my media folder. I don't know what the issue was. or. I don't remember since project 8
