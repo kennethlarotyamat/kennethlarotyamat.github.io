@@ -203,11 +203,15 @@ get project 14 completed, even though this seems like it was kind of a long digr
 
 21
 
-I'm spending some time today to work on my blog, as well as my YouTube channel. I don't know. I need to do something with these gaming videos, like add narration, or, say something, about what I'm thinking, about what some of my decisions are when I'm playing. I'm kind of thinking of going with the Vanilla version, rather than playing with so many mods, but, if there isn't one annoying issue with the game, there is usually some other annoying issue. One thing that takes up a lot more time than I would like it to, is the whole business of managing the faction and ruling dynasty.
+I'm spending some time today to work on my blog, as well as my YouTube channel. I don't know. I need to do something with these gaming videos, like add 
+narration, or, say something, about what I'm thinking, about what some of my decisions are when I'm playing. I'm kind of thinking of going with the Vanilla 
+version, rather than playing with so many mods, but, if there isn't one annoying issue with the game, there is usually some other annoying issue. One thing 
+that takes up a lot more time than I would like it to, is the whole business of managing the faction and ruling dynasty.
 
 22
 
-This is one of my earlier videos from the channel, when I spent time reading poetry and all of that. It's interesting to see all of the voice over stuff that can be done with text to speech programs. I actually saw an advertisement for one that I was really impressed with.
+This is one of my earlier videos from the channel, when I spent time reading poetry and all of that. It's interesting to see all of the voice over stuff 
+that can be done with text to speech programs. I actually saw an advertisement for one that I was really impressed with.
 
 23
 
@@ -255,6 +259,20 @@ multi-tasking.
 
 but right now it just seems more appropriate to work on 
 this epic and fabulous poem of mine!
+
+32
+
+Good Lord! I spent the entire day gaming, the entire past few days actually, and I've not gotten any real work done, 
+or, well, I don't really feel like I've gotten any work done.
+
+33
+
+I worked on my blog a little bit, made a few videos of me fixing broken links on my blog. I have to work on Project 15, 
+and I really haven't even looked at what's required. There's an issue with creating an embedded iframe, it's not really
+possible to link just the YouTube page into an iframe as a regular source, and suddenly I realize why, 
+you only want the video, and not the whole page that's on YouTube. 
+
+34
 
 
 
