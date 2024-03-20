@@ -10829,15 +10829,39 @@ things are getting worse.
 so much worse.
 terrible.
 
+I just completed the codewars version, and I'm coming back here to my leet code version, and it just. the solution I came up with seems 
+so alien to me. there's so much stuff going on outside of the function. the two versions are different. obviously. but one. in one case. the 
+leet code case, it's more for numbers, there's even a follow - up challenge where, they suggest trying to solve the same problem using 
+some kind of mathematical formula. that's not something that can be done with words.
 
-#pontifexmaximus
-Kenneth Larot Yamat
-@KennethLYamat
-·
-13m
-If the Druidic Council approves reimbursement for Marijuana, I want to submit medical expense reports for medicinal blowjobs. You wouldn't believe how therapeutic blowjobs can be.
+but the word version, the codewars you have to deal with upper and lower case letters, which is something that isn't a problem or 
+something to be concerned about when working with numbers. in fact, when i realized. well, it wasn't the only problem, but one 
+problem I was having was the to lower case part of the function. Anyway. I'm really glad that's over.
 
-* * *
+on to the haccker rank palindrome problem.
+
+711
+
+I just completed the codewars version, and I'm coming back here to my leet code version, and it just. the solution I came up with seems 
+so alien to me. there's so much stuff going on outside of the function. the two versions are different. obviously. but one. in one case. the 
+leet code case, it's more for numbers, there's even a follow - up challenge where, they suggest trying to solve the same problem using 
+some kind of mathematical formula. that's not something that can be done with words.
+
+but the word version, the codewars you have to deal with upper and lower case letters, which is something that isn't a problem or 
+something to be concerned about when working with numbers. in fact, when i realized. well, it wasn't the only problem, but one 
+problem I was having was the to lower case part of the function. Anyway. I'm really glad that's over.
+
+on to the haccker rank palindrome problem.
+Good Lord. I can't believe it finally worked.
+
+712
+
+If the Druidic Council approves reimbursement for 
+Marijuana, I want to submit medical expense reports 
+for medicinal blowjobs. You wouldn't believe how 
+therapeutic blowjobs can be.
+
+713
 
 So I have an interview for a position tomorrow, and I'm actually kind of excited about it. The pay is in line with what I was making at Amazon, and sometimes I think: I'm probably more useful as a customer, than as an employee, although, I'm certain that I'm the most amazing employee of every company that I've ever worked at.
 
