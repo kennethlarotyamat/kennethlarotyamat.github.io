@@ -11909,13 +11909,17 @@ that i will get over this for a while.
 
 786
 
-
-
-
 Greetings University of Texas at Arlington:
 
-
-I’ve decided to pursue an education at the University of Texas at Arlington due to the location of the institution: it’s within walking distance of my current residence, and at the center of the Dallas-Fort Worth Metropolitan Area. This is the third educational institution that I’ve attempted to pursue and obtain an advanced degree from, having previously applied to the University of Nevada at Las Vegas, and the University of Missouri at Kansas City. I was accepted to both institutions, however, due to distractions of one variety or another: financial, romantic, or professional, or even some infernal combination of all three; I found myself unable to attend either institution.
+I’ve decided to pursue an education at the University of Texas at Arlington 
+due to the location of the institution: it’s within walking distance of my 
+current residence, and at the center of the Dallas-Fort Worth Metropolitan Area. 
+This is the third educational institution that I’ve attempted to pursue and obtain 
+an advanced degree from, having previously applied to the University of Nevada at 
+Las Vegas, and the University of Missouri at Kansas City. I was accepted to both 
+institutions, however, due to distractions of one variety or another: financial, 
+romantic, or professional, or even some infernal combination of all three; I found 
+myself unable to attend either institution.
 
 
 What I aspire to, from an educational and academic standpoint, is to be accepted into the Quantitative Finance, M.S. program at the University of Texas at Arlington, complete the program, get a master’s degree, write numerous profound academic treatises and scholarly articles, submit them to academic journals, and win the greatest awards and recognitions for everything that I do. I want the papers I write to be cited by all other academics in Finance and Economics and even by academics in Personal Finance and Home Economics.
