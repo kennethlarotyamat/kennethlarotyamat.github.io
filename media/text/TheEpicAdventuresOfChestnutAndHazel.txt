@@ -1613,7 +1613,7 @@ I created a few additional JavaScript functions to allow
 the contact forms to be visible inside the iframe and clickable
 inside the list.
 
-...
+135
 
 I think that everything has been set up, once everything is
 deployed, then I can focus on making translations for the
