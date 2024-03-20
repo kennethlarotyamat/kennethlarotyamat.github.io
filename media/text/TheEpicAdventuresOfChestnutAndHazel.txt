@@ -7400,6 +7400,8 @@ the issue of a work that has multiple authors.
 I want to register some of the things that I worked
 on for MIS 764, but, technically everything was a group 
 assignment, so technically everything has three authors.
+and technically, everything has three owners, since I think 
+in this case authorship and ownership would be the same.
 
 466
 
