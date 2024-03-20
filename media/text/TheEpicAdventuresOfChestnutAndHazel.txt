@@ -3311,7 +3311,9 @@ and eventually a trademark.
 
 Chestnut + Hazel, all characters stylized
 
-Chestnut + Hazel, all characters stylized, the word chestnut is brown, the plus sign is red, and the word hazel is green
+Chestnut + Hazel, all characters stylized, the 
+word chestnut is brown, the plus sign is red, 
+and the word hazel is green
 
 the word chestnut is colored brown, hex value #875941 RGB value (135, 89, 65) HSV value (21,52,53)
 the plus sign character is colored red, hex value #7E0113 RGB value (126,1,19) HSV value (351,99,49)
