@@ -247,8 +247,12 @@ This is such a nightmare. Everything.
 
 27
 
-There is an issue with posting youtube videos in iframes, they have to have /embed/ in the source path. 
-headache. I thought that the video just wasn't totally live or deployed on YouTube, but it might be totally not going to work.
+There is an issue with posting youtube 
+videos in iframes, they have to 
+have /embed/ in the source path. 
+headache. I thought that the video just wasn't 
+totally live or deployed on YouTube, but it 
+might be totally not going to work.
 
 28
 
