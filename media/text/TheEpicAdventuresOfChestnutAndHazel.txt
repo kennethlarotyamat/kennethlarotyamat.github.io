@@ -2765,7 +2765,11 @@ silver coins are sometimes bad luck.
 
 224
 
-What did I work on today? well, the course has a kind of running project that I'm working on, and that's basically what I worked on today. Visually speaking, my fourth version of my project, Project 3-4, isn't very different from my third version of my project, Project 3-3, but for whatever reason it feels like I spent a lot of time doing the things that I did manage to do.
+What did I work on today? well, the course has a kind of running project 
+that I'm working on, and that's basically what I worked on today. Visually 
+speaking, my fourth version of my project, Project 3-4, isn't very different 
+from my third version of my project, Project 3-3, but for whatever reason it 
+feels like I spent a lot of time doing the things that I did manage to do.
 
 225
 
