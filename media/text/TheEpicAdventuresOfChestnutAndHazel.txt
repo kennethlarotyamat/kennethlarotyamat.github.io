@@ -12674,6 +12674,13 @@ they could not be and how they said something.
 
 844
 
+// <!-- i'm not sure if ill use this just yet, but I want to ready for deployment if i decide to use it.  this page is done.-->
+// var polygon = L.polygon(latlngs, {color: 'orange', weight:6, fillOpacity: .8}).addTo(map);
+// Location Pin
+// update locations, this is the field of view
+// (36.160196, -115.172424)
+// Location Pin Text Bubble
+
 The reason I'm not entirely in favor of student loan forgiveness is this: education expenses receive a tax credit, and a portion of student loan payments are tax deductible, so anyone receiving student loan forgiveness is triple dipping at the tax-payer's expense.
 Kenneth Larot Yamat
 @KennethLYamat

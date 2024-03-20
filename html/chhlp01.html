@@ -1,63 +1,56 @@
-<!-- i'm not sure if ill use this just yet, but I want to ready for deployment if i decide to use it.  this page is done.-->
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
-<link rel="icon"
-href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhis5UXOyPLEmBDmRjOHERNBK5CSCBwelHPiOaPwzn903vmcdjBQ_QFy9t4b5N-WNQaxgDTKjK4l7VsbpzXJ9Y82q7MJrdk8c3xq3Nty_TvvAAK1SglaLV9c3f4alOXkW8tYJEZ50WBzNW2tWXdj-ssJLN3HNPhqw0A1DQMNdwJu0aNGArbOUZ3nyvXO-A/s320/Chestnut%20+%20Hazel%20%200123%20(12)%2000%20002%20048.png">
+  <link rel="icon"
+    href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhis5UXOyPLEmBDmRjOHERNBK5CSCBwelHPiOaPwzn903vmcdjBQ_QFy9t4b5N-WNQaxgDTKjK4l7VsbpzXJ9Y82q7MJrdk8c3xq3Nty_TvvAAK1SglaLV9c3f4alOXkW8tYJEZ50WBzNW2tWXdj-ssJLN3HNPhqw0A1DQMNdwJu0aNGArbOUZ3nyvXO-A/s320/Chestnut%20+%20Hazel%20%200123%20(12)%2000%20002%20048.png">
 
-<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.3/dist/leaflet.css"
-integrity="sha256-kLaT2GOSpHechhsozzB+flnD+zUyjE2LlfWPgU04xyI="
-crossorigin=""/>
-<script src="https://unpkg.com/leaflet@1.9.3/dist/leaflet.js"
-integrity="sha256-WBkoXOwTeyKclOHuWtc+i2uENFpDZ9YPdf5Hf+D7ewM="
-crossorigin=""></script>
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.3/dist/leaflet.css"
+    integrity="sha256-kLaT2GOSpHechhsozzB+flnD+zUyjE2LlfWPgU04xyI=" crossorigin="" />
+  <script src="https://unpkg.com/leaflet@1.9.3/dist/leaflet.js"
+    integrity="sha256-WBkoXOwTeyKclOHuWtc+i2uENFpDZ9YPdf5Hf+D7ewM=" crossorigin=""></script>
 
-<title> Clark County </title> 
+  <title> Clark County </title>
 
 
 </head>
 
 <body>
 
-<div id="map" style=" width: 100%; height: auto; aspect-ratio: 686/868; "> </div>
+  <div id="map" style=" width: 100%; height: auto; aspect-ratio: 686/868; "> </div>
 
-<script>
-// update locations, this is the field of view
-// (36.160196, -115.172424)
-        const map = L.map('map').setView([35.399816, -115.172424], 10);
+  <script>
+
+    const map = L.map('map').setView([35.399816, -115.172424], 10);
 
 
-        const tiles = L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
-            maxZoom: 19,
-            attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
-        }).addTo(map);
-
-// Location Pin
-
-var marker = L.marker([36.160196, -115.172424]).addTo(map);
-var circle = L.circle([36.160196, -115.172424], {radius: 3600}).addTo(map);
-
-var latlngs = [[43.09, -79.07],[43.08, -79.06],[43.1, -79.05]];
-
-// var polygon = L.polygon(latlngs, {color: 'orange', weight:6, fillOpacity: .8}).addTo(map);
+    const tiles = L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
+      maxZoom: 19,
+      attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
+    }).addTo(map);
 
 
 
-// Location Pin Text Bubble
-var popup = L.popup()
-.setLatLng([36.220196, -115.172424])
-.setContent("This main business location")
-.openOn(map); 
+    var marker = L.marker([36.160196, -115.172424]).addTo(map);
+    var circle = L.circle([36.160196, -115.172424], { radius: 3600 }).addTo(map);
 
-function onMapClick(e) {
-alert("You clicked the map at " + e.latlng);
-}
+    var latlngs = [[43.09, -79.07], [43.08, -79.06], [43.1, -79.05]];
 
-map.on('click', onMapClick);
 
-           
+    var popup = L.popup()
+      .setLatLng([36.220196, -115.172424])
+      .setContent("This main business location")
+      .openOn(map);
 
-</script>
+    function onMapClick(e) {
+      alert("You clicked the map at " + e.latlng);
+    }
+
+    map.on('click', onMapClick);
+
+
+
+  </script>
 
 <!-- 
 [Citations]    [http://www.openstreetmap.org/copyright]
