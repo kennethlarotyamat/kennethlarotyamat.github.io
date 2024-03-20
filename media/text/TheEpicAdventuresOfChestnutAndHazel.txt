@@ -4328,10 +4328,42 @@ can enjoy.
 These are the drinks that
 are enjoyable to drink.
 
-...
+319
 
-There's a Little Caesars Pizza close to where I live. I went there a few times to get pizza, and I want to say that the last two times I went there, nothing was Hot-N-Ready, so I would go to the grocery store, or 7-11, or something, I don't remember exactly; I clearly didn't starve to death. Anyway, I went again today, and, not wanting to leave empty-handed, I decided to place my order through the Little Caesars app first, and then head over there, and it worked. There's the option to pay through the app, and the option to pay in person, and there is also a guest check out, that way I didn't have to set up an account or anything. I really wasn't in the mood to set up an account, or enter my credit card information into the app or whatever. I ordered a nicer pizza that I would ordinarily buy from Little Caesars.
-...
+Project Proposal:				
+
+To create a program that automatically creates
+trading tickets for a security, for example, buy 
+and sell orders for shares of an exchange traded fund.
+
+A user would only manually enter the first order, either to 
+buy or sell a security, the program would populate and submit 
+a new ticket based on the fulfillment of the previous ticket, 
+the chain of tickets would continue until the user decided to
+cancel the chain.
+
+Another application of this program would be to serve as a
+treasury management solution.
+
+320
+
+There's a Little Caesars Pizza close to where I live. 
+I went there a few times to get pizza, and I want to 
+say that the last two times I went there, nothing was 
+Hot-N-Ready, so I would go to the grocery store, or 
+7-11, or something, I don't remember exactly; I clearly 
+didn't starve to death. Anyway, I went again today, and, 
+not wanting to leave empty-handed, I decided to place my 
+order through the Little Caesars app first, and then head 
+over there, and it worked. There's the option to pay through 
+the app, and the option to pay in person, and there is also a 
+guest check out, that way I didn't have to set up an account 
+or anything. I really wasn't in the mood to set up an account, 
+or enter my credit card information into the app or whatever. 
+I ordered a nicer pizza that I would ordinarily buy from 
+Little Caesars.
+
+321
 
 What Was Originally Here?
 
