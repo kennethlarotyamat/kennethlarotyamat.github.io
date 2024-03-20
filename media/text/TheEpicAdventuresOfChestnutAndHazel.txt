@@ -3823,7 +3823,11 @@ inseam matters.
 
 286
 
-It's midnight, lunchtime, and I feel kind of unhappy. There is a brick inside my chest. A stack of bricks. I don't know what causes this. It oscillates. My mood oscillates from irritated to unhappy. Over and over. Sad to grouchy and grouchy to sad and over and over and I have no idea why.
+It's midnight, lunchtime, and I feel kind of unhappy. 
+There is a brick inside my chest. A stack of bricks. I 
+don't know what causes this. It oscillates. My mood 
+oscillates from irritated to unhappy. Over and over. Sad 
+to grouchy and grouchy to sad and over and over and I have no idea why.
 
 ...
 
