@@ -13134,9 +13134,14 @@ they were out there and they were excited. <p> [telling everyone everything they
 
 883
 
-I cancelled all of my outstanding orders, the ones that weren't filled, and I'm going to figure out a plan of action for what to do next. The issue is that
-all the outstanding orders I have, or had. before I cancelled them, they were all sell orders. I don't really want to be dealing with what I was dealing with 
-earlier, you know, only in the opposite direction: having, on any given day, a whole bunch of sell orders go through without any corresponding buy orders go through.
+I cancelled all of my outstanding orders, the ones that weren't 
+filled, and I'm going to figure out a plan of action for what to do next. The issue is that
+all the outstanding orders I have, or had. before I cancelled 
+them, they were all sell orders. I don't really want to be dealing with what I was dealing with 
+earlier, you know, only in the opposite direction: having, 
+on any given day, a whole bunch of sell orders go through without any corresponding buy orders go through.
+
+884
 
 
 </p> <p> Anyway, I'm still conquering Europe right now.</p>
