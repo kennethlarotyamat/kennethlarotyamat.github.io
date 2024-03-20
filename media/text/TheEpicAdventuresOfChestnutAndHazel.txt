@@ -13010,43 +13010,56 @@ changes to push. anyway. I think it's more or less resolved at this point.
 875
 
 <p>...</p><p class= "adventuretitle" >Adventure # 33 - 10/27/2023 19:23</p> 
-<p>I'm going to come back around to this and write a more detailed explanation, but these were the trades that were filled yesterday.</p>
-<img src=".\media\images\Screenshot 2023-10-27 184458.png" alt="Orders Filled on 10/27/2023"><br>   <p> Orders Filled on 10/27/2023 </p>
+<p>I'm going to come back around to this and write a more detailed explanation, 
+but these were the trades that were filled yesterday.</p>
+<img src=".\media\images\Screenshot 2023-10-27 184458.png" alt="Orders 
+Filled on 10/27/2023"><br>   <p> Orders Filled on 10/27/2023 </p>
 <p>...</p><p class= "adventuretitle" >Adventure # 32 - 10/27/2023 01:05</p>  
 <p> Sometimes I wonder why I never seem to have enough time, or enough energy to do things, and 
 well. part of the reason is that I spend a lot of time doing things that don't really accomplish anything.
     
-    I spent some time trying to fix an older GitHub account: KennethLarotYamat-as-chestnutandhazel <br> <br>and it just still doesn't 
-    seem to be working. I remember when I first set it up, and, i remember following the instructions over and over and nothing 
-    seemed to happen. <br><br> i thought that, now, since I have more experience with GitHub, I could come back around to it and fix it, but 
-    well, no such luck. as far as I can tell, it's still broken. <br><br> i'll worry about it later. I really can't believe it is already 
-    the 27th. I'm about to go on 4 months without any income. 
+I spent some time trying to fix an older GitHub account: KennethLarotYamat-as-chestnutandhazel <br> <br>and it just still doesn't 
+seem to be working. I remember when I first set it up, and, i remember following the instructions over and over and nothing 
+seemed to happen. <br><br> i thought that, now, since I have more experience with GitHub, I could come back around to it and fix it, but 
+well, no such luck. as far as I can tell, it's still broken. <br><br> i'll worry about it later. I really can't believe it is already 
+the 27th. I'm about to go on 4 months without any income. 
   
-  </p>
+</p> but where were they and how did they [say that they were going back to where they were]
+<p> I spent some time napping, but not getting any actual sleep, the time is 05:44 AM</p>
+that was the way it was when they told everyone of the greatness.
 
-  <p>I spent some time napping, but not getting any actual sleep, the time is 05:44 AM</p>
+876
+
+there was an on-campus event today, it started earlier,
+but I don't know. I wanted to go, but I also really did 
+not want to go. I don't really have anything good to say.
+
+what would I say? everything is a disaster? nothing is 
+going right? I think. well. It's a disaster. nothing is
+going right. nothing is working out. everything is falling
+apart. noting is going right. nothing is going right.
+
+877
+
+<p>...</p><p class= "adventuretitle" >Adventure # 31 - 10/26/2023 11:34</p>
+
+<img src=".\media\Screenshot 2023-10-26 130408.png" alt="Orders Filled on 10/26/2023"><br>
+<p>Orders Filled on 10/26/2023</p> 
+<P>
+I bought a call option with a 53 strike and a December expiration.
+</P>
+
+<p>
+
+<br>        Estimate        SPLG 10/27/2023        <br>
+<br>        Range           .68
+<br>        Midpoint        48.76
+<br>        Low/High        48.42 - 49.10
 
 
+</p>
 
-  <p>...</p><p class= "adventuretitle" >Adventure # 31 - 10/26/2023 11:34</p>
-
-  <img src=".\media\Screenshot 2023-10-26 130408.png" alt="Orders Filled on 10/26/2023"><br>
-  <p>Orders Filled on 10/26/2023</p> 
-  <P>
-    I bought a call option with a 53 strike and a December expiration.
-  </P>
-
-  <p>
-
-    <br>        Estimate        SPLG 10/27/2023        <br>
-    <br>        Range           .68
-    <br>        Midpoint        48.76
-    <br>        Low/High        48.42 - 49.10
-
-    
-  </p>
-
-  <img src=".\media\Screenshot 2023-10-26 131509.png" alt="New Orders for 10/27/2023"><br> <p>New Orders for 10/27/2023</p> 
+<img src=".\media\Screenshot 2023-10-26 131509.png" alt="New Orders for 10/27/2023"><br> <p>New Orders for 10/27/2023</p> 
    
 
  
