@@ -288,14 +288,20 @@ this epic and fabulous poem of mine!
 
 32
 
-Good Lord! I spent the entire day gaming, the entire past few days actually, and I've not gotten any real work done, 
-or, well, I don't really feel like I've gotten any work done.
+Good Lord! I spent the entire day gaming, the 
+entire past few days actually, and I've not 
+gotten any real work done, 
+or, well, I don't really feel like I've gotten 
+any work done.
 
 33
 
-I worked on my blog a little bit, made a few videos of me fixing broken links on my blog. I have to work on Project 15, 
-and I really haven't even looked at what's required. There's an issue with creating an embedded iframe, it's not really
-possible to link just the YouTube page into an iframe as a regular source, and suddenly I realize why, 
+I worked on my blog a little bit, made a few videos of me 
+fixing broken links on my blog. I have to work on Project 15, 
+and I really haven't even looked at what's required. 
+There's an issue with creating an embedded iframe, it's not really
+possible to link just the YouTube page into an iframe as a 
+regular source, and suddenly I realize why, 
 you only want the video, and not the whole page that's on YouTube. 
 
 34
