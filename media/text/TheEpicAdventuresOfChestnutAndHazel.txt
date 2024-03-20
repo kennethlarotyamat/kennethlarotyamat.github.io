@@ -12337,7 +12337,13 @@ see you there.
 
 814
 
-The reason I'm not entirely in favor of student loan forgiveness is this: education expenses receive a tax credit, a portion of student loan payments are tax deductible, so anyone receiving student loan forgiveness is triple dipping at the tax-payer's expense.
+The reason I'm not entirely in favor of student loan 
+forgiveness is this: education expenses receive a tax credit, 
+a portion of student loan payments are tax deductible, so 
+anyone receiving student loan forgiveness is triple dipping 
+at the tax-payer's expense.
+
+815
 
 #usedgov
 @usedgov
