@@ -13110,40 +13110,48 @@ the put option has a November 17 expiration date.
 881
 
 
-  </p> <p>...</p> <p>Whoever bought that option  seems to have made a bunch of money.</p>
 
-  
 
-  <img src=".\media\Screenshot 2023-10-26 104626.png" alt="Put Option Sold as of 10/26/2023"><br>
-  <p>Put Option Sold as of 10/26/2023</p> 
-  <p>...</p>
 
-  <P>I was thinking, what if instead of writing a put option, I bought a call option instead, well, doing that would only accomplish 1 out of the 3 targets I had in place 
 
-    sure, I could collect interest on the cash, but I would be paying a premium of 380 buying a 49 strike call, rather than collecting a premium of 
-     60 on a 50 strike put, I also wouldn't 
-    be getting into SPLG for less than 49.90. I would also currently be facing a much larger unrealized loss than the already somewhat large 
-    unrealized loss I'm currently facing.
-  </P><p>...</p>
 
-  <img src=".\media\Screenshot 2023-10-26 105739.png" alt="Call Option SPLG"><br>
-  <p>Call Option SPLG</p>
+
+
+
+</p> <p>...</p> <p>Whoever bought that option  seems to have made a bunch of money.</p>
+
+
+
+<img src=".\media\Screenshot 2023-10-26 104626.png" alt="Put Option Sold as of 10/26/2023"><br>
+<p>Put Option Sold as of 10/26/2023</p> 
+<p>...</p>
+
+<P>I was thinking, what if instead of writing a put option, I bought a call option instead, well, doing that would only accomplish 1 out of the 3 targets I had in place 
+
+sure, I could collect interest on the cash, but I would be paying a premium of 380 buying a 49 strike call, rather than collecting a premium of 
+60 on a 50 strike put, I also wouldn't 
+be getting into SPLG for less than 49.90. I would also currently be facing a much larger unrealized loss than the already somewhat large 
+unrealized loss I'm currently facing.
+</P><p>...</p>
+
+<img src=".\media\Screenshot 2023-10-26 105739.png" alt="Call Option SPLG"><br>
+<p>Call Option SPLG</p>
 
 <p>...</p>  
 
-            <img src=".\media\Screenshot 2023-10-26 102110.png" alt="Orders Placed for SPLG on 10/26/2023"><br>
-            <p>Orders Placed for SPLG on 10/26/2023</p> 
+<img src=".\media\Screenshot 2023-10-26 102110.png" alt="Orders Placed for SPLG on 10/26/2023"><br>
+<p>Orders Placed for SPLG on 10/26/2023</p> 
 
 <p>...</p>
 
-  <p>
-    
-    I cancelled all of my outstanding orders, the ones that weren't filled, and I'm going to figure out a plan of action for what to do next. The issue is that
-      all the outstanding orders I have, or had. before I cancelled them, they were all sell orders. I don't really want to be dealing with what I was dealing with 
-      earlier, you know, only in the opposite direction: having, on any given day, a whole bunch of sell orders go through without any corresponding buy orders go through.
+<p>
+
+I cancelled all of my outstanding orders, the ones that weren't filled, and I'm going to figure out a plan of action for what to do next. The issue is that
+all the outstanding orders I have, or had. before I cancelled them, they were all sell orders. I don't really want to be dealing with what I was dealing with 
+earlier, you know, only in the opposite direction: having, on any given day, a whole bunch of sell orders go through without any corresponding buy orders go through.
 
 
-  </p> <p> Anyway, I'm still conquering Europe right now.</p>
+</p> <p> Anyway, I'm still conquering Europe right now.</p>
 
   <p>
 
