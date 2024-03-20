@@ -922,13 +922,13 @@ just older and larger.
 There is a convention from MIS 768 that I like, and it's this:
 
 /*		
-		Author's Name: 		    	Kenneth Larot Yamat
+Author's Name: 		    	Kenneth Larot Yamat
 
-     	Purpose of Program:			To calculate the shipping 
-                                    cost of a parcel at a 
-     	                          	parcel service store
-     						    	 
-  		Date Due:					March 3rd, 2024
+Purpose of Program:			To calculate the shipping 
+                            cost of a parcel at a 
+                            parcel service store
+                        
+Date Due:					March 3rd, 2024
 */
 
 94
