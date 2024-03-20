@@ -3235,7 +3235,8 @@ Chestnut + Hazel, all characters stylized, the word chestnut is colored brown, h
 the plus sign character is colored red, hex value #7E0113 RGB value (126,1,19) HSV value (351,99,49)
 the word Hazel is colored green, hex value #2D910D RGB value (45,145,13) HSV value (105,91,57),
 the word Chestnut appears first with the plus sign character to the right of the word Chestnut, the word Hazel appears below the word Chestnut, and is indented. the letter C in the word Chestnut is larger than the letters forming hestnut and the letter H in the word Hazel is larger than the remaining letters forming azel.
-...
+
+249
 
 48 Logos and Logo Elements for Chestnut + Hazel
 
