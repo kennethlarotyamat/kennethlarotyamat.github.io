@@ -1756,7 +1756,20 @@ I'm more or less going to be continuing this blog
 from GitHub going forward, but you can still see 
 updates here from the iframe below.
 
-147
+149
+
+I'm more or less going to be continuing this blog 
+from GitHub going forward, but you can still see 
+updates here from the iframe below.
+
+149
+
+I think that I had multiple posts
+where the chestnutandhazel.com posts 
+were just iframes of documents that I 
+published first on GitHub.
+
+150
 
 
 
