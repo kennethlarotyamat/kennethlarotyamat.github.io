@@ -5143,17 +5143,18 @@ made as a result.
 
 371
 
-There have been issues before with posting pictures to my blog where, the sizing is all messed up, and the picture spills out into the left column.
+There have been issues before with 
+posting pictures to my blog where, 
+the sizing is all messed up, and the 
+picture spills out into the left column.
 
-...
+372
 
+this is where the compendium 
+of things is and I think that 
+you were missing a 
 
-
-
-
-...
-
-Reflection # 83
+373
 
 still deleting old files
 from my Google Drive
