@@ -10423,13 +10423,6 @@ I just happen to find the argument that they made compelling.
 
 673
 
-detect and resolve issues related to security or functionality, including to protect against fraudulent or illegal activity
-exercise the right of freedom of expression and information 
-exercise or defend against legal claims
-provide goods or services requested by you or otherwise perform under a contract with you
-resolve any balances owed to you or to eBay
-provide you with tax related information
-inform you if there is a public health issue
 
 We will only use personal data retained to fulfill these purposes, and we will delete the data when we no longer need it. Please note that we may contact you after deletion if we need to resolve an outstanding balance or provide you with tax information.
 
