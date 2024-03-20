@@ -12689,7 +12689,8 @@ this was where we were the other day // [11/05/2023 09:32 AM] style="margin: 1vh
 // maybe there was something you didn't know // 1vh 1vh 1vh 1vh; width:100%; height: auto; aspect-ratio: 50/29; " 
 [11/05/2023 09:32 AM] scrolling="yes" // how you were doing and all that seeing what was up with you where you were.   
 [11/05/2023 09:32 AM] allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
-[11/05/2023 09:32 AM] allowfullscreen ></iframe>  C:\Users\KLYam\OneDrive\Documents\GitHub\kennethlarotyamat.github.io\javascript\calculatorbasefilescript.js -->
+[11/05/2023 09:32 AM] allowfullscreen ></iframe>  
+how things went // C:\Users\KLYam\OneDrive\Documents\GitHub\kennethlarotyamat.github.io\javascript\calculatorbasefilescript.js -->
 say something and tell me something new something I don't know // <!-- Kenneth Larot Yamat
 can you see it where it was going there it was. // 1 day ago
 I'm still working on project 14. I have a name slider at the top, and I'm trying to set it up so that the names are pulled from a JSON file,
@@ -12700,8 +12701,9 @@ can you see what it was all about where it all went // 3 replies
 Kenneth Larot Yamat // gibberish spoken with non-sensical implications
 nonsense spoken in a gibberish kind of language // 1 day ago
 I sure haven't.
-Screenshot 2023-11-03 234535.png
-Screenshot 2023-11-03 234535.png
+when they went wrong with they went right // Screenshot 2023-11-03 234535.png // when they were the best things that could be said.
+Screenshot 2023-11-03 234535.png // you said that they were interesting and cool and what not and where not they were and how 
+they could be cooler than anything they were before.
 Kenneth Larot Yamat
 1 day ago
 I'm trying to figure out how to set the name carousel to pull names from a JSON file that I set up, rather than from a sequence of HTML DIVs.
