@@ -4086,9 +4086,34 @@ I'm just going to leave it where it is.
 
 306
 
-I don't think I created a good faith violation with my IRA, but I'm not really when I'll know for sure. Well, two days from now I guess. I'm going to day trade tomorrow, but I'm going to take it slow, play it safe, and not let my emotions get the better of me.
+I don't think I created a good 
+faith violation with my IRA, but 
+I'm not really when I'll know for 
+sure. Well, two days from now I guess. 
+I'm going to day trade tomorrow, but 
+I'm going to take it slow, play it safe, 
+and not let my emotions get the better of me.
 
-...
+307
+
+not sure but there 
+are more spiders than there are 
+insects in the mouths 
+of birds that fly 
+around and eat spiders 
+and other insects. it's true!
+
+/*
+
+// i couldn't see the csv folder that was being created, it was being filtered out
+// so i removed all filters, and now I see everything. 
+
+// D:\GitHub\MIS76810032024Sprg\src\MIS768\booktest.csv 
+// for whatever reason this doesn't seem to be showing up in my eclipse like in the video. in the class.
+// https://unlv.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=c65b75ac-c935-4946-bc8d-b117002f504a&start=0
+
+*/
+
 
 I'm thinking about what to do about my IRA, like, I'm thinking about what I should do next. Now that I've closed out my position in VFC, I can really do something else. I'm not here trying to grind my way into a profit, or, out of a loss or whatever. I'm irritated because I spent so much time trying to make it work, and now it's just over.
 
