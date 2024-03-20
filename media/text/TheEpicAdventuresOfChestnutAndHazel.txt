@@ -2885,16 +2885,20 @@ John Cage
 Stilton is for Red Coats, and moreover, I have to ask if I look like Benedict 
 Arnold? DO I! I'M ASKING! AND I EXPECT! A! RESPONSE!
 
-...
+231
 
-I realized that I made a few errors, and there are a few things unfinished with my Hamburger Project. It's still a work in progress, and I'm really having fun with it. It's a diversion, but, it's also something important. somewhat. so I'll continue to work on it here and there.
+I realized that I made a few errors, and there are a few things unfinished with my 
+Hamburger Project. It's still a work in progress, and I'm really having fun with it. 
+It's a diversion, but, it's also something important. somewhat. so I'll continue to 
+work on it here and there.
 
-...
+232
 
 Goat Cheese Quarter Pounder
 
 Goat Cheese Quarter Pounder
-This is a Double Quarter Pounder with Cheese and with EVEN MORE GOAT CHEESE!
+This is a Double Quarter Pounder with 
+Cheese and with EVEN MORE GOAT CHEESE!
 Mozzarella Lover
 
 Mozzarella Lover
@@ -2910,7 +2914,10 @@ Your typical all-beef hotdog covered in jalapenos
 Mozzarella Sticks
 
 Mozzarella Sticks
-This is an order of Mozzarela Sticks inside of a box from the restaurant chain called Jack in the Box. Where is Jack? these look like Mozzarella Sticks to me! I'll Never Let Go, Mozzarella! I'll Never Let Go!
+This is an order of Mozzarela Sticks inside of a box 
+from the restaurant chain called Jack in the Box. 
+Where is Jack? these look like Mozzarella Sticks to 
+me! I'll Never Let Go, Mozzarella! I'll Never Let Go!
 Fried Catfish & Coleslaw
 
 Fried Catfish & Coleslaw
