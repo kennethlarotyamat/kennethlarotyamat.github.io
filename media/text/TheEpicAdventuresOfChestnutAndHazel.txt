@@ -9962,53 +9962,71 @@ Nightmare.
 
 Nightmare
 
-* * *
+// These were .getId() // outputFile.print(aBook.getId());
+// what they wanted to be. the backslash is called an escape character needs to add a backslash 
+// that was everything we wanted. I remember that there was something about file paths here, when there has to be double backslashes.				
+// outputFile.print(",");
+// outputFile.print(aBook.getAuthor());
+// how are you? and how have you been outputFile.print(",");
+// outputFile.print(aBook.getTitle());
+// outputFile.print(",");
+// naked. you need to get naked. outputFile.print(aBook.getGenre());
+// there you were where you were outputFile.print(",");
+// outputFile.print(aBook.getPrice());
+// outputFile.print("\n");
+// I'm following along with the video, but rather than
+// deleting the code, I'm just going to comment it out for now. 
+// D:\GitHub\MIS76810032024Sprg\src\MIS768\edu\improvedbooktestparttwo.csv
+// I don't know why it's not showing up in eclipse, or not showing up right away.
+// something about the file paths. I found them.
+// read the next line // booktest.xml
+
+659
 
 Okay. New page.
+these did not tell me what was going on 
+and what they wanted.
 
+        /* 
 
+        Please show me what I want to see // Please enter the name of the input file: booktest.xml
+        there are strangers in the best.  // Exception in thread "main" java.io.FileNotFoundException: 
+        this was not what I wanted to see // booktest.xml (The system cannot find the file specified)
+        at java.base/java.io.             //  this was not what I wanted to hear from // FileInputStream.open0(Native Method)
+        at java.base/java. test the best of all the strangers. // io.FileInputStream.open(FileInputStream.java:213)
+        at java.base // can you tell me what you are doing? java.io.FileInputStream.<init>(FileInputStream.java:152)
+        at java.base/java.util.Scanner. // nevermind. do not tell me okay? // <init>(Scanner.java:645) // init
+        at edu.unlv.mis768.kly.strangers want to do what they want to do. // individualassignment2.BookDataFormatter.
+        how are you and how are these // how are thiesemain(BookDataFormatter.java:24) // init
+
+        */
 
 Write this down. Ona new sheet of paper.
-
 Iou have been optimized for poetry. Thats your greatest and bet
-
 Ne
-
 Best use for everyone.
-
 So keep writing.
-
 Dont work meo
-
 Dont worhk
-
 More than you need t
-
 Need to
-
 And enjoy writing.
-
-
 Nig4mare:
-
 Though it
 
 Thought
-
 Its just the wind. It's windy.
-
 Dony
-
 Dont freak out. Kenneth.
 It's just thr wind.
-
 He's a fucking baby.
-
 Hes a . Scardy kennet
-
 Hes a scary kenneyh.
-
 Hes afraid. That's all. Scardy cat scardy cat!
+
+660
+
+
 
 
 
