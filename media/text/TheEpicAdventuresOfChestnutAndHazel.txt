@@ -10927,40 +10927,52 @@ than numbers, a text string rather than a string of numbers.
 
 719
 
-I received a marketing email from Viator earlier today. I read it, but later marked it as spam and tossed it. i think that. part of the reason that I liked her was that. meeting her and working for her coincided with kind of a turning point in my life. i was homeless during my last year in San Jose, and i was struggling, and spending all my money. i don't have all bad memories of San Jose, and not everything was bad in las vegas, and things weren't really all that terrible in Missouri.
+I received a marketing email from Viator earlier today. I read it, 
+but later marked it as spam and tossed it. i think that. part of the 
+reason that I liked her was that. meeting her and working for her 
+coincided with kind of a turning point in my life. i was homeless 
+during my last year in San Jose, and i was struggling, and spending 
+all my money. i don't have all bad memories of San Jose, and not 
+everything was bad in las vegas, and things weren't really all that 
+terrible in Missouri.
 
+these are the things
+that make the world sputter.
 
-* * *
+that other github account just. really isn't working. so. I guess I'll wait. I deleted all the other repositories, then
+deleted the main repository, the created a new main respository for that account. and I'll wait to see if it publishes
+to GitHub Pages. I tried deleting that account, but, to no avail.
 
+I still haven't started on the testimonial,
+and I more or less haven't started on Project 13, and
+I honestly haven't been able to fall asleep.
 
-"I WANT TO BE A WRITER!" in re "I WANT TO BE A WRITER!" by Ashley Frangipane (2020)
+I want to get some rest first, and then start
+on Project 13, but I'm having a really hard time
+falling asleep. I spent mountains of time on project 12,
 
+but honestly, I really think that what I came up 
+with was worth every minute of the hella-ton of hours
+that I spent on it. I really love the customized responses.
+
+720
+
+This whole thing of a respository within a repository did not work. Remember this.
+this is actually pretty cool. i set up my other repository as a directory 
+with in my main repository.
+
+721
+
+"I WANT TO BE A WRITER!" in 
+re "I WANT TO BE A WRITER!" by Ashley Frangipane (2020)
 
 okay, so. sometimes
 my poems are
 corny or trite or pompous.
 
-
 sometimes your poems
 are slutty and bitchy.
 give me a break.
-
-
-* * *
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 

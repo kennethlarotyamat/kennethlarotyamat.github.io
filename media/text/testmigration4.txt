@@ -7,3 +7,5 @@ hard most of that time: I'm still only at the beginning." - Gustave Flaubert
 ...
 
 This whole thing of a respository within a repository did not work. Remember this.
+this is actually pretty cool. i set up my other repository as a directory 
+with in my main repository.
