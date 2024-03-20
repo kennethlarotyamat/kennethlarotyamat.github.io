@@ -10031,7 +10031,7 @@ the end of the can of juice and
 of soda, and drink the last drop.
 
 /*
- 
+
 Article Read Aloud Set up Area
 
 – this was basically useless, you can’t print a 
@@ -10055,7 +10055,7 @@ filename = inputFile.substring(0,index, index+1)+"csv";
 when we go out, when we see eachother.
 when we make new things when we say hello together.
 Day workDay = Day.WEDNESDAY;
- 
+
 Day.SUNDAY
 Day.MONDAY
 A The workDay variable holds the address of the Day. WEDNESDAY object
@@ -10065,9 +10065,9 @@ Day.WEDNESDAY
 Day. THURSDAY
 Day. FRIDAY
 Day.SATURDAY
- 
+
 /*  
- 
+
 This is from an email from TradingView
 
 <img src="https://ci3.googleusercontent.com/
@@ -10082,7 +10082,7 @@ class="CToWUd a6T" data-bit="iit" tabindex="0">
 
 what a nightmare. it's already Wednesday, a nightmare. 03/06/2024
 
- */
+*/
 
 661
 
