@@ -12977,17 +12977,17 @@ would otherwise be.
 874
 
 what do I have to do?
-</p> 
+[what can you do where can you be] </p> [ this is where it was all going to be ] 
+[ where everything is really unhappy ] [what they find is that making happiness]
+<p>I did a little bit of work on chestnutandhazel.com trying to fix a few things here and there, but 
+it takes a long time. trying to fix things. I had to deal with a small disaster. basically, i cloned a 
+GitHub Repository to my main repository, creating a repository that is both a repository, and a directory 
+within a repository. It created problems. Don't do it. I thought it would make things easier, but it didn't.
 
-  <p>I did a little bit of work on chestnutandhazel.com trying to fix a few things here and there, but 
-    it takes a long time. trying to fix things. I had to deal with a small disaster. basically, i cloned a 
-    GitHub Repository to my main repository, creating a repository that is both a repository, and a directory 
-    within a repository. It created problems. Don't do it. I thought it would make things easier, but it didn't.
-
-    it's a mess. Anyway. that was a small disaster. My miscellaneous repository, the one where I have project 13, seems fine,  
-    but there were uncommitted  changes in my main repository that couldn't be committed  and pushed, so I have no idea if I lost anything 
-    or not.
-  </p>
+it's a mess. Anyway. that was a small disaster. My miscellaneous repository, the one where I have project 13, seems fine,  
+but there were uncommitted  changes in my main repository that couldn't be committed  and pushed, so I have no idea if I lost anything 
+or not.
+</p>
 
   <p> but for reference, the way i solved the problem was this: i couldn't push the changes to GitHub because the file was too large, and 
     took too long to upload, and it exceeded the allowable file size, so I basically had to delete the local files, restart my computer 
