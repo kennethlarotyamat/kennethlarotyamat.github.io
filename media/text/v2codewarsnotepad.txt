@@ -955,7 +955,9 @@ console.log(joinreverseDigits);
 
 I've been goofing off, but even goofing off is exhausting. I'm attending class, but 
 I'm still working on Project 13. I'm actually just trying to figure out basic stuff.
-
+I remember the leetcode version being for numbers, and this palindrome problem 
+in codewars is more like the version I had in class, it deal with letters rather 
+than numbers, a text string rather than a string of numbers.
 
 
 
@@ -964,6 +966,11 @@ I'm still working on Project 13. I'm actually just trying to figure out basic st
 
 
 I'm really tired. I've only gotten this far. the second problem out of the three.
+I've been goofing off, but even goofing off is exhausting. I'm attending class, but 
+I'm still working on Project 13. I'm actually just trying to figure out basic stuff.
+I remember the leetcode version being for numbers, and this palindrome problem 
+in codewars is more like the version I had in class, it deal with letters rather 
+than numbers, a text string rather than a string of numbers.
 
 
 https://geohack.toolforge.org/geohack.php?pagename=Eiffel_Tower&params=48_51_29.6_N_2_17_40.2_E_region:FR-75_type:landmark

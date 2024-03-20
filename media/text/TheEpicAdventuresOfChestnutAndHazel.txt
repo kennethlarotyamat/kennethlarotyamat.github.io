@@ -10918,14 +10918,14 @@ my 7.5 inch Johnson as a form of currency, even though it is surely a 7.5 inch m
 
 718
 
-#inflation
-#filipinodollar
-#filipinopeso
-#filipinodong
-#filipinowang
-#filipinorouble
+I'm really tired. I've only gotten this far. the second problem out of the three.
+I've been goofing off, but even goofing off is exhausting. I'm attending class, but 
+I'm still working on Project 13. I'm actually just trying to figure out basic stuff.
+I remember the leetcode version being for numbers, and this palindrome problem 
+in codewars is more like the version I had in class, it deal with letters rather 
+than numbers, a text string rather than a string of numbers.
 
-* * * 
+719
 
 I received a marketing email from Viator earlier today. I read it, but later marked it as spam and tossed it. i think that. part of the reason that I liked her was that. meeting her and working for her coincided with kind of a turning point in my life. i was homeless during my last year in San Jose, and i was struggling, and spending all my money. i don't have all bad memories of San Jose, and not everything was bad in las vegas, and things weren't really all that terrible in Missouri.
 
