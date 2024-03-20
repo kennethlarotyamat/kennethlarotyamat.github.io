@@ -13109,23 +13109,11 @@ the put option has a November 17 expiration date.
 
 881
 
-
-
-
-
-
-
-
-
-
-</p> <p>...</p> <p>Whoever bought that option  seems to have made a bunch of money.</p>
-
-
-
+but whatever these are and however </p> <p>...</p> <p> [who can be the best and where]
+Whoever bought that option  seems to have made a bunch of money.</p> [where would they all be]
 <img src=".\media\Screenshot 2023-10-26 104626.png" alt="Put Option Sold as of 10/26/2023"><br>
 <p>Put Option Sold as of 10/26/2023</p> 
-<p>...</p>
-
+<p>...</p> [ they might be, more exciting than they were, more amazing than they were, more amazing than they were]
 <P>I was thinking, what if instead of writing a put option, I bought a call option instead, well, doing that would only accomplish 1 out of the 3 targets I had in place 
 
 sure, I could collect interest on the cash, but I would be paying a premium of 380 buying a 49 strike call, rather than collecting a premium of 
