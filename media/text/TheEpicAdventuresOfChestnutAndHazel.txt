@@ -4870,17 +4870,22 @@ in so many things.
 
 i've been losing motivating
 and i've
-
 been losing interest.
 
 353
-  
 
+five of them were 
+eaten alive by the scariest monster in the 
+whole wide world! it was. the alligator of evil!
 
-
-
-
-
+// this is the demo class 
+// public class ShippingCalculatorDemo
+// Mamonov 
+// Peterson 
+// I figured out why it was there, 
+// I was reusing code from the Create 
+// transcript and it auto imported. 
+// I have no idea why this is here.
 
 I've been experiencing an elevated level of stress. I don't know what it is. The whole time I've been in Las Vegas I've been experiencing stress and fatigue. I really don't know what's causing this. I've tried to make changes like drinking more water, and I've noticed a slight improvement, but, a very very slight improvement. I've been drinking slightly less soda, but still quite a bit of it. I don't know what else to do.
 
