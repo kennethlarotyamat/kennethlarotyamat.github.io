@@ -10754,19 +10754,27 @@ I'm on the supreme court, i'll opine conservative views
 with more bravado than Scalia, AND take Sotomayor to the Ballet!
 Do you approve of Supreme Court Justice Sonia Sotomayor?
 
-If the Druidic Council approves reimbursement for marijuana, I want to submit medical expense reports for medicinal blow-jobs. You wouldn't believe how therapeutic blow-jobs can be. 
+703
 
-#pontifexmaximus
-#druidiccouncil
-#writofcertiorari
+// This is more or less not used, other than to end the ternary operator
+// this is where the best of all the west are needed and they can say.
+// this are the upper limits of each marginal tax bracket
+// the lower limit of any given tax bracket is basically the upper limit of the previous tax bracket
+// this is resolved in the code by using the comparison operator < 
+// here we are and we are eating the best of all the meals.
 
-* * *
+704
 
-Kenneth Larot Yamat
-@KennethLYamat
-·
-3m
-I would also like to be reimbursed for the medicinal grade hand-jobs that I've been giving myself. Usually about 10 or so per day, but sometimes more, and I only charge 39 USD per session, and I'm a licensed Hand-Job Therapist!
+If the Druidic Council approves reimbursement for marijuana, 
+I want to submit medical expense reports for medicinal blow-jobs. 
+You wouldn't believe how therapeutic blow-jobs can be. 
+
+I would also like to be reimbursed for the medicinal 
+grade hand-jobs that I've been giving myself. Usually 
+about 10 or so per day, but sometimes more, and I only 
+charge 39 USD per session, and I'm a licensed Hand-Job Therapist!
+
+705
 
 
 #pontifexmaximus
