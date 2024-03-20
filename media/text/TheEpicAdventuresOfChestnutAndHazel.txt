@@ -4740,7 +4740,7 @@ in my opinion, persimmons really aren't
 
 all that great.
 
-...
+345
 
 I stil don't have the slightest clue what.
 That's the thing. I have no idea what I
@@ -4757,15 +4757,52 @@ the issue is that the delete button doesn't work.
 and so
 I'm not able to delete it.
 
-...
+346
 
-There's something that I think I should take care of, but I have no idea what it is. I don't know what it is. I'm sure it will come to me later, but I have no idea what it is, there's just something that I think I'm forgetting right now.
+// resets the text color  
+// formats the color of the text to be green and bold. 
+// String invisible ="\ u001b 
+// 38;5; + n + m + n";
 
+347
 
+There's something that I think I 
+should take care of, but I have no 
+idea what it is. I don't know what 
+it is. I'm sure it will come to me later, 
+but I have no idea what it is, there's 
+just something that I think I'm forgetting 
+right now.
 
+348
 
+// this is the main argument  
+// formats two places to the right of the decimal  
+// formats text red and bold
 
-I got rid of a pile of coins, loose change, at the grocery store earlier today, I think it turned out to be about one dollar and fifty cents or so. I have work later today. This week I signed up for a few extra shifts, but there were only half-shifts available, and I'm kind of happy about that. I just haven't had a ton of energy for full-length extra-shifts. Even though, obviously, it's better to have a whole shifts pay rather than just a half-shifts pay, I'm not too sure how much I'm worried about all of that right now.
+349
+
+I got rid of a pile of coins, 
+loose change, at the grocery store 
+earlier today, I think it turned out 
+to be about one dollar and fifty cents 
+or so. I have work later today. This 
+week I signed up for a few extra shifts, 
+but there were only half-shifts available, 
+and I'm kind of happy about that. I just 
+haven't had a ton of energy for full-length 
+extra-shifts. Even though, obviously, it's 
+better to have a whole shifts pay rather 
+than just a half-shifts pay, I'm not too 
+sure how much I'm worried about all of that right now.
+
+350
+
+these are a few of the things that I like the best 
+and when they are always with the next 
+of the best of the worst of the nearest 
+and when they come over to the end of the 
+chickens feet are cooked in a box.
 
 ...
 
