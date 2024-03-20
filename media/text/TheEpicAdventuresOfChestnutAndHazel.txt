@@ -3721,6 +3721,8 @@ I good grade is an asset in a figurative sense
 
 279
 
+// this was interesting - 
+// eclipse doesn't really say that this is where the class Book was, but
 // i figured that if I moved the files into - or a i moved the 
 // files, the .java classes into a new package, that it would 
 // throw errors since the Book.java files are not in
