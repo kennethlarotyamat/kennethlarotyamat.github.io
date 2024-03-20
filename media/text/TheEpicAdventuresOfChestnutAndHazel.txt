@@ -293,3 +293,23 @@ I spent a lot of time on that project, I really enjoy the end result. I
 still want to make the contact modal work. These are comments removed from my GitHub files.
 
 37
+
+All the videos are now uploaded to YouTube. It took so long. i deleted my miscellaneous 
+repository, but then, i created a new miscellaneous repository because I have the index to that 
+repository linked elsewhere, so, I didn't want them to break, so I fixed it before it became a problem.
+
+38
+
+These videos that I've uploaded to YouTube today are taking forever to load. This time, I made the 
+decision to upload the largest files, rather than whatever random videos occurred to me to upload. 
+I figured that I could get these large files out of my storage space. but, yeah, they are taking forever to upload.
+
+39
+
+My software development course will be over next week. This comes as kind of a relief, but I'm also 
+kind of sad about it, I really enjoyed this class. I don't know how I'm going to continue to stay 
+motivated to work on web and software development projects without project being due, everything I 
+work on after class will be a self directed project. Yeah, I've been spending way too much, 
+mountains of time playing computer games.
+
+40
