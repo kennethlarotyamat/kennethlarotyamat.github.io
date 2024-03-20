@@ -12546,7 +12546,36 @@ Bakugan, and winning, and that's Bakugan, not backgammon.
 
 831
 
-The best way for Finland and Sweden earn the respect of Erdogan is by challenging him to a game of Bakugan, and winning, and that's Bakugan, not backgammon.
+<!-- [11/05/2023 09:45 AM] [Deployment Test] <iframe  
+src="https://github.com/kennethlarotyamat/miscellaneous" 
+style="aspect-ratio: 8.68/6.86; height: auto; width:100%;" 
+scrolling="yes"   
+allow="accelerometer; autoplay; clipboard-write; 
+encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen ></iframe> -->
+<!-- <link rel="stylesheet" href="..\miscellaneous\css\index.css"> -->
+<!-- <link rel="stylesheet" 
+href="https://kennethlarotyamat.github.io/miscellaneous/css/index.css"> [this works] -->
+The best way for Finland and Sweden earn the respect of Erdogan is by challenging 
+him to a game of Bakugan, and winning, and that's Bakugan, not backgammon.
+
+832
+
+I'm clearing out some comments from 
+various projects I've worked on over 
+these past few months. 
+I'm really not feeling well right now. 
+really not feeling well.
+
+833
+
+<!-- <iframe  src="https://github.com/kennethlarotyamat/miscellaneous" 
+style="aspect-ratio: 8.68/6.86; height: auto; width:100%;" scrolling="yes"   
+allow="accelerometer; autoplay; clipboard-write; encrypted-media; 
+gyroscope; picture-in-picture; web-share" allowfullscreen ></iframe> -->
+<!-- <link rel="stylesheet" href="..\miscellaneous\css\index.css"> -->
+<!-- <link rel="stylesheet" href="https://kennethlarotyamat.github.io/miscellaneous/css/index.css"> [this works] -->
+
+834
 
 The best way for Finland and Sweden earn the respect of Erdogan, is by challenging him to a game of Bakugan, and winning. and that's Bakugan, not backgammon.
 
