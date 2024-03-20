@@ -10974,15 +10974,71 @@ sometimes your poems
 are slutty and bitchy.
 give me a break.
 
+722
+
+I've come back around to project 14 to update the map links to 
+leaflet, to give all the pages a customized location. project 14 
+hasn't been graded yet, so I figured I would spend a little 
+more time on it, plus, it is my project, and I want it to be 
+interesting. I also Kind of need to get myself into work mode, 
+since I've just been playing computer games for so many days, and 
+not really doing anything else.
+
+I'm almost done with this, and it was somewhat quicker than I 
+thought that it would be, I actually have to redo a Professional 
+Development Project, the last one. and I also still have to get back 
+to project 15. Alright, so all the maps are done and updated for 
+project 14, I don't think that it was necessary to do 20 different 
+leaflet pages, but, I think it looks nice, plus I have a few
+leaflet pages for the hamburgers project I did a while ago.
+
+but, getting back to project 15. I think that I'm going to start with a 
+few simple things that just use the CDN before I start using all those 
+packages I installed. That's all done, project 14 
+is done in a way that I like it. DONE!
+
+This was not too exciting, boring, a few stuff using the React CDN, 
+and all of this stuff is stuff from the React Website itself. I'm 
+going to test out a few more CDN React things, and then try something
+else with react. This should be really useful, when I think about my 
+most recent update to the Chestnut + Hazel Connections project, I had 
+to create 20 seperate Jennifer Connelly Pages, and 20 different Meet 
+Me at our Spot pages, that's 40 pages that I had to create, and 
+supposedly I wouldnt have to do that if I could set up create for that 
+project.
+
+723
+
+Even with as much time as I've spent on this, and seemingly no closer to getting a JSON file working, I seem to have
+made a breakthrough with this carousel. The iframes look like they are interactive in a way that they were not interactive
+in the original Project 10 version of the carousel.
+
+I'm setting up links to see if the iframes in the carousel work, and if they do, then that means this should work. and I can
+get project 14 completed, even though this seems like it was kind of a long digression from the requirements of project 14.
 
 
-One possible nightmare is that it might not be necessary for to really target huge population centers to create a lot of havoc, key logistical infrastructure, telecommunications infrastructure, energy and electricity infrastructure, food infrastructure and transport infrastructure. He doesn't have to create very many casualties to create a lot of collateral damage.
+One possible nightmare is that it might not be necessary for to really target huge population centers to create a lot of havoc, 
+key logistical infrastructure, telecommunications infrastructure, energy and electricity infrastructure, food infrastructure and 
+transport infrastructure. He doesn't have to create very many casualties to create a lot of collateral damage.
 
-* * *
+724
 
-The other nightmare that I had happened a few days before the shooting in Buffalo, New York. I was having nightmares of people in SWAT or Special Forces gear. 
+there isnt anyting else other than getting through the day.
+Life is so f****** boring. But then. What else is there?
+dont know why. Bored as s***.
+these past few day have been s***. Or felt like s***.
+im feeling sad for some reason.
 
-* * *
+725
+
+This folder is where I will put any notes and course material related to our earlier javascript lessons. 
+I really have to start from the beginning because there are so many things I just, either forgot, or didn't 
+fully understand.
+
+The other nightmare that I had happened a few days before the shooting in Buffalo, New York. 
+I was having nightmares of people in SWAT or Special Forces gear. 
+
+726
 
 Nightmares on Sanford Street.
 There is an actual Elm Street 

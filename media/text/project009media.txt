@@ -57,3 +57,7 @@ Shared with Public
 im feeling sad for some reason.
 
 ...
+
+This folder is where I will put any notes and course material related to our earlier javascript lessons. 
+I really have to start from the beginning because there are so many things I just, either forgot, or didn't 
+fully understand.
