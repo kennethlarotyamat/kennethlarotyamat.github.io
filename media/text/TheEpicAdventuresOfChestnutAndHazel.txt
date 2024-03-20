@@ -4464,7 +4464,20 @@ going on a long drive will alleviate that or anything.
 
 327
 
-...
+Your initial [Buy/Sell] Trade ticket for [Security] has been
+submitted at the following price [Limit Price] and quantity [Quantity].
+
+Subsequent orders will be automatically generated and submitted contingent 
+upon the fulfillment of the previous order, with buy limits and sell limits 
+based on the Average True Range, Bollinger Band Width, and Average Directional
+Index entered on the initializing ticket.
+
+Sell orders will be generated with a limit of 	[Calculated Amount] above the previously filled ticket
+Buy  orders will be generated with a limit of 	[Calculated Amount] below the previously filled ticket
+
+[   User Input Element   [Accept and Submit]   [Override and Submit]   [Start Over]   ]
+
+328
 
 Think about how you
 on the basis of your 
@@ -4496,16 +4509,26 @@ each one of your balls
 is the size
 of a tangerine.
 
-...
+329
 
+is either of your 
+testicles
+individually 
 
+the size 
+of a tangerine?
+or is your ballsack
+when taken together 
+as a whole
 
-...
+a ball sack the size 
+of a 
+tangerine?
 
-
-
-...
-
+I saw one guy kicking 
+the other guy 
+in a ballsack the size 
+of a tangerine.
 
 
 
