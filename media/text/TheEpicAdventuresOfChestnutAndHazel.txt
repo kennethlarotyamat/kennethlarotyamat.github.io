@@ -4547,6 +4547,47 @@ you know how nasty it is.
 
 331
 
+Step 3
+
+[Ticker Symbol]		[Buy/Sell]		[Order Quantity]			[Limit Price]				[Ticket Status]
+
+[	HFH.P		Buy				1				86.86					Open          ]
+
+Step 4			
+[Ticker Symbol]		[Buy/Sell]		[Order Quantity]			[Limit Price]				[Ticket Status]
+
+[	HFH.P		Buy				1				86.86					Filled        ]
+
+Step 5		
+
+[Ticker Symbol]		[Buy/Sell]		[Order Quantity]			[Limit Price]				[Ticket Status]
+
+[	HFH.P		Sell				1				86.89					Open          ]
+
+Step 6		
+
+[Ticker Symbol]		[Buy/Sell]		[Order Quantity]			[Limit Price]				[Ticket Status]
+
+[	HFH.P		Sell				1				86.89					Filled        ]
+
+Step 7		
+
+[Ticker Symbol]		[Buy/Sell]		[Order Quantity]			[Limit Price]				[Ticket Status]
+
+[	HFH.P		Buy				1				86.87  					Open          ]
+
+Step 8		
+
+[Ticker Symbol]		[Buy/Sell]		[Order Quantity]			[Limit Price]				[Ticket Status]
+
+[	HFH.P		Buy				1				86.87  					Filled        ]
+
+Notes: 			this sequence is based on + 00.03 to Sell orders and - 00.02 to 
+                        Buy orders for first issue preferred shares for the security HFH
+
+
+
+
 I slept for something like 3 hours and I feel fully rechanged. This is really weird. Usually I'm dead tired even if I stay asleep an hour before I start work, and that's usually a hell of a lot of hours of sleep.
 
 ...
