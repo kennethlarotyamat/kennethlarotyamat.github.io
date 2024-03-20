@@ -1575,6 +1575,125 @@ why I would be cursed, or who would want to place a curse on me.
 
 134
 
+I've added some content below from my Spanish Translations project. 
+I've recently got bogged down messing around with an old project that 
+doesn't seem to work in it's new area. I don't know what's going on, 
+or why it doesn't work except on my landing page. I did get rid of 
+something that was making it kind of a headache, and the thing was the 
+transform hover effect.
+
+I'm going to forget about messing around with fixing the
+project 11 contact form, for whatever reason, it does not
+work. It's the same thing as what i have on my landing page,
+so I don't know why it doesn't work. so dumb. I might try one
+more thing. but then again, I really have to work on my
+translations project, and this is just something I'm messing
+around with.
+
+I'm putting together the texts that I'll be translating for
+this project. I'm also working on my YouTube videos. For video
+editing, I'm mostly just consolidating and speeding up videos
+and adding music, and uploading them, and I can't really do this
+while playing the games themselves because my computer slows down
+a lot.
+
+Buying a new gaming laptop is something that I thought about, but
+I think that I'll wait to do it. A gaming computer that can play
+the games I want to play doesn't look too expensive, but I really
+have to wait to spend that kind of money right now.
+
+
+Two Spanish Language Authors have been replaced
+
+César Vallejo with José de Espronceda
+&
+Pablo Neruda with Antonio Machado
+
+I created a few additional JavaScript functions to allow
+the contact forms to be visible inside the iframe and clickable
+inside the list.
+
+...
+
+I think that everything has been set up, once everything is
+deployed, then I can focus on making translations for the
+pages that I've set up.
+
+...
+
+So I set up the .md files for the four authors that I'm going
+to translate from English to Spanish, and the four authors
+that I'm going to translate from Spanish to English. I selected
+all authors whose work I expect to be in the Public Domain.
+
+...
+
+Getting the Readme iframe and Document Title swap to work is complete,
+the next stage in this project is to pick 4 authors to translate.
+
+I'll pick four authors to translate from English to Spanish,
+and 4 authors to translate from Spanish to English.
+
+For English to Spanish:
+
+William Carlos Williams
+T. S. Eliot
+Wallace Stevens
+E. E. Cummings
+
+For Spanish to English:
+
+Rubén Darío
+César Vallejo
+Pablo Neruda
+Miguel de Unamuno
+
+...
+
+This is awesome! it actually works, the title and the document
+change when clicked! I'm going to come back around to this and
+continue to work on it later.
+
+...
+
+There are a few other things that I need to work on, I need to set up katastrophiena to be eligible for AdSense, and, I think that the main thing is that I need a longer history of posts for this blog. This might take a while, and take away from all the other things that I'm working on. Anyway. I'm getting sucked into computer gaming right now, not with any games that are new, but games that I've had for a long time. I've been thinking about buying a gaming laptop, something inexpensive, and I came across one, but, I really have to hold out on buying anything like that right now.
+
+I have to wait before spending money on something like a new laptop, at least until next year.
+
+...
+
+Letters to Katastrophiena # 43
+
+I'm working on a number of things right now. One is setting up a page on GitHub Pages for my Spanish Translations Project. I was having trouble with a contact forms section of my page, this isn't needed for my Translations Page, I just set it up so it works, or, I'm just been trying to make the links work. Basically, I took Project 16, my Project 16 page, and used it as a starting point for my Spanish Translations Project. One of the things I left from the old page and kept on the new page was a section for Contact Forms that I made throughout the course I took. There is one Contact Form that just doesn't really work. It's the one from Project 11 I don't know what wrong.
+
+and I'm really not in the mood to work on it because. I just really don't really want to work on it right now. So I guess I wont.
+
+...
+
+Letters to Katastrophiena # 42
+
+There is one thing that I have found that helps with the video uploading process, for longer videos, it makes sense to speed up the video all the way up to 16x speed, and the reason why is that, videos longer than an hour, and even longer than 10 minutes, are really slow paced, and it's much easier to get an idea of what's happening when the video is moving faster. This also reduces the file size, and makes uploading quicker.
+
+There are some games that are really slow paced, like the tower game that I'm playing, but also, the same is true for many other city building games as well.
+
+...
+
+I need to come up with a better workflow for uploading gaming videos to YouTube. They take a hell of a long time to upload, especially larger files, I would reduce the file size, but it's not really clear to me how to do that. There is an issue with gaming videos, they often need to be high resolution, a lot of these videos need to be high resolution, I don't even have a very large screen on my laptop, and in many cases, the videos seem to be blurry. On the other hand, I'm not sure if these are going to be viewed mainly on a large screen, or a small screen, like a phone.
+
+...
+
+Letters to Katastrophiena # 41
+
+I'm thinking about how everything seems to have been falling apart for me over these past few months. I lost my job, I haven't found a new one, and I'm burning through my money. I'm a little bit demotivated. or unmotivated. or just basically lacking very much or even any motivation. I'm cutting it close it terms of money. I need to find work. Land a job or something.
+ 
+The Internet connection here is slow, it's not normally this slow, but for whatever reason, it's slower than syrup. I'm working on a number of things right now, but I'm also kind of bouncing around mentally from idea to idea, from worry to worry.
+
+Somewhere in the back of my mind I'm wondering if I'm cursed or something. Like, there's nothing I can do, and this is just the way things are going to go for me, but I have no idea why I would be cursed, or what would be the cause of the curse, or why I would be cursed, or who would want to place a curse on me.
+
+...
+
+
+
 
 
 
