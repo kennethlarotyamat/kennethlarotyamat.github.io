@@ -10741,31 +10741,19 @@ energizing those who caffeinate.
 
 701
 
-* * *
+// this was originally IndividualAssignmentOne, however, 
+// in order to follow correct naming conventions, it has been change to TaxableIncomeCalculator, since
+// the name of a class must describe what the class does.
+// this is being moved to a new package 
+// package edu.unlv.mis.kly;
 
-no
-0%
-0 votes
-·
-4 minutes left
+702
 
-in fact. i want to clerk for Justice Sotomayor, and when I'm on the supreme court, i'll opine conservative views with more bravado than Scalia, AND take Sotomayor to the Ballet!
-Kenneth Larot Yamat
-@KennethLYamat
-·
-6m
+in fact. i want to clerk for Justice Sotomayor, and when 
+I'm on the supreme court, i'll opine conservative views 
+with more bravado than Scalia, AND take Sotomayor to the Ballet!
 Do you approve of Supreme Court Justice Sonia Sotomayor?
-Yes
-0%
-no
-0%
-0 votes
-·
-Final results
-Kenneth Larot Yamat
-@KennethLYamat
-·
-19m
+
 If the Druidic Council approves reimbursement for marijuana, I want to submit medical expense reports for medicinal blow-jobs. You wouldn't believe how therapeutic blow-jobs can be. 
 
 #pontifexmaximus
