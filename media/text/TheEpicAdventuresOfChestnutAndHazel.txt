@@ -4377,13 +4377,36 @@ I took of all of the photographs, and saved them.
 but I don't know what to do eventually. Where
 to put them or post them.
 
-...
+322
 
-but i don't really know if i really want to deal with ONEQ. There is really a whole lot of bull shit on a lot of these total market index funds, and i really don't want to deal with a lot of them. stupid. stupid. I know. there's just a lot of shitty ones on the index. zombie ticker symbols on the index. some of them never fall off the index. well. i don't know. a lot of them are garbage.
+Background and the needs:
+		
+This program is needed because there are many securities
+that are difficult to trade because they are illiquid as
+a result of large bid and ask spreads, or because they lack 
+volume. 
 
-I did manage to take care of a few things with my old. With my 401(k). and that was kind of nice. I don't know. what else to do. there were a few student loan, student aid, and student grant related stuff for school. I don't recall. exactly what the deadline is for the application period. I want to say that it is.
+The goal is to reduce spreads while increasing volume.
 
-...
+Another need is due to the fact that manually performing this task
+is laborious and prone to error.
+
+323
+
+but i don't really know if i really want to deal with ONEQ. 
+There is really a whole lot of bull shit on a lot of these total 
+market index funds, and i really don't want to deal with a lot of them. 
+stupid. stupid. I know. there's just a lot of shitty ones on the index. 
+zombie ticker symbols on the index. some of them never fall off the 
+index. well. i don't know. a lot of them are garbage.
+
+I did manage to take care of a few things with my old. With my 401(k). 
+and that was kind of nice. I don't know. what else to do. there were a 
+few student loan, student aid, and student grant related stuff for school. 
+I don't recall. exactly what the deadline is for the application period. 
+I want to say that it is.
+
+324
 
 the needle is full of
 gems and if you are
@@ -4400,7 +4423,7 @@ rips on your jeans
 or the rips on
 your pants.
 
-...
+325
 
 I guess my day was okay, I did a bunch of stuff on the las vegas strip today, but at some point i had trouble finding where i parked my car.
 
