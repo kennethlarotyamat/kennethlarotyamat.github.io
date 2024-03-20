@@ -5045,12 +5045,21 @@ a nice person BEFORE YOU HAD HIS LEGS FOR LUNCH!
 // initializes the package count. 
 // This is no longer being used now that the calculated items are calculated. 
 // there is a point where a person might simply give up.
-// final String THE_PLACEHOLDER = "PLACEHOLDER"; // this is used for things that
+// final String THE_PLACEHOLDER = "PLACEHOLDER"; 
+// this is used for things that
 // I will calculate later, with a calculator
 
 362
 
-My main short term goal is to get my credit cards paid off before the end of August. This has been my goal since the beginning of the year, and I think it's a realistic goal. The end of August is when my student loan repayments start, and I don't want to be crushed by student loans and credit cards at the same time.
+My main short term goal is to 
+get my credit cards paid off before 
+the end of August. This has been my 
+goal since the beginning of the year, 
+and I think it's a realistic goal. The 
+end of August is when my student loan 
+repayments start, and I don't want to 
+be crushed by student loans and credit 
+cards at the same time.
 
 ...
 
