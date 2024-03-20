@@ -1885,7 +1885,8 @@ course, so I requested a redo of that project.
 
 160
 
-I feel like there is something that I need to do right now, but I'm not sure what that is.
+I feel like there is something that I need to do 
+right now, but I'm not sure what that is.
 
 161
 
@@ -1897,6 +1898,14 @@ even if she did, I don't know if I can
 take a risk like that again. 
 
 162
+
+I feel like there is something 
+that I need to do right now, 
+but I'm not sure what that is.
+
+163
+
+
 
 
 
