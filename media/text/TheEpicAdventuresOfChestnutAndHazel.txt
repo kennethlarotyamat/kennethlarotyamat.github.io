@@ -13141,55 +13141,55 @@ earlier, you know, only in the opposite direction: having, on any given day, a w
 
 </p> <p> Anyway, I'm still conquering Europe right now.</p>
 
-  <p>
+<p>
 
-    <br>        Estimate        SPLG 10/26/2023        <br>
-    <br>        Range           .60
-    <br>        Midpoint        49.00
-    <br>        Low/High        48.70 - 49.30
-
-    
-  </p>
-
-  <p>...</p>
-
-  <p class= "adventuretitle" >Adventure # 29 - 10/25/2023 21:27</p>
-
-  <p>
-
-    <br>        Estimate        SPLG 10/26/2023        <br>
-    <br>        Range           .60
-    <br>        Midpoint        49.20
-    <br>        Low/High        48.89 - 49.49
-    <br>        Open/Close      49.00 - 48.80
-    
-  </p>
-
-  <p>...</p>
-
-  <p>
-
-    <br>        Estimate        SPLG 10/26/2023        <br>
-    <br>        Range           .62
-    <br>        Midpoint        49.20
-    <br>        Low/High        48.89 - 49.51
-    <br>        Open/Close      49.00 - 48.80
-    
-  </p>
+<br>        Estimate        SPLG 10/26/2023        <br>
+<br>        Range           .60
+<br>        Midpoint        49.00
+<br>        Low/High        48.70 - 49.30
 
 
-  <p>...</p><p>I just don't really have all that much energy. Let's see. I don't have anything due for class for a few days. I spent an eternity 
+</p>
 
-    on project 12. I've been updating things on chestnutandhazel.com to fix issues reported to me about. or issues reported to me by Google Search
-    Console. I'm going around here and there fixing whatever comes up, little by little. there were a lot of issues where an image or video doesn't fit 
-    the screen that the website is being viewed on. so i've made an effort to fix those. the issue that comes up the most is a canonical tag issue.
-  </p>
+<p>...</p>
 
-  <p>I need to take the garbage out. what else do I need to do? I'm continuing to upload gaming videos playing Total War Rome 2. They take 
-    up a ton of storage space. I have an external hard drive that I can store them on, and, it's going to be a while before I run out of space. but I'm just amazed because 
-    I've never really done anything that produced this much date before. Text doesn't take up a lot of storage space.
-  </p>
-  <p>...</p>
+<p class= "adventuretitle" >Adventure # 29 - 10/25/2023 21:27</p>
+
+<p>
+
+<br>        Estimate        SPLG 10/26/2023        <br>
+<br>        Range           .60
+<br>        Midpoint        49.20
+<br>        Low/High        48.89 - 49.49
+<br>        Open/Close      49.00 - 48.80
+
+</p>
+
+<p>...</p>
+
+<p>
+
+<br>        Estimate        SPLG 10/26/2023        <br>
+<br>        Range           .62
+<br>        Midpoint        49.20
+<br>        Low/High        48.89 - 49.51
+<br>        Open/Close      49.00 - 48.80
+
+</p>
+
+
+<p>...</p><p>I just don't really have all that much energy. Let's see. I don't have anything due for class for a few days. I spent an eternity 
+
+on project 12. I've been updating things on chestnutandhazel.com to fix issues reported to me about. or issues reported to me by Google Search
+Console. I'm going around here and there fixing whatever comes up, little by little. there were a lot of issues where an image or video doesn't fit 
+the screen that the website is being viewed on. so i've made an effort to fix those. the issue that comes up the most is a canonical tag issue.
+</p>
+
+<p>I need to take the garbage out. what else do I need to do? I'm continuing to upload gaming videos playing Total War Rome 2. They take 
+up a ton of storage space. I have an external hard drive that I can store them on, and, it's going to be a while before I run out of space. but I'm just amazed because 
+I've never really done anything that produced this much date before. Text doesn't take up a lot of storage space.
+</p>
+<p>...</p>
 
 
 
