@@ -542,25 +542,29 @@ going well in MIS 768, so I scrapped any plans for
 that week, only for things to really go downhill 
 in that class.
 
-I shaved, and I think that my face looks a lot nicer than it does when I have facial hair, but I didn't shave my head, but I still think that I look a lot nicer when I have my face shaved. I exfoliated, and I had a lot of dead skin and all that. It was really kind of gross, but I was really happy to get my face clean. I worked on my translations project. 
+64
 
-The favicon stuff is annoying. sizing and stretching things. making it look right it the browser tab. important. but annoying.
+I shaved, and I think that my face looks a lot nicer than it 
+does when I have facial hair, but I didn't shave my head, but 
+I still think that I look a lot nicer when I have my face shaved. 
+I exfoliated, and I had a lot of dead skin and all that. It was 
+really kind of gross, but I was really happy to get my face clean. 
+I worked on my translations project. 
 
-...
+The favicon stuff is annoying. sizing and stretching things. making 
+it look right it the browser tab. important. but annoying.
 
-Letters to Katastrophiena # 47
+65
 
 I've been kind of not really doing anything lately. Nothing, other than playing on the computer, and really just playing from the start over and over, again and again. I bought a phone mount, like the kind for my car, but I mounted it on my wall next to my desk. This is kind of cool, and I've been thinking about doing this for a while, but didn't do it, because I didn't really want to spend the money on something like this, but it really helps because I usually watch movies on my phone, rather than my computer, and when my phone is just sitting on my desk I can't really see what's going on on-screen.
 
 I have 1 more class I need to enroll in at UNLV. Just like at UTA, I have to request permission for pretty much every class I try to enroll in. I'm not sure how long I should wait before reaching out a second time. The annoying thing is, is that I didn't realize before hand that I needed to request permission for every class I need to take, so I didn't ask permission for both classes the first time, I only requested permission for the one class I thought that I needed to request permission for. I thought the other class didn't require it, so I'm waiting for the other class to be unlocked.
 
-...
+66
 
 Spring (2023)
 
 Translated from Primaveral (1888) by Rubén Darío
-
-1
 
 During the blossoming months, my
 rhymes run in circles through a vast
@@ -581,9 +585,7 @@ shake and its branches rise to give
 way to the queen. My Love! It's the
 sweet spring season.
 
-...
-
-Letters to Katastrophiena # 46
+67
 
 There are a number of challenges I'm facing when it comes to monetizing my blogs or my other content. There are a whole bunch of Search Console issues that I'm not clear about how to fix, and then there are minimum viewer requirements on YouTube that will take a while to complete, and then there are content issues with Blogger that aren't really clear to me how to resolve.
 ...
