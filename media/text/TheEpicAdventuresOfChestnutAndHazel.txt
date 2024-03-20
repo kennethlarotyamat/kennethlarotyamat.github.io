@@ -10234,6 +10234,30 @@ part of it is that i don't get enough sleep.
 
 665
 
+/*
+
+
+
+
+
+Patnaik, D. (2024, February 11). Why Microtribes Are Wrecking Company Growth Plans. Forbes. https://www.forbes.com/sites/devpatnaik/2024/02/11/why-microtribes-are-wrecking-company-growth-plans/?sh=3307ddba509c
+
+
+Norfolk Southern Corporation. (2024). Form 10-K Annual Report. U.S. Securities and Exchange Commission. https://www.sec.gov/ixviewer/ix.html?doc=/Archives/edgar/ data/702165/000070216524000005/nsc-20231231.htm
+
+
+The Boeing Company. (2024). Form 10-K Annual Report. U.S. Securities and Exchange Commission. https://www.sec.gov/ixviewer/ix.html?doc=/Archives/edgar/data/12927/000001292724000010/ba-20231231.htm
+
+
+
+*/
+
+// close the input file
+// close the ouput file // whether // Walton // ecosystem
+// the resulting filename
+
+// find the position of period "."
+
 and
 
 maybe i should just take it easy for a while
