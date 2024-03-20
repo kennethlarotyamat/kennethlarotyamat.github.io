@@ -12593,9 +12593,23 @@ backgammon.
 
 836
 
-Vaginal intercourse is a scam, and a conspiracy.
+<!-- <iframe  src="https://github.com/kennethlarotyamat/miscellaneous" style="aspect-ratio: 8.68/6.86; height: auto; width:100%;" scrolling="yes"   
+allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen ></iframe> -->
+<!-- <link rel="stylesheet" href="..\miscellaneous\css\index.css"> -->
+<!-- <link rel="stylesheet" href="https://kennethlarotyamat.github.io/miscellaneous/css/index.css"> [this works] --> 
+<!-- as far as I can tell, project 13 is done, I would have liked to work on a 3rd coding challenge, the one with hackerrank, but, knowing
+how hard things are for me, it would probably take 6 hours, and I can use that time for something else, and the project says 2-3, and I did 2,
+so, I'm done, the calculator is done, same thing, it's not what I wanted, but, it done according to the requirements. -->
 
-The Alexander Peresvet laser weapon is named after Paris Alexander, the Trojan Prince who, resembling a well known actor,had a laser look that caused uteruses to tremble in ecstasy and queef with exalted delight.
+837
+
+Vaginal intercourse is a scam, and a conspiracy.
+The Alexander Peresvet laser weapon is named after 
+Paris Alexander, the Trojan Prince who, resembling 
+a well known actor,had a laser look that caused 
+uteruses to tremble in ecstasy and queef with exalted delight.
+
+838
 
 I did not have hand-job relations with the lady in the blue dress.
 
