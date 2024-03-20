@@ -12991,16 +12991,21 @@ couldn't be committed  and pushed, so I have no idea if I lost anything
 or not. [ these were where they were all at where things went and broke them down]
 [how do you make new things happier than they were] </p> [you can be happy and still new]
 
-  <p> but for reference, the way i solved the problem was this: i couldn't push the changes to GitHub because the file was too large, and 
-    took too long to upload, and it exceeded the allowable file size, so I basically had to delete the local files, restart my computer 
-    because several of the files were in use by my computer, remove the repositories 
-    from GitHub Desktop and VS Code, and then pull and fetch the repositories from GitHub again. oh, and i also had to delete the offending file, the 
-    huge file that was too large to deal with, directly from GitHub. 
+<p> but for reference, the way i solved the problem was this: i couldn't push the 
+changes to GitHub because the file was too large, and 
+took too long to upload, and it exceeded the allowable file size, so I basically 
+had to delete the local files, restart my computer [poem]
+because several of the files were in use by my computer, remove the repositories 
+from GitHub Desktop and VS Code, and then pull and fetch the repositories from 
+GitHub again. oh, and i also had to delete the offending file, the 
+huge file that was too large to deal with, directly from GitHub. 
 
-    there seems to have been a way to remove the file from my committed  changes, before pushing, but, i deleted the file locally before i could do 
-    that, so 
-    for some reason i couldn't remove it from my list of committed  changes to push. anyway. I think it's more or less resolved at this point.
-  </p>
+there seems to have been a way to remove the file from my committed  
+changes, before pushing, but, i deleted the file locally before i could do 
+that, so [were all talking to eachother about this still being an amazing]
+for some reason i couldn't remove it from my list of committed  
+changes to push. anyway. I think it's more or less resolved at this point.
+</p> [and how they were all amazing where they were all amazing where they]
 
  <p>...</p><p class= "adventuretitle" >Adventure # 33 - 10/27/2023 19:23</p>
 
