@@ -1957,9 +1957,11 @@ that's not really ideal.
 
 166
 
-I still haven't landed a position yet, and I'm under a little bit of stress as a result. I can't believe I didn't get approved for unemployment.
+I still haven't landed a position yet, and I'm under a 
+little bit of stress as a result. I can't believe I 
+didn't get approved for unemployment.
 
-...
+167
 
 best of all the places you've been
 are better than the places you haven't been.
