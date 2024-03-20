@@ -4456,7 +4456,13 @@ Question Number Two:
 
 Do I really want to stay in bed all weekend?
 
-I just don't have the same kind of stamina and endurance I had just a few years ago. I really don't. and I really don't want to take any huge risks. at the same time, I'm just kind of not in any kind of good mood. I don't know if going on a long drive will alleviate that or anything.
+I just don't have the same kind of stamina and endurance 
+I had just a few years ago. I really don't. and I really 
+don't want to take any huge risks. at the same time, I'm 
+just kind of not in any kind of good mood. I don't know if 
+going on a long drive will alleviate that or anything.
+
+327
 
 ...
 
