@@ -2097,7 +2097,9 @@ dragging is somewhat new.
 
 ...
 
-What do I have to do? I don't have any major assignments due tomorrow, but I have to get these modules on WordPress done because we are going to move into new content.
+What do I have to do? I don't have any major assignments 
+due tomorrow, but I have to get these modules on WordPress 
+done because we are going to move into new content.
 
 ...
 
