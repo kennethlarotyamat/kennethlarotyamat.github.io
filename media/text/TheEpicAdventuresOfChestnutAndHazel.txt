@@ -11182,22 +11182,23 @@ rather than the unpublished copyright registration form, so, that's another issu
 
 737
 
-  /* 
+/* 
 
-  i basically couldn't figure out how to do this in javascript, but since this is a styling concern, I don't feel the least bit bad
-  about styling it with Cascading Style Sheets:  HAHAHAHA!
+i basically couldn't figure out how to do this in javascript, but since this is a styling concern, I don't feel the least bit bad
+about styling it with Cascading Style Sheets:  HAHAHAHA!
 
-  https://www.w3schools.com/tags/tag_small.asp
-  https://www.w3schools.com/css/css_font_size.asp  
-  https://www.w3schools.com/css/css_font_size.asp
+https://www.w3schools.com/tags/tag_small.asp
+https://www.w3schools.com/css/css_font_size.asp  
+https://www.w3schools.com/css/css_font_size.asp
 
-  Currently Watching: https://www.youtube.com/watch?v=uyzZW6fpzik
-                      https://www.youtube.com/watch?v=n3Q_4vjPMSE
+Currently Watching: 
 
-                      he references magical realism, HAHAHA! robert coover has been my favorite author for years!
+https://www.youtube.com/watch?v=uyzZW6fpzik
+https://www.youtube.com/watch?v=n3Q_4vjPMSE
 
-                      https://en.wikipedia.org/wiki/Robert_Coover
+he references magical realism, HAHAHA! robert coover has been my favorite author for years!
 
+https://en.wikipedia.org/wiki/Robert_Coover
 
 @KennethLarotYamat
 2 hours ago (edited)
@@ -11206,9 +11207,10 @@ Attire: English Professor Vibes I really love that stoic sarcasm "At this point,
 it can only fall an additional 100 Percent" "They had problems with the rent collection application, perhaps 
 the most important piece of the technology of the business" " It has highly advanced facial recognition AI 
 algorithms that gleaned insights such as: people enjoyed sitting next to windows"
-  
 
-  */
+*/
+
+738
 
 On this day
 5 years ago
@@ -11219,7 +11221,7 @@ Shared with Public
 The best number ever:
 five hundred shillion forty five fillion decamore villion gigolo jizzilion dillie dough dillion
 
-...
+739
 
 I remember this post, five years ago when I was here in Vegas
 
