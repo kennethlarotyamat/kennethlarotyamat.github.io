@@ -3138,7 +3138,8 @@ that I created.
 
 241
 
-This chair that I'm sitting on right now is falling apart 
+This chair that I'm sitting on 
+right now is falling apart 
 structurally.
 
 242
