@@ -3067,7 +3067,55 @@ There are 3 copyright registrations pending, and 1 trademark registration pendin
 
 and it's not like starting today with any job search is really going to give me any kind of advantage. 3 or 4 days or whatever is not a huge head start.
 
+240
+
+So Chestnut + Hazel officially has a trademark pending. It might be a year before I hear anything back from the US PTO. There are also a few copyright registrations that I have pending, and in my experience, those could take about four months to process.
+
+With all the other stuff I have going on, the disasters, the impending disasters. I'm going to dig into my homework that's due tomorrow, and see where that goes. there are so many things going on, so many things going wrong that I really don't know where to begin. So close. I had these credit cards on the way to zero, and now this. I'm frozen right now, not in the sense that I'm immobile, or stuck in place, but I have things to do that I just haven't done yet. so. I'm just here.
+
+So I'm working on one of my class projects, and it was pretty interesting. I spent too much time on this last thing, working with padding, margins, and borders. I integrated the new concepts into a previous project, and created and messed around with some of the buttons that I created.
+
 ...
+
+What a mood I'm in! I don't really feel all that great right now. I did laundry, I cleaned my card. I registered a copyright and a trademark, or, it has to be awarded, so I guess I submitted the applications for registration. I'm worried about the prospect of getting canned from work. Getting canned is something that I should take as an opportunity, to do something else, to try something new, but it's not something I'm really prepared for. Credit Card wise, I'd be back in minimum payment mode. I was so close, and now it all falls apart again. I need to finish my homework for class. The thing is. I have no idea what to do about class if I have to start looking for work again, because, I prefer working nights, but it isn't clear to me what else is out there working nights.
+
+Years ago, like a decade ago really, like ten years ago or more, I remember wanting to work at a casino, but I never did it, this was when I was living in San Jose, CA, and there were a number of card houses in the area, and, I think at the time a new card house completed construction. I don't really go into casinos, I don't really gamble, and so I don't really no much about them. Last year when I went on my road trips from Texas to Michigan I came across tons of casinos, it's really surprising how many there are, there's not the concentration of casinos out there like there are here in Las Vegas, NV, but they are out there, and you see them every so often.
+
+There was one in Michigan, I think, somewhere close to Battle Creek, MI that I stopped at and checked out, mostly for the restaurants, I stayed at the less expensive motel across the street. I played a few games of some kind of card game, but, I don't remember what it was called, or what it was or what the rules were, I just chatted with the card dealer and kind of got a feeling of what the role is like.
+
+...
+
+This is a little bit of a nightmare. I can't really think right now. There are so many things on my mind right now that I'm worried about, and my thoughts skip from one thing to another. I want to finish my coursework today, but I also need to finish my course work today.
+
+...
+
+So it's kind of back to square one, I'm kind of back to the drawing board on the Chestnut and Hazel logo or trademark. Some of the newer things that I've tried don't really succeed as a favicon, and that really plays into it. The success or the failure of the design of the trademark logo hinges upon whether or not it looks nice as a favicon, and there really isn't much to work with when it comes to a favicon. I'm working on this design pixel by pixel, by hand, and part of the reason I'm doing this is to make sure that I can obtain a copyright, and eventually a trademark.
+
+...
+
+Chestnut + Hazel, all characters stylized
+
+Chestnut + Hazel, all characters stylized, the word chestnut is brown, the plus sign is red, and the word hazel is green
+
+the word chestnut is colored brown, hex value #875941 RGB value (135, 89, 65) HSV value (21,52,53)
+the plus sign character is colored red, hex value #7E0113 RGB value (126,1,19) HSV value (351,99,49)
+the word Hazel is colored green, hex value #2D910D RGB value (45,145,13) HSV value (105,91,57)
+
+the word Chestnut appears first with the plus sign character to the right of the word Chestnut, the word Hazel appears below the word Chestnut, and is indented. the letter C in the word Chestnut is larger than the letters forming hestnut and the letter H in the word Hazel is larger than the remaining letters forming azel.
+
+Chestnut + Hazel, all characters stylized, the word chestnut is brown, the plus sign is red, and the word hazel is green
+
+the word chestnut is colored brown, hex value #875941 RGB value (135, 89, 65) HSV value (21,52,53)
+the plus sign character is colored red, hex value #7E0113 RGB value (126,1,19) HSV value (351,99,49)
+the word Hazel is colored green, hex value #2D910D RGB value (45,145,13) HSV value (105,91,57)
+
+Chestnut + Hazel, all characters stylized, the word chestnut is colored brown, hex value #875941 RGB value (135, 89, 65) HSV value (21,52,53)
+the plus sign character is colored red, hex value #7E0113 RGB value (126,1,19) HSV value (351,99,49)
+the word Hazel is colored green, hex value #2D910D RGB value (45,145,13) HSV value (105,91,57),
+the word Chestnut appears first with the plus sign character to the right of the word Chestnut, the word Hazel appears below the word Chestnut, and is indented. the letter C in the word Chestnut is larger than the letters forming hestnut and the letter H in the word Hazel is larger than the remaining letters forming azel.
+...
+
+48 Logos and Logo Elements for Chestnut + Hazel
 
 
 
