@@ -5317,11 +5317,41 @@ as much out of the experience as I can by going through the
 course material, but. Yeah, that was a real interesting way 
 to flush $3,500 down the toilet.
 
-I need to explore as many programs at as many universities as I can. I really would prefer an in-person program rather than something remote, or online. I'm still kind of hesitant to look at anything. I'm hesitant to pursue a different graduate program unless I know that it will be the right fit for me. I don't know if there is any possibility of heading back to Texas for one semester, and just taking two classes or whatever, but, who knows.
+I need to explore as many programs at as many universities as 
+I can. I really would prefer an in-person program rather than 
+something remote, or online. I'm still kind of hesitant to look 
+at anything. I'm hesitant to pursue a different graduate program 
+unless I know that it will be the right fit for me. I don't know 
+if there is any possibility of heading back to Texas for one semester, 
+and just taking two classes or whatever, but, who knows.
 
-...
+383
 
-I really want to buy new pants, and a new belt, but I also really want to hold off on doing either, and yet, even though I really want to keep my spending as low as possible, I went out to eat earlier today and I went out for drinks the other day. I went out for drinks the other night, and it was supposed to be a kind of date, but, we didn't end up meeting up. I went to the place she wanted to meet up at, but she wasn't there. I waited for about an hour, and then went home, and like five minutes after I was on my way home, she said she was there, and that I should turn around and come back.
+// user greeting for the customer
+// initializes the scanner.
+// System.out.println(invisible+"test area");
+
+384
+
+I really want to buy new pants, and 
+a new belt, but I also really want to 
+hold off on doing either, and yet, 
+even though I really want to keep my 
+spending as low as possible, I went out 
+to eat earlier today and I went out for 
+drinks the other day. I went out for 
+drinks the other night, and it was supposed 
+to be a kind of date, but, we didn't end up 
+meeting up. I went to the place she wanted 
+to meet up at, but she wasn't there. I waited 
+for about an hour, and then went home, and 
+like five minutes after I was on my way home, 
+she said she was there, and that I should turn 
+around and come back.
+
+385
+
+
 
 That was discouraging, so I'm going to take a break from online dating. This is the second time I deleted, second or maybe third time I've deleted a dating profile in the last month. I switched accounts for some of my autopay expenses, and I'm kind of just waiting until the switch over becomes active.
 
