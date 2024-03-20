@@ -5042,7 +5042,11 @@ a nice person BEFORE YOU HAD HIS LEGS FOR LUNCH!
 
 361
 
-
+// initializes the package count. 
+// This is no longer being used now that the calculated items are calculated. 
+// there is a point where a person might simply give up.
+// final String THE_PLACEHOLDER = "PLACEHOLDER"; // this is used for things that
+// I will calculate later,
 
 
 
