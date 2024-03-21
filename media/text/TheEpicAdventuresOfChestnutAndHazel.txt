@@ -13819,11 +13819,12 @@ I'm going to commit this and see if this worked out.
 926
 
 I'm really tired right now.
+[how many times have I told you]
+[not to eat oranges without me > + ? ] [and yet how often do you do it anyway]
 
 927
 
 i have to use a different IDE
-
 so workspace save interval in minutes. I think setting it from 5 to 1. 
 from five minutes to 1 minutes is essentially the same as auto-save. right?
 
