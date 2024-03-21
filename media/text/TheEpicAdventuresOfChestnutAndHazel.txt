@@ -15637,12 +15637,12 @@ currency, even though it is surely a 7.5 inch money maker!
 
 1034
 
-#inflation 
-#filipinodollar
-#filipinopeso
-#filipinodong
-#filipinowang
-#filipinorouble
+[] #inflation 
+[] #filipinodollar
+[] #filipinopeso
+[] #filipinodong
+[] #filipinowang
+[] #filipinorouble
 
 1035
 
