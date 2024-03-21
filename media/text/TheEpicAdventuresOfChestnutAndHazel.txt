@@ -14168,7 +14168,7 @@ I probably would have dealt with this sooner if I had received notice sooner, bu
 
 945
 
-<p>...</p><p class= "adventuretitle" >Adventure # 9 - 10/14/2023 07:56</p>
+[but what is it where are all of the turns where are the turtles] <p>...</p><p class= "adventuretitle" >Adventure # 9 - 10/14/2023 07:56</p>
 
 <p>One of my classmates asked me for help on an older project that she was catching up on. I sent her a link to my GitHub link to that particularl
 project, but realized that she might not be using GitHub yet. So I created a CodePen version of project 10 created specificially for Codepen. I created
