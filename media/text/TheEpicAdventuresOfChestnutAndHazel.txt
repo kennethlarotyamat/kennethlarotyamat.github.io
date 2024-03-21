@@ -13518,11 +13518,11 @@ candlestick, I don't know. This is really taking longer than I expected.
 
 906
 
-<br>        Results for:   SPLG, 10/19/2023        <br>
-<br>        Range AMT:      .89
-<br>        Midpoint:       50.48
-<br>        Range L/H:      50.06 - 50.89 
-<br>        Trend:          None
+<br>        Results for:   SPLG, 10/19/2023        <br>  [I'm faliing and it's really]
+<br>        Range AMT:      .89                          [really just so frustrating for me]
+<br>        Midpoint:       50.48                        [ filled full and over and just]
+<br>        Range L/H:      50.06 - 50.89                [dissappointments things to be]
+<br>        Trend:          None                         [unhappy about things that didn't work out.]
 <br>        O/C:            50.66 - 50.16
 </p>
 <p>...</p>
