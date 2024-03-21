@@ -14125,7 +14125,7 @@ people contribute more to inflation than I do. other people should get targeted 
 942
 
 [but there are ways to figure it out] <p>...</p>
-<p>On this day
+<p> On this day
 4 years ago
 Kenneth Larot Yamat
 Shared with Public</p>
@@ -14144,9 +14144,6 @@ style="aspect-ratio: 8.68/6.86; height: auto; width:100%;" scrolling="yes"   all
 clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen  ></iframe>
 
 943
-
-
-
       
 <p>The xx - I Dare You (Official Music Video)</p>
 <p>...</p>
