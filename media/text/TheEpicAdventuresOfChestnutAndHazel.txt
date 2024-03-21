@@ -15417,8 +15417,7 @@ I would hope that things do not get worse than <p>...</p> they already are.
 1024
 
 <p>...</p>
-
-<p> <br>On this day
+<p> <br> On this day
 <br>6 years ago
 <br>Kenneth Larot Yamat
 <br>October 17, 2017
