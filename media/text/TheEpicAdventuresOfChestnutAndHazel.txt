@@ -14466,45 +14466,42 @@ I'm glad it's still Wednesday.
 
 oh. i remember know. my business name is: Chestnut + Hazel - did you know that?
 
-  
-  This is probably going to be the least user friendly blog ever. Tell me: are you reading this? Is it nice and user friendly?
-  because I'm not sure I really care, you're basically reading my diary. Whether or not it's user friendly isn't really my problem.
-  One of the issues I have with what I post on chestnutandhazel.com is that It's hosted, or whatever, it's really just an account
-  on blogger.com, so since it's basically a social media account, I have to comply with the community guidles of blogger.com, and
-  since I have adsense active on that page, I also have to comply with any adsense advertiser standards, so I have my hands tied 
-  in many respects. chestnutandhazel.com continues to get flagged over and over and over, and in many cases I don't really want to 
-  deal with it right away.
-  
-  the other issue is that I also have to post what I write somewhere, so that I can use the standard copyright registration form,
-  rather than the unpublished copyright registration form, so, that's another issue. so you know, it's kind of whatever.
-  
-    /* 
-  
-    i basically couldn't figure out how to do this in javascript, but since this is a styling concern, I don't feel the least bit bad
-    about styling it with Cascading Style Sheets:  HAHAHAHA!
-  
-    <p>https://www.w3schools.com/tags/tag_small.asp
-    https://www.w3schools.com/css/css_font_size.asp  
-    https://www.w3schools.com/css/css_font_size.asp</p>
-  
-    <p><table><tr><td>Currently Watching:</td><td> https://www.youtube.com/watch?v=uyzZW6fpzik
-                        https://www.youtube.com/watch?v=n3Q_4vjPMSE
-  <br><br>  
-                        he references magical realism, HAHAHA! robert coover has been my favorite author for years!
-                        <br><br>  
-                        https://en.wikipedia.org/wiki/Robert_Coover</td></tr></table></p>
-  
-  
-  <p>@KennethLarotYamat
-  2 hours ago (edited)
-  
-  Attire: English Professor Vibes I really love that stoic sarcasm "At this point, as a worst case scenario, 
-  it can only fall an additional 100 Percent" "They had problems with the rent collection application, perhaps 
-  the most important piece of the technology of the business" " It has highly advanced facial recognition AI 
-  algorithms that gleaned insights such as: people enjoyed sitting next to windows"
-    
-  
-    */
+This is probably going to be the least user friendly blog ever. Tell me: are you reading this? Is it nice and user friendly?
+because I'm not sure I really care, you're basically reading my diary. Whether or not it's user friendly isn't really my problem.
+One of the issues I have with what I post on chestnutandhazel.com is that It's hosted, or whatever, it's really just an account
+on blogger.com, so since it's basically a social media account, I have to comply with the community guidles of blogger.com, and
+since I have adsense active on that page, I also have to comply with any adsense advertiser standards, so I have my hands tied 
+in many respects. chestnutandhazel.com continues to get flagged over and over and over, and in many cases I don't really want to 
+deal with it right away.
+
+the other issue is that I also have to post what I write somewhere, so that I can use the standard copyright registration form,
+rather than the unpublished copyright registration form, so, that's another issue. so you know, it's kind of whatever.
+
+/* 
+
+i basically couldn't figure out how to do this in javascript, but since this is a styling concern, I don't feel the least bit bad
+about styling it with Cascading Style Sheets:  HAHAHAHA!
+
+<p>https://www.w3schools.com/tags/tag_small.asp
+https://www.w3schools.com/css/css_font_size.asp  
+https://www.w3schools.com/css/css_font_size.asp</p>
+
+<p><table><tr><td>Currently Watching:</td><td> https://www.youtube.com/watch?v=uyzZW6fpzik
+https://www.youtube.com/watch?v=n3Q_4vjPMSE
+<br><br>  
+he references magical realism, HAHAHA! robert coover has been my favorite author for years!
+<br><br>  
+https://en.wikipedia.org/wiki/Robert_Coover</td></tr></table></p>
+
+<p>@KennethLarotYamat
+2 hours ago (edited)
+
+Attire: English Professor Vibes I really love that stoic sarcasm "At this point, as a worst case scenario, 
+it can only fall an additional 100 Percent" "They had problems with the rent collection application, perhaps 
+the most important piece of the technology of the business" " It has highly advanced facial recognition AI 
+algorithms that gleaned insights such as: people enjoyed sitting next to windows"
+
+*/
   
   On this day
   5 years ago
