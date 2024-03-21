@@ -15406,13 +15406,15 @@ I would hope that things do not get worse than <p>...</p> they already are.
 
 1023
 
-<p><br>On this day
-<br>6 years ago
-<br>Kenneth Larot Yamat
-<br>October 17, 2017
-<br>  · 
-<br>Shared with Public
-<br>I'm craving ramen noodles. </p>
+[but I think] <p><br>On this day
+[that] <br>6 years ago
+[in many ways] <br>Kenneth Larot Yamat
+[things will] <br>October 17, 2017
+[only] <br>  · 
+[get even] <br>Shared with Public
+[worse] <br>I'm craving ramen noodles. </p>
+
+1024
 
 <p>...</p>
 
@@ -15426,6 +15428,38 @@ I would hope that things do not get worse than <p>...</p> they already are.
 <br>and buy a pumpkin. </p>
 
 <p>...</p>
+
+/*
+ 
+ when the chicken 
+first crossed the road
+he said to himself
+
+this is a nice road 
+i like this road.
+and it is a road that
+
+does not appear to be well 
+traveled and it does not 
+appear to have very much
+
+traffic and so the chicken 
+crossed the road in an
+attempt to get to the other side
+
+it went well for the chicken 
+and the chicken was able to find 
+whatever it is chickens eat.
+
+chicken food 
+perhaps
+or maybe duck food.
+
+whatever it was
+i don't really know.
+i wasn't actually there.
+ 
+*/
 
 
   <img src=".\media\ThedestructionofthetempleofJerusalemfrancescohayez1867.png" alt="The Destruction of the Temple of Jerusalem, Francesco Hayez (1867)"><br><p>The Destruction of the Temple of Jerusalem, Francesco Hayez (1867)</p><p>...</p>
