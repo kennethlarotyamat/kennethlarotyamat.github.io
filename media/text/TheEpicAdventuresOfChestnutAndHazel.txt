@@ -14168,43 +14168,43 @@ I probably would have dealt with this sooner if I had received notice sooner, bu
 
 945
 
-[but what is it where are all of the turns where are the turtles] <p>...</p><p class= "adventuretitle" >Adventure # 9 - 10/14/2023 07:56</p>
+[but what is it where are all of the turns where are the turtles] <p>...</p><p class= "adventuretitle" >Adventure # 9 - 10/14/2023 07:56 </p>
 
 <p>One of my classmates asked me for help on an older project that she was catching up on. I sent her a link to my GitHub link to that particularl
 project, but realized that she might not be using GitHub yet. So I created a CodePen version of project 10 created specificially for Codepen. I created
 a Project 10 for display on CodePen, but that was just the GitHub version iframed into CodePen, but for the new project 10 version in codepen, I cloned
 the actual code from GitHub and put it into a CodePen Pen, it didn't work at first, so I had to change the iframe slider to reference my older Codepen Project Specifically.
-</p>
+angry. irritated - annoyed these things I really don't even know what to say about this </p>
 
 <p>I'm not sure if that's really well explained, but, things are referenced differently in CodePen such that, it really doesn't 
 work well unless I use absolute references, and in many cases, not all references work well.
-</p> 
+what the hell do I do with this what do I do with this what do I do with this where do these things go what do I do? </p> 
 
+946
 
+<p> On this day
+1 year ago
+Kenneth Larot Yamat
+October 14, 2022
+· 
+Shared with Public
+There are times when butter is in fact the answer, but the circumstances where butter is the answer are rare. Suppose you're taking a multiple choice test and the question is: what's the answer? If the choices include: A) butter . Well, then it's possible that butter is the answer.</p>
+<p>On this day
+6 years ago
+Kenneth Larot Yamat
+October 14, 2017
+· 
+Shared with Public
+The portions at Hawaiian barbecue seem like it should actually be called Samoan barbecue.</p>
 
 <p>On this day
-  1 year ago
-  Kenneth Larot Yamat
-  October 14, 2022
-    · 
-  Shared with Public
-  There are times when butter is in fact the answer, but the circumstances where butter is the answer are rare. Suppose you're taking a multiple choice test and the question is: what's the answer? If the choices include: A) butter . Well, then it's possible that butter is the answer.</p>
-  <p>On this day
-    6 years ago
-    Kenneth Larot Yamat
-    October 14, 2017
-      · 
-    Shared with Public
-    The portions at Hawaiian barbecue seem like it should actually be called Samoan barbecue.</p>
-
-    <p>On this day
-      2 years ago
-      Kenneth Larot Yamat
-      October 14, 2021
-        · 
-      Shared with Public
-      Based on what I've been reading, my guess is that the chief executive officer of jpmorgan chase and company is going diamond hands 💎 👏 ? on something other cryptocurrency. 
-      #wampumcurrency</p>
+2 years ago
+Kenneth Larot Yamat
+October 14, 2021
+· 
+Shared with Public
+Based on what I've been reading, my guess is that the chief executive officer of jpmorgan chase and company is going diamond hands 💎 👏 ? on something other cryptocurrency. 
+#wampumcurrency</p>
 
 <p>On this day
   1 year ago
