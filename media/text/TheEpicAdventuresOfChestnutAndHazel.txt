@@ -14280,35 +14280,35 @@ extra shares bought or too many extra shares sold, then that means I didn't pred
     
 951    
     
-    </p>
+</p>
 
-    <img src=".\media\Screenshot 2023-10-13 123333.png" alt="Stock Charge of Ticker Symbol SPLG">
+<img src=".\media\Screenshot 2023-10-13 123333.png" alt="Stock Charge of Ticker Symbol SPLG">
 <br><br>
-    <img src=".\media\Screenshot 2023-10-13 123807.png" alt="Trades Place for Ticker Symbol SPLG">
+<img src=".\media\Screenshot 2023-10-13 123807.png" alt="Trades Place for Ticker Symbol SPLG">
 
-    <p>Okay, so let's try again for Monday. My best guess is that SPLG will be between 50.20 and 50.83, see chart below.</p> 
+<p>Okay, so let's try again for Monday. My best guess is that SPLG will be between 50.20 and 50.83, see chart below.</p> 
 
-    <img src=".\media\Screenshot 2023-10-13 130204.png" alt="Stock Charge of Ticker Symbol SPLG">
+<img src=".\media\Screenshot 2023-10-13 130204.png" alt="Stock Charge of Ticker Symbol SPLG">
 
-    <p>I'll place 2 orders, one in each direction.</p>
-    <img src=".\media\Screenshot 2023-10-13 130723.png" alt="Trades Place for Ticker Symbol SPLG">
+<p>I'll place 2 orders, one in each direction.</p>
+<img src=".\media\Screenshot 2023-10-13 130723.png" alt="Trades Place for Ticker Symbol SPLG">
 
-    <p>So we will see how that goes. The goal for tomorrow is to have two shares bought, and two shares sold. Or, well, since I have so many outstanding orders at this point, to have the same number of buy orders excecuted as sell orders.</p>
-    <p>Anyway, the reason why I'm only doing 1 share at a time, usually I do 10, is because I really screwed up on 10/05/2023 and sold about 70 more shares than I bought, which really threw everything off. In the following days I ended up selling 207 more shares than I wanted to, so I'm at the point of, you know, I basically gotta keep this at 1 share at a time until I'm back at my goal of getting those 207 shares back, and, even though I accumulated 7 more shares than I wanted too today, that accumulation really doesn't count because I want those 207 shares back at 49.90, and not higher.</p>
+<p>So we will see how that goes. The goal for tomorrow is to have two shares bought, and two shares sold. Or, well, since I have so many outstanding orders at this point, to have the same number of buy orders excecuted as sell orders.</p>
+<p>Anyway, the reason why I'm only doing 1 share at a time, usually I do 10, is because I really screwed up on 10/05/2023 and sold about 70 more shares than I bought, which really threw everything off. In the following days I ended up selling 207 more shares than I wanted to, so I'm at the point of, you know, I basically gotta keep this at 1 share at a time until I'm back at my goal of getting those 207 shares back, and, even though I accumulated 7 more shares than I wanted too today, that accumulation really doesn't count because I want those 207 shares back at 49.90, and not higher.</p>
 
-    <p>and 49.90 is still, you know, in the realm of possibility, in fact, I couldn't find a reason to buy back in at higher than 49.90, even
-      after 4 green days because, at no point did there seem to be confirmation of a trend change, or, at least I don't seem to see anything. Maybe if it hit above 51.66, but, I probably still would have waited out even if it did hit 51.66.
-    </p>
-    <img src=".\media\Screenshot 2023-10-13 133205.png" alt="Stock Charge of Ticker Symbol SPLG">
-    <p>Anyway, that last chart was a lot to look at. I went to UNLV today to have the meeting with the MSQF Program Director. 
-      From the conversation it seems clear that I won't be admitted to the program for the Spring Semester of 2024, I could 
-      go to UNLV for Spring 2024, but, only to take a prerequisite course. and then I can get into the program for Fall 2024. 
-    This is one of those times where I really hope that I can take this course online.</p>
-    <p>Otherwise than that, I'm really tired. I'm worried though. The reason I was shooting for a Spring 2024 admission is because
-      there are so many things can go wrong between now and January, and, there are even more things that can go wrong between now and August 2024.
-      you know, and, this is just another nightmare.
-    </p>
-    <div><p>
+<p>and 49.90 is still, you know, in the realm of possibility, in fact, I couldn't find a reason to buy back in at higher than 49.90, even
+after 4 green days because, at no point did there seem to be confirmation of a trend change, or, at least I don't seem to see anything. Maybe if it hit above 51.66, but, I probably still would have waited out even if it did hit 51.66.
+</p>
+<img src=".\media\Screenshot 2023-10-13 133205.png" alt="Stock Charge of Ticker Symbol SPLG">
+<p>Anyway, that last chart was a lot to look at. I went to UNLV today to have the meeting with the MSQF Program Director. 
+From the conversation it seems clear that I won't be admitted to the program for the Spring Semester of 2024, I could 
+go to UNLV for Spring 2024, but, only to take a prerequisite course. and then I can get into the program for Fall 2024. 
+This is one of those times where I really hope that I can take this course online.</p>
+<p>Otherwise than that, I'm really tired. I'm worried though. The reason I was shooting for a Spring 2024 admission is because
+there are so many things can go wrong between now and January, and, there are even more things that can go wrong between now and August 2024.
+you know, and, this is just another nightmare.
+</p>
+<div><p>
 
       <p>...</p>
   <p class= "adventuretitle" >Adventure # 6 - 10/12/2023 20:47</p><p>
