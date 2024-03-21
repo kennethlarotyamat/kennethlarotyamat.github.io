@@ -13765,7 +13765,11 @@ do. Oh, it was to remove the resource leak warnings, I remember, they
 weren't errors, just warnings from the IDE that I usually do something
 about, but I figured I didn't want to risk messing anything up.
 
-...
+919
+
+[it was something new] . something interesting 
+[a kind of orange inside of a lemon] . [an egg inside
+of another egg] . [it was something new where the old things became new] 
 
 10
 
