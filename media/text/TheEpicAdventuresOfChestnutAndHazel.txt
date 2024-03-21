@@ -13278,7 +13278,7 @@ vanity project at this point. </p> [how much of a disaster everything really is 
 
 
 
-<p>...</p><p class= "adventuretitle" >Adventure # 27 - 10/24/2023 07:09</p>
+<p>...</p> <p class= "adventuretitle" >Adventure # 27 - 10/24/2023 07:09</p>
 
 <p>
 
