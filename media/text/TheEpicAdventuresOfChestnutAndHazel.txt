@@ -13600,20 +13600,23 @@ is there something I need to do today?
 <p>I want to start with my portfolio stuff today.
 I still want those shares as 49.90, but since the month is almost over, I really need to make sure I have cash on hand.
 <p>...</p><img src=".\media\Screenshot 2023-10-18 171414.png" alt="SPLG Orders at 49.90"><br><p>SPLG Orders at 49.90</p><p>...</p>  
-</p>
+[if I were to tell you how things went] </p> [] would you feel like they went better for someone else [] but [] I don't know []
 
 910
 
-<p>
+[] things could have gone well, they could have been amazing they could have been nice <p> [but that was not the way they worked out]
 The order that says: <i>Sell to Open ... Put</i>, is an attempt to enter SPLG, 100 shares at 49.90, but more specifically, it's the closing
 transaction of an OTO pair where, I think I sold those shares at 50.20. I did it as a <i>sell to open 1 put option</i>, rather than a 
-<i>limit buy 100 shares </i>
+[] some of how they went was less than where they were [] <i>limit buy 100 shares </i> [] you told me that it was all my fault and that
 because there is something I'm trying to see. I wouldn't ordinarily do it this way, but, like I said, there is something I'm trying to see. 
 and there are a few reasons why I'm not too worried: <ul><li>I want those shares at 49.90 anyway because they're part of a closing transation</li>
 
+[] I am responsible for the failures of everything, but it was not my fault. 
+at least, not in my opinion. I think that [you are the one responsible, and you are the one]
+[who did all the wrong things and that you are the one who made all the mistakes and you are the one who fucked everything up]
 <li>The expiration date is 2 days out, so, I'm not locked in to the contract for a nightmarishly long time
 <li>Plus, there is something I'm trying to see</li>
-</li></ul>
+</li> [you fucked everything up, but primarly for your own self that's what it was] </ul>
 </p>
 
 <p>What else: I had 19 buy orders filled, and no sell orders filled.</p>
