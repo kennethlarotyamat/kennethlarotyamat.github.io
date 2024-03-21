@@ -13207,30 +13207,27 @@ but I'm just amazed because I've never really done anything that produced this m
 
 889
 
-<p>...</p>
+<p>
+...
+</p>
+<p>
 
+<br>        Estimate for:   SPLG, 10/25/2023        <br>
+<br>        Range AMT:      .70
+<br>        Midpoint:       49.85 
+<br>        Range L/H:      49.50 - 50.20
+<br>        O/C:            49.90 - 49.70
 
-
-
-
-  <p>
-
-  <br>        Estimate for:   SPLG, 10/25/2023        <br>
-  <br>        Range AMT:      .70
-  <br>        Midpoint:       49.85 
-  <br>        Range L/H:      49.50 - 50.20
-  <br>        O/C:            49.90 - 49.70
-  
 </p>
 
 <p>
 
-  <br>        Data for:       SPLG, 10/25/2023        <br>
-  <br>        Range AMT:      .57
-  <br>        Midpoint:       49.33
-  <br>        Range L/H:      49.61 - 49.04
-  <br>        O/C:            49.59 - 49.10
-  
+<br>        Data for:       SPLG, 10/25/2023        <br>
+<br>        Range AMT:      .57
+<br>        Midpoint:       49.33
+<br>        Range L/H:      49.61 - 49.04
+<br>        O/C:            49.59 - 49.10
+
 </p>
 
 <p>
