@@ -13319,10 +13319,11 @@ can't be doing it.
 <img src=".\media\Screenshot 2023-10-24 172340.png" alt="Filled and Cancelled SPLG orders for 10/24/2023"><br>
 <p>Filled and Cancelled SPLG orders for 10/24/2023</p> 
 <p>...</p>
-
-
+[but there were two of them before and there were three of them in the back of the best restaurant in the entire city.]
 <p>All of the orders that were filled were the first part of their respective paired transactions, in other words, they all triggered limit buy orders.
 I moved the html</p>
+
+897
 
 <p>...</p>
 
