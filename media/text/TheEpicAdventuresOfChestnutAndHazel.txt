@@ -13663,7 +13663,7 @@ Let's see how things turned out
 913
 
 
-<p>so, let's get started.</p>
+<p> so, let's get started. </p>
 
 <p>...</p>
 <br>        Estimate for: SPLG, 10/19/2023
