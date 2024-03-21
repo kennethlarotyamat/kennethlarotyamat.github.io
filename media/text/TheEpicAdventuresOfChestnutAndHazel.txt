@@ -13223,8 +13223,8 @@ but I'm just amazed because I've never really done anything that produced this m
 
 890
 
-</p>
-<p>
+[I'm failing MIS 768] </p>
+[what a nightmare!] <p> [I don't know where to go from here.]
 <br>        Data for:       SPLG, 10/25/2023        <br>
 <br>        Range AMT:      .57
 <br>        Midpoint:       49.33
