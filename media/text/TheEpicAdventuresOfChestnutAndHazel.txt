@@ -14839,59 +14839,62 @@ this really might be the end of it. this might be over this really might be over
 
 978
 
-</p>
-...
-<p class= "adventuretitle" >Adventure # 2 - 10/10/2023 20:41</p><p>
+I really want to know - how did this happen what did I do </p> to deserve this I know.
+I know that I am something of a total . bastard and that I know that I am a . total idiot .
+<p class= "adventuretitle" >Adventure # 2 - 10/10/2023 20:41</p><p> but I have to ask why
+is this happening to me what did I do to deserve this what did I do to deserve this what.
 
-  I'm more tired than ever. More than I can possibly imagine. Today was a long day. Small victories I guess.
-  </p>
-  <p>...</p>
-  <p class= "adventuretitle" >Adventure # 1 - 10/10/2023 10:48</p>
-  
-  <p>  
-  I consider this published, even if it's unlikley anyone will come across this
-  or read it. There are times when I want to write things, but, less and less I feel
-  the desire to write them on chestnutandhazel.com I don't know what it is, but, I'm
-  starting to feel more "On Stage" when I write and post things there.
-  
-  Maybe a few years back it seemed, it felt like there wasn't anyone really, you know
-  reading it.
-  
-  I need to be working on Project 11, but for some reason I'm just not really getting anything done.
-  I've managed to figure out where my Contact Form is. It's something that I haven't really messed with
-  in a while, but Project 11 entails messing with it. So. That's what I'm up to.
-  
-  There's a lot of cleaning up that needs to be done with the index page of my Github Repository,
-  and a lot of that cleaning up, with the code, cleaning up the appearance of my code wouldn't
-  really change the outward appearance of my page. It would just make it easier to change things around
-  but, considering that the course is almost over, I'm not really sure how much it makes sense to really
-  do anything about it.
-  
-  I really have to get Project 11 done. I was reviewing the recording of the class session, and
-  it looks easy, and, I remember it being easy when I was doing it. I don't remember, but I 
-  think that I napped through part of the class, and came back around to it later.
-  
-  One of the things about the class is that, I'm much more open to distance learning, or online coursework, or virtual classrooms,
-  or whatever, now that I've done it, back in 2018 or 2019 I think that I was really skeptical about it, and
-  I kind of brushed off a recruiter for an online degree program, but um, I think that I'm more open to it now.
-  
-  I tried to get the favicon to work on GitHub, but, I can't seem to figure it out, and, since it's not an assignment,
-  I really didn't pursue the thing past the point of absolute frustration.
-  
-  The favicon is more vanity than any kind of practical kind of a thing. Like I don't have a practical reason for setting 
-  up the favicon on GitHub other than the desire to have one.
-  
-  I'm exhausted, and I really haven't done anything for project 11 yet.
-  I want to take a nap, but, that's a little bit of a risk considering that it's due today.
-  and, I really have to get to it because, in all probability, it's something that can be done in an hour or two, at most.
-  I'm so tired. I want to get a soda.
-  
-           
-           
-           
-           
-  
-  
+979
+
+I'm more tired than ever. More than I can possibly imagine. Today was a long day. Small victories I guess.
+</p>
+<p>...</p>
+<p class= "adventuretitle" >Adventure # 1 - 10/10/2023 10:48</p>
+
+<p>  
+I consider this published, even if it's unlikley anyone will come across this
+or read it. There are times when I want to write things, but, less and less I feel
+the desire to write them on chestnutandhazel.com I don't know what it is, but, I'm
+starting to feel more "On Stage" when I write and post things there.
+
+Maybe a few years back it seemed, it felt like there wasn't anyone really, you know
+reading it.
+
+I need to be working on Project 11, but for some reason I'm just not really getting anything done.
+I've managed to figure out where my Contact Form is. It's something that I haven't really messed with
+in a while, but Project 11 entails messing with it. So. That's what I'm up to.
+
+There's a lot of cleaning up that needs to be done with the index page of my Github Repository,
+and a lot of that cleaning up, with the code, cleaning up the appearance of my code wouldn't
+really change the outward appearance of my page. It would just make it easier to change things around
+but, considering that the course is almost over, I'm not really sure how much it makes sense to really
+do anything about it.
+
+I really have to get Project 11 done. I was reviewing the recording of the class session, and
+it looks easy, and, I remember it being easy when I was doing it. I don't remember, but I 
+think that I napped through part of the class, and came back around to it later.
+
+One of the things about the class is that, I'm much more open to distance learning, or online coursework, or virtual classrooms,
+or whatever, now that I've done it, back in 2018 or 2019 I think that I was really skeptical about it, and
+I kind of brushed off a recruiter for an online degree program, but um, I think that I'm more open to it now.
+
+I tried to get the favicon to work on GitHub, but, I can't seem to figure it out, and, since it's not an assignment,
+I really didn't pursue the thing past the point of absolute frustration.
+
+The favicon is more vanity than any kind of practical kind of a thing. Like I don't have a practical reason for setting 
+up the favicon on GitHub other than the desire to have one.
+
+I'm exhausted, and I really haven't done anything for project 11 yet.
+I want to take a nap, but, that's a little bit of a risk considering that it's due today.
+and, I really have to get to it because, in all probability, it's something that can be done in an hour or two, at most.
+I'm so tired. I want to get a soda.
+
+
+
+
+
+
+
 I don't know what to do about CodePen. Migrating things to github is a small nightmare.
            
 
