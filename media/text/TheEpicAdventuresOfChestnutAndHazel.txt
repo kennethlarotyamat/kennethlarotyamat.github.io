@@ -13945,7 +13945,7 @@ but where do I start? Which one of these tasks do I start with?</p>
 
 935
 
-</p>
+</p> [it's an experimental writing style it's something. it's you know it's experimental]
 <p>I'm honestly total lost on this. Like I really don't know what to do next, at this point. I'm thinking that something is going to happen
 in either direction, but. I have really no idea what. When I look at the weekly chart, I'm thinking that the bars will head toward
 the upper band, and when I look at the daily chart, I'm thinking that the bars will head toward the lower band. A red daily bar for tomorrow would
@@ -13960,6 +13960,8 @@ be within the bands, and in this case, that would mean a downward bar, or a red 
 <br>Range: 50.88 - 51.52 [it made me think about how everything is such a disaster]
 <br>O/C: Open Higher than Close. [how everything is such a nightmare]
 [for me, it don't know, it's basically over] </p> [how everything is such a nightmare.]
+
+936
 
 <p>...</p><img src=".\media\Screenshot 2023-10-18 001923.png" alt="Stock Chart, SPLG, Daily"><br><p>Stock Chart, SPLG, Daily</p>
 <p>...</p><img src=".\media\Screenshot 2023-10-18 003545.png" alt="Stock Chart, SPLG, Weekly"><br><p>Stock Chart, SPLG, Weekly</p><p>...</p>
