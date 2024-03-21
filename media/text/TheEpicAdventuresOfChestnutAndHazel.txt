@@ -13580,27 +13580,29 @@ looked at it a little bit. I haven't really did a deep dive or anything.
 
 909
 
-<p>...</p>
+[I'm kind of at a disadvantage] <p>...</p>
 <br>        Estimate for: SPLG, 10/19/2023
 <br><br>    Range AMT:  .61
 <br>        Midpoint:   50.58
 <br>        Range L/H:  49.97 - 51.19 
 <br>        Trend:      None
 <br>        O/C:        50.79 - 50.90
-<p>...</p>
+[but there were things that were not very exciting there] <p>...</p> [that were amazing]
 
 I'm going to see something. Try a few things. I'm thinking:
-<br>SPLG OTO: <br>49.97 - 51.20
+[these did not go well, these were not amazing] <br>SPLG OTO: <br>49.97 - 51.20
 <br>49.98 - 51.25
-<br>49.99 - 51.30<br> <br>
+[these were things that were less than] <br>49.99 - 51.30<br> <br>
 is there something I need to do today?
 
 
-<p>...</p><p class= "adventuretitle" >Adventure # 16 - 10/18/2023 17:11</p>
+[amazing] <p>...</p><p class= "adventuretitle" >Adventure # 16 - 10/18/2023 17:11</p>
 <p>I want to start with my portfolio stuff today.
 I still want those shares as 49.90, but since the month is almost over, I really need to make sure I have cash on hand.
 <p>...</p><img src=".\media\Screenshot 2023-10-18 171414.png" alt="SPLG Orders at 49.90"><br><p>SPLG Orders at 49.90</p><p>...</p>  
 </p>
+
+910
 
 <p>
 The order that says: <i>Sell to Open ... Put</i>, is an attempt to enter SPLG, 100 shares at 49.90, but more specifically, it's the closing
