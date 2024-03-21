@@ -13257,6 +13257,8 @@ but I'm just amazed because I've never really done anything that produced this m
 <p>Filled Orders SPLG 10/25/2023</p> 
 <p>...</p> 
 
+892
+
 <p>The transaction pair was something I had to research. I had no idea why my account made a purchase for 10 shares, but then I realized, or remembered
 that I sold 10 shares the previous day, and that all of my transactions are paired so, I went back and double checked what happened. </p>
 
