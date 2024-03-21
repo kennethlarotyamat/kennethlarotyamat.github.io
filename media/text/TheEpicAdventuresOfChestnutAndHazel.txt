@@ -15428,11 +15428,13 @@ I would hope that things do not get worse than <p>...</p> they already are.
 
 1025
 
-<p>...</p>
+I can't think of a single thing that I'm
+I can't think of anything <p>...</p> that I'm
+not resentful about.
 
 /*
- 
- when the chicken 
+
+when the chicken 
 first crossed the road
 he said to himself
 
@@ -15459,8 +15461,14 @@ or maybe duck food.
 whatever it was
 i don't really know.
 i wasn't actually there.
- 
+
 */
+
+I'm still just really super mad about everything and how everything is terrible 
+and how everything is a disaster and how everything has gotten worse and how 
+everything continues to get worse and how everything tends toward getting worse.
+
+1026
 
 
   <img src=".\media\ThedestructionofthetempleofJerusalemfrancescohayez1867.png" alt="The Destruction of the Temple of Jerusalem, Francesco Hayez (1867)"><br><p>The Destruction of the Temple of Jerusalem, Francesco Hayez (1867)</p><p>...</p>
