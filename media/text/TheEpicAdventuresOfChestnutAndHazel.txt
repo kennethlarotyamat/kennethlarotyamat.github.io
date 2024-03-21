@@ -13914,7 +13914,8 @@ for a while, and now we are almost there. I think that my target quantity for SP
 it's 22:34 and I'm still sort of working on this assignment. [bacon is the key to eternal life, and you might say happiness is the key]
 [to eternal life and you might say happiness] </p> [is when the birds fly around and when the chase of the birds fly]
 
-<p>...</p><img src=".\media\Screenshot 2023-10-17 192925.png" alt="Filled Orders October 17th, 2023"><br><p>Filled Orders October, 17th</p><p>...</p>
+[it officially becomes] <p>...</p> <img src=".\media\Screenshot 2023-10-17 192925.png" 
+alt="Filled Orders October 17th, 2023"><br><p>Filled Orders October, 17th</p><p>...</p> [a kind of non-priority]
 <p> I think I'm going to switch to a single line display. I had 10 buy orders filled, and 19 sell orders filled. Once Again: The goal
 is to have an equal number of buy and sell orders filled on any given day. Is there something that I should be doing right now?
 
