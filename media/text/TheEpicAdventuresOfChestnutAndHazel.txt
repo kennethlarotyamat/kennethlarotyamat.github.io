@@ -14398,40 +14398,40 @@ which translates to: every lover is a fighter
 <br><br>
 Which is really funny because that's clearly a response to the phrase: "I'm a lover not a fighter." 
 and he does this to omnia vincent amore as well, where he say something like:
-  
-  Love conquers all? so too will I triumph over love!
-  
-  but I couldn't find that quote online, or at least, I had a lot of trouble finding it because all searches for
-  
-  Omnia vincent amore, ovid come up only with virgils original line.
-  
-  anyway.
-  
-  I got sidetracked again, I had an ititial version of project 8 that I was having a lot of trouble with, so, I stopped working on it and
-  started completely over. There is a screenshot of it in my media folder. I don't know what the issue was. or. I don't remember since project 8
-  feels like it was something I did such a long time ago, but whatever it was. I think it was that I was having trouble changing things. so I started with
-  a different templete or whatever it's called in wordpress, and deleted more or less everything but the color scheme, and re-did the entire
-  thing element by element. so. that's how it went. super easy and I really enjoyed it.
-  
-  I feel like there was something I'm supposed to do today, but, whatever it is, it's clearly slipped my mind. <br><br>
-  
-  <table><tr><td>References:</td><td><ul> 
-    
-    <li><a href="https://answers.microsoft.com/en-us/windows/forum/all/how-to-attach-an-image-to-a-mp3-file/6c51a647-4132-46e2-a51e-b15cbf2c396a"> How to attach an image to a mp3 file?</a></li>
-              
-    
-    <li><a href="https://www.last.fm/music/Glassjaw/Don+Fury+Sessions">Glassjaw: Don Fury Sessions</a></li>
-              
-    
-    <li><a href="https://www.youtube.com/watch?v=nQY3dbUsVgE">Mediocre Samurai Describes Real Life in Historical Japan</a></li>
-    <li><a href="https://getcssscan.com/blog/how-to-remove-bullets-from-li-css#:~:text=By%20default%2C%20browsers%20add%20bullets,type%3A%20none%20to%20your%20code.&text=This%20code%20targets%20the%20CSS,none%20to%20remove%20the%20bullets.">How to remove bullets from li (CSS)</a></li>
-  
-  </ul></td></tr></table>
-  
-  <!-- </a> -->
-            </p><p>...</p>            <p class= "adventuretitle" >Adventure # 4 - 10/11/2023 23:04</p><p>
-  
-  There are a number of things on my mind, but I'm not sure what to write about first.
+
+Love conquers all? so too will I triumph over love!
+
+but I couldn't find that quote online, or at least, I had a lot of trouble finding it because all searches for
+
+Omnia vincent amore, ovid come up only with virgils original line.
+
+anyway.
+
+I got sidetracked again, I had an ititial version of project 8 that I was having a lot of trouble with, so, I stopped working on it and
+started completely over. There is a screenshot of it in my media folder. I don't know what the issue was. or. I don't remember since project 8
+feels like it was something I did such a long time ago, but whatever it was. I think it was that I was having trouble changing things. so I started with
+a different templete or whatever it's called in wordpress, and deleted more or less everything but the color scheme, and re-did the entire
+thing element by element. so. that's how it went. super easy and I really enjoyed it.
+
+I feel like there was something I'm supposed to do today, but, whatever it is, it's clearly slipped my mind. <br><br>
+
+<table><tr><td>References:</td><td><ul> 
+
+<li><a href="https://answers.microsoft.com/en-us/windows/forum/all/how-to-attach-an-image-to-a-mp3-file/6c51a647-4132-46e2-a51e-b15cbf2c396a"> How to attach an image to a mp3 file?</a></li>
+
+
+<li><a href="https://www.last.fm/music/Glassjaw/Don+Fury+Sessions">Glassjaw: Don Fury Sessions</a></li>
+
+
+<li><a href="https://www.youtube.com/watch?v=nQY3dbUsVgE">Mediocre Samurai Describes Real Life in Historical Japan</a></li>
+<li><a href="https://getcssscan.com/blog/how-to-remove-bullets-from-li-css#:~:text=By%20default%2C%20browsers%20add%20bullets,type%3A%20none%20to%20your%20code.&text=This%20code%20targets%20the%20CSS,none%20to%20remove%20the%20bullets.">How to remove bullets from li (CSS)</a></li>
+
+</ul></td></tr></table>
+
+<!-- </a> -->
+</p><p>...</p>            <p class= "adventuretitle" >Adventure # 4 - 10/11/2023 23:04</p><p>
+
+There are a number of things on my mind, but I'm not sure what to write about first.
   
   I might be able to get into UNLV. I have no idea how many times I've applied there, and for how many
   different programs, but finally getting in would be nice. I feel so bad about dropping out of grad school
