@@ -15284,7 +15284,7 @@ I will now create writing.
 
 1015
 
-/*
+you may decorate things in any way{/*}
 
 when the chicken 
 first crossed the road
@@ -15314,52 +15314,56 @@ whatever it was
 i don't really know.
 i wasn't actually there.
 
-*/
+{*/} that you deem to be appropriate for whatever it is
+
+1016
 
 </p>
 ...
 <p>
 "Clothes 34" by Kenneth Larot Yamat By Chestnut ﹠ Hazel at January 20, 
 2019 originally posted on chestnutandhazel.com
-  
-  I want to say that body language
-  Has certain deficiencies. A lack
-  Of clarity. And an obsession with
-  Minutia. It has potential for
-  Miscommunication. And
-  Misinterpretation. It is difficult
-  To convey meaning clearly
-  Through body language. It
-  Is difficult to interpret meaning
-  Through body language.
-  
-  I think of the invention of
-  Writing. And why writing is
-  Nessecary. It's because. Someone.
-  Somewhere. Kept making the wrong
-  Facial expressions. Kept making
-  The wrong hand gestures and
-  Vocal inflections. And said fuck this.
-  I will now create writing.
-  
-  By Chestnut ﹠ Hazel at January 20, 2019 
-  </p>
-  ...
-  <p>
-  Archived Content 07/09/2020
-  
-  I know what to do now, like going forward and stuff. 
-  I'm going to say this:
-  
-  
-  "Yeah, I know a whole bunch of stuff, all the craziest dirt and everything. 
-  Basically. I have all the information you need, even the things that other people 
-  don't know, and even the things that other people couldn't even imagine."
-  
-  maybe you know the things that you haven't
-  already learned so you will learn them.
-  </p>
-  <p>...</p>
+
+1017
+
+I want to say that body language
+Has certain deficiencies. A lack
+Of clarity. And an obsession with
+Minutia. It has potential for
+Miscommunication. And
+Misinterpretation. It is difficult
+To convey meaning clearly
+Through body language. It
+Is difficult to interpret meaning
+Through body language.
+
+I think of the invention of
+Writing. And why writing is
+Nessecary. It's because. Someone.
+Somewhere. Kept making the wrong
+Facial expressions. Kept making
+The wrong hand gestures and
+Vocal inflections. And said fuck this.
+I will now create writing.
+
+By Chestnut ﹠ Hazel at January 20, 2019 
+</p>
+...
+<p>
+Archived Content 07/09/2020
+
+I know what to do now, like going forward and stuff. 
+I'm going to say this:
+
+
+"Yeah, I know a whole bunch of stuff, all the craziest dirt and everything. 
+Basically. I have all the information you need, even the things that other people 
+don't know, and even the things that other people couldn't even imagine."
+
+maybe you know the things that you haven't
+already learned so you will learn them.
+</p>
+<p>...</p>
 
 <p><br>On this day
 <br>11 years ago
