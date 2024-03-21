@@ -13240,30 +13240,22 @@ but I'm just amazed because I've never really done anything that produced this m
 </p>
 [It's all really kind of over]
 
-<p>...</p>  
+891
 
-            <img src=".\media\Screenshot 2023-10-25 113705.png" alt="Opening Transaction, SPLG 10 Shares"><br>
-            <p>Opening Transaction, SPLG 10 Shares</p> 
-
+[and i can't even beging to describe how frustrated I am about everything] <p>...</p>  
+<img src=".\media\Screenshot 2023-10-25 113705.png" alt="Opening Transaction, SPLG 10 Shares"><br>
+<p>Opening Transaction, SPLG 10 Shares</p> 
 <p>...</p>
-
 <p>This opening transaction took place on 10/24, and wasn't closed by it's transaction pair until the following day.</p>
-
-<p>...</p>  
-
-            <img src=".\media\Screenshot 2023-10-25 113802.png" alt="Closing Transaction, SPLG 10 Shares"><br>
-            <p>Closing Transaction, SPLG 10 Shares</p> 
-
-<p>...</p>
-
+<p>...</p> [how everything is in such a state of - everything is in garbage mode]
+<img src=".\media\Screenshot 2023-10-25 113802.png" alt="Closing Transaction, SPLG 10 Shares"><br>
+<p>Closing Transaction, SPLG 10 Shares</p> 
+<p>...</p> [everything is such a disaster]
 <p>This is the closing transaction, where I bought back the shares I sold the previous day. </p>
-
-<p>...</p>  
-
-            <img src=".\media\Screenshot 2023-10-25 113834.png" alt="Filled Orders SPLG 10/25/2023"><br>
-            <p>Filled Orders SPLG 10/25/2023</p> 
-
-<p>...</p>
+<p>...</p> [everything is such a nightmare]
+<img src=".\media\Screenshot 2023-10-25 113834.png" alt="Filled Orders SPLG 10/25/2023"><br>
+<p>Filled Orders SPLG 10/25/2023</p> 
+<p>...</p> 
 
 <p>The transaction pair was something I had to research. I had no idea why my account made a purchase for 10 shares, but then I realized, or remembered
 that I sold 10 shares the previous day, and that all of my transactions are paired so, I went back and double checked what happened. </p>
