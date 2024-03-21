@@ -13858,9 +13858,7 @@ but it was a convention established
 in the first programming course i took
 so i think i'll continue to do it.
 
-...
-
-1
+930
 
 I don't even know where to begin.
 I'm setting up a landing page for this repository
