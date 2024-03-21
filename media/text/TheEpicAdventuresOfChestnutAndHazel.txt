@@ -13923,6 +13923,8 @@ well, obviosuly there is something that I need to be doing, there are several th
 but where do I start? Which one of these tasks do I start with?</p>
 <p> Well, I don't exactly know what to do. I'll take the previous day's estimate and start There 
 
+934
+
 <br><br>Estimate for 10/17/2023  
 <br><br>Range: .60 
 <br>Trend: None 
@@ -13936,6 +13938,10 @@ but where do I start? Which one of these tasks do I start with?</p>
 <br>Midpoint: 51.19
 <br>Range: 50.87 - 51.51
 <br>O/C: Open Higher than Close.
+
+[it becomes a non-priority]
+[something that is no longer really]
+[even any kind of priority]
 
 </p>
 <p>I'm honestly total lost on this. Like I really don't know what to do next, at this point. I'm thinking that something is going to happen
