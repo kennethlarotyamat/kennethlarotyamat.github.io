@@ -13807,9 +13807,7 @@ the readme file from a .md to a .txt. It might be possible
 to edit a .md file in eclipse, but for whatever reason, it wasn't 
 readily apparent to me how to do so.
 
-...
-
-7
+924
 
 For whatever reason I can't edit a .md file in eclipse.
 
