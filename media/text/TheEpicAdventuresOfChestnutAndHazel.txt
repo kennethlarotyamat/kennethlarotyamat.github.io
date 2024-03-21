@@ -13300,15 +13300,15 @@ can't be doing it.
 
 896
 
-</p>
-<p>
+[maybe there was something that worked out] </p> [but you can't say]
+<p> [and it was something interesting that was very]
 <br>        Data for:   SPLG, 10/24/2023        <br>
 <br>        Range AMT:      .48
 <br>        Midpoint:       49.71
 <br>        Range L/H:      49.47 - 49.95
 <br>        O/C:            49.69 - 49.83
-</p>
-<p>
+</p> [amazing and it was very incredible and it was something]
+<p> [ that was a very nice thing to do where it was something else where it was]
 <br>        Estimate for:   SPLG, 10/25/2023        <br>
 <br>        Range AMT:      .70
 <br>        Midpoint:       49.85 
