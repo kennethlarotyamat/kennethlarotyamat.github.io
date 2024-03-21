@@ -13301,39 +13301,28 @@ can't be doing it.
 896
 
 </p>
-
 <p>
-
 <br>        Data for:   SPLG, 10/24/2023        <br>
 <br>        Range AMT:      .48
 <br>        Midpoint:       49.71
 <br>        Range L/H:      49.47 - 49.95
 <br>        O/C:            49.69 - 49.83
-
 </p>
-
-
-
 <p>
-
 <br>        Estimate for:   SPLG, 10/25/2023        <br>
 <br>        Range AMT:      .70
 <br>        Midpoint:       49.85 
 <br>        Range L/H:      49.50 - 50.20
 <br>        O/C:            49.90 - 49.70
-
 </p>
-
 <p>...</p>  
-
 <img src=".\media\Screenshot 2023-10-24 172340.png" alt="Filled and Cancelled SPLG orders for 10/24/2023"><br>
 <p>Filled and Cancelled SPLG orders for 10/24/2023</p> 
-
 <p>...</p>
 
 
-     <p>All of the orders that were filled were the first part of their respective paired transactions, in other words, they all triggered limit buy orders.
-     I moved the html</p>
+<p>All of the orders that were filled were the first part of their respective paired transactions, in other words, they all triggered limit buy orders.
+I moved the html</p>
 
 <p>...</p>
 
