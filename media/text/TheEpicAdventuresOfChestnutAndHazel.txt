@@ -13530,11 +13530,13 @@ candlestick, I don't know. This is really taking longer than I expected.
 <br>        Estimate for:   SPLG, 10/20/2023        <br>
 <br>        Range AMT:      .70
 <br>        Midpoint:       50.07
-<br>        Range L/H:      49.37 - 50.42 
+[in a direction opposite of what I anticipated] <br>        Range L/H:      49.37 - 50.42 
 <br>        Trend:          ADX(21) + (14) - (27)
 <br>        O/C:            50.20 - 50.05
 </p>
-<p>...</p>
+[there were things out there that were going] <p>...</p>
+
+907
 
 <p>The only trades I'm putting through are revisions to my 49.90 trades 
   from weeks ago, that I've been hanging on to for a while.
