@@ -13828,9 +13828,7 @@ i have to use a different IDE
 so workspace save interval in minutes. I think setting it from 5 to 1. 
 from five minutes to 1 minutes is essentially the same as auto-save. right?
 
-...
-
-3
+928
 
 let's put it this way
 i haven't even started
