@@ -14229,14 +14229,16 @@ Kenneth Larot Yamat
 
 949
 
-<p>...</p><p class= "adventuretitle" >Adventure # 8 - 10/14/2023 12:13</p>
+[dog dog dog dog dog doggie doggie dog dog dog] <p>...</p><p class= "adventuretitle" >Adventure # 8 - 10/14/2023 12:13</p>
 [how are you? how have you been? i have to ask because you seem to be - i don't know - not doing well?]
 <p>I don't know what to do right now. Is there someting that I should be doing? Well, I was working on my Blog, 
 this blog, and I was trying to break things up into paragraphs, and make some other changes. I tried to get 
 Transform to work for list items, but, I don't know, I'll get back around to that one.
 [dog dog dog dog dog doggie doggie dog dog dog] </p>
 
-<p>I also tried to put a link to this blog on my GitHub landing page, I couldn't seem to get it to look how I wanted it to, or, how I imagined I wanted it to look. What I really wanted was for the bottom button to span the whole row I don't know what I'm doing wrong here. I think that it looks fine the way it is, but it's not what I was really thinking.</p>
+<p>I also tried to put a link to this blog on my GitHub landing page, I couldn't seem to get it to look how I wanted it to, or, 
+how I imagined I wanted it to look. What I really wanted was for the bottom button to span the whole row I don't know what I'm 
+doing wrong here. I think that it looks fine the way it is, but it's not what I was really thinking.</p>
 [dog dog dog dog dog doggie doggie dog dog dog] <p>...</p>
 <p> Reflection # 113 by Kenneth Larot Yamat</p>
 
@@ -14246,7 +14248,8 @@ Transform to work for list items, but, I don't know, I'll get back around to tha
 
 [dog dog dog dog dog doggie doggie dog dog dog] <p>Note added on 10/14/2023 02:45 AM
 
-I've gotten a notice that I need to fix this blog post, there is something wrong where it is being indexed incorrectly or something, and it's difficult for search engines to crawl this page. I'm not sure what to do
+I've gotten a notice that I need to fix this blog post, there is something wrong where it is being indexed incorrectly or 
+something, and it's difficult for search engines to crawl this page. I'm not sure what to do
 [dog dog dog dog dog doggie doggie dog dog dog] </p>
 <p>...</p>
 
