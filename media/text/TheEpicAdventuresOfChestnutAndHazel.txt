@@ -13662,8 +13662,15 @@ Let's see how things turned out
 
 913
 
-
+To create a program that automatically creates
+trading tickets for a security, for example, buy 
+and sell orders for shares of an exchange traded fund.
 <p> so, let's get started. </p>
+
+[I found that the flavor was very distinct]
+[it was similar to]
+[tequila, or something. that was the flavor]
+[a kind of sweet - kind of kick]
 
 <p>...</p>
 <br>        Estimate for: SPLG, 10/19/2023
