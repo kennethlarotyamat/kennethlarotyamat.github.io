@@ -13915,28 +13915,26 @@ it's 22:34 and I'm still sort of working on this assignment. [bacon is the key t
 [to eternal life and you might say happiness] </p> [is when the birds fly around and when the chase of the birds fly]
 
 <p>...</p><img src=".\media\Screenshot 2023-10-17 192925.png" alt="Filled Orders October 17th, 2023"><br><p>Filled Orders October, 17th</p><p>...</p>
-
-<p>I think I'm going to switch to a single line display. I had 10 buy orders filled, and 19 sell orders filled. Once Again: The goal
+<p> I think I'm going to switch to a single line display. I had 10 buy orders filled, and 19 sell orders filled. Once Again: The goal
 is to have an equal number of buy and sell orders filled on any given day. Is there something that I should be doing right now?
 
 well, obviosuly there is something that I need to be doing, there are several things that I need to be doing, and that I need to get done, 
 but where do I start? Which one of these tasks do I start with?</p>
+<p> Well, I don't exactly know what to do. I'll take the previous day's estimate and start There 
 
-<p>Well, I don't exactly know what to do. I'll take the previous day's estimate and start There 
+<br><br>Estimate for 10/17/2023  
+<br><br>Range: .60 
+<br>Trend: None 
+<br>Midpoint: 51.20
+<br>Range: 50.90 - 51.50
+<br>O/C: Open Higher than Close. 
 
-  <br><br>Estimate for 10/17/2023  
-  <br><br>Range: .60 
-  <br>Trend: None 
-  <br>Midpoint: 51.20
-  <br>Range: 50.90 - 51.50
-  <br>O/C: Open Higher than Close. 
-
-  <br><br>Estimate for 10/18/2023 
-  <br><br>Range: .64 
-  <br>Trend: None 
-  <br>Midpoint: 51.19
-  <br>Range: 50.87 - 51.51
-  <br>O/C: Open Higher than Close.
+<br><br>Estimate for 10/18/2023 
+<br><br>Range: .64 
+<br>Trend: None 
+<br>Midpoint: 51.19
+<br>Range: 50.87 - 51.51
+<br>O/C: Open Higher than Close.
 
 </p>
 <p>I'm honestly total lost on this. Like I really don't know what to do next, at this point. I'm thinking that something is going to happen
