@@ -14147,36 +14147,36 @@ clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allo
 
 
       
-      <p>The xx - I Dare You (Official Music Video)</p>
+<p>The xx - I Dare You (Official Music Video)</p>
 <p>...</p>
-  <p class= "adventuretitle" >Adventure # 10 - 10/14/2023 15:07</p>
+<p class= "adventuretitle" >Adventure # 10 - 10/14/2023 15:07</p>
 
-  <p>is there something I should be doing today? If there is, I have no idea what it is.
+<p>is there something I should be doing today? If there is, I have no idea what it is.
 So, okay, here's what I have to do, I have to apply as a non-degree seeking student for Spring 2024,
 and take the math class, I've completed the non-degree seeking application.
-  </p>
+</p>
 
-  <p>I have to renew the registration for my car. The website is down, and this is kind of a headache. 
-    I probably would have dealt with this sooner if I had received notice sooner, but, here it is, today.</p>
+<p>I have to renew the registration for my car. The website is down, and this is kind of a headache. 
+I probably would have dealt with this sooner if I had received notice sooner, but, here it is, today.</p>
     
 
 
-  <table><tr><td>References:</td><td><ul>
-    
-    <li><a href="https://www.youtube.com/watch?v=uyzZW6fpzik&t=1s" target="_blank"> China - Don't Say Deflation!</a></li>
-    <li><a href="https://www.youtube.com/watch?v=n3Q_4vjPMSE&t=1644s" target="_blank"> The Inevitable Decline of WeWork</a></li>
-    <li><a href="https://gradrebelgateway.my.site.com/" target="_blank"> GRAD REBEL GATEWAY</a></li>
-    <li><a href="https://www.w3schools.com/tags/att_a_target.asp" target="_blank"> HTML anchor target Attribute</a></li>
+<table><tr><td>References:</td><td><ul>
+
+<li><a href="https://www.youtube.com/watch?v=uyzZW6fpzik&t=1s" target="_blank"> China - Don't Say Deflation!</a></li>
+<li><a href="https://www.youtube.com/watch?v=n3Q_4vjPMSE&t=1644s" target="_blank"> The Inevitable Decline of WeWork</a></li>
+<li><a href="https://gradrebelgateway.my.site.com/" target="_blank"> GRAD REBEL GATEWAY</a></li>
+<li><a href="https://www.w3schools.com/tags/att_a_target.asp" target="_blank"> HTML anchor target Attribute</a></li>
               
     
     
     
 
-  </ul></td></tr></table>
+</ul></td></tr></table>
 
-  
 
-  <p>...</p><p class= "adventuretitle" >Adventure # 9 - 10/14/2023 07:56</p>
+
+<p>...</p><p class= "adventuretitle" >Adventure # 9 - 10/14/2023 07:56</p>
 
   <p>One of my classmates asked me for help on an older project that she was catching up on. I sent her a link to my GitHub link to that particularl
     project, but realized that she might not be using GitHub yet. So I created a CodePen version of project 10 created specificially for Codepen. I created
