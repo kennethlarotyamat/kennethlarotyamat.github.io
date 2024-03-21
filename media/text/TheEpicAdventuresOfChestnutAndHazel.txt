@@ -14355,47 +14355,49 @@ be compared to but was - shall i compare they punani to summer's eve! it was dou
 
 954
 
-</p>
-</div>
-<p><p>...</p>
-<p class= "adventuretitle" >Adventure # 5 - 10/12/2023 02:48</p><p>
-  
-  So what am I thinking about right now. I got sidetracked from putting down my thoughts for Adventure # 4. Well.
-  I don't know. I tend to be bombarded with stuff. Various stuffs. Various things. This or that. Whatever. I started
-  obsessing over the color of the buttons on my landing page. made a little bit of progress. realized I don't know
-  jack about javascript. figured I'd get around to it later. and then I started 
-  obsessing over my project carousel. so that's basically what happened. I'm tying to recollect about what happend 
-  yesterday, and the things I'm thinking about for the next couple days. The forseeable future, which as of right now.
-  can be measured only. in days.
-  
-  I got sidetracked yet again. I don't know where I was.
-  
-  Quam pulchra es sicut ibi stabat Qui nunc te fruitur credulus aurea qui dolorem ipsum quia dolor sit amet consectetur 
-  ut labore et dolore magnam aliquam quaerat voluptatem Quae te dementia cepit Forsan et 
-  haec olim meminisse juvabit Militat omnis amans  omnia vincit amor  
-  
-  I got sidetracked yet again. The above text should read something like 
-  How beautiful you are standing there! who gullibly believes you are everything? who seeks pain to derive some pleasure from pain? What madness
-  posesses you? We will remember this fondly: every lover is a fighter: Love conquers all.
-  
-  This is basically just a collage of different latin quotes. Famous ones. including the most famous latin text of all: 
-  
-  lorem ipsum.
-  
-  This is supposed to be funny. The most famous latin quote should be omnia vincit amor, love conquers all, but I don't think that it is, i mean, more
-  well known than lorem ipsum. the other funny thing is that, delorem ipsum, is from, i guess, cicero, but his most famous line should actually be:
-  
-  Carthago delenda est
-  
-  and um, I guess I came across: Militat omnis amans, from Ovid
-  which translates to:
-  <br>
-  <br>every lover
-  <br><i>is</i>
-  <br>a fighter
-  <br><br>
-  Which is really funny because that's clearly a response to the phrase: "I'm a lover not a fighter." 
-  and he does this to omnia vincent amore as well, where he say something like:
+[there are no more begoinias in the garden] </p>
+</div> [] there are no more tellimores in the shlarkhanie
+but when your moredoogie turns into a shlorblanka <p><p>...</p> [then you know then you really know]
+<p class= "adventuretitle" >Adventure # 5 - 10/12/2023 02:48</p> [that your sholordunka] <p> [is a gazunka!]
+
+So what am I thinking about right now. I got sidetracked from putting down my thoughts for Adventure # 4. Well.
+I don't know. I tend to be bombarded with stuff. Various stuffs. Various things. This or that. Whatever. I started
+obsessing over the color of the buttons on my landing page. made a little bit of progress. realized I don't know
+jack about javascript. figured I'd get around to it later. and then I started 
+obsessing over my project carousel. so that's basically what happened. I'm tying to recollect about what happend 
+yesterday, and the things I'm thinking about for the next couple days. The forseeable future, which as of right now.
+can be measured only. in days.
+
+955
+
+I got sidetracked yet again. I don't know where I was.
+
+Quam pulchra es sicut ibi stabat Qui nunc te fruitur credulus aurea qui dolorem ipsum quia dolor sit amet consectetur 
+ut labore et dolore magnam aliquam quaerat voluptatem Quae te dementia cepit Forsan et 
+haec olim meminisse juvabit Militat omnis amans  omnia vincit amor  
+
+I got sidetracked yet again. The above text should read something like 
+How beautiful you are standing there! who gullibly believes you are everything? who seeks pain to derive some pleasure from pain? What madness
+posesses you? We will remember this fondly: every lover is a fighter: Love conquers all.
+
+This is basically just a collage of different latin quotes. Famous ones. including the most famous latin text of all: 
+
+lorem ipsum.
+
+This is supposed to be funny. The most famous latin quote should be omnia vincit amor, love conquers all, but I don't think that it is, i mean, more
+well known than lorem ipsum. the other funny thing is that, delorem ipsum, is from, i guess, cicero, but his most famous line should actually be:
+
+Carthago delenda est
+
+and um, I guess I came across: Militat omnis amans, from Ovid
+which translates to: every lover is a fighter
+<br>
+<br>every lover
+<br><i>is</i>
+<br>a fighter
+<br><br>
+Which is really funny because that's clearly a response to the phrase: "I'm a lover not a fighter." 
+and he does this to omnia vincent amore as well, where he say something like:
   
   Love conquers all? so too will I triumph over love!
   
