@@ -13455,20 +13455,18 @@ thing. I have a project due tomorrow. One issue that I'm having is that I really
 where I'm consuming an elevated amount of caffeine.
 </p>
 
+903
 
-
-<p>...</p>
-<p>
+[I don't really have anything amazing going on] <p>...</p> [I don't have any]
+<p> [when everything is good and when everything going on is amazing!]
 What do I do here? Okay so: <br>
-
-<br>        Estimate for:   SPLG, 10/20/2023        <br>
+[I don't have anything interesting] <br>        Estimate for:   SPLG, 10/20/2023        <br>
 <br>        Range AMT:      .70
 <br>        Midpoint:       50.07
 <br>        Range L/H:      49.37 - 50.42 
 <br>        Trend:          ADX(21) + (14) - (27)
 <br>        O/C:            50.20 - 50.05
-</p>
-
+[I don't really have any major wins wo speak about] </p>
 <p>...</p>
 <p>
 <br>        Data for:       SPLG, 10/20/2023        <br>
@@ -13478,7 +13476,7 @@ What do I do here? Okay so: <br>
 <br>        Trend:          ADX (21.51) + (13.09) - (29.97)
 <br>        O/C:            50.08 - 49.54
 </p>
-<p>...</p>
+<p>...</p> [going on right now. you know]
 <p>
 <br>        Estimage for:       SPLG, 10/23/2023        <br>
 <br>        Range AMT:      .66
@@ -13486,39 +13484,40 @@ What do I do here? Okay so: <br>
 <br>        Range L/H:      49.23 - 49.89 
 <br>        Trend:          ADX (22) + (12) - (31)
 <br>        O/C:            49.68 - 49.24
-</p>
+</p> [ You have been a rotten person very rotten you are very very ROTTEN!]
 
+904
 
+[I don't really know] <p>...</p><img src=".\media\Screenshot 2023-10-20 192419.png" 
+alt="SPLG Orders for 10/23/2023"><br> [how do you make friends when, just, nothing is really going well] 
+[there was something out there something] <p>SPLG Orders for 10/23/2023</p><p>...</p>
+[something like who knows what] <p class= "adventuretitle" >Adventure # 19 - 10/20/2023 05:06</p>
 
-<p>...</p><img src=".\media\Screenshot 2023-10-20 192419.png" alt="SPLG Orders for 10/23/2023"><br>
-<p>SPLG Orders for 10/23/2023</p><p>...</p>
+<p> I am in a little bit of a garbage mood right now. I have no idea how long I've been up. 
+I'm working on my OHLC Estimator, I'm not even at the point where I'm able to draw an OHLC Bar,
+drawing the OHLC Bar is the first step, then I need to be able to toggle between an OHLC Bar and a 
+candlestick, I don't know. This is really taking longer than I expected.
+[you could probably say something like, well it was interesting and amazing] </p> [and maybe everything was great] 
 
+<p>...</p><p class= "adventuretitle" >Adventure # 18 - 10/19/2023 14:59 </p> [and maybe everything was amazing and cool]
+<p>I don't have a lot of time, or energy right now. So I'm not really going to explain everything in excruciating detail</p>
+[there were a number of good things and a number of bad things going on] <p>...</p> [Horrible! really horrible!]
 
+905
 
-
-  <p class= "adventuretitle" >Adventure # 19 - 10/20/2023 05:06</p>
-
-  <p> I am in a little bit of a garbage mood right now. I have no idea how long I've been up. 
-      I'm working on my OHLC Estimator, I'm not even at the point where I'm able to draw an OHLC Bar,
-      drawing the OHLC Bar is the first step, then I need to be able to toggle between an OHLC Bar and a 
-      candlestick, I don't know. This is really taking longer than I expected.
-  </p>
-
-  <p>...</p><p class= "adventuretitle" >Adventure # 18 - 10/19/2023 14:59</p>
-
-  <p>I don't have a lot of time, or energy right now. So I'm not really going to explain everything in excruciating detail</p>
-
-<p>...</p>
-<p>
-<br>        Estimate for:   SPLG, 10/19/2023        <br>
-<br>        Range AMT:      .61
+[I would probably get in touch, but, I'm such a loser.] <p>
+<br>        Estimate for:   SPLG, 10/19/2023        <br> [ I don't even want to be]
+<br>        Range AMT:      .61 [seen or anything like that]
 <br>        Midpoint:       50.58
 <br>        Range L/H:      49.97 - 51.19 
 <br>        Trend:          None
 <br>        O/C:            50.79 - 50.90
 </p>
 <p>...</p>
-<p>
+[and that's where I want to say it all is not very good] <p>
+
+906
+
 <br>        Results for:   SPLG, 10/19/2023        <br>
 <br>        Range AMT:      .89
 <br>        Midpoint:       50.48
