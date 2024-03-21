@@ -13183,13 +13183,16 @@ I don't even know where to begin.
 what a nightmare. I'm fabulously unhappy 
 right now. really unhappy.
 
+886
 
-<p>...</p><p>I just don't really have all that much energy. Let's see. I don't have anything due for class for a few days. I spent an eternity 
-
+[Hungry, but not anymore.] <p> [I don't think] ...</p> [I ate food earlier] <p> I just don't really have all that much energy. Let's see. I don't 
+have anything due for class for a few days. I spent an eternity [any maybe we can see where the food goes and what happens to it.]
 on project 12. I've been updating things on chestnutandhazel.com to fix issues reported to me about. or issues reported to me by Google Search
 Console. I'm going around here and there fixing whatever comes up, little by little. there were a lot of issues where an image or video doesn't fit 
 the screen that the website is being viewed on. so i've made an effort to fix those. the issue that comes up the most is a canonical tag issue.
-</p>
+[where does the food go and what happens to it] </p>
+
+887
 
 <p>I need to take the garbage out. what else do I need to do? I'm continuing to upload gaming videos playing Total War Rome 2. They take 
 up a ton of storage space. I have an external hard drive that I can store them on, and, it's going to be a while before I run out of space. but I'm just amazed because 
