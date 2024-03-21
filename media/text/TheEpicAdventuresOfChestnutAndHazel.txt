@@ -14041,32 +14041,31 @@ Stock Chart SPLG, Last OHLC Bar is Hypothetical</p><p>...</p> [in many ways I th
 
 939
 
-
 </p> <p>Where did my vape go? Anway, I guess that's it for this post. I have to think if there is anything else I need to do today.</p>
 
 
 
-  <p>...</p>
-  <p class= "adventuretitle" >Adventure # 12 - 10/16/2023 12:53</p>
+<p>...</p>
+<p class= "adventuretitle" >Adventure # 12 - 10/16/2023 12:53</p>
 
-  <p>What am I thinking about right now? well, I'm writing this at 0314, so, several hours after when I first started this post. It's Monday,
-  and I'm not sure what I really need to do. It's the middle of the month already. what a nightmare. The vehicle registration stuff is done,
+<p>What am I thinking about right now? well, I'm writing this at 0314, so, several hours after when I first started this post. It's Monday,
+and I'm not sure what I really need to do. It's the middle of the month already. what a nightmare. The vehicle registration stuff is done,
 but was that all I managed to do yestereday?</p> <p>How did the smog check stuff go? well, the first place I went to was not even really
-  a smog check location, i thought it was, but, it was actually a car wash. This is a gas station near the grocery store, I always thought that 
-  it had a smog check station attached to it, but it was just a car wash, not a smog check. so then i just decided that I would pick a place 
-  on Google Maps that's listed as a smog check location. I went there, and it was closed. so then I went to the next location listed on Google Maps.
-  and then I went home and renewed my vehicle registration.
+a smog check location, i thought it was, but, it was actually a car wash. This is a gas station near the grocery store, I always thought that 
+it had a smog check station attached to it, but it was just a car wash, not a smog check. so then i just decided that I would pick a place 
+on Google Maps that's listed as a smog check location. I went there, and it was closed. so then I went to the next location listed on Google Maps.
+and then I went home and renewed my vehicle registration.
 </p><p>A lot of things can go wrong between now, and the Fall Semester of 2024, in fact, a lot of things can go wrong between now and the 
-  <i>Spring</i> Semester of 2024.</p>
+<i>Spring</i> Semester of 2024.</p>
 
-  <p>Okay. what was I expecting SPLG to be at today? because it looks like I'm already wrong. On Saturday I wrote: 
-    "My best guess is that SPLG will be between 50.20 and 50.83" Well, There's really not telling if I'm already wrong. Friday was my first
-  time estimating an OHLC bar, so, I have to see how today plays out. If the OHLC bar is something like 50.90 to 51.50, then, my estimate was way off, 
-  but an OHLC bar of 50.10 to 50.90 would be kind of in line with what I estimated.</p>
-  <p>...</p>
-  <img src=".\media\Screenshot 2023-10-16 054921.png" alt="Stock Chart: SPLG"><br><p>Stock Chart: SPLG</p><p>...</p>
+<p>Okay. what was I expecting SPLG to be at today? because it looks like I'm already wrong. On Saturday I wrote: 
+"My best guess is that SPLG will be between 50.20 and 50.83" Well, There's really not telling if I'm already wrong. Friday was my first
+time estimating an OHLC bar, so, I have to see how today plays out. If the OHLC bar is something like 50.90 to 51.50, then, my estimate was way off, 
+but an OHLC bar of 50.10 to 50.90 would be kind of in line with what I estimated.</p>
+<p>...</p>
+<img src=".\media\Screenshot 2023-10-16 054921.png" alt="Stock Chart: SPLG"><br><p>Stock Chart: SPLG</p><p>...</p>
 
-  <p>I want to see how this plays out. Is there something I need to do? I need to get a few letters of recommendation. for. school.</p>
+<p>I want to see how this plays out. Is there something I need to do? I need to get a few letters of recommendation. for. school.</p>
   
 
 
