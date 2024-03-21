@@ -13224,25 +13224,19 @@ but I'm just amazed because I've never really done anything that produced this m
 890
 
 </p>
-
 <p>
-
 <br>        Data for:       SPLG, 10/25/2023        <br>
 <br>        Range AMT:      .57
 <br>        Midpoint:       49.33
 <br>        Range L/H:      49.61 - 49.04
 <br>        O/C:            49.59 - 49.10
-
 </p>
-
 <p>
-
-  <br>        Estimate        SPLG 10/26/2023        <br>
-  <br>        Range           .62
-  <br>        Midpoint        49.20
-  <br>        Low/High        48.89 - 49.51
-  <br>        Open/Close      49.00 - 48.80
-  
+<br>        Estimate        SPLG 10/26/2023        <br>
+<br>        Range           .62
+<br>        Midpoint        49.20
+<br>        Low/High        48.89 - 49.51
+<br>        Open/Close      49.00 - 48.80
 </p>
 
 
