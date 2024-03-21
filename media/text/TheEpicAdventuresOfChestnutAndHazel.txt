@@ -13275,28 +13275,26 @@ vanity project at this point. </p> [how much of a disaster everything really is 
 
 894
 
-
-
-
+[your are so bad there couldn't be anyone badder!]
 <p>...</p> <p class= "adventuretitle" >Adventure # 27 - 10/24/2023 07:09</p>
-
 <p>
-
 <br>        Estimate for:   SPLG, 10/24/2023        <br>
 <br>        Range AMT:      .70
 <br>        Midpoint:       49.83
 <br>        Range L/H:      49.48 - 50.18
 <br>        O/C:            49.50 - 49.70
-
 </p>
-
 <p>
-
+[you are. the bad guy! you are a really bad guy!]
 <br>        Estimate for:   SPLG, 10/24/2023        <br>
 <br>        Range AMT:      .70
 <br>        Midpoint:       49.58
 <br>        Range L/H:      49.23 - 49.93
 <br>        O/C:            49.50 - 49.70
+
+895
+
+
 
 </p>
 
