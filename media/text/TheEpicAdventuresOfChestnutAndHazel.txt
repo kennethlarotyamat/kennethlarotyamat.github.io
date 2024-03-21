@@ -13684,23 +13684,33 @@ I'm going to reformat that. <br> <br>
 
 914
 
-<table>
-  
-  <tr><td colspan="2">Estimate: SPLG, 10/19/2023</td><td></td></tr>
-  <tr><td>Range AMT:  </td><td>.61  </td></tr>
-  <tr><td>Midpoint:   </td><td>50.58</td></tr>
-  <tr><td>Range L/H:   </td><td>49.97 - 51.19</td></tr>
-  <tr><td>Trend:</td><td>None</td></tr>
-  <tr><td>O/C:</td><td>50.79 - 50.90</td></tr>
+[there was something old there was something new there was something amazing] <table>
+[there was a kind of trick to everything that was ever done.]
+<tr><td colspan="2">Estimate: SPLG, 10/19/2023</td><td></td></tr>
+<tr><td>Range AMT:  </td><td>.61  </td></tr>
+<tr><td>Midpoint:   </td><td>50.58</td></tr>
+<tr><td>Range L/H:   </td><td>49.97 - 51.19</td></tr>
+<tr><td>Trend:</td><td>None</td></tr>
+<tr><td>O/C:</td><td>50.79 - 50.90</td></tr>
+[there was a naked woman eating a lemon]
+[she spit out the seeds, she did not swallow the seeds.] </table> [ about the middle of the table] 
 
-</table>
+915
+
+and, well -- you know what else I saw?
+I saw a number of other very interesting things.
+things that would interest an interested person.
 
 <p>so I used a table. I know that I should be using a flex box or something.</p>
 <p>Anyway. I don't know how to describe this the correct terminology, but I'm going to stagger my orders outside of the range by 5 cents.
 
-  <br>so: <br><br>50.74 - 50.95
-      <br>50.69 - 51.00
-      <br>50
+<br>so: <br><br>50.74 - 50.95
+<br>50.69 - 51.00
+<br>50
+[they would be interesting to someone who was interested]
+[but potentially boring to someone who was indifferent, or even, disinterested]
+
+916
 
 
       <br><br>woah. I almost made a mistake there. 
