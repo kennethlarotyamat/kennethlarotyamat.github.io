@@ -13321,7 +13321,7 @@ can't be doing it.
 <p>...</p>
 [but there were two of them before and there were three of them in the back of the best restaurant in the entire city.]
 <p>All of the orders that were filled were the first part of their respective paired transactions, in other words, they all triggered limit buy orders.
-I moved the html</p>
+I moved the html </p> [just roll with it just ride it]
 
 897
 
