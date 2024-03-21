@@ -14152,38 +14152,33 @@ clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allo
 <p>is there something I should be doing today? If there is, I have no idea what it is.
 So, okay, here's what I have to do, I have to apply as a non-degree seeking student for Spring 2024,
 and take the math class, I've completed the non-degree seeking application.
-[it wasn't a real need it was not a real need. not really needed] </p>
+[it wasn't a real need it was not a real need. not really needed] </p> [it's always about somebody else]
 
 <p>I have to renew the registration for my car. The website is down, and this is kind of a headache. 
 I probably would have dealt with this sooner if I had received notice sooner, but, here it is, today.</p>
     
 944
 
-<table><tr><td>References:</td><td><ul>
+<table><tr><td>References:</td><td><ul> [but it's possible that there were things that were possible]
 <li><a href="https://www.youtube.com/watch?v=uyzZW6fpzik&t=1s" target="_blank"> China - Don't Say Deflation!</a></li>
 <li><a href="https://www.youtube.com/watch?v=n3Q_4vjPMSE&t=1644s" target="_blank"> The Inevitable Decline of WeWork</a></li>
 <li><a href="https://gradrebelgateway.my.site.com/" target="_blank"> GRAD REBEL GATEWAY</a></li>
 <li><a href="https://www.w3schools.com/tags/att_a_target.asp" target="_blank"> HTML anchor target Attribute</a></li>
-              
-    
-    
-    
+[it's possible that there were things that were possible] </ul></td></tr></table> 
 
-</ul></td></tr></table>
-
-
+945
 
 <p>...</p><p class= "adventuretitle" >Adventure # 9 - 10/14/2023 07:56</p>
 
-  <p>One of my classmates asked me for help on an older project that she was catching up on. I sent her a link to my GitHub link to that particularl
-    project, but realized that she might not be using GitHub yet. So I created a CodePen version of project 10 created specificially for Codepen. I created
-    a Project 10 for display on CodePen, but that was just the GitHub version iframed into CodePen, but for the new project 10 version in codepen, I cloned
-    the actual code from GitHub and put it into a CodePen Pen, it didn't work at first, so I had to change the iframe slider to reference my older Codepen Project Specifically.
-  </p>
+<p>One of my classmates asked me for help on an older project that she was catching up on. I sent her a link to my GitHub link to that particularl
+project, but realized that she might not be using GitHub yet. So I created a CodePen version of project 10 created specificially for Codepen. I created
+a Project 10 for display on CodePen, but that was just the GitHub version iframed into CodePen, but for the new project 10 version in codepen, I cloned
+the actual code from GitHub and put it into a CodePen Pen, it didn't work at first, so I had to change the iframe slider to reference my older Codepen Project Specifically.
+</p>
 
-  <p>I'm not sure if that's really well explained, but, things are referenced differently in CodePen such that, it really doesn't 
-    work well unless I use absolute references, and in many cases, not all references work well.
-  </p> 
+<p>I'm not sure if that's really well explained, but, things are referenced differently in CodePen such that, it really doesn't 
+work well unless I use absolute references, and in many cases, not all references work well.
+</p> 
 
 
 
