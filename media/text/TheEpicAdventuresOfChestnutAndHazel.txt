@@ -13811,9 +13811,7 @@ readily apparent to me how to do so.
 
 For whatever reason I can't edit a .md file in eclipse.
 
-...
-
-6
+925
 
 I moved the location where I keep my local GitHub files. 
 I'm going to commit this and see if this worked out.
