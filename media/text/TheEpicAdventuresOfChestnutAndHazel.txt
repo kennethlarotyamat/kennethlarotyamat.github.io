@@ -13417,25 +13417,19 @@ this time to get some writing done.
 901
 
 </p>
-
 <p>...</p><p class= "adventuretitle" >Adventure # 23 - 10/21/2023 19:49</p>
+<p>I'm trying to build a youtube channel. The video looks like garbage. and it's not clear to me why.</p>
+<p>...</p><p id="battleofvelathri">Total War  ROME 2: Battle of Velathri</p><iframe style="aspect-ratio: 8.68/6.86; height: auto; width:50%;" src="https://www.youtube.com/embed/mmPjccCCJa0" title="Total War  ROME 2: Battle of Velathri" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<p>...</p><p class= "adventuretitle" >Adventure # 22 - 10/21/2023 04:18</p>
+<p>
+The other day. When I was completing paperwork for UNLV, one of the attestations for recieving in-state tuition rates was declaring that I intend to make Nevada
+my permanent residence. It was a hard question for me because. Whether or not I intend to stay in Nevada is contingent upon whether or not I'm able to attend 
+college here. To me this was one of those chicken and egg problems. The other issue that made it a difficult question to answer is that. I kind of have 
+to stay here. Even if I could leave. I kind of have to stay here. I really don't have any other choice. I really don't know what to do. Not that there is 
+really anything I can do. 
+</p>
 
-  <p>I'm trying to build a youtube channel. The video looks like garbage. and it's not clear to me why.</p>
-
-  <p>...</p><p id="battleofvelathri">Total War  ROME 2: Battle of Velathri</p><iframe style="aspect-ratio: 8.68/6.86; height: auto; width:50%;" src="https://www.youtube.com/embed/mmPjccCCJa0" title="Total War  ROME 2: Battle of Velathri" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-
-  <p>...</p><p class= "adventuretitle" >Adventure # 22 - 10/21/2023 04:18</p>
-
-  <p>
-
-  The other day. When I was completing paperwork for UNLV, one of the attestations for recieving in-state tuition rates was declaring that I intend to make Nevada
-  my permanent residence. It was a hard question for me because. Whether or not I intend to stay in Nevada is contingent upon whether or not I'm able to attend 
-  college here. To me this was one of those chicken and egg problems. The other issue that made it a difficult question to answer is that. I kind of have 
-  to stay here. Even if I could leave. I kind of have to stay here. I really don't have any other choice. I really don't know what to do. Not that there is 
-  really anything I can do. 
-
-  </p>
+902
   
   <p>...</p> <p class= "adventuretitle" >Adventure # 21 - 10/20/2023 21:51</p>
 
