@@ -13839,6 +13839,8 @@ there was a reading that i kind of missed
 Oracle. (1995). Documentation: The Java™ Tutorials - 
 Object-Oriented Programming Concepts. Retrieved from 
 [https://docs.oracle.com/javase/tutorial/java/concepts/index.html]
+[we are going to have a competition] [] [there will be winners]
+and there will be losers. [we already know who the winners are]
 
 929
 
@@ -13875,6 +13877,8 @@ for a while.
 
 <br><br>With that in mind I'm going to abandon formatting it in this new way.
 </p>
+
+931
 
 <p>...</p><img src=".\media\Screenshot 2023-10-18 205720.png" alt="Placed Orders for October 19th, 2023"><br><p>Placed Orders for October 19th, 2023</p><p>...</p>
 
