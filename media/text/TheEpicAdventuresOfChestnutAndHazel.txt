@@ -13637,23 +13637,19 @@ paycheck that I don't spend, but I really can't do that right now, because I'm n
 912
 
 Let's see how things turned out 
-
 <br><br>My Final Estimate for 10/18/2023 on 10/17/2023
 <br><br>Range: .68 
 <br>Trend: None 
 <br>Midpoint: 51.19
 <br>Range: 50.86 - 51.54
 <br>O/C: Open Higher than Close.
-
 <br><br>SPLG Data for 10/18/2023
 <br><br>Range: .71 
 <br>Trend: None 
 <br>Midpoint: 50.82
 <br>Range: 50.46 - 51.17
 <br>O/C: Open Higher than Close. 51.04 - 50.58<p>...</p>
-
 <p>I need to change a few things here.</p>
-
 <p>...</p>
 <br>        Estimate for: Ticker, Date
 <br><br>    Range: 
@@ -13662,6 +13658,8 @@ Let's see how things turned out
 <br>        Range: 
 <br>        O/C: 
 <p>...</p>
+
+913
 
 
 <p>so, let's get started.</p>
