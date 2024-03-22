@@ -17591,6 +17591,68 @@ science, and I'm not sure if, maybe. Saying something like that is offensive.
 
 1149
 
+Adventure # 3 - 10/11/2023 21:16 - Originally Posted In CSS\style.css
+
+This is probably going to be the least user friendly blog ever. Tell me: are you reading this? Is it nice and user friendly?
+because I'm not sure I really care, you're basically reading my diary. Whether or not it's user friendly isn't really my problem.
+One of the issues I have with what I post on chestnutandhazel.com is that It's hosted, or whatever, it's really just an account
+on blogger.com, so since it's basically a social media account, I have to comply with the community guidles of blogger.com, and
+since I have adsense active on that page, I also have to comply with any adsense advertiser standards, so I have my hands tied 
+in many respects. chestnutandhazel.com continues to get flagged over and over and over, and in many cases I don't really want to 
+deal with it right away.
+
+the other issue is that I also have to post what I write somewhere, so that I can use the standard copyright registration form,
+rather than the unpublished copyright registration form, so, that's another issue. so you know, it's kind of whatever.
+
+  /* 
+
+  i basically couldn't figure out how to do this in javascript, but since this is a styling concern, I don't feel the least bit bad
+  about styling it with Cascading Style Sheets:  HAHAHAHA!
+
+  https://www.w3schools.com/tags/tag_small.asp
+  https://www.w3schools.com/css/css_font_size.asp  
+  https://www.w3schools.com/css/css_font_size.asp
+
+  Currently Watching: https://www.youtube.com/watch?v=uyzZW6fpzik
+
+  
+  
+  */
+...
+
+I'm feeling incredibly scatter brained. I have a project due for my software and web development course today, and I haven't even started. This should be simple, so I'm not too worried about it, but, at the same time, I know from the past that these things could take quite a while if I hit a brick wall.
+
+There are other issues that I'm facing, especially on the income front. The temp assignment was not a particularly good fit, and, I really get the feeling that I should avoid any kind of warehouse or factory work, even though, that's sort of what I've been doing for the past five years, but I don't have the slightest clue what to look for.
+
+Life is such an unbelievable struggle. I don't really know what to do about money. Somewhere in the back of my mind there's this voice telling me that I should stop looking for a job or employment or whatever, and, that I should focus on trying to make money doing stock market shit.
+
+...
+
+https://www.chestnutandhazel.com/2019/06/reflection-714-by-chestnut-and-hazel.html
+
+
+Reflection # 714 by Chestnut and Hazel
+
+I don't know exactly what I've been spending on buying lunch and soda at work, 
+but I know that it is too damn much, I want to say it is around 15 dollars per day. 
+Too fucking much. I have to cut down on that for sure.
+
+By Chestnut + Hazel at June 11, 2019 
+
+Notes written on 10/10/2023 @ 10:19 AM, originally posted on GitHub
+
+I think that I wrote this post while I was working at Case New Holland. I'm surprised that I was really spending that much. I 
+Wonder what I was buying? I don't really remember. I think that it was mostly energy drinks. I don't remember my exact hours. 
+It was overnight is as much as I remember. In Cameron, MO there isn't really much to eat if you're up at odd hours.
+
+I'm working on Project 11 for my Web and Software Development course. I'm not really getting much done. I'm getting sidetracked
+with other things. I'm really amazed that I get so little done, especially considering that I've had few other obligations other
+than class these past few months. I really wonder what I've been doing.
+
+Earlier in the course I would have a lot of fun playing around with our daily assignments, but, I haven't really done that in a
+while, even though there have been plenty of opportunities to do so.
+  
+
 "The Young Woman who is the Post Office" (2022)
 
 The rural carrier associate is a 
