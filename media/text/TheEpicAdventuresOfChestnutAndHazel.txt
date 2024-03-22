@@ -16843,6 +16843,20 @@ that were there
 
 1112
 
+and how would 
+you say what was
+there and
+how would you
+
+put it all
+into words
+the kind of
+words that are spoken?
+
+1113
+
+
+
 I was experimenting with layouts for katastrophiena.com, and I really liked the layout that I selected, and I actually decided to apply it to chestnutandhazel.com. I think that it's really nice, and nothing really broke. I recently. I've been making all the measurements for the iframes percentage based, all the dimensions percentage based, because I figured that I might change layouts from time to time, and it seems to have kept things from getting messed up with the new layout, or, style.
 ...
     
