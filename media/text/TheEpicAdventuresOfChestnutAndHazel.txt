@@ -19586,7 +19586,7 @@ believe I didn't get approved for unemployment.
 
 1274
 
-...
+this is a dialogue. between two people. who don't know.
 
 best of all the places you've been
 are better than the places you haven't been.
@@ -19604,8 +19604,11 @@ you will enjoy them.
 
 I know what to do now, like going forward and stuff. I'm going to say this:
 
+1275
 
-"Yeah, I know a whole bunch of stuff, all the craziest dirt and everything. Basically. I have all the information you need, even the things that other people don't know, and even the things that other people couldn't even imagine."
+"Yeah, I know a whole bunch of stuff, all the craziest dirt and everything. 
+Basically. I have all the information you need, even the things that other 
+people don't know, and even the things that other people couldn't even imagine."
 
 maybe you know the things that you haven't
 already learned so you will learn them.
@@ -19617,6 +19620,8 @@ over and think that
 the new things are
 nonsensical, but they
 actually make sense.
+
+1276
 
 ...
 
