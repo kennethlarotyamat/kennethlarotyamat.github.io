@@ -19904,6 +19904,17 @@ The above block of text is potentially unintelligible
 and completely incoherent.
 
 1290
+
+I'm dealing with no small
+nightmare right now. this is 
+really no small nightmare
+
+I don't know where to begin 
+there are a bunch of different
+things all going wrong at the same time.
+
+1291
+
 ...
 
 106 
