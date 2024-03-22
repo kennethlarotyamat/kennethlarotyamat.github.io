@@ -16557,7 +16557,7 @@ if that's short enough to be a short.
 
 1093
 
-...
+there was something . that really scared me . there really alarmed me .
 
 System.out.println("first crossed the road");
 System.out.println("the chicken thought "); 
