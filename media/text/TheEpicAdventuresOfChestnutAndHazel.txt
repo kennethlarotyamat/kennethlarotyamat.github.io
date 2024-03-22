@@ -16623,11 +16623,18 @@ System.out.println("was trying to cross the road ");
 System.out.println("to get to the side  ");
 System.out.println("of the road the chicken was previously on ");
 
-1093
+1094
 
 Letters to Katastrophiena # 44
-
-I've added some content below from my Spanish Translations project. I've recently got bogged down messing around with an old project that doesn't seem to work in it's new area. I don't know what's going on, or why it doesn't work except on my landing page. I did get rid of something that was making it kind of a headache, and the thing was the transform hover effect.
+I've added some content below from my 
+Spanish Translations project. I've recently 
+got bogged down messing around with an old 
+project that doesn't seem to work in it's 
+new area. I don't know what's going on, or 
+why it doesn't work except on my landing page. 
+I did get rid of something that was making it 
+kind of a headache, and the thing was the 
+transform hover effect.
 
 ...
 
