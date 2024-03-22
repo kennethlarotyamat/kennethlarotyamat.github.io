@@ -16625,7 +16625,7 @@ System.out.println("of the road the chicken was previously on ");
 
 1094
 
-Letters to Katastrophiena # 44
+Letters to Katastrophiena # 44 [here we are there]
 I've added some content below from my 
 Spanish Translations project. I've recently 
 got bogged down messing around with an old 
@@ -16636,8 +16636,9 @@ I did get rid of something that was making it
 kind of a headache, and the thing was the 
 transform hover effect.
 
-...
+1095
 
+there was something . there were all these . there were most .
 I'm going to forget about messing around with fixing the
 project 11 contact form, for whatever reason, it does not
 work. It's the same thing as what i have on my landing page,
@@ -16645,6 +16646,8 @@ so I don't know why it doesn't work. so dumb. I might try one
 more thing. but then again, I really have to work on my
 translations project, and this is just something I'm messing
 around with.
+
+1096
 ...
 
 I'm putting together the texts that I'll be translating for
