@@ -19657,9 +19657,10 @@ rather than the unpublished copyright registration form, so, that's another issu
 
 1278
 
-/* 
+[but maybe they can say something new and we all of them, but maybe not.] /* 
 
-i basically couldn't figure out how to do this in javascript, but since this is a styling concern, I don't feel the least bit bad
+i basically couldn't figure out how to do this in javascript, but since this 
+is a styling concern, I don't feel the least bit bad
 about styling it with Cascading Style Sheets:  HAHAHAHA!
 
 https://www.w3schools.com/tags/tag_small.asp
@@ -19670,9 +19671,10 @@ Currently Watching: https://www.youtube.com/watch?v=uyzZW6fpzik
 
 
 
-*/
+[and if they came across a new place where the oranges were it was a grove] */
 
 1279
+
 ...
 
 I'm feeling incredibly scatter brained. I have a project due for my software and web development course today, and I haven't even started. This should be simple, so I'm not too worried about it, but, at the same time, I know from the past that these things could take quite a while if I hit a brick wall.
