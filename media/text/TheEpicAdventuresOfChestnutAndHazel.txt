@@ -16759,7 +16759,12 @@ file size, and makes uploading quicker. || how these are
 
 1106
 
-There are some games that are really slow paced, like the tower game that I'm playing, but also, the same is true for many other city building games as well.
+There are some games that are really slow 
+paced, like the tower game that I'm playing, 
+but also, the same is true for many other 
+city building games as well. [here you are where]
+
+1107
 
 ...
 
