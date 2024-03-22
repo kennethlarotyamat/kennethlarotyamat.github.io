@@ -18473,9 +18473,22 @@ case scenario.
 
 1207
 
-...
+I was really hungry. so I ate. a whole bunch of food.
 
-What do I do? I got an email from. you know. the company that fired me stating that I can request an appeal to my termination. I'm going to do it, but I have no idea how to approach the whole thing. This is a headache. I got my final checks from work, or, well, I saw that they were issued today, I didn't actually get them, in my bank account or anything. I've been spending too much money over the last few days, and my spending is something that I really have to take down to, you know, something lower than it currently is. It's hot, I'm always sweating and I always feel somewhat greasy.
+What do I do? I got an email from. you know. the 
+company that fired me stating that I can request 
+an appeal to my termination. I'm going to do it, 
+but I have no idea how to approach the whole thing. 
+This is a headache. I got my final checks from work, 
+or, well, I saw that they were issued today, I didn't 
+actually get them, in my bank account or anything. 
+I've been spending too much money over the last few 
+days, and my spending is something that I really have 
+to take down to, you know, something lower than it 
+currently is. It's hot, I'm always sweating and I 
+always feel somewhat greasy.
+
+1208
 
 ...
 
