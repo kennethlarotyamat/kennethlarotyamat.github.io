@@ -16512,18 +16512,26 @@ because, even though there was a true
 answer, Kenneth wasn't sure if the true answer
 would also be the right answer
 
+1090
+
+// but there were also 
+// revisions that needed to 
+// be made to the original 
+// preliminary draft 
+//
+//
+//
+//
+//
 //
 // 
 //
-//
-//
-//
-//
-//
-//
-//
-// 
-//
+
+1091
+
+so what am I up to right now? I'm really just making gaming videos and uploading them to YouTube. I tried making a YouTube short, but I think my video was over budget, time wise. I guess I'll find out. I could have sworn that I've seen YouTube shorts that are in the 4 minute range. I bought this down to 1:25 minutes, but I'm not sure if that's short enough to be a short.
+
+...
 
 System.out.println("first crossed the road");
 System.out.println("the chicken thought "); System.out.println("in it's avian brain");System.out.println(" ");
