@@ -18057,6 +18057,176 @@ new kind of treasure.
 
 1183
 
+tell me what
+
+tell me what you are thinking about
+right now because I am not
+able to imagine
+
+what you are thinking or what you
+think about when you
+stand there looking like you are thinking
+
+1184
+
+Visual Studio and GitHub. I have to set those two things up for my class and coursework. I'm so hungry right now. I need to get something to eat.
+
+I went out to eat. I thought about heading to Chinatown and finding something to eat there, but, I'm just too tired. and at the time I was just too hungry. I'm so tired. I hung out last night. In retrospect I would have been better just staying home. Last night was a disaster.
+
+Well, I have a real desk. This is nice. I'm trying to get all my thoughts together, finding focus. I like rolling over my 401k into my IRA. I don't like switching employers, but I like roll overs. It does give me more control and flexibility with things. I'm trying to think about worst case scenarios for the next few weeks to come, for the weeks and months ahead. One thing I don't want to think about are those times with things are worse than I thought they would be in a worst case scenario.
+
+...
+
+What do I do? I got an email from. you know. the company that fired me stating that I can request an appeal to my termination. I'm going to do it, but I have no idea how to approach the whole thing. This is a headache. I got my final checks from work, or, well, I saw that they were issued today, I didn't actually get them, in my bank account or anything. I've been spending too much money over the last few days, and my spending is something that I really have to take down to, you know, something lower than it currently is. It's hot, I'm always sweating and I always feel somewhat greasy.
+
+...
+
+There are a few things in life that are just a little bit too strange. Like what? well, I applied for unemployment here in Nevada and I see that the last person I contacted for work was. someone. not here in Las Vegas, maybe a while ago, but not any more. or maybe. I wouldn't really know. I've tried to stay away from that part of town. I don't know what to do about the job search. I want to try using LinkedIn to look for work. I don't want to do anything too physically demanding if I can avoid it. How to stay in shape? I don't really know, I was getting fat anyway.
+
+...
+
+Goat Cheese Quarter Pounder
+
+John Cage
+This is a Double Quarter Pounder with Cheese and with EVEN MORE GOAT CHEESE!
+Mozzarella Lover
+
+John Cage
+This is the Classic Buttery Jack with mozzarella and prosciutto.
+Regular Fish & Chips
+
+John Cage
+This is pretty much just a regular quadruple serving of Fish & Chips.
+Jalapeno Hotdog
+
+John Cage
+Your typical all-beef hotdog covered in jalapenos
+Mozzarella Sticks
+
+John Cage
+This is an order of Mozzarela Sticks inside of a box from the restaurant chain called Jack in the Box. Where is Jack? these look like Mozzarella Sticks to me! I'll Never Let Go, Mozzarella! I'll Never Let Go!
+Fried Catfish & Coleslaw
+
+John Cage
+Fried Catfish and Coleslaw is often considered one of the greatest meals in history.
+Fried Prawns
+
+John Cage
+These are large shrimps, Prawns maybe, that have been sliced and fried.
+Anchovy Pizza
+
+John Cage
+Anchovy pizza is the best kind of pizza that is ever made and will ever be made.
+Two Breasts & Two Thighs
+
+John Cage
+Fried chicken is a true American classic. Maybe you love breasts. maybe you love thighs. maybe you're thinking of two breasts and maybe you're thinking about two thighs. eat them. they're yours.
+Feta Cheese Big Mac
+
+John Cage
+This is your typical big mac with the addition of a slice of greek feta cheese.
+Scotch & Soda
+
+John Cage
+When you can't handle it straight-up. When neat just really isn't your thing. and maybe Mr. Tom Collins never seems to hit the spot for you. Well: Scotch & Soda.
+Pickle Dog
+
+John Cage
+Maybe you love pickles, and maybe you love hot dogs. Maybe you love it when it's beefier than you thought it would be. No matter what your deal is, you'll love the Pickle Dog.
+Quesillo Sourdough Jack
+
+John Cage
+Mozzerella? NEVER buy local. Buy Quesillo de hebra!
+Roquefort Angus Burger
+
+John Cage
+If you really can't stand the smell of Gorgonzola.
+Oaxaca Cheese Double Jack Delish
+
+John Cage
+When you squeese the cotija and the cotija is a little harder than you expected. You keep squeezing that cotija, and it's still hard. Well, try squeezing the oaxaca. so soft. so tender.
+Blue Cheese Burger Baby!
+
+John Cage
+Stilton is for Red Coats, and moreover, I have to ask if I look like Benedict Arnold? DO I! I'M ASKING! AND I EXPECT! A! RESPONSE!
+
+...
+
+I realized that I made a few errors, and there are a few things unfinished with my Hamburger Project. It's still a work in progress, and I'm really having fun with it. It's a diversion, but, it's also something important. somewhat. so I'll continue to work on it here and there.
+
+...
+
+Goat Cheese Quarter Pounder
+
+Goat Cheese Quarter Pounder
+This is a Double Quarter Pounder with Cheese and with EVEN MORE GOAT CHEESE!
+Mozzarella Lover
+
+Mozzarella Lover
+This is the Classic Buttery Jack with mozzarella and prosciutto.
+Regular Fish & Chips
+
+Regular Fish & Chips
+This is pretty much just a regular quadruple serving of Fish & Chips.
+Jalapeno Hotdog
+
+Jalapeno Hotdog
+Your typical all-beef hotdog covered in jalapenos
+Mozzarella Sticks
+
+Mozzarella Sticks
+This is an order of Mozzarela Sticks inside of a box from the restaurant chain called Jack in the Box. Where is Jack? these look like Mozzarella Sticks to me! I'll Never Let Go, Mozzarella! I'll Never Let Go!
+Fried Catfish & Coleslaw
+
+Fried Catfish & Coleslaw
+Fried Catfish and Coleslaw is often considered one of the greatest meals in history.
+Fried Prawns
+
+John Cage
+These are large shrimps, Prawns maybe, that have been sliced and fried.
+Anchovy Pizza
+
+John Cage
+Anchovy pizza is the best kind of pizza that is ever made and will ever be made.
+Two Breasts & Two Thighs
+
+John Cage
+Fried chicken is a true American classic. Maybe you love breasts. maybe you love thighs. maybe you're thinking of two breasts and maybe you're thinking about two thighs. eat them. they're yours.
+Feta Cheese Big Mac
+
+John Cage
+This is your typical big mac with the addition of a slice of greek feta cheese.
+Scotch & Soda
+
+John Cage
+When you can't handle it straight-up. When neat just really isn't your thing. and maybe Mr. Tom Collins never seems to hit the spot for you. Well: Scotch & Soda.
+Pickle Dog
+
+John Cage
+Maybe you love pickles, and maybe you love hot dogs. Maybe you love it when it's beefier than you thought it would be. No matter what your deal is, you'll love the Pickle Dog.
+Quesillo Sourdough Jack
+
+John Cage
+Mozzerella? NEVER buy local. Buy Quesillo de hebra!
+Roquefort Angus Burger
+
+John Cage
+If you really can't stand the smell of Gorgonzola.
+Oaxaca Cheese Double Jack Delish
+
+John Cage
+When you squeese the cotija and the cotija is a little harder than you expected. You keep squeezing that cotija, and it's still hard. Well, try squeezing the oaxaca. so soft. so tender.
+Blue Cheese Burger Baby!
+
+John Cage
+Stilton is for Red Coats, and moreover, I have to ask if I look like Benedict Arnold? DO I! I'M ASKING! AND I EXPECT! A! RESPONSE!
+
+...
+
+Chestnut + Hazel Banner Goat Cheese Quarter Pounder Goat Cheese Quarter Pounder This is a Double Quarter Pounder with Cheese and with EVEN MORE GOAT CHEESE! Mozzarella Lover Mozzarella Lover This is the Classic Buttery Jack with mozzarella and prosciutto. Regular Fish & Chips Regular Fish & Chips This is pretty much just a regular quadruple serving of Fish & Chips. Jalapeno Hotdog Jalapeno Hotdog Your typical all-beef hotdog covered in jalapenos Mozzarella Sticks Mozzarella Sticks This is an order of Mozzarela Sticks inside of a box from the restaurant chain called Jack in the Box. Where is Jack? these look like Mozzarella Sticks to me! I'll Never Let Go, Mozzarella! I'll Never Let Go! Fried Catfish & Coleslaw Fried Catfish & Coleslaw Fried Catfish and Coleslaw is often considered one of the greatest meals in history. Fried Prawns Fried Prawns These are large shrimps, Prawns maybe, that have been sliced and fried. Anchovy Pizza Anchovy Pizza Anchovy pizza is the best kind of pizza that is ever made and will ever be made. Two Breasts & Two Thighs John Cage Fried chicken is a true American classic. Maybe you love breasts. maybe you love thighs. maybe you're thinking of two breasts and maybe you're thinking about two thighs. eat them. they're yours. Feta Cheese Big Mac Feta Cheese Big Mac This is your typical big mac with the addition of a slice of greek feta cheese. Scotch & Soda Scotch & Soda When you can't handle it straight-up. When neat just really isn't your thing. and maybe Mr. Tom Collins never seems to hit the spot for you. Well: Scotch & Soda. Pickle Dog Pickle Dog Maybe you love pickles, and maybe you love hot dogs. Maybe you love it when it's beefier than you thought it would be. No matter what your deal is, you'll love the Pickle Dog. Quesillo Sourdough Jack Quesillo Sourdough Jack Mozzerella? NEVER buy local. Buy Quesillo de hebra! Roquefort Angus Burger Roquefort Angus Burger If you really can't stand the smell of Gorgonzola. Oaxaca Cheese Double Jack Delish Oaxaca Cheese Double Jack Delish When you squeese the cotija and the cotija is a little harder than you expected. You keep squeezing that cotija, and it's still hard. Well, try squeezing the oaxaca. so soft. so tender. Blue Cheese Burger Baby! Blue Cheese Burger Baby! Stilton is for Red Coats, and moreover, I have to ask if I look like Benedict Arnold? DO I! I'M ASKING! AND I EXPECT! A! RESPONSE!
+
+...
+
 
 Updating titles to some of my blog posts, mostly just taking posts that are Archived Content posts and shoving them into the nearest series of posts, Reflections from Chestnut Street or Letters from Sanford Street or whatever. There is the issue of work. I was at two write-ups, and now I'm on suspension. I don't know what on earth to do, even if, somehow, I end up keeping my position, there is still the issue of things not really becoming easier at work. Things just haven't become easier.
 
