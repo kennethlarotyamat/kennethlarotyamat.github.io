@@ -16688,27 +16688,24 @@ all authors whose work I expect to be in the Public Domain.
 
 1100
 
-...
-
+share what you can with . the people who do things . and smell .
 Getting the Readme iframe and Document Title swap to work is complete,
 the next stage in this project is to pick 4 authors to translate.
 
 I'll pick four authors to translate from English to Spanish,
 and 4 authors to translate from Spanish to English.
-
 For English to Spanish:
-
 William Carlos Williams
 T. S. Eliot
 Wallace Stevens
 E. E. Cummings
-
 For Spanish to English:
-
 Rubén Darío
 César Vallejo
 Pablo Neruda
 Miguel de Unamuno
+
+1101
 
 ...
 
