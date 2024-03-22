@@ -16707,11 +16707,12 @@ Miguel de Unamuno
 
 1101
 
-...
-
+but i figure that i . might as well leave everything . alone where . those are
 This is awesome! it actually works, the title and the document
 change when clicked! I'm going to come back around to this and
 continue to work on it later.
+
+1102
 
 ...
 
