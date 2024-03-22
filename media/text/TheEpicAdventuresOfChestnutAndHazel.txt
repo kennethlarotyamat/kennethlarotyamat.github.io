@@ -18012,7 +18012,12 @@ not well!
 
 1179
 
-I need to land a job, and I'm starting to worry about it. I need something that pays. like real money.
+I need to land a job, and 
+I'm starting to worry about 
+it. I need something that pays. 
+like real money.
+
+1180
 
 ...
 
