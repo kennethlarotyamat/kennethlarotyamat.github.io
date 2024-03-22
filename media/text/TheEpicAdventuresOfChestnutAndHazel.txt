@@ -19637,9 +19637,10 @@ so I requested a redo of that project.
 
 1277
 
-...
-
-
+and then there. was something that. thought that it was amazing.
+these were where they end of the roads began and all of the people 
+there were monsters who ate all of the frogs and ate all of the chickens 
+who ate all of the turkeys who ate all of the peanuts and all of them 
 
 Adventure # 3 - 10/11/2023 21:16 - Originally Posted In CSS\style.css
 
@@ -19654,20 +19655,24 @@ deal with it right away.
 the other issue is that I also have to post what I write somewhere, so that I can use the standard copyright registration form,
 rather than the unpublished copyright registration form, so, that's another issue. so you know, it's kind of whatever.
 
-  /* 
+1278
 
-  i basically couldn't figure out how to do this in javascript, but since this is a styling concern, I don't feel the least bit bad
-  about styling it with Cascading Style Sheets:  HAHAHAHA!
+/* 
 
-  https://www.w3schools.com/tags/tag_small.asp
-  https://www.w3schools.com/css/css_font_size.asp  
-  https://www.w3schools.com/css/css_font_size.asp
+i basically couldn't figure out how to do this in javascript, but since this is a styling concern, I don't feel the least bit bad
+about styling it with Cascading Style Sheets:  HAHAHAHA!
 
-  Currently Watching: https://www.youtube.com/watch?v=uyzZW6fpzik
+https://www.w3schools.com/tags/tag_small.asp
+https://www.w3schools.com/css/css_font_size.asp  
+https://www.w3schools.com/css/css_font_size.asp
 
-  
-  
-  */
+Currently Watching: https://www.youtube.com/watch?v=uyzZW6fpzik
+
+
+
+*/
+
+1279
 ...
 
 I'm feeling incredibly scatter brained. I have a project due for my software and web development course today, and I haven't even started. This should be simple, so I'm not too worried about it, but, at the same time, I know from the past that these things could take quite a while if I hit a brick wall.
