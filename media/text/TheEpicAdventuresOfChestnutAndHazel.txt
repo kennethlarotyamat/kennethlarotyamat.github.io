@@ -19843,13 +19843,25 @@ assignment, and I'm irritated about it.
 
 1286
 
-My new restart version of project 14 did not go as well as I thought it would have gone. I don't know what to do. I'm in a bad mood. 
+My new restart version of project 14 did 
+not go as well as I thought it would have 
+gone. I don't know what to do. I'm in a 
+bad mood. 
 
-There are two things that I'm thinking about doing, forking project 14 version 2 to start project 14 version 3, making one more attempt at the iframe carousel, and then getting the JSON and asynchronous stuff into project 14.
+There are two things that I'm thinking about 
+doing, forking project 14 version 2 to start 
+project 14 version 3, making one more attempt 
+at the iframe carousel, and then getting the 
+JSON and asynchronous stuff into project 14.
 
-the other idea is going back to project 14 version 1 and just shoving the 2 additional things into it, it's a mess, but it works, and the cleaner version 2 doesn't work.
+the other idea is going back to project 14 
+version 1 and just shoving the 2 additional 
+things into it, it's a mess, but it works, 
+and the cleaner version 2 doesn't work.
 
 Irritated.
+
+1287
 
 ...
 
