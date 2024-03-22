@@ -16855,6 +16855,28 @@ words that are spoken?
 
 1113
 
+there
+was a chicken
+and then there
+was an egg
+and then there
+was
+a duck who also
+laid an egg
+and there was
+
+also an owl
+who was prowling
+at night the forest
+could hear the owl.
+
+1114
+
+There is kind of a chicken and egg problem going on here. I need to get an MMR vaccine to attend UNLV, I got my first dose something like 5 years ago when I applied to the MBA program at UNLV, I need to get a second dose. I must have left Las Vegas before getting my second dose of the MMR vaccine. I thought I took it already when I applied at UTA, but the vaccine that UTA required was a meningitis vaccine. The funny thing about the UTA thing, the meningitis vaccine, was that they kept sending me notices to submit proof of vaccination for meningitis, but when I got around to getting the vaccine and uploading proof, it turns out I didn't really need to get it, it was for undergrads only. Waste of money.
+
+So now I have to figure out how to get the MMR vaccine, the second dose. The chicken and egg problem that I'm facing is that I need my MMR vaccine to enroll in classes at UNLV, but I have to be enrolled in classes at UNLV to get a Student ID card, and use the Student Health Services and get vaccinated. This isn't a huge problem, it just means that I have to get vaccinated somewhere else.
+   
+
 
 
 I was experimenting with layouts for katastrophiena.com, and I really liked the layout that I selected, and I actually decided to apply it to chestnutandhazel.com. I think that it's really nice, and nothing really broke. I recently. I've been making all the measurements for the iframes percentage based, all the dimensions percentage based, because I figured that I might change layouts from time to time, and it seems to have kept things from getting messed up with the new layout, or, style.
