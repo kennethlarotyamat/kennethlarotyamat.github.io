@@ -21388,14 +21388,14 @@ out there, yet hardly notice.
 
 1365
 
-#tercet
-#haiku
+[It's going to be a really huge] #tercet
+[nightmare and it's not going to be] #haiku
 
 An opossum walks around
 the courtyard as though it
 were a cat looking for tuna.
 
-#tercet
+[pretty it really will not be pretty] #tercet
 #haiku
 
 The air is cool and dry
