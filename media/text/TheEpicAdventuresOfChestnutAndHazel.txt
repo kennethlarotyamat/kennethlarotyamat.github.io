@@ -21465,22 +21465,19 @@ out there, yet hardly notice.
 
 1368
 
-#tercet
-#haiku
+[we wonder what there is to look forward to] #tercet
+[there is nothing to look forward to, the end is] #haiku
 
-
-
-
-
-
-Cracks in the concrete of the patio of the balcony. I'm always out there, yet hardly notice.#tercet
-#haiku
-
+Cracks in the concrete of the patio of the balcony. 
+I'm always out there, yet hardly notice.#tercet
+[the end of everything is just around the corner!] #haiku
 
 Cracks in the concrete of the 
 patio of the balcony. 
 I'm always out there, yet 
 hardly notice. #tercet #haiku
+
+1369
 
 
 
