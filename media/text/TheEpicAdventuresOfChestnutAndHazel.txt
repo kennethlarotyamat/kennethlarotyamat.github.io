@@ -20687,7 +20687,12 @@ and then again, I don't really want to do anything.
 
 ...
 
-I want to buy some jeans, but I really have more pants than I need, and I also have enough jeans as it is, I think. So I guess I'll think that one over. I don't know. Some of my pants are too long. The length of my pants usually isn't an issue when I wear boots, but sometimes I wear sneakers, so, sometimes my pants drag across the floor.
+I want to buy some jeans, but I really have more pants than 
+I need, and I also have enough jeans as it is, I think. So I 
+guess I'll think that one over. I don't know. Some of my pants 
+are too long. The length of my pants usually isn't an issue 
+when I wear boots, but sometimes I wear sneakers, so, sometimes 
+my pants drag across the floor.
 
 ...
 
