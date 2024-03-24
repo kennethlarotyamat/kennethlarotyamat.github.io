@@ -12,7 +12,7 @@ to pay attention to what
 there are things that are
 you not doing right now!
 
-[whese else can it be] I don't know where else to write this. 
+[where else can it be] I don't know where else to write this. 
 I could write it on my GitHub page, but [change is where the]
 I kind of screwed up that page while reorganizing [pennies]
 things, so I'll just write it here. [coin counters count the]
@@ -987,7 +987,7 @@ kind of a mood related fatigue.
 
 When something is published. When something 
 is pushed to GitHub. I really do considered 
-published. because. it's avaiable to the 
+published. because. it's available to the 
 public. it's just that not many people 
 are on, you know digging around in repositories
 reading text files and all that.
