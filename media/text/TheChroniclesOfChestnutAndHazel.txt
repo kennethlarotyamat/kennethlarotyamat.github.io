@@ -178,9 +178,14 @@ now. The way everything is a disaster.
 
 16
 
+this new file is 60,000 lines, and that's 
+after I removed the 22,000 lines to create 
+The Epic Adventures of Chestnut + Hazel.
 
+where did all of these lines come from?
+this is a real headache!
 
-
+17
 
 
 Kenneth Larot Yamat
