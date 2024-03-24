@@ -191,10 +191,10 @@ I don't know what to do right now.
 
 15
 
-[Development Notes]
-
+[Development Notes] [I have eaten all of the plums that were in your bra where your boobies are]
 <!-- https://stackoverflow.com/questions/40211944/stop-playing-video-in-iframe-when-modal-is-closed -->
-<!-- check for deployment after a while. this was moved from codepen into vscode and uploaded to GitHub to make this function better.
+<!-- check for deployment after a while. this was moved from codepen 
+into vscode and uploaded to GitHub to make this function better.
 I really want to update this, maybe even change the look of it. -->
 
 16
