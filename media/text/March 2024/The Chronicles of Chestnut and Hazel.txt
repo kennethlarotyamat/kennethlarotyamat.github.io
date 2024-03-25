@@ -1785,8 +1785,6 @@ hot dogs and a box of ice cream.
 80 86 20 02 32 23 10 01 41 14 51
 01 19 19 00 17 21 05 05 14 11 23
 
-...
-
 Tweets & replies
 Media
 Likes
@@ -1794,7 +1792,14 @@ Kenneth Larot Yamat’s Tweets
 Kenneth Larot Yamat
 @KennethLYamat
 2m
-The reason I'm not entirely in favor of student loan forgiveness is this: education expenses receive a tax credit, a portion of student loan payments are tax deductible, so anyone receiving student loan forgiveness is triple dipping at the tax-payer's expense.
+The reason I'm not entirely in favor of student 
+loan forgiveness is this: education expenses 
+receive a tax credit, a portion of student loan 
+payments are tax deductible, so anyone receiving 
+student loan forgiveness is triple dipping at the 
+tax-payer's expense.
+
+94
 
 #usedgov
 @usedgov
