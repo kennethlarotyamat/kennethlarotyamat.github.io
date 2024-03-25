@@ -1869,7 +1869,8 @@ deal it might be a totally small deal and I might not even have to worry about i
 97
 
 What am I thinking about right now. Well. about how everything is a nightmare.
-Still. forever and for all time.
+Still. forever and for all time. how nightmares are always nightmares and 
+these nightmares never end.
 
        4.3.0 Digitalization: Advances and Challenges
        4.1.1 Blockchain Research in Information Systems
@@ -1900,8 +1901,16 @@ Still. forever and for all time.
        4.3.2 Unpacking The Difference 					                  Kenneth			Kelly
        4.3.3 Digital Opportunities For Incumbents 			            Kenneth			Kenneth
        4.3.4 Digitalization Ethical Challenge 				            Kenneth			Kenneth
+       
+(5/5)  Group Project
 
-(5/5) Group Project
+
+
+
+
+
+
+
 
 done - finally    - Module 3 											Kenneth
 
