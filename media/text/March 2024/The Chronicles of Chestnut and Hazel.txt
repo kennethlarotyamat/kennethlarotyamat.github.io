@@ -932,7 +932,10 @@ and there was not * something that * we all see.
 
 67
 
-I'm super tired, I drank 2 energy drinks and they were highly ineffective. I requested the rest of the night off.
+I'm super tired, I drank 2 energy drinks and they 
+were highly ineffective. I requested the rest of 
+the night off. [energy drinks don't really provide]
+any energy and it's kind of annoying. I need more energy!
 
 * * *
 
