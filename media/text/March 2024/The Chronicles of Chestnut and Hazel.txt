@@ -731,7 +731,11 @@ I remember. I don't remember. well.
 
 * * *
 
-Guess and check mathematics - Trial and Error Analytics - Fundamentals of Statistical Analysis - Advanced Fundamentals of Statistical Estimation Techniques
+Guess and check mathematics - Trial 
+and Error Analytics - Fundamentals 
+of Statistical Analysis - Advanced 
+Fundamentals of Statistical Estimation 
+Techniques [where are you testing things]
 
 * * *
 
