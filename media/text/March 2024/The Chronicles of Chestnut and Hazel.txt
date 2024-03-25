@@ -2089,10 +2089,10 @@ thing coming! Anglozilla and Danezilla are coming for Sovietzilla!
 
 107
 
-#vladimirputin:-()
-#anglozilla!
-#danezilla!
-#sovietzilla:-()
+[] #vladimirputin:-()
+[] #anglozilla!
+[] #danezilla!
+[] #sovietzilla:-()
 
 * * *
 
