@@ -2534,6 +2534,9 @@ I think I finished my FAFSA stuff. Well. I did finish my FAFSA stuff.
 
 126
 
+I'm setting up additional development environemnt stuff for my MIS 768
+course.
+
 Kenneth Larot Yamat
 @KennethLYamat
 
