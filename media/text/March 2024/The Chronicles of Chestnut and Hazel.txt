@@ -2918,7 +2918,9 @@ funny just happened. I think that there is a difference between something being 
 know. unnecessarily challenging. I want to write something here, but I'm not sure what to write, and it's not for a lack of things.
 
 This is acutally a change of where the oranges are. where the apples are. where the other things to eat are. Have you eaten yet?
-I know that you have not eaten anything in the longest time!
+I know that you have not eaten anything in the longest time! to write, it's just that I have no idea. what I should write about, 
+considering the number of things that I could write about. what a nightmare. I don't have any money to indulge in that sort of 
+thing anyway.
 
 
 
@@ -2926,8 +2928,8 @@ I know that you have not eaten anything in the longest time!
 
 ...
 
-   to write, it's just that I have no idea 
-what I should write about, considering the number of things that I could write about.
+    
+
 
 ...
 
