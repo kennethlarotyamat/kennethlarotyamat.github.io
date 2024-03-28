@@ -2761,19 +2761,19 @@ of doing course material for MIS 768.
 4.3.3 Digital Opportunities For Incumbents 		
 4.3.4 Digitalization Ethical Challenges
 
-(4/28) Module 4 										         Group Paper
+(4/28) Module 4 										               Group Paper
 
-4.1.0 The Landscape of Emerging Technologies				Vicky
-4.1.1 Blockchain Research in Information Systems		Vicky
-4.1.2 Editorial Emergent Tech and Organizing			   Vicky
-4.1.3 the Fintech Revolution:						         Vicky
-4.1.4 Quantum Computing and Information Systems		   Vicky
+4.1.0 The Landscape of Emerging Technologies				      Vicky
+4.1.1 Blockchain Research in Information Systems		      Vicky
+4.1.2 Editorial Emergent Tech and Organizing			         Vicky
+4.1.3 the Fintech Revolution:						               Vicky
+4.1.4 Quantum Computing and Information Systems		         Vicky
 
-4.2. The Changing Nature of Work						         Kelly
-4.2.1 Editorial Future of Work Organizations Society		Kelly
-4.2.2 Human Factors in AI and Future of Work			      Kelly
-4.2.3 Mental Health and Information Technology		      Kelly
-4.2.4 Waging war from remote cubicles				         Kelly
+4.2. The Changing Nature of Work						            Kelly
+4.2.1 Editorial Future of Work Organizations Society		   Kelly
+4.2.2 Human Factors in AI and Future of Work			         Kelly
+4.2.3 Mental Health and Information Technology		         Kelly
+4.2.4 Waging war from remote cubicles				            Kelly
 
 (4/25) 4.3.0 Digitalization: Advances and Challenges 			Kenneth			Group Presentation
 4.3.1 Digital Innovation Review 					               Kenneth			Vicky
