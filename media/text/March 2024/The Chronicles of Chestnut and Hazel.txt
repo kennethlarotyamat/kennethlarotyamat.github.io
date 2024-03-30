@@ -3339,24 +3339,20 @@ dropped at the last minute this week and I took it. print(img); for (var pixel o
 var newB = 255 - pixel.getBlue() n pixel.setBlue(newB); } It was basically changing the pixel colors in a square. You basically
 
 take a 200 x 200 square, and then change the colors, the first part of the assignment is changing the color to Yellow, then changing 
-the color to Magenta.
+the color to Magenta. print(img); but there were times * when the changes made * were not things that we could * understand and change.
 
 150
 
+These were actually pretty interesting. It made me think about Instagram, and Instagram filters, changing the colors of an image, 
+and really seeing how it works. var image = new SimpleImage ("chapel.png"); there were ideas that we could not see where we were.
+for (var pixel of image.values())  { var newR =pixel.getRed() - 255; pixel.setRed(newR); }
 
-
-
- 
-
-
-
-
-
-
-
-
-
-
+Kenneth Larot Yamat, DBA chestnut and hazel, SP - changes are the back of the hand of the fingers. Challenges for incumbents:
+Existing infrastructure is considered old, and a liability. where the fingers are used to change new things and type new words!
+Incumbents have a resource advantage over new entrants, but their existing infrastructure can be considered old, and as a result, 
+a liability. Transformation of the old while transitioning, incumbents, applies to incumbents RBV - Resource Based View - extended 
+into the customer context framework Resource access over ownership Presumers - consumers and producers at the same time, where 
+users of a product both consume the product, and produce the product. digital context and data can be delivered with other services.
 
 
 
@@ -3367,21 +3363,9 @@ the color to Magenta.
 
 
 
-  
 
-print(img);
 
-* * *
 
-These were actually pretty interesting. It made me think about Instagram, and Instagram filters, changing the colors of an image, and really seeing how it works.
-
-var image = new SimpleImage ("chapel.png");
-
-for (var pixel of image.values())  {
-var newR =pixel.getRed() - 255;
-pixel.setRed(newR);
-
-}
 
 print(image);
 
