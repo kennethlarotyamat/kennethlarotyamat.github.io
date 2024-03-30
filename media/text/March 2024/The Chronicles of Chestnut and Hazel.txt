@@ -3519,8 +3519,6 @@ print(result2);
 
 It took me a really long time to figure this out. I don't even want to start working on the next question. I really don't.
 
-* * *
-
 This was the last question of the assignment, and it came rather quickly:
 
 function changeRed(width, height) {
@@ -3542,41 +3540,30 @@ print(result);
 
 
 
-...
-
 I can't believe how hot it is.
-
-...
 
 Today is Monday, like Monday-Monday. A real Monday, but for me it's a Wednesday in terms of the workweek, and yet that's not really accurate because I signed up for overtime this week, and I don't exactly have a day off. I signed up for two half-shifts. I kind of had to fight to keep my job today, not exactly but kind of. I'm not exactly sure what I would do if I were on the job market again.
 
-...
 
 some person on reddit laments that the person's country is on fire again, but i can't determine if the person is from france or canada.
 
-...
 
 It feels like there is a hole in my chest, or, like a ball of lead. I'm not really happy and I'm not sure why. There isn't much going on. Everything is kind of boring right now because the major goal. The major focus I have right now is paying down my credit cards.
 
-...
 
 I deleted my Facebook Dating profile like a few hours after setting it up. I didn't really put much into it, so I don't really feel like it's much of a loss.
 
 I don't feel like getting de-monetized, and I've also just filed another appeal, but, I'm just not looking for a relationship and I don't know how else to put it, most of the apps for that type of connection are totally bogus. so, i'm not really going to put any more effort into that.
 
-...
 
 some person on reddit laments that his country is on fire again, but i couldn't determine if the person was from france or canada.
 
-...
 
 I'm feeling unhappy right now, and I don't know what set this off. There's nothing really going on. I signed up for Facebook Dating. Again. But. I'm not really enthusiastic about trying this again for the nine millionth time. Dating is something that I've really just given up on. And the truth is. I'm not looking for a relationship.
 
-...
 
 It's so hot. I can't believe how hot it is. I read that there was a heat wave in Texas, but I looked up the temperature in Dallas, and it's 12 degrees lower, but then again, it's later in the day over there, so I guess that's not an accurate comparison. At 10PM Pacific the temperature will be lower here in Vegas too.
 
-...
 
 when you take 
 it all together
