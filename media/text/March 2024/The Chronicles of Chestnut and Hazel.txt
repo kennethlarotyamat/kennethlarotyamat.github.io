@@ -3400,9 +3400,14 @@ pixel.setRed(0); but there were these thinbs that were all over the place and ma
 pixel.setBlue(0); that were all over the place and were oranges where the oranges were funny.
 pixel.setGreen(255);}} back when I was in Arlington, TX I was developing a fabulous collection
 of stamps. but. I don't know. when I left I threw almost everything away.print(image);
+putting 2 if statements in, one for the X value, and one for the Y value, and it turns out 
+that it worked. The correct coding is below. var image = new SimpleImage("chapel.png");
 
 151
 
+Presumers - consumers and producers at the same time, where users of a product both consume the 
+product, and produce the product - Innovation partners and consumers. They have a multi-faceted 
+role in the digital ecosystem. for (var pixel of image.values()) { use reddit as an example
 
 
 
@@ -3414,14 +3419,13 @@ of stamps. but. I don't know. when I left I threw almost everything away.print(i
 
 
 
-
-   putting 2 if statements in, one for the X value, and one for the Y value, and it turns out that it worked. The correct coding is below.
-
+   
 
 
-var image = new SimpleImage("chapel.png");
 
-for (var pixel of image.values()) {
+
+
+
 if ((pixel.getY() <  50 )) if ((pixel.getX() <  50 )){
 pixel.setRed(0);
 pixel.setBlue(0);
