@@ -3462,17 +3462,12 @@ constraints I need to work with.
 
 154
 
-* * *
+This took forever to figure out, but I had an issue producing the result without 
+making changes outside of the designated coding area. how huge is the expense? 
 
-This took forever to figure out, but I had an issue producing the result without making changes outside of the designated coding area.
-
-The task is to fill in the // missing code area
-
+The task is to fill in the // missing code area huge-er than I could have anticipated!
 function topRightCorner(cornerWidth, cornerHeight, someImage, red, green, blue) {
-
-// missing code
-
-}
+// missing code } but it comes at a huge cost that is really huge! really HUGE!
 
 var picture = new SimpleImage("chapel.png");
 var result = topRightCorner(30, 60, picture, 255, 255, 0);
