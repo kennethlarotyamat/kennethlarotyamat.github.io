@@ -3698,6 +3698,26 @@ Transformation. Journal of the Association for Information Systems, 22(1), 102-1
 
 157
 
+FEMINISM
+Favorite feminist icon
+The next thing the feminist movement has to focus on is...
+The kind of feminism I most identify with
+How I deal with people who are anti-feminist
+My thoughts on male allies
+Queen Boudica
+Queen Victoria
+Queen Elizabeth I
+Catherine the Great
+Margaret Thatcher
+Carly Fiorina
+Meg Whitman
+Hillary Clinton
+
+I think that a real feminist does something great, 
+and that stands the test of time, not just writes 
+lists of what she wants from society. I think that 
+list writing is Santa Clause Feminism. I do not care 
+for Santa Clause feminists.
 
 var picture = new SimpleImage("chapel.png");
 var result = topRightCorner(30, 60, picture, 255, 255, 0);
