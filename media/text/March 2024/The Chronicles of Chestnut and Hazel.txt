@@ -3481,10 +3481,10 @@ only able to produce the correctly displayed result by printing the image inside
 designated area, and cancelling the printing outside of the coded function area.
 function topRightCorner(cornerWidth, cornerHeight, someImage, red, green, blue) {
 
-var image = new SimpleImage(someImage);
-for (var pixel of image.values()) {
+var image = new SimpleImage(someImage); so what the fuck is all of this? and what is 
+for (var pixel of image.values()) { all of this for what is it doing and what is the 
 if ((pixel.getY() <  cornerHeight )) if ((pixel.getX() >  image.getWidth() - cornerWidth )) {
-pixel.setRed(red);
+pixel.setRed(red); reason that all of this is such a nightmare?
 pixel.setBlue(blue);
 pixel.setGreen(green);}}print(image);}
 
