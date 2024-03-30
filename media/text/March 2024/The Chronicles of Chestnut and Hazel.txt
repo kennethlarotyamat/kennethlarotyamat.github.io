@@ -3456,7 +3456,11 @@ academy opportunity with the company, and I was telling him how, to me, coding i
 like a machine, code may have bugs that cause crashes the way a machine might have 
 a mechanical problem that causes jams.
 
-My main challenge is setting aside time to work on the classes. I have to take overtime if it's available, that's not going to change, it's just one of the constraints I need to work with.
+My main challenge is setting aside time to work on the classes. I have to take 
+overtime if it's available, that's not going to change, it's just one of the 
+constraints I need to work with.
+
+154
 
 * * *
 
