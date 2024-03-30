@@ -3499,7 +3499,6 @@ Anyway, I was looking at my old notes, and there were coding functions where ret
 is used at the end of the code, and then print(answer) or print(result) is used to generate 
 the displayed answer, so I did that, even though in this case the assignment is dealing with 
 images, rather than equations, anyway, it worked, it took me forever to figure this out.
-
 function topRightCorner(cornerWidth, cornerHeight, someImage, red, green, blue) {
 
 var image = new SimpleImage(someImage);
@@ -3507,12 +3506,9 @@ for (var pixel of image.values()) {
 if ((pixel.getY() <  cornerHeight )) if ((pixel.getX() >  image.getWidth() - cornerWidth )){
 pixel.setRed(red);
 pixel.setBlue(blue);
-pixel.setGreen(green);
-}
-}
-return image
+pixel.setGreen(green);} } return image }
 
-}
+155
 
 var picture = new SimpleImage("chapel.png");
 var result = topRightCorner(30, 60, picture, 255, 255, 0);
