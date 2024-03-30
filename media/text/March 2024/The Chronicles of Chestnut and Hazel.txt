@@ -3430,6 +3430,11 @@ This article was really - boring!
 
 153
 
+A digital artifact doesn’t give a reason for any given decision
+This might be true, but digital artifacts are also programmed, so, 
+it might not give a reason, but the reason can be traced back to 
+the programming of the digital artifact. to sign up for 2 full shifts 
+of overtime for next week, but the system seems to have tricked me.
 
 
 
@@ -3452,7 +3457,7 @@ This article was really - boring!
 
 * * *
 
- to sign up for 2 full shifts of overtime for next week, but the system seems to have tricked me into taking 1 full shift, and one half shift, as soon as I went in to take the second full shift, only a half shift was available, so I took that.
+    into taking 1 full shift, and one half shift, as soon as I went in to take the second full shift, only a half shift was available, so I took that.
 
 Sometimes I get irritated when things don't seem to go my way, but sometimes, I think that it's for the best, that maybe the universe creates obstacles that will actually work out to benefit me. I haven't able to get much of the coding classes done this week, and part of it is the amount of overtime that I've been working, so I think that, maybe, not getting as much overtime as I would like is actually for the best.
 
