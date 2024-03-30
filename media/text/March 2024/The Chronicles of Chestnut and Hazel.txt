@@ -3168,29 +3168,44 @@ fire. The best way for Finland and Sweden to earn the respect of Erdogan is by c
 Applications for Mergers & Acquisitions, Portfolio Management, and Equity Index Development
 
 References
-Chatterjee, S., Moody, G. D., Lowry, P. B., Chakraborty, S., & Hardin, A. (2021). The nonlinear influence of harmonious information technology affordance on organisational innovation. Information Systems Journal, 31(3), 294–322. https://doi.org/10.1111/isj.12311
-Chatterjee, S., Moody, G., Lowry, P. B., Chakraborty, S., & Hardin, A. (2015). Strategic relevance of organizational virtues enabled by information technology in organizational innovation. Journal of Management Information Systems, 32(3), 158–196. https://doi.org/10.1080/07421222.2015.1099180
+Chatterjee, S., Moody, G. D., Lowry, P. B., Chakraborty, S., & Hardin, A. (2021). The nonlinear influence of harmonious information 
+technology affordance on organisational innovation. Information Systems Journal, 31(3), 294–322. https://doi.org/10.1111/isj.12311
+Chatterjee, S., Moody, G., Lowry, P. B., Chakraborty, S., & Hardin, A. (2015). Strategic relevance of organizational virtues enabled 
+by information technology in organizational innovation. Journal of Management Information Systems, 32(3), 158–196. https://doi.org/10.1080/07421222.2015.1099180
 
-Chatterjee, S., Moody, G., Lowry, P. B., Chakraborty, S., & Hardin, A. (2020). Information technology and organizational innovation: Harmonious information technology affordance and courage-based actualization. Journal of Strategic Information Systems, 29, 101596. https://doi.org/10.1016/j.jsis.2020.101596
-Rao, D. (2024, March 26). Mastering Pivots & Turnarounds: #1 Lesson From Under Armour, Hertz & Apple. Forbes. https://www.forbes.com/sites/dileeprao/2024/03/26/mastering-pivots--turnarounds-1-lesson-from-under-armour-hertz--apple/?sh=2ebc19f5afae
+Chatterjee, S., Moody, G., Lowry, P. B., Chakraborty, S., & Hardin, A. (2020). Information technology and organizational innovation: 
+Harmonious information technology affordance and courage-based actualization. Journal of Strategic Information Systems, 29, 101596. 
+https://doi.org/10.1016/j.jsis.2020.101596
+Rao, D. (2024, March 26). Mastering Pivots & Turnarounds: #1 Lesson From Under Armour, Hertz & Apple. Forbes. 
+https://www.forbes.com/sites/dileeprao/2024/03/26/mastering-pivots--turnarounds-1-lesson-from-under-armour-hertz--apple/?sh=2ebc19f5afae
 America’s Most Innovative Companies. (2024). Fortune. https://fortune.com/ranking/americas-most-innovative-companies/
 
-Patnaik, D. (2024, March 24). Is It Time To Rethink Your Innovation Strategy? Forbes. Retrieved from https://www.forbes.com/sites/devpatnaik/2024/03/24/is-it-time-to-rethink-your-innovation-strategy/?sh=7090736f440a
+Patnaik, D. (2024, March 24). Is It Time To Rethink Your Innovation Strategy? Forbes. Retrieved from 
+https://www.forbes.com/sites/devpatnaik/2024/03/24/is-it-time-to-rethink-your-innovation-strategy/?sh=7090736f440a
 
-Chapman, M., & The Associated Press. (2024, March 28). Home Depot’s largest acquisition ever is an $18.25 billion bet on the housing market’s severe shortage of new homes. Fortune. Retrieved from https://fortune.com/2024/03/28/home-depot-acquisition-srs-distribution-18-25-billion-housing-market/
+Chapman, M., & The Associated Press. (2024, March 28). Home Depot’s largest acquisition ever is an $18.25 billion bet on the housing market’s severe shortage of new homes. 
+Fortune. Retrieved from https://fortune.com/2024/03/28/home-depot-acquisition-srs-distribution-18-25-billion-housing-market/
 Li, Y., and T. Chi. 2013. Venture capitalists’ decision to withdraw: The role of portfolio configuration from a real options lens. Strategic Management Journal 34: 1351-1366.
 Li, Y. & J. Mahoney. 2011. When Are Venture Capital Projects Initiated? Journal of Business Venturing. 26(2): 239-254.
 Tong, T. & Y. Li. 2011. Real Options and Investment Mode Decision: Evidence from Corporate Venture Capital and Acquisition. Organization Science. 22(3): 659-674
 Courtney, C., Dutta, S., and Li, Y. 2017. Resolving information asymmetry: Signaling and crowdfunding success. Entrepreneurship Theory and Practice 41(2): 265-290.
 Liu, Y., Y. Li, X. Hao, and Y. Zhang. 2019. Narcissism and entrepreneurial learning from Failure. Journal of Business Venturing. 34 (3), 496-512
-Li, Y., S. Zahra and S. Lan. 2017. Heterogeneity in New Venture Formation Rates across Nations: The Schumpeterian and Institutional Economics Views. Entrepreneurial Finance: Managerial and Policy Implications. 1-35. Lead article
-Li, Y., and E. Yao. 2019. All ties are not created equal: Institutional equity ties, IPO performance, and market growth of new ventures. In D. Cumming & S. Johan (ed.). Oxford Handbook of IPO
-Wang, E. T. G., Hu, H.-f., & Hu, P. J.-H. (2013). Examining the role of information technology in cultivating firms’ dynamic marketing capabilities. Information & Management, 50(6), 336-343. https://doi.org/10.1016/j.im.2013.04.007
-Randolph, R. V., Hu, H.-f., & Silvernail, K. D. (2020). Better the devil you know: Inter-organizational information technology and network social capital in coopetition networks. Information & Management. Advance online publication. https://doi.org/10.1016/j.im.2020.103344
-Randolph, R. V., Hu, H., Silvernail, K. (2018). Knowledge Networking and Coopetition: The Role of Shared Technology in Promoting Goal Convergence. 2018 Western Academy of Management Conference, 59 9.
-Hu, H.-F., Moore, W. L., & Hu, P. J. (2024). Incorporating user perceptions and product attributes in software product design and evaluation. Journal of Information Technology, 36(2), 123-137.
-Chatterjee, S., Chakraborty, S., Fulk, K., & Lowry, P. B. (2024). The role of dissonant relational multiplexity in information system implementation failures. Journal of the Association for Information Systems (JAIS). Advance online publication. https://aisel.aisnet.org/jais/vol25/iss2/1/
-Chatterjee, S., Sarker, S., Lee, M. J., Xiao, X., & Elbanna, A. (2021). A possible conceptualization of the information systems (IS) artifact: A general systems theory perspective. Information Systems Journal, 31(4), 550-578. https://doi.org/10.1111/isj.12292
+Li, Y., S. Zahra and S. Lan. 2017. Heterogeneity in New Venture Formation Rates across Nations: The Schumpeterian and Institutional Economics Views. Entrepreneurial Finance: 
+Managerial and Policy Implications. 1-35. Lead article
+Li, Y., and E. Yao. 2019. All ties are not created equal: Institutional equity ties, IPO performance, and market growth of new ventures. In D. Cumming & S. Johan (ed.). 
+Oxford Handbook of IPO
+Wang, E. T. G., Hu, H.-f., & Hu, P. J.-H. (2013). Examining the role of information technology in cultivating firms’ dynamic marketing capabilities. Information & 
+Management, 50(6), 336-343. https://doi.org/10.1016/j.im.2013.04.007
+Randolph, R. V., Hu, H.-f., & Silvernail, K. D. (2020). Better the devil you know: Inter-organizational information technology and network social capital in 
+coopetition networks. Information & Management. Advance online publication. https://doi.org/10.1016/j.im.2020.103344
+Randolph, R. V., Hu, H., Silvernail, K. (2018). Knowledge Networking and Coopetition: The Role of Shared Technology in Promoting Goal Convergence. 2018 Western 
+Academy of Management Conference, 59 9.
+Hu, H.-F., Moore, W. L., & Hu, P. J. (2024). Incorporating user perceptions and product attributes in software product design and evaluation. Journal of 
+Information Technology, 36(2), 123-137.
+Chatterjee, S., Chakraborty, S., Fulk, K., & Lowry, P. B. (2024). The role of dissonant relational multiplexity in information system implementation 
+failures. Journal of the Association for Information Systems (JAIS). Advance online publication. https://aisel.aisnet.org/jais/vol25/iss2/1/
+Chatterjee, S., Sarker, S., Lee, M. J., Xiao, X., & Elbanna, A. (2021). A possible conceptualization of the information systems (IS) artifact: A general 
+systems theory perspective. Information Systems Journal, 31(4), 550-578. https://doi.org/10.1111/isj.12292
 
 146
 
@@ -3233,7 +3248,8 @@ Chatterjee, S., Sarker, S., Lee, M. J., Xiao, X., & Elbanna, A. (2021). A possib
 (5/5) Term Project
 
 Kenneth 
-Topic: turn-arounds and pivots: leveraging organizational courage for high-risk innovation as an alternative to the conventional approach of distressed asset sales and mass-layoffs
+Topic: turn-arounds and pivots: leveraging organizational courage for high-risk innovation as an 
+alternative to the conventional approach of distressed asset sales and mass-layoffs
 intro/motivation: 
 Exploratory innovation as a key turn-around / pivot strategy
 Affordance level reappropriation of existing IP catalog as an ancillary strategy
@@ -3247,34 +3263,52 @@ Examples of possible turn-arounds
 theory/conceptualization 
 A company turn-around / pivot project is similar to a rehabilitation & renovation (fixer-upper) project in real estate
 If we want to do last part:
-We are co-owners of the Vicky Saab & Co. Special Purpose Acquisition Corporation. We will look at companies that we can buy and turn around. Smallest companies on the Russell 3000, for example: Travel + Leisure Co. (TNL) or Houghton Mifflin Harcourt Co. (HMHC) and create a VR Headset travel package, that could also be reappropriated in various additional ways: licensed to schools as a geography and history learning product, or a MMORPG travel and second-life kind of VR Game.
+We are co-owners of the Vicky Saab & Co. Special Purpose Acquisition Corporation. We will look at companies that we can buy and turn around. 
+Smallest companies on the Russell 3000, for example: Travel + Leisure Co. (TNL) or Houghton Mifflin Harcourt Co. (HMHC) and create a VR Headset 
+travel package, that could also be reappropriated in various additional ways: licensed to schools as a geography and history learning product, 
+or a MMORPG travel and second-life kind of VR Game.
 
 Applications for Mergers & Acquisitions, Portfolio Management, and Equity Index Development
 
 References
-Chatterjee, S., Moody, G. D., Lowry, P. B., Chakraborty, S., & Hardin, A. (2021). The nonlinear influence of harmonious information technology affordance on organisational innovation. Information Systems Journal, 31(3), 294–322. https://doi.org/10.1111/isj.12311
-Chatterjee, S., Moody, G., Lowry, P. B., Chakraborty, S., & Hardin, A. (2015). Strategic relevance of organizational virtues enabled by information technology in organizational innovation. Journal of Management Information Systems, 32(3), 158–196. https://doi.org/10.1080/07421222.2015.1099180
+Chatterjee, S., Moody, G. D., Lowry, P. B., Chakraborty, S., & Hardin, A. (2021). The nonlinear influence of harmonious information technology 
+affordance on organisational innovation. Information Systems Journal, 31(3), 294–322. https://doi.org/10.1111/isj.12311
+Chatterjee, S., Moody, G., Lowry, P. B., Chakraborty, S., & Hardin, A. (2015). Strategic relevance of organizational virtues enabled by information 
+technology in organizational innovation. Journal of Management Information Systems, 32(3), 158–196. https://doi.org/10.1080/07421222.2015.1099180
 
-Chatterjee, S., Moody, G., Lowry, P. B., Chakraborty, S., & Hardin, A. (2020). Information technology and organizational innovation: Harmonious information technology affordance and courage-based actualization. Journal of Strategic Information Systems, 29, 101596. https://doi.org/10.1016/j.jsis.2020.101596
-Rao, D. (2024, March 26). Mastering Pivots & Turnarounds: #1 Lesson From Under Armour, Hertz & Apple. Forbes. https://www.forbes.com/sites/dileeprao/2024/03/26/mastering-pivots--turnarounds-1-lesson-from-under-armour-hertz--apple/?sh=2ebc19f5afae
+Chatterjee, S., Moody, G., Lowry, P. B., Chakraborty, S., & Hardin, A. (2020). Information technology and organizational innovation: Harmonious 
+information technology affordance and courage-based actualization. Journal of Strategic Information Systems, 29, 101596. https://doi.org/10.1016/j.jsis.2020.101596
+Rao, D. (2024, March 26). Mastering Pivots & Turnarounds: #1 Lesson From Under Armour, Hertz & Apple. Forbes. 
+https://www.forbes.com/sites/dileeprao/2024/03/26/mastering-pivots--turnarounds-1-lesson-from-under-armour-hertz--apple/?sh=2ebc19f5afae
 America’s Most Innovative Companies. (2024). Fortune. https://fortune.com/ranking/americas-most-innovative-companies/
 
-Patnaik, D. (2024, March 24). Is It Time To Rethink Your Innovation Strategy? Forbes. Retrieved from https://www.forbes.com/sites/devpatnaik/2024/03/24/is-it-time-to-rethink-your-innovation-strategy/?sh=7090736f440a
+Patnaik, D. (2024, March 24). Is It Time To Rethink Your Innovation Strategy? Forbes. Retrieved from 
+https://www.forbes.com/sites/devpatnaik/2024/03/24/is-it-time-to-rethink-your-innovation-strategy/?sh=7090736f440a
 
-Chapman, M., & The Associated Press. (2024, March 28). Home Depot’s largest acquisition ever is an $18.25 billion bet on the housing market’s severe shortage of new homes. Fortune. Retrieved from https://fortune.com/2024/03/28/home-depot-acquisition-srs-distribution-18-25-billion-housing-market/
-Li, Y., and T. Chi. 2013. Venture capitalists’ decision to withdraw: The role of portfolio configuration from a real options lens. Strategic Management Journal 34: 1351-1366.
+Chapman, M., & The Associated Press. (2024, March 28). Home Depot’s largest acquisition ever is an $18.25 billion bet on the housing market’s severe shortage of 
+new homes. Fortune. Retrieved from https://fortune.com/2024/03/28/home-depot-acquisition-srs-distribution-18-25-billion-housing-market/
+Li, Y., and T. Chi. 2013. Venture capitalists’ decision to withdraw: The role of portfolio configuration from a real options lens. Strategic Management Journal 34: 
+1351-1366.
 Li, Y. & J. Mahoney. 2011. When Are Venture Capital Projects Initiated? Journal of Business Venturing. 26(2): 239-254.
 Tong, T. & Y. Li. 2011. Real Options and Investment Mode Decision: Evidence from Corporate Venture Capital and Acquisition. Organization Science. 22(3): 659-674
 Courtney, C., Dutta, S., and Li, Y. 2017. Resolving information asymmetry: Signaling and crowdfunding success. Entrepreneurship Theory and Practice 41(2): 265-290.
 Liu, Y., Y. Li, X. Hao, and Y. Zhang. 2019. Narcissism and entrepreneurial learning from Failure. Journal of Business Venturing. 34 (3), 496-512
-Li, Y., S. Zahra and S. Lan. 2017. Heterogeneity in New Venture Formation Rates across Nations: The Schumpeterian and Institutional Economics Views. Entrepreneurial Finance: Managerial and Policy Implications. 1-35. Lead article
-Li, Y., and E. Yao. 2019. All ties are not created equal: Institutional equity ties, IPO performance, and market growth of new ventures. In D. Cumming & S. Johan (ed.). Oxford Handbook of IPO
-Wang, E. T. G., Hu, H.-f., & Hu, P. J.-H. (2013). Examining the role of information technology in cultivating firms’ dynamic marketing capabilities. Information & Management, 50(6), 336-343. https://doi.org/10.1016/j.im.2013.04.007
-Randolph, R. V., Hu, H.-f., & Silvernail, K. D. (2020). Better the devil you know: Inter-organizational information technology and network social capital in coopetition networks. Information & Management. Advance online publication. https://doi.org/10.1016/j.im.2020.103344
-Randolph, R. V., Hu, H., Silvernail, K. (2018). Knowledge Networking and Coopetition: The Role of Shared Technology in Promoting Goal Convergence. 2018 Western Academy of Management Conference, 59 9.
-Hu, H.-F., Moore, W. L., & Hu, P. J. (2024). Incorporating user perceptions and product attributes in software product design and evaluation. Journal of Information Technology, 36(2), 123-137.
-Chatterjee, S., Chakraborty, S., Fulk, K., & Lowry, P. B. (2024). The role of dissonant relational multiplexity in information system implementation failures. Journal of the Association for Information Systems (JAIS). Advance online publication. https://aisel.aisnet.org/jais/vol25/iss2/1/
-Chatterjee, S., Sarker, S., Lee, M. J., Xiao, X., & Elbanna, A. (2021). A possible conceptualization of the information systems (IS) artifact: A general systems theory perspective. Information Systems Journal, 31(4), 550-578. https://doi.org/10.1111/isj.12292
+Li, Y., S. Zahra and S. Lan. 2017. Heterogeneity in New Venture Formation Rates across Nations: The Schumpeterian and Institutional Economics Views. 
+Entrepreneurial Finance: Managerial and Policy Implications. 1-35. Lead article
+Li, Y., and E. Yao. 2019. All ties are not created equal: Institutional equity ties, IPO performance, and market growth of new ventures. In D. Cumming & S. 
+Johan (ed.). Oxford Handbook of IPO
+Wang, E. T. G., Hu, H.-f., & Hu, P. J.-H. (2013). Examining the role of information technology in cultivating firms’ dynamic marketing capabilities. 
+Information & Management, 50(6), 336-343. https://doi.org/10.1016/j.im.2013.04.007
+Randolph, R. V., Hu, H.-f., & Silvernail, K. D. (2020). Better the devil you know: Inter-organizational information technology and network social capital 
+in coopetition networks. Information & Management. Advance online publication. https://doi.org/10.1016/j.im.2020.103344
+Randolph, R. V., Hu, H., Silvernail, K. (2018). Knowledge Networking and Coopetition: The Role of Shared Technology in Promoting Goal Convergence. 2018 
+Western Academy of Management Conference, 59 9.
+Hu, H.-F., Moore, W. L., & Hu, P. J. (2024). Incorporating user perceptions and product attributes in software product design and evaluation. Journal of 
+Information Technology, 36(2), 123-137.
+Chatterjee, S., Chakraborty, S., Fulk, K., & Lowry, P. B. (2024). The role of dissonant relational multiplexity in information system implementation 
+failures. Journal of the Association for Information Systems (JAIS). Advance online publication. https://aisel.aisnet.org/jais/vol25/iss2/1/
+Chatterjee, S., Sarker, S., Lee, M. J., Xiao, X., & Elbanna, A. (2021). A possible conceptualization of the information systems (IS) artifact: A general 
+systems theory perspective. Information Systems Journal, 31(4), 550-578. https://doi.org/10.1111/isj.12292
 
 147
 
@@ -3361,6 +3395,10 @@ something else * or where to start or how to pivot into * something else * what 
 This coding question was interesting. The goal is to create a green rectangle in the upper left corner of the image. My first attempt 
 was this: but it didn't work, I tried reversing the carrots and adding equal signs, but those didn't work either, so I tried
 
+for (var pixel of image.values()) {if (((pixel.getY() <  50 )) + ((pixel.getX() <  50 ))){
+pixel.setRed(0); but there were these thinbs that were all over the place and making new ideas 
+pixel.setBlue(0); that were all over the place and were oranges where the oranges were funny.
+pixel.setGreen(255);}}
 
 
 
@@ -3372,13 +3410,6 @@ was this: but it didn't work, I tried reversing the carrots and adding equal sig
 
 
 
-for (var pixel of image.values()) {
-if (((pixel.getY() <  50 )) + ((pixel.getX() <  50 ))){
-pixel.setRed(0);
-pixel.setBlue(0);
-pixel.setGreen(255);
-}
-}
 
 print(image);
 
