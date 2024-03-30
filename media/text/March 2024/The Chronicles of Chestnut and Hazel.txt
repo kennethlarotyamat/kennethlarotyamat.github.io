@@ -3495,7 +3495,10 @@ var picture2 = new SimpleImage("smalllion.jpg");
 var result2 = topRightCorner(125, 20, picture2, 255, 0, 0);
 //print(result2);
 
-Anyway, I was looking at my old notes, and there were coding functions where return answer is used at the end of the code, and then print(answer) or print(result) is used to generate the displayed answer, so I did that, even though in this case the assignment is dealing with images, rather than equations, anyway, it worked, it took me forever to figure this out.
+Anyway, I was looking at my old notes, and there were coding functions where return answer 
+is used at the end of the code, and then print(answer) or print(result) is used to generate 
+the displayed answer, so I did that, even though in this case the assignment is dealing with 
+images, rather than equations, anyway, it worked, it took me forever to figure this out.
 
 function topRightCorner(cornerWidth, cornerHeight, someImage, red, green, blue) {
 
