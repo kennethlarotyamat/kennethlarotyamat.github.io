@@ -3345,7 +3345,7 @@ the color to Magenta. print(img); but there were times * when the changes made *
 
 These were actually pretty interesting. It made me think about Instagram, and Instagram filters, changing the colors of an image, 
 and really seeing how it works. var image = new SimpleImage ("chapel.png"); there were ideas that we could not see where we were.
-for (var pixel of image.values())  { var newR =pixel.getRed() - 255; pixel.setRed(newR); }
+for (var pixel of image.values())  { var newR =pixel.getRed() - 255; pixel.setRed(newR); } var image = new SimpleImage("chapel.png");
 
 Kenneth Larot Yamat, DBA chestnut and hazel, SP - changes are the back of the hand of the fingers. Challenges for incumbents:
 Existing infrastructure is considered old, and a liability. where the fingers are used to change new things and type new words!
@@ -3362,7 +3362,15 @@ This coding question was interesting. The goal is to create a green rectangle in
 was this: but it didn't work, I tried reversing the carrots and adding equal signs, but those didn't work either, so I tried
 
 
-var image = new SimpleImage("chapel.png");
+
+
+
+
+
+
+
+
+
 
 for (var pixel of image.values()) {
 if (((pixel.getY() <  50 )) + ((pixel.getX() <  50 ))){
