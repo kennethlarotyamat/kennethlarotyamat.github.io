@@ -3414,8 +3414,21 @@ that created new challenges! pixel.setBlue(0); pixel.setGreen(255); } } print(im
 
 152
 
+4.3.3 Digital Opportunities For Incumbents
+Challenges for incumbents:
+Existing infrastructure is considered old, and a liability
 
+Incumbents have a resource advantage over new entrants, but their existing infrastructure can be 
+considered old, and as a result, a liability.
+Transformation of the old while transitioning, incumbents, applies to incumbents
+RBV - Resource Based View - extended into the customer context framework
 
+Resource access over ownership
+Presumers - consumers and producers at the same time, where users of a product both consume the product, 
+and produce the product - Innovation partners and consumers. They have a multi-faceted role in the digital ecosystem.
+This article was really - boring!
+
+153
 
 
 
