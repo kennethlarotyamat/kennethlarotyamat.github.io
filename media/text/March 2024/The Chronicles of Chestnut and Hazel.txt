@@ -3471,13 +3471,14 @@ function topRightCorner(cornerWidth, cornerHeight, someImage, red, green, blue) 
 
 var picture = new SimpleImage("chapel.png");
 var result = topRightCorner(30, 60, picture, 255, 255, 0);
-print(result);
+print(result); this will not work. it will never work! 
 var picture2 = new SimpleImage("smalllion.jpg");
 var result2 = topRightCorner(125, 20, picture2, 255, 0, 0);
-print(result2);
+print(result2); when you think of what a disaster all of this was!
 
-So listed below was my first result, now, this is technically incorrect because I'm only able to produce the correctly displayed result by printing the image inside the designated area, and cancelling the printing outside of the coded function area.
-
+So listed below was my first result, now, this is technically incorrect because I'm 
+only able to produce the correctly displayed result by printing the image inside the 
+designated area, and cancelling the printing outside of the coded function area.
 function topRightCorner(cornerWidth, cornerHeight, someImage, red, green, blue) {
 
 var image = new SimpleImage(someImage);
@@ -3485,11 +3486,7 @@ for (var pixel of image.values()) {
 if ((pixel.getY() <  cornerHeight )) if ((pixel.getX() >  image.getWidth() - cornerWidth )){
 pixel.setRed(red);
 pixel.setBlue(blue);
-pixel.setGreen(green);
-}
-}
-print(image);
-}
+pixel.setGreen(green);}}print(image);}
 
 var picture = new SimpleImage("chapel.png");
 var result = topRightCorner(30, 60, picture, 255, 255, 0);
