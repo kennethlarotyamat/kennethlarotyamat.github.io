@@ -3354,35 +3354,12 @@ a liability. Transformation of the old while transitioning, incumbents, applies 
 into the customer context framework Resource access over ownership Presumers - consumers and producers at the same time, where 
 users of a product both consume the product, and produce the product. digital context and data can be delivered with other services.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-print(image);
-
-
-var image = new SimpleImage ("chapel.png");
-
-for (var pixel of image.values())  {
-var newR = 255 + pixel.getRed();
-pixel.setRed(newR);
-
-}
-
-print(image);
-
-* * *
-
-This coding question was interesting. The goal is to create a green rectangle in the upper left corner of the image. My first attempt was this:
+I don't know what it is but I'm finding this article incomprehensible. print(image); var image = new SimpleImage ("chapel.png");
+for (var pixel of image.values())  {var newR = 255 + pixel.getRed();pixel.setRed(newR);} print(image); I'm coming to the conclusion
+that much of this stuff isn't really for me. that this is not really what I should be doing. I don't really know how to pivot into
+something else * or where to start or how to pivot into * something else * what to do about that how to pivot into something else.
+This coding question was interesting. The goal is to create a green rectangle in the upper left corner of the image. My first attempt 
+was this: but it didn't work, I tried reversing the carrots and adding equal signs, but those didn't work either, so I tried
 
 
 var image = new SimpleImage("chapel.png");
@@ -3398,7 +3375,7 @@ pixel.setGreen(255);
 print(image);
 
 
-but it didn't work, I tried reversing the carrots and adding equal signs, but those didn't work either, so I tried putting 2 if statements in, one for the X value, and one for the Y value, and it turns out that it worked. The correct coding is below.
+   putting 2 if statements in, one for the X value, and one for the Y value, and it turns out that it worked. The correct coding is below.
 
 
 
