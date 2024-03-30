@@ -3310,7 +3310,38 @@ old, and as a result, a liability. var img = new SimpleImage(200,200); print(img
 Vaginal intercourse is a scam, and a conspiracy. Whenever you want to liquidate your position, you want to put
 the funds into different assets, not different money pits. 10h. 
 
-149 
+149
+
+Do I need to go grocery shopping now? I want to go grocery shopping right now, but do I need to go grocery shopping.
+right now? Are there any issues that can arise from putting off grocery shopping? and are there any issues that can arise.
+from going grocery shopping when I don't need to? Or from going grocery shopping sooner than I need to? var newG = 255.
+Well, let's say I put off grocery shopping. As of right now, I have both the time, and energy to go. - pixel.getGreen();
+grocery shopping. I also have the money to go grocery shopping, but, I don't want to spend any money on groceries.
+
+right now. I have enough groceries right now. So do I really need to go grocery shopping? The issue that I can think of 
+is that, later, I might not have the time, or the energy to go grocery shopping. Thinking about the future, I might have 
+the time, but not the energy, or I might have the energy, but not the time, or I might have the energy at the wrong time 
+of day in the sense that I might have the energy to go grocery shopping at 11:00 PM, but the grocery store isn't open at 
+that hour. pixel.setGreen(newG); } print(img); for (var pixel of img.values())  { var newR = 255 - pixel.getRed();
+
+I really do not want to spend any money right now. Or, I guess what I mean is, I want to postpone any spending that I have 
+to make into the future, or as far into the future as I can. There are these times, though, when I'm hungry as hell, at some 
+weird time of day, and if I don't have anything to eat, then I have to go out to eat, and that can cause me to spend more 
+money than I really want to spend. pixel.setRed(newR); } print(img); for (var pixel of img.values())  { I have to think: do I
+
+really like going out to eat? The answer isn't always a yes. Sometimes I like going out to eat, and sometimes I do not like 
+going out to eat, the answer varies, depending on my mood, and sometimes the answer varies depending on how pleasant or 
+unpleasant my last dining experience was. var newG = 0 - pixel.getGreen(); pixel.setGreen(newG); } I bought Vitamin B
+
+supplements. Maybe this will help with my energy levels. I accepted overtime this week, even though I wasn't really planning on it.
+In fact, I was planning on taking the whole week off, then changed my mind last minute and just worked instead, then overtime was 
+dropped at the last minute this week and I took it. print(img); for (var pixel of img.values()) { This assignment took a while.
+var newB = 255 - pixel.getBlue() n pixel.setBlue(newB); } It was basically changing the pixel colors in a square. You basically
+
+take a 200 x 200 square, and then change the colors, the first part of the assignment is changing the color to Yellow, then changing 
+the color to Magenta.
+
+150
 
 
 
@@ -3323,55 +3354,20 @@ the funds into different assets, not different money pits. 10h.
 
 
 
-  Do I need to go grocery shopping now? I want to go grocery shopping right now, but do I need to go grocery shopping right now? Are there any issues that can arise from putting off grocery shopping? and are there any issues that can arise from going grocery shopping when I don't need to? Or from going grocery shopping sooner than I need to?
-
-Well, let's say I put off grocery shopping. As of right now, I have both the time, and energy to go grocery shopping. I also have the money to go grocery shopping, but, I don't want to spend any money on groceries right now. I have enough groceries right now. So do I really need to go grocery shopping? The issue that I can think of is that, later, I might not have the time, or the energy to go grocery shopping. Thinking about the future, I might have the time, but not the energy, or I might have the energy, but not the time, or I might have the energy at the wrong time of day in the sense that I might have the energy to go grocery shopping at 11:00 PM, but the grocery store isn't open at that hour.
-
-I really do not want to spend any money right now. Or, I guess what I mean is, I want to postpone any spending that I have to make into the future, or as far into the future as I can. There are these times, though, when I'm hungry as hell, at some weird time of day, and if I don't have anything to eat, then I have to go out to eat, and that can cause me to spend more money than I really want to spend.
-
-I have to think: do I really like going out to eat? The answer isn't always a yes. Sometimes I like going out to eat, and sometimes I do not like going out to eat, the answer varies, depending on my mood, and sometimes the answer varies depending on how pleasant or unpleasant my last dining experience was.
-
-I bought Vitamin B supplements. Maybe this will help with my energy levels.
-
-I accepted overtime this week, even though I wasn't really planning on it.
-
-In fact, I was planning on taking the whole week off, then changed my mind last minute and just worked instead, then overtime was dropped at the last minute this week and I took it.
-
-This assignment took a while. It was basically changing the pixel colors in a square. You basically take a 200 x 200 square, and then change the colors, the first part of the assignment is changing the color to Yellow, then changing the color to Magenta.
 
 
 
 
 
 
-var newG = 255 - pixel.getGreen();
-pixel.setGreen(newG);
 
-}
 
-print(img);
 
-for (var pixel of img.values())  {
-var newR = 255 - pixel.getRed();
-pixel.setRed(newR);
 
-}
 
-print(img);
 
-for (var pixel of img.values())  {
-var newG = 0 - pixel.getGreen();
-pixel.setGreen(newG);
 
-}
-
-print(img);
-
-for (var pixel of img.values())  {
-var newB = 255 - pixel.getBlue();
-pixel.setBlue(newB);
-
-}
+  
 
 print(img);
 
