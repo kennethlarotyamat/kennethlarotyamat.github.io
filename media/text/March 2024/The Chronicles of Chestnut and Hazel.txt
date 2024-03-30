@@ -3505,10 +3505,50 @@ var image = new SimpleImage(someImage);
 for (var pixel of image.values()) {
 if ((pixel.getY() <  cornerHeight )) if ((pixel.getX() >  image.getWidth() - cornerWidth )){
 pixel.setRed(red);
-pixel.setBlue(blue);
+pixel.setBlue(blue); but there was a bigger picture invloved, and it was so big that it was
 pixel.setGreen(green);} } return image }
 
 155
+
+Applications for Mergers & Acquisitions, Portfolio Management, and Equity Index Development
+Create an equity index of publicly traded companies based on hita, different companies.  A 
+list of companies will be assigned. Each assigned a HITA level. This will inform. The HITA 
+equity Index will inform the M&A approach.
+
+We can call it the 
+
+Chatterjee 500 HITA Equity Index, 
+but we might not be able to use the number 500, so, it can actually be any number.
+
+We might not be able to use numbers like
+
+500 - S&P 500
+30 - Dow 30, dow jones industrial average
+3000 - Russell 3000
+5000 - WIlshire 5000
+100 - NASDAQ 100
+
+Well, maybe not because there is a NASDAQ 100 and an S&P 100.
+
+The Chinese economy was destroyed during the 19th century from the opium trade managed by the British. 
+I doubt the Chinese are interested is signing up for a second economic dope delivered depression. Canada 
+and the rest of the world can't do anything about the sentence. They have zero defense spending, and 
+eventually, so too will the United States. [I have no idea what this was written in response to]
+
+How are the
+changes that are being
+made change the things
+that are being planned
+
+to the changes that are
+innovating from a 
+start point that
+happened way back during
+
+the age of
+CHICKENS! hahahaha!
+
+156
 
 var picture = new SimpleImage("chapel.png");
 var result = topRightCorner(30, 60, picture, 255, 255, 0);
