@@ -3296,36 +3296,34 @@ and winning, and that's Bakugan, not backgammon. Kenneth Larot Yamat. @KennethLY
 Finland and Sweden earn the respect of Erdogan, is by challenging him to a game of Bakugan, and winning. and
 that's Bakugan, not backgammon. I can't even believe how unhappy I am right now. This is a nightmare. nightmare.
 
-Challenges for incumbents: 4h
+Challenges for incumbents: 4h. Vaginal intercourse is a scam, and a conspiracy. Kenneth Larot Yamat
 
-Existing infrastructure is considered old, and a liability
-Kenneth Larot Yamat. The best way for Finland and Sweden
+Existing infrastructure is considered old, and a liability. @KennethLYamat. 10h. the question I have for myself is:
+Kenneth Larot Yamat. The best way for Finland and Sweden. I would like to go grocery shopping, but
 @KennethLYamat
 
 Existing infrastructure is considered old, and a liability. to placate Erdogan, is by challenging him to a 
 game of Bakugan, and winning. and that's Bakugan, not backgammon. Kenneth Larot Yamat. @KennethLYamat
 
 Incumbents have a resource advantage over new entrants, but their existing infrastructure can be considered 
-old, and as a result, a liability.
+old, and as a result, a liability. var img = new SimpleImage(200,200); print(img); for (var pixel of img.values())  {
+Vaginal intercourse is a scam, and a conspiracy. Whenever you want to liquidate your position, you want to put
+the funds into different assets, not different money pits. 10h. 
+
+149 
+
 
 
 
  
 
 
-·
-10h
-Vaginal intercourse is a scam, and a conspiracy. Whenever you want to liquidate your position, you want to put the funds into different assets, not different money pits.
-Kenneth Larot Yamat
-@KennethLYamat
-·
-10h
-Vaginal intercourse is a scam, and a conspiracy.
 
 
-* * *
 
-I would like to go grocery shopping, but the question I have for myself is: Do I need to go grocery shopping now? I want to go grocery shopping right now, but do I need to go grocery shopping right now? Are there any issues that can arise from putting off grocery shopping? and are there any issues that can arise from going grocery shopping when I don't need to? Or from going grocery shopping sooner than I need to?
+
+
+  Do I need to go grocery shopping now? I want to go grocery shopping right now, but do I need to go grocery shopping right now? Are there any issues that can arise from putting off grocery shopping? and are there any issues that can arise from going grocery shopping when I don't need to? Or from going grocery shopping sooner than I need to?
 
 Well, let's say I put off grocery shopping. As of right now, I have both the time, and energy to go grocery shopping. I also have the money to go grocery shopping, but, I don't want to spend any money on groceries right now. I have enough groceries right now. So do I really need to go grocery shopping? The issue that I can think of is that, later, I might not have the time, or the energy to go grocery shopping. Thinking about the future, I might have the time, but not the energy, or I might have the energy, but not the time, or I might have the energy at the wrong time of day in the sense that I might have the energy to go grocery shopping at 11:00 PM, but the grocery store isn't open at that hour.
 
@@ -3333,24 +3331,19 @@ I really do not want to spend any money right now. Or, I guess what I mean is, I
 
 I have to think: do I really like going out to eat? The answer isn't always a yes. Sometimes I like going out to eat, and sometimes I do not like going out to eat, the answer varies, depending on my mood, and sometimes the answer varies depending on how pleasant or unpleasant my last dining experience was.
 
-* * *
-
 I bought Vitamin B supplements. Maybe this will help with my energy levels.
 
 I accepted overtime this week, even though I wasn't really planning on it.
 
 In fact, I was planning on taking the whole week off, then changed my mind last minute and just worked instead, then overtime was dropped at the last minute this week and I took it.
 
-
-* * *
-
 This assignment took a while. It was basically changing the pixel colors in a square. You basically take a 200 x 200 square, and then change the colors, the first part of the assignment is changing the color to Yellow, then changing the color to Magenta.
 
 
-var img = new SimpleImage(200,200);
-print(img);
 
-for (var pixel of img.values())  {
+
+
+
 var newG = 255 - pixel.getGreen();
 pixel.setGreen(newG);
 
