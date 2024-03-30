@@ -3398,9 +3398,10 @@ was this: but it didn't work, I tried reversing the carrots and adding equal sig
 for (var pixel of image.values()) {if (((pixel.getY() <  50 )) + ((pixel.getX() <  50 ))){
 pixel.setRed(0); but there were these thinbs that were all over the place and making new ideas 
 pixel.setBlue(0); that were all over the place and were oranges where the oranges were funny.
-pixel.setGreen(255);}}
+pixel.setGreen(255);}} back when I was in Arlington, TX I was developing a fabulous collection
+of stamps. but. I don't know. when I left I threw almost everything away.
 
-
+151
 
 
 
