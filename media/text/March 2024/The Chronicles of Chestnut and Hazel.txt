@@ -4455,7 +4455,6 @@ the product, and produce the product - Innovation partners and consumers. They h
 multi-faceted role in the digital ecosystem.
 
 This article was really - boring!
-
 A digital artifact doesn’t give a reason for any given decision
 	This might be true, but digital artifacts are also programmed, so, it might not give a reason, 
    but the reason can be traced back to the programming of the digital artifact.
