@@ -4295,6 +4295,17 @@ the one-percent
 4.3.2 Unpacking The Difference 		
 4.3.3 Digital Opportunities For Incumbents
 
+Create an equity index of publicly traded companies based on hita, different companies.  
+A list of companies will be assigned. Each assigned a HITA level. This will inform. The 
+HITA equity Index will inform the M&A approach. Since the HITA impact on innovation is 
+quadratic, we would use the absolute value of a company’s assigned HITA to rank companies 
+within this index.
+
+We can call it the 
+
+Chatterjee 500 HITA Equity Index, 
+but we might not be able to use the number 500, so it can actually be any number.
+
 167
 
 Annual Mandatory Individual Development Plan (IDP)
@@ -4306,6 +4317,8 @@ Greetings Yong Li, Ph.D. :
 This email contains my individual development plan for 2024. I'm currently enrolled in the
 entreprenurship and innovation graduate certificate program, and I was not enrolled or admitted
 to any program during the 2023 academic calendar.
+
+
 
 
 
