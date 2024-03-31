@@ -3786,43 +3786,32 @@ S&P 100. So we might be able to use 500.
 
 159
 
- * * * 
+I got an oil change for my car. It seemed like a long stretch since 
+my last oil change, but full synthetic oil changes are only needed 
+every 8000 miles, so I was actually right on time. My last oil change 
+was at 20700 and this one was at 28060. 
 
- I got an oil change for my car. It seemed like a long stretch since my last oil change, but full synthetic oil changes are only needed every 8000 miles, so I was actually right on time. My last oil change was at 20700 and this one was at 28060. 
+I got an oil change for my car, I would have had my tires changed too, 
+but they seem to have plenty of tread, so, I'm really not going to waste 
+the money. Even though I'm kind of a cheapskate, or, maybe I've become 
+kind of a cheapskate, one thing that I've been spending too much money 
+on is food. For now, I won't worry too much about it, but I will keep 
+in mind not to spend too much money on food. 
 
- * * * 
+I finally got my project to upload an image. Small victories. Here is one thing that I've noticed: it's possible to set the dimensions of a canvas in CSS or HTML. For some reason I decided to set the dimensions in HTML, and when I uploaded the image, the canvas stretched to fit the image, when the dimensions of the canvas are set in CSS, it seems the image is stretched to fit the canvas. Most of the other student projects that I'm taking guidance from set the dimensions of the canvas in CSS, but I think I'm going to keep the canvas dimensions set in HTML because I prefer that the image retain its, I guess, dimensional integrity. 
 
- I got an oil change for my car, I would have had my tires changed too, but they seem to have plenty of tread, so, I'm really not going to waste the money. Even though I'm kind of a cheapskate, or, maybe I've become kind of a cheapskate, one thing that I've been spending too much money on is food. For now, I won't worry too much about it, but I will keep in mind not to spend too much money on food. 
+Right now, for food, I'll just stick to the 7-Eleven grill items. Fast food, buffet food, and restaurants will cost too much 
 
- * * * 
+I was able to get the Reset Image button to work. Second small victory. 
 
- I finally got my project to upload an image. Small victories. Here is one thing that I've noticed: it's possible to set the dimensions of a canvas in CSS or HTML. For some reason I decided to set the dimensions in HTML, and when I uploaded the image, the canvas stretched to fit the image, when the dimensions of the canvas are set in CSS, it seems the image is stretched to fit the canvas. Most of the other student projects that I'm taking guidance from set the dimensions of the canvas in CSS, but I think I'm going to keep the canvas dimensions set in HTML because I prefer that the image retain its, I guess, dimensional integrity. 
+you are too damn fine so for the good of myself and for the good of mankind i'm going to eat your i'm going to i'm going to eat your you know well yeah that's what i'm going to do 
 
- * * * 
-
- Right now, for food, I'll just stick to the 7-Eleven grill items. Fast food, buffet food, and restaurants will cost too much 
-
- * * * 
-
- I was able to get the Reset Image button to work. Second small victory. 
-
- * * * 
-
- you are too damn fine so for the good of myself and for the good of mankind i'm going to eat your i'm going to i'm going to eat your you know well yeah that's what i'm going to do 
-
- * * * 
-
- I few days ago I received a marketing email from the company that she works for, and it kind of irritated me more than I thought that it would. I requested to be removed from the emailing list a while ago, and I also tried to delete my account with her company, but, it didn't seem like that option was easily available. I don't know how I really feel about that whole thing. I don't know if it's something I want to forget, or something that I just don't want to think about.
-
-...
+I few days ago I received a marketing email from the company that she works for, and it kind of irritated me more than I thought that it would. I requested to be removed from the emailing list a while ago, and I also tried to delete my account with her company, but, it didn't seem like that option was easily available. I don't know how I really feel about that whole thing. I don't know if it's something I want to forget, or something that I just don't want to think about.
 
 901 E Division St
 at QuikTrip
 Arlington, TX 76011-7333
 United States
-
-...
-
 
 oh, that is true. of the civilizations of antiquity, i love the romans the best, but the egyptians were fucking amazing. the invented perfume. but the romans invented plumbing so, this is a tough one.
 
