@@ -3918,7 +3918,7 @@ change into new pages of new material.
 
 FEMINISM
 Favorite feminist icon
-The next thing the feminist movement has to focus on is...
+The next thing the feminist movement has to focus on is
 The kind of feminism I most identify with
 How I deal with people who are anti-feminist
 My thoughts on male allies
@@ -3957,23 +3957,22 @@ var red = 0;
 
 for (var pixel of picture.values()) {
 if ((pixel.getX() )){
-pixel.setRed(pixel.getX());
-}
-}
-
-return picture;
-}
+pixel.setRed(pixel.getX());}}
+return picture;}
 
 var result = changeRed(256,200);
 print(result);
 
-
-
-
 I can't believe how hot it is.
 
-Today is Monday, like Monday-Monday. A real Monday, but for me it's a Wednesday in terms of the workweek, and yet that's not really accurate because I signed up for overtime this week, and I don't exactly have a day off. I signed up for two half-shifts. I kind of had to fight to keep my job today, not exactly but kind of. I'm not exactly sure what I would do if I were on the job market again.
+Today is Monday, like Monday-Monday. A real Monday, but for 
+me it's a Wednesday in terms of the workweek, and yet that's 
+not really accurate because I signed up for overtime this week, 
+and I don't exactly have a day off. I signed up for two half-shifts. 
+I kind of had to fight to keep my job today, not exactly but kind of. 
+I'm not exactly sure what I would do if I were on the job market again.
 
+163
 
 some person on reddit laments that the person's country is on fire again, but i can't determine if the person is from france or canada.
 
