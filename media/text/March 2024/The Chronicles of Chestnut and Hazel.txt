@@ -3819,7 +3819,15 @@ kind of a cheapskate, one thing that I've been spending too much money
 on is food. For now, I won't worry too much about it, but I will keep 
 in mind not to spend too much money on food. 
 
-I finally got my project to upload an image. Small victories. Here is one thing that I've noticed: it's possible to set the dimensions of a canvas in CSS or HTML. For some reason I decided to set the dimensions in HTML, and when I uploaded the image, the canvas stretched to fit the image, when the dimensions of the canvas are set in CSS, it seems the image is stretched to fit the canvas. Most of the other student projects that I'm taking guidance from set the dimensions of the canvas in CSS, but I think I'm going to keep the canvas dimensions set in HTML because I prefer that the image retain its, I guess, dimensional integrity. 
+I finally got my project to upload an image. Small victories. Here is one 
+thing that I've noticed: it's possible to set the dimensions of a canvas 
+in CSS or HTML. For some reason I decided to set the dimensions in HTML, 
+and when I uploaded the image, the canvas stretched to fit the image, 
+when the dimensions of the canvas are set in CSS, it seems the image is 
+stretched to fit the canvas. Most of the other student projects that I'm 
+taking guidance from set the dimensions of the canvas in CSS, but I think 
+I'm going to keep the canvas dimensions set in HTML because I prefer that 
+the image retain its, I guess, dimensional integrity. 
 
 Right now, for food, I'll just stick to the 7-Eleven grill items. Fast food, buffet food, and restaurants will cost too much 
 
