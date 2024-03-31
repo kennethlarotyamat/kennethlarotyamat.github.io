@@ -3729,6 +3729,26 @@ to be ready for my for my entrance exam for the Academy.
 
 158
 
+Applications for Mergers & Acquisitions, Portfolio Management, and Equity Index Development
+Create an equity index of publicly traded companies based on hita, different companies.  A 
+list of companies will be assigned. Each assigned a HITA level. This will inform. The HITA 
+equity Index will inform the M&A approach.
+
+We can call it the 
+
+Chatterjee 500 HITA Equity Index, 
+but we might not be able to use the number 500, so it can actually be any number.
+
+We might not be able to use numbers like
+
+500 - S&P 500
+30 - Dow 30, dow jones industrial average
+3000 - Russell 3000
+5000 - WIlshire 5000
+100 - NASDAQ 100, the nasdaq
+
+Well, maybe not because there is a NASDAQ 100 and an S&P 100. So we might be able to use 500.
+
  * * * 
 
  I got an oil change for my car. It seemed like a long stretch since my last oil change, but full synthetic oil changes are only needed every 8000 miles, so I was actually right on time. My last oil change was at 20700 and this one was at 28060. 
