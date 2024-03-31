@@ -3829,6 +3829,8 @@ taking guidance from set the dimensions of the canvas in CSS, but I think
 I'm going to keep the canvas dimensions set in HTML because I prefer that 
 the image retain its, I guess, dimensional integrity. 
 
+160
+
 Right now, for food, I'll just stick to the 7-Eleven grill items. Fast food, buffet food, and restaurants will cost too much 
 
 I was able to get the Reset Image button to work. Second small victory. 
