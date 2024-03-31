@@ -3944,13 +3944,16 @@ var picture2 = new SimpleImage("smalllion.jpg");
 var result2 = topRightCorner(125, 20, picture2, 255, 0, 0);
 print(result2);
 
-It took me a really long time to figure this out. I don't even want to start working on the next question. I really don't.
+It took me a really long time to figure this out. I don't 
+even want to start working on the next question. I really don't.
 
 This was the last question of the assignment, and it came rather quickly:
 
 function changeRed(width, height) {
 var picture = new SimpleImage(width, height);
 var red = 0;
+
+162
 
 for (var pixel of picture.values()) {
 if ((pixel.getX() )){
