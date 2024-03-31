@@ -4416,6 +4416,18 @@ Digital object, digital technology has different uses and meanings
 depending on the social circles where it is being used. This results 
 in products boundaries are fluid, and determined by social actors
 
+Framework for conceptualizing digital innovation framework
+Economics strategy and marketing 
+
+Digital object, digital technology has different uses and meanings depending on the 
+social circles where it is being used. This results in products boundaries are fluid, 
+and determined by social actors
+
+Socio-Technical phenomenon.
+Agency is distributed
+Heterogeneous groups
+Across industries
+Across disciplines
 
 4.3.0 Digitalization: Advances and Challenges
 4.1.1 Blockchain Research in Information Systems
@@ -4430,7 +4442,10 @@ Economics strategy and marketing
 4.3.3 Digital Opportunities For Incumbents
 Challenges for incumbents:
 Existing infrastructure is considered old, and a liability
-Incumbents have a resource advantage over new entrants, but their existing infrastructure can be considered old, and as a result, a liability.
+Incumbents have a resource advantage over new entrants, but their 
+existing infrastructure can be considered old, and as a result, a liability.
+
+169
 
 Transformation of the old while transitioning, incumbents, applies to incumbents
 RBV - Resource Based View - extended into the customer context framework
