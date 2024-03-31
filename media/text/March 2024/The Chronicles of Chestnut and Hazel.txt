@@ -4450,14 +4450,17 @@ existing infrastructure can be considered old, and as a result, a liability.
 Transformation of the old while transitioning, incumbents, applies to incumbents
 RBV - Resource Based View - extended into the customer context framework
 Resource access over ownership
-Presumers - consumers and producers at the same time, where users of a product both consume the product, and produce the product - Innovation partners and consumers. They have a multi-faceted role in the digital ecosystem.
+Presumers - consumers and producers at the same time, where users of a product both consume 
+the product, and produce the product - Innovation partners and consumers. They have a 
+multi-faceted role in the digital ecosystem.
 
 This article was really - boring!
 
 A digital artifact doesn’t give a reason for any given decision
-	This might be true, but digital artifacts are also programmed, so, it might not give a reason, but the reason can be traced back to the programming of the digital artifact.
+	This might be true, but digital artifacts are also programmed, so, it might not give a reason, 
+   but the reason can be traced back to the programming of the digital artifact.
 
- 		
+170	
 
 4.3.4 Digitalization Ethical Challenge
 
