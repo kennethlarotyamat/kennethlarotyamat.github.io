@@ -4135,7 +4135,8 @@ discover.
 
 165
 
-Sonnet in Java by Kenneth Larot Yamat dba Chestnut + Hazel (2024) 
+Sonnet in Java by Kenneth Larot 
+Yamat dba Chestnut + Hazel (2024) 
  
 I think about how things are going for
 me at the moment and I feel nothing
@@ -4155,7 +4156,8 @@ into this mental vortex down just shy
 of hitting the ocean floor where the squid
 and jellyfish and octopuses lived
 
-Sonnet in Java #2 by Kenneth Larot Yamat dba Chestnut + Hazel (2024) 
+Sonnet in Java #2 by Kenneth Larot 
+Yamat dba Chestnut + Hazel (2024) 
  
 chickens are the start of any yummy
 meal that a person can eat like nuggets
