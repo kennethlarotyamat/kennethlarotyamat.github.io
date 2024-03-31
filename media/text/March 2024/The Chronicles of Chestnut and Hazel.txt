@@ -4308,6 +4308,55 @@ but we might not be able to use the number 500, so it can actually be any number
 
 167
 
+This email contains my individual development plan for 2024. I'm currently enrolled in the
+entrepreneurship and innovation graduate certificate program, and I was not enrolled or admitted
+to any program during the 2023 academic calendar.
+
+My primary goal for the 2024 academic year is to file a patent before the end of the 2024
+tax year. My accomplishments for the 2024 calendar year include increasing my intellectual
+property catalog by 33%, which includes the registration of 2 software copyrights filed
+while taking MIS 768 with Han-fen Hu, Ph.D. for applications submitted as assignments during
+her course. I anticipate increasing my catalog by an additional 12% before the spring 2024
+semester is completed.
+
+On a longer time horizon, I would say that my entrepreneurial goal would be to create a kind of
+holding company using the traditional structure, a CEF structure, or a SPAC structure, depending
+on what's most appropriate for the organizational objectives of the holding company. I was inspired
+by the conceptual framework, HITA, introduced by Sutirtha Chatterjee, Ph.D. in his MIS 764 course.
+I've included draft work of a term project below.
+
+   (5/5) Term Project
+   Topic: 
+   turn-arounds and pivots: leveraging organizational courage for high-risk innovation as an
+   alternative to the conventional approach of distressed asset sales and mass-layoffs
+
+   Implementation:
+
+   HITA Applications for Mergers & Acquisitions, Portfolio Management, and Equity Index Development
+   Create an equity index of publicly traded companies based on hita, different companies.  A list of 
+   companies will be assigned. Each assigned a HITA level. This will inform. The HITA equity Index will 
+   inform the M&A approach. Since the HITA impact on innovation is quadratic, we would use the absolute 
+   value of a company’s assigned HITA to rank companies within this index.
+
+   We can call it the 
+
+   Chatterjee 500 HITA Equity Index, 
+   but we might not be able to use the number 500, so it can actually be any number.
+
+   We might not be able to use numbers like
+
+   500 - S&P 500, the s&p
+   30 - Dow 30, dow jones industrial average, the dow
+   3000 - Russell 3000
+   5000 - WIlshire 5000
+   100 - NASDAQ 100, the nasdaq
+
+   Well, maybe not because there is a NASDAQ 100 and an S&P 100. So we might be able to use 500.
+
+Sincerely,
+
+Kenneth Larot Yamat
+
 Annual Mandatory Individual Development Plan (IDP)
 
 yong.li@unlv.edu
@@ -4318,9 +4367,50 @@ This email contains my individual development plan for 2024. I'm currently enrol
 entreprenurship and innovation graduate certificate program, and I was not enrolled or admitted
 to any program during the 2023 academic calendar.
 
+My primary goal for the 2024 academic year is to file a patent before the end of the 2024
+tax year. My accomplishments for the 2024 calendar year include increasing my intellectual
+property catalog by 33%, which includes the registration of 2 software copyrights filed
+while taking MIS 768 with Han-fen Hu, Ph.D. for applications submitted as assignments during
+her course. I anticipate increasing my catalog by an additional 12% before the spring 2024
+semester is completed.
 
+On a longer time horizon, I would say that my entreprenurial goal would be to create a kind of
+holding company using the traditional structure, a CEF structure, or a SPAC structre, depending
+on what's most appropriate for the organizational objectives of the holding company. I was inspired
+by the conceptual framework, HITA, introduced by Sutirtha Chatterjee, Ph.D. in his MIS 764 course.
+I've included draft work of a term project below.
 
+   (5/5) Term Project
+   Topic: 
+   turn-arounds and pivots: leveraging organizational courage for high-risk innovation as an
+   alternative to the conventional approach of distressed asset sales and mass-layoffs
 
+   Implementation:
+
+   HITA Applications for Mergers & Acquisitions, Portfolio Management, and Equity Index Development
+   Create an equity index of publicly traded companies based on hita, different companies.  A list of 
+   companies will be assigned. Each assigned a HITA level. This will inform. The HITA equity Index will 
+   inform the M&A approach. Since the HITA impact on innovation is quadratic, we would use the absolute 
+   value of a company’s assigned HITA to rank companies within this index.
+
+   We can call it the 
+
+   Chatterjee 500 HITA Equity Index, 
+   but we might not be able to use the number 500, so it can actually be any number.
+
+   We might not be able to use numbers like
+
+   500 - S&P 500, the s&p
+   30 - Dow 30, dow jones industrial average, the dow
+   3000 - Russell 3000
+   5000 - WIlshire 5000
+   100 - NASDAQ 100, the nasdaq
+
+   Well, maybe not because there is a NASDAQ 100 and an S&P 100. So we might be able to use 500.
+
+Sincerely,
+
+Kenneth Larot Yamat
 
 4.3.0 Digitalization: Advances and Challenges
 
