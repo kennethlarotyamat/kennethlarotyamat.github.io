@@ -4497,7 +4497,9 @@ alternative to the conventional approach of distressed asset sales and mass-layo
 Implementation:
 
 HITA Applications for Mergers & Acquisitions, Portfolio Management, and Equity Index Development
-Create an equity index of publicly traded companies based on hita, different companies.  A list of companies will be assigned. Each assigned a HITA level. This will inform. The HITA equity Index will inform the M&A approach. Since the HITA impact on innovation is quadratic, we would use the absolute value of a company’s assigned HITA to rank companies within this index.
+Create an equity index of publicly traded companies based on hita, different companies.  A list of companies will be assigned. 
+Each assigned a HITA level. This will inform. The HITA equity Index will inform the M&A approach. Since the HITA impact on 
+innovation is quadratic, we would use the absolute value of a company’s assigned HITA to rank companies within this index.
 
 We can call it the 
 
