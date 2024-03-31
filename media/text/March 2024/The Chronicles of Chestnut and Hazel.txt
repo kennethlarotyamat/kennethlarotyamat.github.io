@@ -4410,6 +4410,13 @@ Kenneth Larot Yamat
 
 168
 
+Framework for conceptualizing digital innovation framework
+Economics strategy and marketing 
+Digital object, digital technology has different uses and meanings 
+depending on the social circles where it is being used. This results 
+in products boundaries are fluid, and determined by social actors
+
+
 4.3.0 Digitalization: Advances and Challenges
 
 4.1.1 Blockchain Research in Information Systems
