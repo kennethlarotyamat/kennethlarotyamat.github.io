@@ -4489,6 +4489,8 @@ A digital artifact doesn’t give a reason for any given decision
 
 171
 
+Extended Resource based view - enterprises that share resources. As partners, or through supplier and customer relationships
+
 (5/5) Term Project
 Topic: 
 turn-arounds and pivots: leveraging organizational courage for high-risk innovation as an
@@ -4515,6 +4517,8 @@ We might not be able to use numbers like
 100 - NASDAQ 100, the nasdaq
 
 Well, maybe not because there is a NASDAQ 100 and an S&P 100. So we might be able to use 500.
+
+172
 
 References
 Chatterjee, S., Moody, G. D., Lowry, P. B., Chakraborty, S., & Hardin, A. (2021). The nonlinear influence of harmonious information technology affordance on organisational innovation. Information Systems Journal, 31(3), 294–322. https://doi.org/10.1111/isj.12311
