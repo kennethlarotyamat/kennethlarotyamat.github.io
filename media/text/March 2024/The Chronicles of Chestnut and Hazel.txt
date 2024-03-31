@@ -4475,7 +4475,6 @@ A digital artifact doesn’t give a reason for any given decision
 4.1.3 the Fintech Revolution:						               Vicky
 4.1.4 Quantum Computing and Information Systems		         Vicky
 
-
 4.2. The Changing Nature of Work						            Kelly
 4.2.1 Editorial Future of Work Organizations Society		   Kelly
 4.2.2 Human Factors in AI and Future of Work			         Kelly
