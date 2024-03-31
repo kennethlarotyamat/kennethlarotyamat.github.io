@@ -3962,7 +3962,6 @@ return picture;}
 
 var result = changeRed(256,200);
 print(result);
-
 I can't believe how hot it is.
 
 Today is Monday, like Monday-Monday. A real Monday, but for 
