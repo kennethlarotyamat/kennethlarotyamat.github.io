@@ -4835,10 +4835,17 @@ Li, Y. & J. Mahoney. 2011. When Are Venture Capital Projects Initiated? Journal 
 Tong, T. & Y. Li. 2011. Real Options and Investment Mode Decision: Evidence from Corporate Venture Capital and Acquisition. Organization Science. 22(3): 659-674
 Courtney, C., Dutta, S., and Li, Y. 2017. Resolving information asymmetry: Signaling and crowdfunding success. Entrepreneurship Theory and Practice 41(2): 265-290.
 Liu, Y., Y. Li, X. Hao, and Y. Zhang. 2019. Narcissism and entrepreneurial learning from Failure. Journal of Business Venturing. 34 (3), 496-512
-Li, Y., S. Zahra and S. Lan. 2017. Heterogeneity in New Venture Formation Rates across Nations: The Schumpeterian and Institutional Economics Views. Entrepreneurial Finance: Managerial and Policy Implications. 1-35. Lead article
-Li, Y., and E. Yao. 2019. All ties are not created equal: Institutional equity ties, IPO performance, and market growth of new ventures. In D. Cumming & S. Johan (ed.). Oxford Handbook of IPO
-Wang, E. T. G., Hu, H.-f., & Hu, P. J.-H. (2013). Examining the role of information technology in cultivating firms’ dynamic marketing capabilities. Information & Management, 50(6), 336-343. https://doi.org/10.1016/j.im.2013.04.007
-Randolph, R. V., Hu, H.-f., & Silvernail, K. D. (2020). Better the devil you know: Inter-organizational information technology and network social capital in coopetition networks. Information & Management. Advance online publication. https://doi.org/10.1016/j.im.2020.103344
+Li, Y., S. Zahra and S. Lan. 2017. Heterogeneity in New Venture Formation Rates across Nations: The Schumpeterian and Institutional Economics Views. 
+Entrepreneurial Finance: Managerial and Policy Implications. 1-35. Lead article
+Li, Y., and E. Yao. 2019. All ties are not created equal: Institutional equity ties, IPO performance, and market growth of new ventures. In D. 
+Cumming & S. Johan (ed.). Oxford Handbook of IPO
+Wang, E. T. G., Hu, H.-f., & Hu, P. J.-H. (2013). Examining the role of information technology in cultivating firms’ dynamic marketing capabilities. 
+Information & Management, 50(6), 336-343. https://doi.org/10.1016/j.im.2013.04.007
+Randolph, R. V., Hu, H.-f., & Silvernail, K. D. (2020). Better the devil you know: Inter-organizational information technology and network social 
+capital in coopetition networks. Information & Management. Advance online publication. https://doi.org/10.1016/j.im.2020.103344
+
+180
+
 Randolph, R. V., Hu, H., Silvernail, K. (2018). Knowledge Networking and Coopetition: The Role of Shared Technology in Promoting Goal Convergence. 2018 Western Academy of Management Conference, 59 9.
 Hu, H.-F., Moore, W. L., & Hu, P. J. (2024). Incorporating user perceptions and product attributes in software product design and evaluation. Journal of Information Technology, 36(2), 123-137.
 Chatterjee, S., Chakraborty, S., Fulk, K., & Lowry, P. B. (2024). The role of dissonant relational multiplexity in information system implementation failures. Journal of the Association for Information Systems (JAIS). Advance online publication. https://aisel.aisnet.org/jais/vol25/iss2/1/
