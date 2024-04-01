@@ -4817,12 +4817,19 @@ actualization. Journal of Strategic Information Systems, 29,
 
 178
 
-Rao, D. (2024, March 26). Mastering Pivots & Turnarounds: #1 Lesson From Under Armour, Hertz & Apple. Forbes. https://www.forbes.com/sites/dileeprao/2024/03/26/mastering-pivots--turnarounds-1-lesson-from-under-armour-hertz--apple/?sh=2ebc19f5afae
+Rao, D. (2024, March 26). Mastering Pivots & Turnarounds: #1 Lesson From Under Armour, Hertz & 
+Apple. Forbes. https://www.forbes.com/sites/dileeprao/2024/03/26/mastering-pivots--turnarounds-1-lesson-from-under-armour-hertz--apple/?sh=2ebc19f5afae
 America’s Most Innovative Companies. (2024). Fortune. https://fortune.com/ranking/americas-most-innovative-companies/
 
-Patnaik, D. (2024, March 24). Is It Time To Rethink Your Innovation Strategy? Forbes. Retrieved from https://www.forbes.com/sites/devpatnaik/2024/03/24/is-it-time-to-rethink-your-innovation-strategy/?sh=7090736f440a
+Patnaik, D. (2024, March 24). Is It Time To Rethink Your Innovation Strategy? Forbes. 
+Retrieved from https://www.forbes.com/sites/devpatnaik/2024/03/24/is-it-time-to-rethink-your-innovation-strategy/?sh=7090736f440a
 
-Chapman, M., & The Associated Press. (2024, March 28). Home Depot’s largest acquisition ever is an $18.25 billion bet on the housing market’s severe shortage of new homes. Fortune. Retrieved from https://fortune.com/2024/03/28/home-depot-acquisition-srs-distribution-18-25-billion-housing-market/
+Chapman, M., & The Associated Press. (2024, March 28). Home Depot’s largest acquisition ever is an $18.25 billion bet 
+on the housing market’s severe shortage of new homes. Fortune. Retrieved 
+from https://fortune.com/2024/03/28/home-depot-acquisition-srs-distribution-18-25-billion-housing-market/
+
+179
+
 Li, Y., and T. Chi. 2013. Venture capitalists’ decision to withdraw: The role of portfolio configuration from a real options lens. Strategic Management Journal 34: 1351-1366.
 Li, Y. & J. Mahoney. 2011. When Are Venture Capital Projects Initiated? Journal of Business Venturing. 26(2): 239-254.
 Tong, T. & Y. Li. 2011. Real Options and Investment Mode Decision: Evidence from Corporate Venture Capital and Acquisition. Organization Science. 22(3): 659-674
