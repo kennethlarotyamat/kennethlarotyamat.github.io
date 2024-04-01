@@ -4551,6 +4551,7 @@ Courtney, C., Dutta, S., and Li, Y. 2017. Resolving information asymmetry: Signa
 Liu, Y., Y. Li, X. Hao, and Y. Zhang. 2019. Narcissism and entrepreneurial learning from Failure. Journal of Business Venturing. 34 (3), 496-512
 Li, Y., S. Zahra and S. Lan. 2017. Heterogeneity in New Venture Formation Rates across Nations: The Schumpeterian and Institutional Economics Views. 
 Entrepreneurial Finance: Managerial and Policy Implications. 1-35. Lead article
+
 Li, Y., and E. Yao. 2019. All ties are not created equal: Institutional equity ties, IPO performance, and market growth of new ventures. In D. 
 Cumming & S. Johan (ed.). Oxford Handbook of IPO
 Wang, E. T. G., Hu, H.-f., & Hu, P. J.-H. (2013). Examining the role of information technology in cultivating firms’ dynamic marketing capabilities. 
@@ -4561,6 +4562,7 @@ Randolph, R. V., Hu, H., Silvernail, K. (2018). Knowledge Networking and Coopeti
 2018 Western Academy of Management Conference, 59 9.
 Hu, H.-F., Moore, W. L., & Hu, P. J. (2024). Incorporating user perceptions and product attributes in software product design and evaluation. Journal 
 of Information Technology, 36(2), 123-137.
+
 Chatterjee, S., Chakraborty, S., Fulk, K., & Lowry, P. B. (2024). The role of dissonant relational multiplexity in information system implementation 
 failures. Journal of the Association for Information Systems (JAIS). Advance online publication. https://aisel.aisnet.org/jais/vol25/iss2/1/
 Chatterjee, S., Sarker, S., Lee, M. J., Xiao, X., & Elbanna, A. (2021). A possible conceptualization of the information systems (IS) artifact: A 
