@@ -4953,6 +4953,9 @@ As partners, or through supplier and customer relationships
 
 185
 
+I don't know where to begin. I mean. I really don't think I'm going 
+to show up for any more classes. This semester was a disaster.
+
 4.2. The Changing Nature of Work						Kelly
 4.2.1 Editorial Future of Work Organizations Society		Kelly
 4.2.2 Human Factors in AI and Future of Work			Kelly
@@ -4973,7 +4976,10 @@ alternative to the conventional approach of distressed asset sales and mass-layo
 Implementation:
 
 HITA Applications for Mergers & Acquisitions, Portfolio Management, and Equity Index Development
-Create an equity index of publicly traded companies based on hita, different companies.  A list of companies will be assigned. Each assigned a HITA level. This will inform. The HITA equity Index will inform the M&A approach. Since the HITA impact on innovation is quadratic, we would use the absolute value of a company’s assigned HITA to rank companies within this index.
+Create an equity index of publicly traded companies based on hita, different companies.  A list of 
+companies will be assigned. Each assigned a HITA level. This will inform. The HITA equity Index will 
+inform the M&A approach. Since the HITA impact on innovation is quadratic, we would use the absolute 
+value of a company’s assigned HITA to rank companies within this index.
 
 We can call it the 
 
