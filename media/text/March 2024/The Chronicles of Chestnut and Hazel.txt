@@ -4879,20 +4879,17 @@ I really should have just audited MIS 764 when I had the chance.
 I'm irritated. nightmare.
 
 4.3.0 Digitalization: Advances and Challenges
-
 4.1.1 Blockchain Research in Information Systems
-
 4.1.3 the Fintech Revolution:
 
-4.2.2 Human Factors in AI and Future of Work					
-
+4.2.2 Human Factors in AI and Future of Work
 4.3.1 Digital Innovation Review
-
 Framework for conceptualizing digital innovation framework
 
-Economics strategy and marketing 
-
-Digital object, digital technology has different uses and meanings depending on the social circles where it is being used. This results in products boundaries are fluid, and determined by social actors
+Economics strategy and marketing
+Digital object, digital technology has different uses and meanings depending 
+on the social circles where it is being used. This results in products boundaries 
+are fluid, and determined by social actors
 
 Socio-Technical phenomenon.
 Agency is distributed
