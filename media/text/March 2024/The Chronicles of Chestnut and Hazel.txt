@@ -4994,8 +4994,11 @@ We might not be able to use numbers like
 5000 - WIlshire 5000
 100 - NASDAQ 100, the nasdaq
 
+186
+
 Well, maybe not because there is a NASDAQ 100 and an S&P 100. So we might be able to use 500.
-Topic: turn-arounds and pivots: leveraging organizational courage for high-risk innovation as an alternative to the conventional approach of distressed asset fire sales and mass-layoffs
+Topic: turn-arounds and pivots: leveraging organizational courage for high-risk innovation as 
+an alternative to the conventional approach of distressed asset fire sales and mass-layoffs
 intro/motivation: 
 Exploratory innovation as a key turn-around / pivot strategy
 Affordance level reappropriation of existing IP catalog as an ancillary strategy
