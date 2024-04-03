@@ -5577,6 +5577,7 @@ make one long poem out of this set, or have a ten sonnet series.
 
 205
 
+D:\GitHub\kennethlarotyamat.github.io\media\text\March 2024\The Chronicles of Chestnut and Hazel.txt
 I had to undo several commits, and then stage the changes, and then re-commit 
 and push. I think that this might work. This might work, but it still might 
 take a total eternity. Like a real eternity. forever. and ever. and I 
@@ -5587,6 +5588,8 @@ I shaved my head
 Letters from the Conoco Station
 this space was used to write a poem, the poem 
 has been deleted from this blog.
+
+206
 
 I. was actually. at the seven eleven. but i have 
 this issue where I would have to write Seven Eleven, 
