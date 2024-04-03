@@ -1,0 +1,154 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="icon" href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhis5UXOyPLEmBDmRjOHERNBK5CSCBwelHPiOaPwzn903vmcdjBQ_QFy9t4b5N-WNQaxgDTKjK4l7VsbpzXJ9Y82q7MJrdk8c3xq3Nty_TvvAAK1SglaLV9c3f4alOXkW8tYJEZ50WBzNW2tWXdj-ssJLN3HNPhqw0A1DQMNdwJu0aNGArbOUZ3nyvXO-A/s320/Chestnut%20+%20Hazel%20%200123%20(12)%2000%20002%20048.png">
+<title>Project 11 Contact Form</title>
+
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-4bw+/aepP/YC94hEpVNVgiZdgIC5+VKNBQNGCHeKRQN+PtmoHDEXuppvnDJzQIu9" crossorigin="anonymous">
+
+
+
+<link
+href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400;500;600;700;800;900&family=Playfair+Display:ital,wght@0,400;0,500;0,600;0,700;0,800;0,900;1,400;1,500;1,600;1,700;1,800;1,900&family=Roboto+Serif:ital,opsz,wght@0,8..144,100;0,8..144,200;0,8..144,300;0,8..144,400;0,8..144,500;0,8..144,600;0,8..144,700;0,8..144,800;0,8..144,900;1,8..144,100;1,8..144,200;1,8..144,300;1,8..144,400;1,8..144,500;1,8..144,600;1,8..144,700;1,8..144,800;1,8..144,900&display=swap"
+rel="stylesheet">
+
+<link rel="stylesheet" href="https://kennethlarotyamat.github.io/CSS/pllcontactfixed.css">
+<!-- <link rel="stylesheet" href="https://kennethlarotyamat.github.io/CSS/indexTranslations.css"> -->
+
+</head>
+<body>
+<main>
+<p style="min-width: 400px;   max-width: 50%;" >
+  
+</p>   
+</main>
+
+<aside class="grid-item aside-two" id="pointOneAside">
+
+
+
+
+
+
+<form id="exampleForm" autocomplete="off" action="mailto:info@chestnutandhazel.com" target="" method="post" novalidate>
+<div class="input-group">
+<label for="firstName" class="form-label">First name </label>
+<input type="text" id="firstName" name="firstName" class="form-control" required>
+<small class="error-msg invalid-feedback">Example: Mark </small>
+</div>
+<div class="input-group">
+<label for="lastName" class="form-label">Last name </label>
+<input type="text" id="lastName" name="lastName" class="form-control" required>
+<small class="error-msg invalid-feedback">Example: Rothko</small>
+</div>
+<div class="input-group">
+<label for="email" class="form-label">Email </label>
+<input type="email" id="email" name="email" class="form-control" required>
+<small class="error-msg invalid-feedback">Format: username@domain.tld</small>
+</div>
+<div class="input-group">
+<label for="phone" class="form-label">Telephone </label>
+<input type="tel" id="phone" name="phone" class="form-control" pattern="[0-9]{3}-[0-9]{3}-[0-9]{4}" required>
+<small class="error-msg invalid-feedback">Format: 555-555-5555</small>
+</div>
+<div class="input-group">
+<label for="mailingaddress" class="form-label">Mailing Address </label>
+
+<input style="width: 100%; height: auto; aspect-ratio: 8.68 / 2.14;" type="text" id="mailingaddress" name="mailingaddress" class="form-control"  required>
+
+
+
+
+
+<small class="error-msg invalid-feedback"> 
+
+<table  ><tr><td class="exampleFormA">Format: &nbsp; </td><td class="exampleFormA">  555 Orange Grove ORCH</td></tr><tr><td></td><td class="exampleFormA" >Kumquat Vineyards, AK 55555-5555</td></tr></table>
+
+
+
+
+
+</small>
+
+
+
+</div>
+<div class="input-group">
+<label for="Comments" class="form-label">Comments </label>
+
+<input style="width: 100%; height: auto; aspect-ratio: 8.68 / 2.14;" type="text" id="Comments" name="Comments" class="form-control"  required >
+
+
+
+<small class="error-msg invalid-feedback"> 
+
+<table  ><tr><td class="exampleFormA">Note: &nbsp; </td><td class="exampleFormA">  Enter No Comments if</td></tr><tr><td></td><td class="exampleFormA" > you have No Comments</td></tr></table>
+
+
+
+
+
+</small>
+
+
+</div>
+<div class="input-group select">
+<label for="password" class="form-label">Nature of Inquiry </label>
+<select id="accountType" name="accountType" class="form-select" required>
+<option value="Please select an option" selected class="text-muted">Please Specify</option>
+<option value="Free Account">Genuinely Sincere</option>
+<option value="Premium Account">Sincerely Facetious</option>
+</select>
+<small class="error-msg invalid-feedback">Required</small>
+</div>
+<div class="input-group radio">
+<div class="form-check">
+<input type="radio" id="personal" name="purpose" value="Personal" class="form-check-input" required>
+<label for="personal" class="form-check-label">Personal</label>
+<small class="error-msg invalid-feedback">Required</small>
+</div>
+
+<div class="form-check">
+<input type="radio" id="business" name="purpose" value="Business" class="form-check-input" required>
+<label for="business" class="form-check-label">Business</label>
+<small class="error-msg invalid-feedback">Required</small>
+</div>
+</div>
+<div class="input-group checkbox form-check">
+<input type="checkbox" name="subscribe" id="subscribeYes" class="form-check-input" required>
+<label for="subscribeYes" class="form-check-label">My name is Jennifer Connelly</label>
+<small class="error-msg invalid-feedback">Required</small>
+
+
+
+</div>
+<div class="form-btns">
+<button  type="submit" class="fontweightadjustment bootstrapbuttonseven  btn btn-primary submit" disabled>Reach Out</button>
+<button  type="reset" class="fontweightadjustment bootstrapbuttonsix btn btn-danger">Restart</button>
+</div>
+</form>
+<div class="" id="form-submitted-msg">Form successfully submitted!</div>
+
+
+
+
+
+
+
+</aside>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/js/bootstrap.bundle.min.js" integrity="sha384-HwwvtgBNo3bZJJLYd8oVXjrBZt8cqVSpeBNS5n7C8IVInixGAoxmnlMuBnhbgrkm" crossorigin="anonymous"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.4/jquery.min.js"></script>
+
+
+<script src="https://kennethlarotyamat.github.io/javascript/p11cfr.js"></script>
+
+<!-- <script src="https://kennethlarotyamat.github.io/javascript/project11ContactForm.js"></script> -->
+<!-- <script src="https://kennethlarotyamat.github.io/javascript/p11cfr.js"></script> -->
+<!-- C:\Users\KLYam\OneDrive\Documents\GitHub\kennethlarotyamat.github.io\javascript\p11cfr.js -->
+<!-- C:\Users\KLYam\OneDrive\Documents\GitHub\kennethlarotyamat.github.io\javascript\project11ContactForm.js -->
+<!-- C:\Users\KLYam\OneDrive\Documents\GitHub\kennethlarotyamat.github.io\javascript\p11cfr.js -->
+
+</body>
+</html>

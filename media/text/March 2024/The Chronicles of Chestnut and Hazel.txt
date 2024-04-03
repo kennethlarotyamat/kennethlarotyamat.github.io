@@ -5078,6 +5078,8 @@ Economics Views. Entrepreneurial Finance: Managerial and Policy Implications. 1-
 
 191
 
+I don't know. Well I'm in the process of consolidating repositories.
+
 Li, Y., and E. Yao. 2019. All ties are not created equal: Institutional equity ties, IPO performance, and market growth of new ventures. In D. Cumming & S. Johan (ed.). Oxford Handbook of IPO
 Wang, E. T. G., Hu, H.-f., & Hu, P. J.-H. (2013). Examining the role of information technology in cultivating firms’ dynamic marketing capabilities. Information & Management, 50(6), 336-343. https://doi.org/10.1016/j.im.2013.04.007
 Randolph, R. V., Hu, H.-f., & Silvernail, K. D. (2020). Better the devil you know: Inter-organizational information technology and network social capital in coopetition networks. Information & Management. Advance online publication. https://doi.org/10.1016/j.im.2020.103344
