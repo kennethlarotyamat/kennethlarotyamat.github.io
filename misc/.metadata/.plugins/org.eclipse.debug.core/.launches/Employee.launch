@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration type="org.eclipse.jdt.launching.localJavaApplication">
+    <listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_PATHS">
+        <listEntry value="/nightmare1/src/nightmare1/Employee.java"/>
+    </listAttribute>
+    <listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_TYPES">
+        <listEntry value="1"/>
+    </listAttribute>
+    <booleanAttribute key="org.eclipse.jdt.launching.ATTR_EXCLUDE_TEST_CODE" value="true"/>
+    <stringAttribute key="org.eclipse.jdt.launching.MAIN_TYPE" value="nightmare1.Employee"/>
+    <stringAttribute key="org.eclipse.jdt.launching.MODULE_NAME" value="nightmare1"/>
+    <stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="nightmare1"/>
+</launchConfiguration>
