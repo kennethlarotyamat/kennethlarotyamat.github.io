@@ -1,0 +1,357 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" href="..\project 8\Favicon - Chestnut + Hazel  0123 (12) 00 002 048.png">
+    <title>Paws by Chestnut + Hazel (About)</title>
+
+</head>
+<body>
+<!-- [11/05/2023 09:45 AM] [Deployment Test] 
+ -->
+    <!-- ... [Start Solution Area]
+
+                            function processData(input) {
+                                var lines = input.split('\n');
+                                var N = parseInt(lines[0]);
+                                var lineNum = lines[1].split(' ');
+
+                                var sum = 0;
+                                for (var i=0; i<N; ++i) {
+                                    sum += parseInt(lineNum[i]);
+                                }
+                                console.log(sum);
+                            } 
+
+                            process.stdin.resume();
+                            process.stdin.setEncoding("ascii");
+                            _input = "";
+                            process.stdin.on("data", function (input) {
+                                _input += input;
+                            });
+
+                            process.stdin.on("end", function () {
+                            processData(_input);
+                            });
+
+
+
+                            process.stdin.resume();
+                            process.stdin.setEncoding('ascii');
+
+                            var input_stdin = "";
+                            var input_stdin_array = "";
+                            var input_currentline = 0;
+
+                            process.stdin.on('data', function (data) {
+                                input_stdin += data;
+                            });
+
+                            process.stdin.on('end', function () {
+                                input_stdin_array = input_stdin.split("\n");
+                                main();    
+                            });
+
+                            function readLine() {
+                                return input_stdin_array[input_currentline++];
+                            }
+
+                            /////////////// ignore above this line ////////////////////
+
+                            function main() {
+                                var number_of_elements = parseInt(readLine());
+                                array = readLine().split(' ');
+                                array = array.map(Number);
+                                var sum_of_array = 0;
+                                for(var i = 0 ; i < number_of_elements ; i++){
+                                    sum_of_array += array[i];
+                                }
+                                console.log(sum_of_array);
+                            }
+
+
+
+
+
+... [End Solution Area]
+
+... [Start Working Area]
+
+... [End Working Area]
+
+...
+
+I'm going to pivot over to step 2 and come back around to this.
+
+...
+
+[Currently Reading]
+
+https://www.seroundtable.com/google-unhelpful-content-signs-36268.html
+https://finance-yahoo-com.cdn.ampproject.org/v/s/finance.yahoo.com/amphtml/news/north-face-vans-owner-vf-153735862.html?amp_gsa=1&amp_js_v=a9&usqp=mq331AQGsAEggAID#amp_tf=From%20%251%24s&aoh=16982874937233&csi=0&referrer=https%3A%2F%2Fwww.google.com&ampshare=https%3A%2F%2Ffinance.yahoo.com%2Fnews%2Fnorth-face-vans-owner-vf-153735862.html
+https://finance-yahoo-com.cdn.ampproject.org/v/s/finance.yahoo.com/amphtml/news/engaged-capital-issues-presentation-highlighting-145000792.html?amp_gsa=1&amp_js_v=a9&usqp=mq331AQGsAEggAID#amp_tf=From%20%251%24s&aoh=16975894354311&csi=0&referrer=https%3A%2F%2Fwww.google.com&ampshare=https%3A%2F%2Ffinance.yahoo.com%2Fnews%2Fengaged-capital-issues-presentation-highlighting-145000792.html
+https://www-cnbc-com.cdn.ampproject.org/v/s/www.cnbc.com/amp/2023/10/17/vans-owner-vf-corp-jumps-after-activist-investor-builds-stake.html?amp_gsa=1&amp_js_v=a9&usqp=mq331AQGsAEggAID#amp_tf=From%20%251%24s&aoh=16976004887808&csi=0&referrer=https%3A%2F%2Fwww.google.com&ampshare=https%3A%2F%2Fwww.cnbc.com%2F2023%2F10%2F17%2Fvans-owner-vf-corp-jumps-after-activist-investor-builds-stake.html
+https://www.fastcompany.com/90966581/how-rei-designed-a-warehouse-where-people-actually-want-to-work
+
+...
+
+I think that I'm starting to understand this.
+
+...
+
+                            process.stdin.resume();
+                            process.stdin.setEncoding('ascii');
+
+                            var input_stdin = "";
+                            var input_stdin_array = "";
+                            var input_currentline = 0;
+
+                            process.stdin.on('data', function (data) {
+                                input_stdin += data;
+                            });
+
+                            process.stdin.on('end', function () {
+                                input_stdin_array = input_stdin.split("\n");
+                                main();    
+                            });
+
+                            function readLine() {
+                                return input_stdin_array[input_currentline++];
+                            }
+
+                            /////////////// ignore above this line ////////////////////
+
+                            function main() {
+                                var number_of_elements = parseInt(readLine());
+                                array = readLine().split(' ');
+                                array = array.map(Number);
+                                var sum_of_array = 0;
+                                for(var i = 0 ; i < number_of_elements ; i++){
+                                    sum_of_array += array[i];
+                                }
+                                console.log(sum_of_array);
+                            }
+
+...
+
+                            function processData(input) {
+                                var lines = input.split('\n');
+                                var N = parseInt(lines[0]);
+                                var lineNum = lines[1].split(' ');
+
+                                var sum = 0;
+                                for (var i=0; i<N; ++i) {
+                                    sum += parseInt(lineNum[i]);
+                                }
+                                console.log(sum);
+                            } 
+
+                            process.stdin.resume();
+                            process.stdin.setEncoding("ascii");
+                            _input = "";
+                            process.stdin.on("data", function (input) {
+                                _input += input;
+                            });
+
+                            process.stdin.on("end", function () {
+                            processData(_input);
+                            });
+
+...
+
+function simpleArraySum(ar) {
+    // Write your code here
+    let sum = 0;
+    for (let i = 0 ; i < ar.length ; i++){
+        const number = ar[i];
+        sum = sum + number
+    }    
+ return sum
+}
+
+...
+
+the problem with this problem is that I have no idea what they are asking, or what they would consider an acceptable answer, 
+i looked at some of the submissions in the top answers section or top solutions section, and 4 out of the 5 javascript solutions 
+that I looked at didn't work when I pluged them in to the answer area. and it's not clear to me why the solution above works 
+and why the other ones don't.
+
+...
+
+'use strict';
+
+const fs = require('fs');
+
+process.stdin.resume();
+process.stdin.setEncoding('utf-8');
+
+let inputString = '';
+let currentLine = 0;
+
+process.stdin.on('data', function(inputStdin) {
+    inputString += inputStdin;
+});
+
+process.stdin.on('end', function() {
+    inputString = inputString.split('\n');
+
+    main();
+});
+
+function readLine() {
+    return inputString[currentLine++];
+}
+
+/*
+ * Complete the 'simpleArraySum' function below.
+ *
+ * The function is expected to return an INTEGER.
+ * The function accepts INTEGER_ARRAY ar as parameter.
+ */
+
+function simpleArraySum(ar) {
+    // Write your code here
+
+}
+
+function main() {
+    const ws = fs.createWriteStream(process.env.OUTPUT_PATH);
+
+    const arCount = parseInt(readLine().trim(), 10);
+
+    const ar = readLine().replace(/\s+$/g, '').split(' ').map(arTemp => parseInt(arTemp, 10));
+
+    const result = simpleArraySum(ar);
+
+    ws.write(result + '\n');
+
+    ws.end();
+}
+
+...
+
+function processData(input) {
+    //Enter your code here
+    var lines = input.split("\n");
+    var count = parseInt(lines[0].trim(), 10);
+    var numbers = lines[1].split(" ");
+    var res = 0;
+    for (var i = 0; i < count; i++) {
+        res += parseInt(numbers[i], 10);
+    }
+    process.stdout.write(res);
+} 
+
+process.stdin.resume();
+process.stdin.setEncoding("ascii");
+_input = "";
+process.stdin.on("data", function (input) {
+    _input += input;
+});
+
+process.stdin.on("end", function () {
+   processData(_input);
+});
+
+...
+
+function processData(input) {
+    //Enter your code here
+    var lines = input.split("\n");
+    var count = parseInt(lines[0].trim(), 10);
+    var numbers = lines[1].split(" ");
+    var res = 0;
+    for (var i = 0; i < count; i++) {
+        res += parseInt(numbers[i], 10);
+    }
+    process.stdout.write(res);
+} 
+
+process.stdin.resume();
+process.stdin.setEncoding("ascii");
+_input = "";
+process.stdin.on("data", function (input) {
+    _input += input;
+});
+
+process.stdin.on("end", function () {
+   processData(_input);
+});
+
+...
+
+This is headache. there is no palindrome problem, the palindrome problems listed. are. something else.
+I'm working on some kind of JavaScript program, but none of this looks familiar.
+
+...
+
+[ I have an idea, and my idea is to use my carousel project, repurpose it, and use it to display my answers.]
+[but there was something else too, I need to figure out how to make it scrollable.]
+[it works well enough for images, but it doesn't work that well for iframes]
+[I'm tired and I'm going to come back around to this my expectation is that this shouldn't be too hard]
+[considering that i've already done 2 seperate ones.]
+
+[LeetCode Solution Start]
+
+                            var x = 121;
+
+                            var digits = x.toString().split('').reverse(); 
+                            var reverseDigits = digits.map(Number)
+                            console.log(reverseDigits);
+
+                            var joinreverseDigits = reverseDigits.join('');
+                            console.log(joinreverseDigits);
+
+                            function isPalindrome() 
+                            {    
+                                if (joinreverseDigits == x){
+                                    return true
+                                } else {
+                                    return false
+                                }
+                            } 
+                            isPalindrome("");
+
+                            console.log(isPalindrome(""));
+
+[LeetCode Solution End]
+
+[CodeWars Solution Start]
+
+                            function isPalindrome(x) {
+
+
+                                var testString  = x ;
+                                var splitString = testString.split(""); 
+                                var reverseArray = splitString.reverse("");  
+                                var joinArray = reverseArray.join("");     
+                                var lcArray = joinArray.toLowerCase();
+                            
+                                
+
+                            if (lcArray === testString.toLowerCase()) {
+                            return true;
+                            } else {
+                            return false;
+                            }
+
+                            }
+
+[CodeWars Solution End]
+
+...
+
+[ I have an idea, and my idea is to use my carousel project, repurpose it, and use it to display my answers.]
+[but there was something else too, I need to figure out how to make it scrollable.]
+[it works well enough for images, but it doesn't work that well for iframes] -->
+<!-- vscode test commit  testing a commit and sync directly from VS Code 10142023 0816-->
+    <!-- 10102023 0423 -->
+
+    <!-- vscode test commit  testing a commit and sync directly from VS Code 10142023 0816-->
+
+    <img src="..\project8\USE project-8-paws-grooming-service.local_about_.png" alt="Girl in a jacket" style="width: 100%; height: auto; ">
+    
+</body>
+</html>    

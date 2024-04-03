@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<link rel="icon"
+href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhis5UXOyPLEmBDmRjOHERNBK5CSCBwelHPiOaPwzn903vmcdjBQ_QFy9t4b5N-WNQaxgDTKjK4l7VsbpzXJ9Y82q7MJrdk8c3xq3Nty_TvvAAK1SglaLV9c3f4alOXkW8tYJEZ50WBzNW2tWXdj-ssJLN3HNPhqw0A1DQMNdwJu0aNGArbOUZ3nyvXO-A/s320/Chestnut%20+%20Hazel%20%200123%20(12)%2000%20002%20048.png">
+
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.3/dist/leaflet.css"
+integrity="sha256-kLaT2GOSpHechhsozzB+flnD+zUyjE2LlfWPgU04xyI="
+crossorigin=""/>
+<script src="https://unpkg.com/leaflet@1.9.3/dist/leaflet.js"
+integrity="sha256-WBkoXOwTeyKclOHuWtc+i2uENFpDZ9YPdf5Hf+D7ewM="
+crossorigin=""></script>
+
+<title> Joséphine McClellan: Let's Meet Up ! </title>
+
+<!-- [11/06/2023 06:09 AM] I think that this page is set up Update Names -->
+</head>
+
+<body>
+
+<div id="map" style=" width: 100%; height: auto; aspect-ratio: 686/868; "> </div>
+
+<script>
+// update locations, this is the field of view
+
+        const map = L.map('map').setView([33.518889, -84.390000], 13);
+
+
+
+        const tiles = L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
+            maxZoom: 19,
+            attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
+        }).addTo(map);
+
+// Location Pin
+
+var marker = L.marker([33.748889, -84.390000]).addTo(map);
+var circle = L.circle([33.748889, -84.390000], {radius: 3600}).addTo(map);
+
+
+
+
+var latlngs = [[33.749157, -84.38221],[33.758889, -84.35],[33.778889, -84.350000]];
+
+var polygon = L.polygon(latlngs, {color: 'orange', weight:6, fillOpacity: .8}).addTo(map);
+
+
+
+// Location Pin Text Bubble
+var popup = L.popup()
+.setLatLng([33.800844, -84.381695])
+.setContent("You've had dreams about me? because I don't think you see what I'm getting at.")
+.openOn(map); 
+
+function onMapClick(e) {
+alert("You clicked the map at " + e.latlng);
+}
+
+map.on('click', onMapClick);
+
+           
+
+</script>
+
+
+
+
+
+</body>
+
+</html>

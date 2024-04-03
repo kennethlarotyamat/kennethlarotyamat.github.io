@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<link rel="icon"
+href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhis5UXOyPLEmBDmRjOHERNBK5CSCBwelHPiOaPwzn903vmcdjBQ_QFy9t4b5N-WNQaxgDTKjK4l7VsbpzXJ9Y82q7MJrdk8c3xq3Nty_TvvAAK1SglaLV9c3f4alOXkW8tYJEZ50WBzNW2tWXdj-ssJLN3HNPhqw0A1DQMNdwJu0aNGArbOUZ3nyvXO-A/s320/Chestnut%20+%20Hazel%20%200123%20(12)%2000%20002%20048.png">
+
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.3/dist/leaflet.css"
+integrity="sha256-kLaT2GOSpHechhsozzB+flnD+zUyjE2LlfWPgU04xyI="
+crossorigin=""/>
+<script src="https://unpkg.com/leaflet@1.9.3/dist/leaflet.js"
+integrity="sha256-WBkoXOwTeyKclOHuWtc+i2uENFpDZ9YPdf5Hf+D7ewM="
+crossorigin=""></script>
+
+<title> Dawn Dwyer: Let's Meet Up ! </title>
+
+
+</head>
+
+<body>
+
+<div id="map" style=" width: 100%; height: auto; aspect-ratio: 686/868; "> </div>
+
+<script>
+// 40.72422, -74.172574
+
+        const map = L.map('map').setView([40.67000, -74.112574], 13);
+
+
+
+        const tiles = L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
+            maxZoom: 19,
+            attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
+        }).addTo(map);
+
+// Location Pin
+
+var marker = L.marker([40.766874, -74.10141]).addTo(map);
+var circle = L.circle([40.72422, -74.172574], {radius: 600}).addTo(map);
+
+// 40.76422, -74.172574           40.74422, -74.152574             40.77422, -74.152574
+
+var latlngs = [[40.76422, -74.172574],[40.74422, -74.152574],[40.77422, -74.152574]];
+
+var polygon = L.polygon(latlngs, {color: 'orange', weight:6, fillOpacity: .8}).addTo(map);
+
+
+
+// Location Pin Text Bubble     40.72422, -74.172574
+var popup = L.popup()
+.setLatLng([40.790666, -74.134712])
+.setContent("This is how we know we're alive: when we get things wrong")
+.openOn(map); 
+
+function onMapClick(e) {
+alert("You clicked the map at " + e.latlng);
+}
+
+map.on('click', onMapClick);
+
+           
+
+</script>
+
+
+
+
+
+
+
+
+
+
+</body>
+
+</html>

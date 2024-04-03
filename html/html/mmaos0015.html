@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<link rel="icon"
+href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhis5UXOyPLEmBDmRjOHERNBK5CSCBwelHPiOaPwzn903vmcdjBQ_QFy9t4b5N-WNQaxgDTKjK4l7VsbpzXJ9Y82q7MJrdk8c3xq3Nty_TvvAAK1SglaLV9c3f4alOXkW8tYJEZ50WBzNW2tWXdj-ssJLN3HNPhqw0A1DQMNdwJu0aNGArbOUZ3nyvXO-A/s320/Chestnut%20+%20Hazel%20%200123%20(12)%2000%20002%20048.png">
+
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.3/dist/leaflet.css"
+integrity="sha256-kLaT2GOSpHechhsozzB+flnD+zUyjE2LlfWPgU04xyI="
+crossorigin=""/>
+<script src="https://unpkg.com/leaflet@1.9.3/dist/leaflet.js"
+integrity="sha256-WBkoXOwTeyKclOHuWtc+i2uENFpDZ9YPdf5Hf+D7ewM="
+crossorigin=""></script>
+
+<title> Amanda Marsh: Let's Meet Up ! </title>
+
+
+</head>
+
+<body>
+
+<div id="map" style=" width: 100%; height: auto; aspect-ratio: 686/868; "> </div>
+
+<script>
+// update locations, this is the field of view   34.54, -112.468611
+
+        const map = L.map('map').setView([34.481000, -112.468611], 13);
+
+
+
+        const tiles = L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
+            maxZoom: 19,
+            attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
+        }).addTo(map);
+
+// Location Pin
+
+var marker = L.marker([34.58149, -112.448759]).addTo(map);
+var circle = L.circle([34.604951, -112.441292], {radius: 1100}).addTo(map);
+// 34.540000, -112.468611            34.520000, -112.448611           34.580000, -112.418611
+var latlngs = [[34.580000, -112.418611],[34.520000, -112.448611],[34.640000, -112.418611]];
+
+var polygon = L.polygon(latlngs, {color: 'orange', weight:6, fillOpacity: .8}).addTo(map);
+
+
+
+// Location Pin Text Bubble
+var popup = L.popup()
+.setLatLng([34.580921, -112.483006])
+.setContent("You got something to say to me before you walk out that door?")
+.openOn(map); 
+
+function onMapClick(e) {
+alert("You clicked the map at " + e.latlng);
+}
+
+map.on('click', onMapClick);
+
+           
+
+</script>
+
+
+
+
+
+</body>
+
+</html>

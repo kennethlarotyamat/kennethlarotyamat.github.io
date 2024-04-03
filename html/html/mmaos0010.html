@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<link rel="icon"
+href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhis5UXOyPLEmBDmRjOHERNBK5CSCBwelHPiOaPwzn903vmcdjBQ_QFy9t4b5N-WNQaxgDTKjK4l7VsbpzXJ9Y82q7MJrdk8c3xq3Nty_TvvAAK1SglaLV9c3f4alOXkW8tYJEZ50WBzNW2tWXdj-ssJLN3HNPhqw0A1DQMNdwJu0aNGArbOUZ3nyvXO-A/s320/Chestnut%20+%20Hazel%20%200123%20(12)%2000%20002%20048.png">
+
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.3/dist/leaflet.css"
+integrity="sha256-kLaT2GOSpHechhsozzB+flnD+zUyjE2LlfWPgU04xyI="
+crossorigin=""/>
+<script src="https://unpkg.com/leaflet@1.9.3/dist/leaflet.js"
+integrity="sha256-WBkoXOwTeyKclOHuWtc+i2uENFpDZ9YPdf5Hf+D7ewM="
+crossorigin=""></script>
+
+<title> Emma Darwin: Let's Meet Up ! </title>
+
+
+</head>
+
+<body>
+
+<div id="map" style=" width: 100%; height: auto; aspect-ratio: 686/868; "> </div>
+
+<script>
+
+
+        const map = L.map('map').setView([-0.970000,-90.500000], 11);
+
+
+
+        const tiles = L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
+            maxZoom: 19,
+            attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
+        }).addTo(map);
+
+
+
+var marker = L.marker([-0.500000,-90.500000]).addTo(map);
+var circle = L.circle([-0.500000,-90.500000], {radius: 13600}).addTo(map);
+
+
+
+var latlngs = [[-0.627694, -90.422974],[-0.617694, -90.412974],[-0.637694, -90.392974]];
+
+var polygon = L.polygon(latlngs, {color: 'orange', weight:6, fillOpacity: .8}).addTo(map);
+
+
+
+
+var popup = L.popup()
+.setLatLng([-0.341978, -90.670853])
+.setContent("It is easy to specify the individual objects of admiration in these grand scenes; but it is not possible to give an adequate idea of the higher feelings of wonder, astonishment, and devotion, which fill and elevate the mind.")
+.openOn(map); 
+
+function onMapClick(e) {
+alert("You clicked the map at " + e.latlng);
+}
+
+map.on('click', onMapClick);
+
+           
+
+</script>
+
+
+
+
+
+</body>
+
+</html>

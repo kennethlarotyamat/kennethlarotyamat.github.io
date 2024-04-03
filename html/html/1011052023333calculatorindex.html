@@ -1,0 +1,242 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Calculator App</title>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet"
+    integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://kennethlarotyamat.github.io/CSS/calculatorbasefilestyle.css">
+  <link rel="icon"
+    href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhis5UXOyPLEmBDmRjOHERNBK5CSCBwelHPiOaPwzn903vmcdjBQ_QFy9t4b5N-WNQaxgDTKjK4l7VsbpzXJ9Y82q7MJrdk8c3xq3Nty_TvvAAK1SglaLV9c3f4alOXkW8tYJEZ50WBzNW2tWXdj-ssJLN3HNPhqw0A1DQMNdwJu0aNGArbOUZ3nyvXO-A/s320/Chestnut%20+%20Hazel%20%200123%20(12)%2000%20002%20048.png">
+
+
+
+
+  <!-- [11/05/2023 09:40 AM] C:\Users\KLYam\OneDrive\Documents\GitHub\kennethlarotyamat.github.io\CSS\calculatorbasefilestyle.css -->
+  <!-- [11/05/2023 09:40 AM] <link rel="stylesheet" href="https://kennethlarotyamat.github.io/miscellaneous/css/index.css"> -->
+
+  <!-- /*      [Resources]              https://www.linkedin.com/in/marianneshaffer/
+                                          https://codepen.io/marnee
+                                          https://codepen.io/shafferma08
+                                          https://github.com/shafferma08
+
+*/ -->
+
+  <!--  [11/05/2023 09:40 AM] [11/05/2023 10:02 AM]    <iframe  src=".\options-pricing-calculator-project-13-part-2\src\index.html" 
+      [11/05/2023 09:40 AM] style="margin: 1vh 1vh 1vh 1vh; padding: 1vh 1vh 1vh 1vh; width:100%; height: auto; aspect-ratio: 50/29; " 
+      [11/05/2023 09:40 AM] scrolling="yes"   
+      [11/05/2023 09:40 AM] allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+      [11/05/2023 09:40 AM]allowfullscreen ></iframe>  -->
+  <!-- <link rel="icon" type="image/svg+xml" href="/vite.svg" />  
+  
+  
+  // ...
+
+// Kenneth Larot Yamat
+
+// "This Is Just To Say Something About The Young Housewife" (2023)
+
+// I totally ate all of the  so many    fried turkeys
+// that were hanging out
+// by the red wheelbarrow
+// you know     the one glazed with
+// soy sauce and beside the 
+//                       kentucky fried 
+//                              kung pao chickens
+//            which 
+// themselves were drenched in
+//               tabasco sauce
+
+// [11/05/2023 09:45 AM] [Deployment Test] I request neither forgiveness
+// nor do I intend to apologize for
+//           my actions 
+
+// [11/05/2023 09:40 AM] because 
+
+// I spent several hours
+// of quality time
+// with a certain young housewife
+
+//                     who
+
+// braless and dressed in negligee 
+
+//           and 
+
+// [11/05/2023 09:40 AM] whose wild hair suggested
+// she spent even more additional
+// even higher quality time with
+// both the ice man
+// and the fish man
+
+//        either sequentially 
+//                or 
+//               simultaneously 
+//                      neither would surprise me
+
+// left me    breathless    exhausted
+// as well as      famished
+
+// I thought I gave a good
+// account of myself
+
+// but then along came 
+//           the milkman
+// and    she             still
+//    had enough energy 
+//        for 
+//     round four
+
+// I was there
+// I saw it all
+
+// ...
+  
+  -->
+
+
+</head>
+
+<body>
+  <div class="container">
+    <div class="row justify-content-center">
+      <div class="col-md-6">
+        <div class="card">
+          <div class="card-header bg-dark text-white">
+            <h3 class="card-title mb-0">Quantitative Information Processing Apparatus</h3>
+          </div>
+          <div class="card-body">
+            <div class="row mb-2">
+              <div class="col-12">
+                <div class="text-right">
+                  <span id="previous-operand"></span>
+                  <span id="current-operand"></span>
+                </div>
+                <input type="text" class="form-control" id="display" readonly>
+              </div>
+            </div>
+            <div class="row">
+              <div class="col-9">
+                <div class="row">
+                  <div class="col-4">
+                    <button class="btn btn-secondary btn-block" id="clear">
+                      C
+                    </button>
+                  </div>
+                  <div class="col-4">
+                    <button class="btn btn-secondary btn-block" id="sign">
+                      +/-
+                    </button>
+                  </div>
+                  <div class="col-4">
+                    <button class="btn btn-secondary btn-block" id="percent">
+                      %
+                    </button>
+                  </div>
+                </div>
+                <div class="row mt-2">
+                  <div class="col-4">
+                    <button class="btn btn-light btn-block" id="seven">
+                      7
+                    </button>
+                  </div>
+                  <div class="col-4">
+                    <button class="btn btn-light btn-block" id="eight">
+                      8
+                    </button>
+                  </div>
+                  <div class="col-4">
+                    <button class="btn btn-light btn-block" id="nine">
+                      9
+                    </button>
+                  </div>
+                </div>
+                <div class="row mt-2">
+                  <div class="col-4">
+                    <button class="btn btn-light btn-block" id="four">
+                      4
+                    </button>
+                  </div>
+                  <div class="col-4">
+                    <button class="btn btn-light btn-block" id="five">
+                      5
+                    </button>
+                  </div>
+                  <div class="col-4">
+                    <button class="btn btn-light btn-block" id="six">
+                      6
+                    </button>
+                  </div>
+                </div>
+                <div class="row mt-2">
+                  <div class="col-4">
+                    <button class="btn btn-light btn-block" id="one">
+                      1
+                    </button>
+                  </div>
+                  <div class="col-4">
+                    <button class="btn btn-light btn-block" id="two">
+                      2
+                    </button>
+                  </div>
+                  <div class="col-4">
+                    <button class="btn btn-light btn-block" id="three">
+                      3
+                    </button>
+                  </div>
+                </div>
+                <div id="zero-row" class="row">
+                  <div class="col-8">
+                    <button class="btn btn-light btn-block" id="zero">
+                      0
+                    </button>
+                  </div>
+                  <div class="col-4">
+                    <button class="btn btn-light btn-block" id="decimal">
+                      .
+                    </button>
+                  </div>
+                </div>
+              </div>
+              <div class="col-3">
+                <div class="btn-group-vertical" role="group">
+                  <button class="btn btn-warning btn-block" id="divide">
+                    ÷
+                  </button>
+                  <button class="btn btn-warning btn-block" id="multiply">
+                    x
+                  </button>
+                  <button class="btn btn-warning btn-block" id="subtract">
+                    -
+                  </button>
+                  <button class="btn btn-warning btn-block" id="add">
+                    +
+                  </button>
+                  <button class="btn btn-warning btn-block" id="equals">
+                    =
+                  </button>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+
+
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js"
+    integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM"
+    crossorigin="anonymous"></script>
+
+  <script src="https://kennethlarotyamat.github.io\javascript\calculatorbasefilescript.js"></script>
+
+
+
+</body>
+
+</html>

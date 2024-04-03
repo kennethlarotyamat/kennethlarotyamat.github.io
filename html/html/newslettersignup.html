@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+   <meta charset="utf-8" /><link rel="icon" href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhis5UXOyPLEmBDmRjOHERNBK5CSCBwelHPiOaPwzn903vmcdjBQ_QFy9t4b5N-WNQaxgDTKjK4l7VsbpzXJ9Y82q7MJrdk8c3xq3Nty_TvvAAK1SglaLV9c3f4alOXkW8tYJEZ50WBzNW2tWXdj-ssJLN3HNPhqw0A1DQMNdwJu0aNGArbOUZ3nyvXO-A/s320/Chestnut%20+%20Hazel%20%200123%20(12)%2000%20002%20048.png">
+   <title>Project 16: My Basic Form</title>
+</head>
+<body>
+<h1 style="text-align:center;">Newsletter Sign-Up</h1>
+<form name="MyForm"  method="Post" action=" ">
+<div style="text-align:center;">
+<input type="text" name="fullname"  placeholder="Your name">
+<input type="text" name="email"  placeholder="Your email" >
+<input type="tel" id=" " name="phone" placeholder="Your phone #" maxlength="12"  class="form-control" pattern="[0-9]{3}-[0-9]{3}-[0-9]{4}" required>
+
+
+
+<input type="submit" name="submit"  value="Submit" onClick="javascript:return validateInputs();" >
+
+
+
+</div>
+</form>
+
+<!-- 
+
+<div class="input-group">
+<label for="phone" class="form-label">Telephone </label>
+<input type="tel" id="phone" name="phone" class="form-control" pattern="[0-9]{3}-[0-9]{3}-[0-9]{4}" required>
+<small class="error-msg invalid-feedback">Format: 555-555-5555</small>
+</div>
+
+ -->
+
+<script>
+function validateInputs()
+  {
+    //declaration of variables
+    var noFormErrors
+    var SubmitForm;
+    var FormErrors;
+    var FormEmailErrors;
+    var FormPhoneErrors;
+
+    var SubmitEmailProblemsForm;
+    var SubmitPhoneProblemsForm;
+
+    //Initially set SubmitForm to true. 
+
+    SubmitForm = true;
+
+    //Retrieve variables to be validated and sanitized
+    //Assume they are dangerous for now
+
+    var fullname    = new String(document.MyForm.fullname.value);
+    var email   = new String(document.MyForm.email.value);
+    var phone   = new String(document.MyForm.phone.value);
+
+    //Check that the user inputs are not blank
+    //JavaScript logical operator for OR : ||    [https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Logical_OR]
+    // I'm going to replace this logical operator or with logical operator and https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Logical_AND
+    // if ( fullname.length<1 || email.length<1 )
+
+    if (fullname.length < 1 || email.length < 1 || phone.length < 1)
+    {
+    FormErrors = "All fields are mandatory. Please complete the form.";
+    SubmitForm = false;
+    } else {
+
+//Set up a filter for the pattern of an email
+//Learn more about referencing characters:          //https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_Expressions/Character_Classes
+
+
+var filter = /^([\w-]+(?:\.[\w-]+)*)@((?:[\w-]+\.)*\w[\w-]{0,66})\.([a-z]{2,6}(?:\.[a-z]{2})?)$/i;
+var filterPhone = /^[\d-]{10}$/;
+
+
+    
+    //Use test() method to check user email against the filter
+    //test() method: https://www.w3schools.com/jsref/jsref_regexp_test.asp     
+
+    if (!filter.test(email)) {
+    FormErrors = "Your email address is invalid. Please enter a valid email address.";
+    SubmitForm = false;
+    // FormEmailErrors = "Your email address is invalid. Please enter a valid email address.";
+    // SubmitEmailProblemsForm = false;
+
+
+
+}
+
+// if (!filterPhone.test(phone)) {
+//     FormErrors = "Your phone number is invalid. Please enter a valid phone number.";
+//     SubmitForm = false;
+    // FormPhoneErrors = "Your phone number is invalid. Please enter a valid phone number.";
+    // SubmitPhoneProblemsForm = false;
+
+}
+
+
+    }
+
+    
+    if (SubmitForm == false)
+    {
+
+        alert(FormErrors);
+        return false;
+    }
+    // if (SubmitEmailProblemsForm == false)
+    // {
+
+    //     alert(FormEmailErrors);
+    //     return false;
+    // } 
+    // if (SubmitPhoneProblemsForm == false)
+    // {
+
+    //     alert(FormPhoneErrors);
+    //     return false;
+    // }  
+    
+    
+    else {
+        
+        //SANITIZE user inputs by allowing only [a-z 0-9 _ - . @] 
+        //strip forbidden characters
+        fullname = fullname.replace(/[^a-z0-9\s\-]/gim,"");
+        fullname = fullname.trim();
+        email = email.replace(/[^a-z0-9_@.-]/gim,"");
+        email = email.trim();
+
+        // setting up this noFormErrors variable was a minor annoyance. a minor annoyance worth mentioning.
+
+        noFormErrors = "Looks Great! Thank You!";
+        alert(noFormErrors);
+
+        //ready to submit
+        document.MyForm.submit();
+
+
+    }
+    // else {
+    //     noFormErrors = "Looks Great! Thank You!";
+    //             alert(noFormErrors);
+    // }
+}
+</script>
+</body>
+</html>
