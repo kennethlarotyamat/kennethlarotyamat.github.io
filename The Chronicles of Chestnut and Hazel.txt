@@ -5731,6 +5731,7 @@ This space was used for writing a poem. This poem has been deleted.
 
 220
 
+03032024 0309 GitHub - MIS768_edu_unlv_mis768_kly_individualassignment3_ParcelTerminalDemo.java - Eclipse IDE 2024-03-03 02-57-27 - Made with Clipchamp
 I think that I'm losing my mind right now.
 I think that I was able to reset much of this,
 but it's kind of messed up now. Everything.
