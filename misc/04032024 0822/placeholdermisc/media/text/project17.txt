@@ -1,0 +1,81 @@
+https://chestnutandhazel.com/
+
+Mobile:
+
+Performance Score: 52
+    Remove Excess Javascript, I have a lot of ads there, and I think that I have duplicates for the
+    performance analytics from google that may no longer be active.
+
+Accessibility Score: 66
+    Add Iframe titles and Image alt text, I removed those fields to make it easier to manage, but it does have a negative
+    effect on my Accessibility score. So I'll Make those updates as they come along.
+
+Desktop:
+    I've received all error messages for this section of the analytics report. My guess is that I'll have to change
+    things to make them easier to load on the desktop.
+
+
+1. Figure out how to deal with multiple page redirects, which seems to slow down my website quite a bit, I might have to Figure
+out another way of hosting my website rather than through the blogging application, or figuring out another alternative through
+the domain management system.
+
+2. Reduce Unused Javascript. I think that I will remove old web traffic analytics widgets on my website, as well as reduce the
+number of ads my page hosts. The issue of third-party scripts also affects this score.
+
+3. Increase accessibility by reintroducing alt text, iframe titles, and aria attributes for users using assistive technologies.    
+
+
+...
+
+
+https://chestnutandhazel.com/
+
+Mobile: 
+
+Performace Score: 52
+    Remove Excess Javascript, I have a lot of ads there, and I think that I have duplicates for the 
+    perofrmance analytics from google that may not longer be active.
+
+Accessibility Score: 66
+    Add Iframe titles and Image alt text, I removed those fields to make it easier to manage, but it does have a negative
+    effect on my Accessibility score. So I'll Make those updates as they come along.
+
+Desktop:
+    I've recieved all error messages for this section of the anyltics report. My guess is that I'll have to change
+    things to make them easier to load on desktop.
+
+
+1. Figure out how to deal with multiple page redirects, which seems to slow down my website quite a bit, I might have to Figure 
+out another way of hosting my website rather than through the blogging application, or figuring out another alternative through 
+the domain management system.
+
+2. Reduce Unused Javascript. I think that I will remove old web traffic analytics widgets on my website, as well as reduce the 
+number of ads my page hosts. The issue of third-party scripts also effects this score.
+
+3. Increase accessibility by re-introducing alt text, iframe titles, and aria attributes for users using assistive technologies.
+
+
+...
+
+1. Analyze a Website
+Analyze a Website
+Goals
+By the end of this project you will:
+Understand how to use PageSpeed Insight tool works
+Use the tool to get insight into possible page improvements
+Decide on 3 page improvements you can make that will optimize your website
+Instructions
+Exercise: Analyzing and Improving Website Performance with PageSpeed Insights
+Objective: In this activity, you will learn how to use Google’s PageSpeed Insights tool to analyze a website’s performance and identify areas for improvement.
+Generate a PageSpeed Insight report and report the 3 most urgent Performance recommendations and how to resolve them. You can choose popular websites or your personal website.
+Visit the PageSpeed Insights tool (https://pagespeed.web.dev/) and enter the URL of their assigned website.
+Analyze the website’s performance on both mobile and desktop devices. Take note of the overall scores and the individual metrics like Largest Contentful Paint (LCP), First Input Delay (FID), Cumulative Layout Shift (CLS), etc.
+Explore the recommendations provided by the tool for improving the website’s performance, accessibility, best practices, and SEO.
+After analyzing the recommendations, choose at least three improvements that you think would have the most significant impact on your assigned website’s performance.
+Write down your findings, including the overall scores, individual metrics, and the three chosen improvements.
+Project 17 Submission
+Write down your findings, overall scores, individual metrics, and three chosen improvements:
+
+Submit Answer!
+By completing this activity, you will gain hands-on experience using PageSpeed Insights to analyze and improve website performance. This knowledge will be valuable for future web development projects and understanding the importance of website optimization.
+Mark as CompletedBack to dashboard

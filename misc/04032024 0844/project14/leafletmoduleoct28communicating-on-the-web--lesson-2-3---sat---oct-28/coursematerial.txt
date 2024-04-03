@@ -1,0 +1,210 @@
+1. Leaflet
+leav
+Goals
+By the end of this lesson you will:
+Know how to work with Leaflet
+Implement a solution with maps using Leaflet
+Practice knowledge in Javascript
+Introduction
+Leaflet is a powerful tool for developing maps. The programming language used to develop Leaflet is JavaScript, whereby it is easy to learn and use. Leaflet is designed with simplicity, performance and usability in mind. It works efficiently across all major desktop and mobile platforms.
+Leaflet map
+Image from https://leafletjs.com/index.html
+Next
+
+...
+
+2. What is Leaflet?
+Leaflet is an open-source JavaScript library for interactive maps. It has all the mapping features most developers need. It is compatible with mobile platforms and all major desktops. It has a beautiful, easy to use and well-documented API.
+In this link you can see all documentation of the APIs available in this library.
+Preparing your page
+Write the basic HTML code for a webpage or copy and paste in the following code in your editor:
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <title>Hello Leaflet</title>
+
+</head>
+
+<body>
+
+    <div id="map" style="width: 600px; height: 400px;"></div>
+
+</body>
+
+</html>
+Include Leaflet CSS file in the head section of your document:
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.3/dist/leaflet.css"
+     integrity="sha256-kLaT2GOSpHechhsozzB+flnD+zUyjE2LlfWPgU04xyI="
+     crossorigin=""/>
+Include Leaflet JavaScript file after Leaflet’s CSS:
+<script src="https://unpkg.com/leaflet@1.9.3/dist/leaflet.js"
+     integrity="sha256-WBkoXOwTeyKclOHuWtc+i2uENFpDZ9YPdf5Hf+D7ewM="
+     crossorigin=""></script>
+
+Which of the following is the goal of step 3 found above?
+
+
+It is required for basic HTML.
+
+
+With this integration you can use all Leaflet methods.
+
+
+It describes the version of Leaflet.
+
+Check It! (3 left)
+4. This div element with a certain id is where you want your map to be, so feel free to move it or add content around it. For now, we're just going to work with this map's functionality. In addition, note that we're writing everything right in the html, but you know how to create a separate javascript file for the code.
+<div id="map" style="width: 600px; height: 400px;"></div>
+Up until now, the page was blank.
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>Hello Leaflet</title>
+
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.3/dist/leaflet.css"
+        integrity="sha256-kLaT2GOSpHechhsozzB+flnD+zUyjE2LlfWPgU04xyI=" crossorigin="" />
+    <script src="https://unpkg.com/leaflet@1.9.3/dist/leaflet.js"
+        integrity="sha256-WBkoXOwTeyKclOHuWtc+i2uENFpDZ9YPdf5Hf+D7ewM=" crossorigin=""></script>
+</head>
+
+<body>
+    <div id="map" style="width: 600px; height: 400px;"></div>
+</body>
+
+</html>
+Next
+
+...
+
+3. Setting up the map
+Let’s do our first map! Add the following code to the body of your HTML code, save and refresh your navigator.
+<script>
+
+        const map = L.map('map').setView([40.689, //latitude
+            -74.044], //longitude
+            13);    //zoom
+
+        const tiles = L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
+            maxZoom: 19,
+            attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
+        }).addTo(map);
+
+
+</script>
+In the previous code we set up the coordinates of the “Statue of liberty” monument. We suggest that you use the page https://www.latlong.net/ for searching the latitude and longitude of a place.
+Exercise 2:
+Search the coordinates of Niagara falls, put in your code and refresh your navigator.
+Answer:
+It looks like this:
+<script>
+
+        const map = L.map('map').setView([43.096214, //latitude
+            -79.037743], //longitude
+            13);    //zoom
+
+        const tiles = L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
+            maxZoom: 19,
+            attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
+        }).addTo(map);
+
+
+</script>
+map image niagara falls
+As you have seen, the method tileLayer shows the map in the navigator. In this case it is an OpenStreetMap tile layer. More information on tileLayer can be found here.
+Leaflet is provider-agnostic, meaning that it doesn’t enforce a particular choice of providers for tiles. In the next example we use Google Maps tiles; there are many providers available and you can choose the provider that best fits your needs.
+<script>
+
+        const map = L.map('map').setView([43.096214, //latitude
+            -79.037743], //longitude
+            13);    //zoom
+
+        L.tileLayer('http://{s}.google.com/vt/lyrs=m&x={x}&y={y}&z={z}', {
+            maxZoom: 20,
+            subdomains: ['mt0', 'mt1', 'mt2', 'mt3'],
+            attribution: 'Copyright Google Maps'
+            }).addTo(map);
+
+    </script>
+It looks like this:
+map image
+Most tile providers such as OpenStreetMap and Google Maps require an attribution, please check the copyright notice of the tiles provider before publishing your page in production.
+Next
+
+...
+
+4. Markers, Circles, and Polygons
+Now, let’s go to include makers, polylines, polygons, circles and popups:
+Add marker to map:
+var marker = L.marker([43.096214, -79.037743]).addTo(map);
+Add a circle to map: in this case you should indicate the radius of the circle in meter
+var circle = L.circle([43.08, -79.08], {radius: 600}).addTo(map);
+You can add more options for changing the design of the circle, polyline or polygon. For more information visit this link.
+With this code, your map should look like the one below:
+map with circle
+Exercise 3:
+Add a polygon with the following coordinates and options:
+Tip: You can refer to Leaflet’s polygon documentation.
+Coordinates:
+[43.09, -79.07]
+[43.08, -79.06]
+[43.1, -79.05]
+Options:
+Color: orange
+fillOpacity: 0.8
+weight: 6
+Your map should now look like the one below.
+map with circle and triangle
+Next
+
+...
+
+5. Working with popups
+Sometimes you need to attach information in your map. With the next code you can add easily a popup:
+var popup = L.popup()
+           .setLatLng([43.1123, -79.01])
+           .setContent("Testing a popup.")
+           .openOn(map);
+It looks like this:
+map with circle, triangle, and place marker
+We also can add a popup to our objects as makers, polygons, circles, etc. Add the following code to your page.
+marker.bindPopup("Testing a popup.").openPopup();
+circle.bindPopup("<b>Testing!</b>I am a circle.");
+polygon.bindPopup("Testing a polygon.");
+Refresh your page and try clicking on our objects. The popup appears when you click on the object and with method openPopup() you can see the popup immediately open the page (for makers only). See below.
+map with circle, triangle, and labeled place marker
+Next
+
+...
+
+6. Dealing with events
+You can interact with the map using events (see documentation for details).
+Every object has its corresponding event which can be used as a function. It allows you to react to user interaction. For example:
+function onMapClick(e) {
+        alert("You clicked the map at " + e.latlng);
+}
+
+map.on('click', onMapClick);
+With this code, you can click anywhere on the map to view the coordinates of that point. It will show an alert like the one below:
+alert image
+Try to click on your page and see the alerts.
+Next
+
+...
+
+7. Conclusion & Takeaways
+map: used to create a map on a page and manipulate it
+tileLayer: used to load and display tile layers on the map
+Marker: used to display clickable/draggable icons on the map
+Polygon: A class for drawing polygon overlays on a map
+Circle: A class for drawing circle overlays on a map
+Leaflet allows easy interaction with and manipulation of maps.
+The documentation is very complete.
+With knowledge in JavaScript and Leaflet you can create big projects.
+Attribution
+Quick Start Guide - Leaflet - a JavaScript library for interactive maps. (n.d.). [Video]. https://leafletjs.com/examples/quick-start/
+Mark as UncompletedBack to dashboard
+
+... [11/06/2023 01:53 AM]

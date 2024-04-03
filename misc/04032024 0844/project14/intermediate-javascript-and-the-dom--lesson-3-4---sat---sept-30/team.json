@@ -1,0 +1,58 @@
+{
+  "tm1": {
+    "id": "tm1",
+    "firstName": "Lea",
+    "lastName": "Ross",
+    "imgSrc": "./assets/users/lea_ross.jpg",
+    "issuesAssigned": 0
+  },
+  "tm2": {
+    "id": "tm2",
+    "firstName": "Ida",
+    "lastName": "Johansen",
+    "imgSrc": "./assets/users/ida_johansen.jpg",
+    "issuesAssigned": 0
+  },
+  "tm3": {
+    "id": "tm3",
+    "firstName": "Heather",
+    "lastName": "Walters",
+    "imgSrc": "./assets/users/heather_walters.jpg",
+    "issuesAssigned": 0
+  },
+  "tm4": {
+    "id": "tm4",
+    "firstName": "Ethan",
+    "lastName": "Addy",
+    "imgSrc": "./assets/users/ethan_addy.jpg",
+    "issuesAssigned": 0
+  },
+  "tm5": {
+    "id": "tm5",
+    "firstName": "Raj",
+    "lastName": "Saldanha",
+    "imgSrc": "./assets/users/raj_saldanha.jpg",
+    "issuesAssigned": 0
+  },
+  "tm6": {
+    "id": "tm6",
+    "firstName": "Hannah",
+    "lastName": "Rogers",
+    "imgSrc": "./assets/users/hannah_rogers.jpg",
+    "issuesAssigned": 0
+  },
+  "tm7": {
+    "id": "tm7",
+    "firstName": "Craig",
+    "lastName": "Steward",
+    "imgSrc": "./assets/users/craig_steward.jpg",
+    "issuesAssigned": 0
+  },
+  "tm8": {
+    "id": "tm8",
+    "firstName": "Wesley",
+    "lastName": "Cooper",
+    "imgSrc": "./assets/users/wesley_cooper.jpg",
+    "issuesAssigned": 0
+  }
+}

@@ -1,0 +1,328 @@
+@import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@400;500;600;700;800;900&family=Playfair+Display:ital,wght@0,400;0,500;0,600;0,700;0,800;0,900;1,400;1,500;1,600;1,700;1,800;1,900&family=Roboto+Serif:ital,opsz,wght@0,8..144,100;0,8..144,200;0,8..144,300;0,8..144,400;0,8..144,500;0,8..144,600;0,8..144,700;0,8..144,800;0,8..144,900;1,8..144,100;1,8..144,200;1,8..144,300;1,8..144,400;1,8..144,500;1,8..144,600;1,8..144,700;1,8..144,800;1,8..144,900&display=swap');
+
+* {font-size: 1vw;font-weight: 600;box-sizing: border-box;font-family: 'Cinzel', "Century Schoolbook", Times, Courier,"Georgia", serif;text-decoration: none;}
+
+#bodyid1651231 {
+  background-color: #e6e6fa;
+}
+.divchestnutandhazellandingpageheaderbutton {
+  font-size: 4vw;
+      text-align: center;
+    vertical-align: middle;
+  }
+#centerheadertextbutton {
+    text-align: center;
+    vertical-align: middle;
+    
+  }
+#subheadercenterheadertextbutton {
+    text-align: center;
+    vertical-align: middle;
+  grid-area: sbhead;
+  background-color: #ffefea;
+  padding: 1vw;
+    
+  }
+  
+
+
+button:not(#modalbutton1):not(#modalbutton2) {
+  border-style: outset;
+  border-width: thick;
+  width: auto;
+  border-color: silver;
+  padding: 5px 5px;
+}
+button:hover:not(#modalbutton1):not(#modalbutton2) {
+  border-style: inset;
+  border-width: thick;
+  width: auto;
+  border-color: silver;
+  padding: 5px 5px;
+}
+#submitinformationcontactbutton {
+  border-style: outset;
+  border-width: thick;
+  padding: 1px 1px;
+  width: auto;
+  border-color: silver;
+}
+#submitinformationcontactbutton:hover {
+  border-style: inset;
+  border-width: thick;
+  padding: 1px 1px;
+  width: auto;
+  border-color: silver;
+}
+
+.headerbutton {
+  text-decoration: none;
+  border-style: outset;
+  border-width: thick;
+  border-color: silver;
+  padding: 6px 6px;
+  background-color: white;
+}
+.headerbutton:hover {
+  text-decoration: none;
+  border-style: inset;
+  border-width: thick;
+  border-color: silver;
+  padding: 6px 6px;
+}
+
+h1 {
+  text-align: center;
+}
+
+h2 {
+  text-align: center;
+
+}
+
+
+.textbodyparagrahindented {
+  text-indent: 50px;
+}
+
+
+
+.wrapper {
+  width: 95%;
+  margin-inline: auto;
+}
+
+.grid-container {
+  display: grid;
+  grid-template-areas:
+    "header header header header header"
+    "sbhead sbhead sbhead sbhead sbhead"
+    "aside-one main main main aside-two"
+    "aside-one main main main aside-two"
+    "footer footer footer footer footer";
+  min-height: 80vh;
+  margin-top: 4rem;
+  gap: 0.5rem;
+}
+
+.grid-item {
+
+  padding: 1rem;
+}
+
+
+.header {
+  background-color: #d4e2eb;
+  grid-area: header;
+  display: grid;
+  grid-template-areas: 
+    "headerbuttonleft headerbuttoncenter headerbuttoncenter headerbuttonright"
+    " subheadercenterheadertextbutton subheadercenterheadertextbutton subheadercenterheadertextbutton subheadercenterheadertextbutton";
+  grid-template-columns: 1fr 5fr 1fr;
+}
+
+.main {
+  grid-area: main;
+  background-color: #ecdec9;
+  margin: auto;
+}
+
+
+
+a:visited {
+  color: black;
+  text-decoration: none;
+}
+a {
+  color: black;
+  text-decoration: none;
+}
+.griditemsasidelefttextdrasideleft:hover {
+  transform: scale(1.08);
+  color: black;
+  text-decoration: none;
+}
+
+.griditemsasidelefttextdrasideleft:visited {
+  color: black;
+  text-decoration: none;
+}
+
+.aside-right {
+  grid-area: aside-right;
+  background-color: #ffffbf;
+}
+#tableasideleft {
+  vertical-align: top;
+}
+
+
+
+
+.contentouter {
+  flex-basis: 0;
+  flex-grow: 1;
+  flex-shrink: 1;
+
+  background-color: #e6e6fa;
+
+  padding: 16px;
+}
+
+.sidebarouter {
+  flex-basis: 200px;
+  flex-grow: 0;
+  flex-shrink: 0;
+  background-color: #ffdfbe;
+  padding: 16px;
+}
+
+.containeroverouter {
+  width: 98%;
+
+  background-color: #ffffff;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+.aside-one {
+  grid-area: aside-one;
+  background-color: #cffdbc;
+}
+
+
+
+.aside-one:hover {
+  transform: scale(1.02);
+}
+
+.aside-two {
+  grid-area: aside-two;
+  background-color: #ffffbf;
+  vertical-align: top;
+}
+.aside-two:hover {
+  transform: scale(1.02);
+  vertical-align: top;
+}
+
+.footer {
+  text-align: center;
+  background-color: #ffefea;
+  grid-area: footer;
+  display: grid;
+  grid-template-areas:
+    "toptablerow"
+    "bottomtablerow";
+  place-items: center;
+  }
+
+  tr[name="toptablerow"] {
+    place-items: center;
+    text-align: center;
+    justify-content: center;
+  }
+  tr[name="bottomtablerow"] {
+    place-items: center;
+    text-align: center;
+    justify-content: center;
+  }
+
+
+.body {
+  background-color: #ffdfbe;
+}
+
+*, *::before, *::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: "Poppins", sans-serif;
+  background-color: #f0f0f0;
+  color: #333;
+  transition: all 0.4s ease-in;
+}
+
+h1 {
+  text-align: center;
+  margin-top: 1.25rem;
+}
+
+.container {
+  display: grid;
+  width: 100%;
+  min-height: calc(100vh - 4.25rem);
+  place-content: center;
+  gap: 1rem;
+  text-align: center;
+}
+
+.dark-mode {
+  background-color: #333;
+  color: #f0f0f0;
+  transition: all 0.4s ease-in;
+}
+
+.toggle-switch {
+  position: relative;
+  display: inline-block;
+  width: 3.75rem;
+  height: 2.13rem;
+  margin-bottom: 0.63rem;
+  margin-inline: auto;
+}
+
+.toggle-switch input {
+  opacity: 0;
+  width: 0;
+  height: 0;
+}
+
+.slider {
+  position: absolute;
+  cursor: pointer;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: #ccc;
+  transition: all 0.4s ease-in;
+  border-radius: 2.13rem;
+}
+
+.slider:before {
+  position: absolute;
+  content: "";
+  height: 1.63rem;
+  width: 1.63rem;
+  left: 0.25rem;
+  bottom: 0.25rem;
+  background-color: white;
+  transition: 0.4s;
+  border-radius: 50%;
+}
+
+input:checked + .slider {
+  background-color: #2196f3;
+}
+
+input:focus + .slider {
+  box-shadow: 0 0 2px #2196f3;
+}
+
+input:checked + .slider:before {
+  transform: translateX(1.63rem);
+}
