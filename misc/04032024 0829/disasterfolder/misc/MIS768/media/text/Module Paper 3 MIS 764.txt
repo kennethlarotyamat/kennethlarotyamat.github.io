@@ -1,0 +1,195 @@
+IT-Enabled Innovation 
+Module Paper 3
+MIS 764 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Written By:
+Vicky Saab 
+Kelly Miller  
+Kenneth Larot Yamat
+Due: April 7, 2024
+
+
+Integrative Conceptual Summary
+
+The Relation Between IT And Organizational Innovation
+
+
+In the article The Nonlinear Influence Of Harmonious Information Technology (Chatterjee et al., 2021) the authors put forward the idea that the relationship between HITA and Innovation is U-shaped, meaning that increased innovation is a result of increased HITA, but increased innovation can also be a result of decreased HITA. It’s intuitive enough that increased innovation results from increased HITA, everyone works well when everything works well, but the counterintuitive aspect of Chatterjee’s hypothesis is that increased innovation can also result when HITA is decreased, out of the chaos: innovation. In chaotic and creatively dissonant environments, a need arises to develop mechanisms that tie different operational units together. A general example of this would be something like the creation of the Euro to deal with the myriad currencies that existed in the EU trade bloc before the invention of the Euro, on the other hand, there isn’t enough dissonance between North American countries to drive or warrant such a currency innovation for the USMCA trade bloc.
+
+In The Strategic Relevance Of Organizational Virtues Enabled By IT (Chatterjee et al., 2015) the authors put forward a framework for business ethics based on virtues that contrasts with conventional business ethics frameworks based on morality as well as business ethics frameworks based on optimization. Courage, justice, wisdom, and temperance are the virtues that Chatterjee bases the virtue based business ethics framework upon. Chatterjee extends upon this framework in two directions: the first is to determine how specific elements of HITA drive specific organizational virtues, the second is to determine how these organizational virtues drive innovation. Chatterjee goes on to posit that improvised solutions precede innovation, that innovations are a result of necessity and a need for a temporary and improvised solution to that unexpected necessity. Chatterjee found that high levels of Organization Wisdom guide the improvisation and innovation process with the greatest level of success and that the HITA elements of collaboration and memory enable that virtue with the greatest levels of economy. An interesting example of this would be the East Palestine, Ohio train derailment incident involving Norfolk Southern, as well as other high-profile safety issues involving the Boeing Max 737, various news reports mentioned that they had systems in place to detect and document safety issues and quality issues, but would either ignore or disregard those issues. Both of these examples will continue to play out, but either engineering innovations will reduce the costs of resolving safety issues, or legislative and judicial innovations will occur that increase the costs of unsafely operating these businesses.
+
+In The Role Of IT In Organizational Innovation (Mamonov & Peterson 2021) the authors outline a number of different metrics used to measure information technology, and a number of different metrics for measuring innovation. Information technology can be measured with metrics like computing capacity, digital storage capacity, server capacity, data transfer rates, latency. Innovation is often measured by the number of patents filed, or the number of research papers published. This is important because information technology and innovation can seem amorphous and conceptual, but by creating metrics for measuring information technology and measuring innovation, these concepts become concrete and measuring impact and returns on IT investments can be determined. An article was recently published about the Wi-Fi connectivity issues at the Alphabet, Inc. campus where the Gemini AI project is being worked on (Bensinger 2024), it would be interesting to see how this plays out, and if something as simple as poor Wi-Fi connectivity can result in Google pulling out of the AI race. There have been a number of different instances where companies have pulled back from one venture or another, Apple recently canceled it’s autonomous electric vehicle project (Gurman 2024), similar examples include Google pulling out of social media, Amazon canceling it’s smartphone, Microsoft canceling it’s music player, IBM pulling out of the personal computer business, and it would be interesting if these project cancellations, all of which would have been wonderful innovations, all originally started with simple IT problems like Wi-Fi connectivity issues.
+
+The article Information Technology and organizational innovation: Harmonious information technology affordance and courage-based actualization (Chatterjee et al., 2019) goes over how the capabilities offered by an information technology tool can be affected by attitudes toward using the technology: high levels of organizational courage on one end of the spectrum, and high levels of risk aversion on the other. This is an especially interesting discussion within the context of education. There are any number of information technology tools that are forbidden from use in one educational setting or another, but mastery of these information technology tools often sets a person apart just as much as any mastery of some underlying conceptual framework or subject matter would. Perhaps some educators have a fear that information technology use might diminish the learning process, but maybe they should have the courage to think of learning to use information technology as a learning process that enhances, extends upon, and amplifies an underlying learning process. An interesting concept introduced in this paper is the distinction between different types of innovation: exploratory and exploitative innovation. Exploratory innovation being radical and disruptive, and exploitative innovation being incrementally progressive. Exploratory innovations tend to be higher risk due to high rates of failure, failing three times more often than exploitative innovations, and can sometimes produce innovations that conflict with existing lines of business Polaroid and Kodak were forerunners is digital photography, but developing these products would have conflicted with film based photography products. A contemporary example might be Alphabet’s ventures into large language models and generative AI products, which may conflict with its search, and by extension, its ads business.
+
+Disruptive Innovations With IT
+
+
+An interesting point highlighted in Disruptive Innovation: Conceptual Foundations, Empirical Evidence, and Research Opportunities in the Digital Age (Hopp et al., 2018) is that disruptive innovations involving technology are not due to radical technological innovations, but rather, the disruptive effect is due largely to innovative business models. Hopp discusses how incumbents typically move upmarket to tailor their existing products to their existing customers’ increasingly sophisticated needs, resulting in over-developed specialty products that might not appeal to new customers. New entrants to a market usually start by creating products that appeal to customers at the lower-end of the market, and then move upmarket in a way that disrupts incumbents. Hopp describes this strategy as low-end encroachment. Even though Hopp doesn’t use this example, what he describes goes all the way back to the industrial revolution and the development of mass-market cotton and wool textiles, Henry Ford’s model T, the development of synthetic fibers to replace silk products. Another, more current example of this would be fintech products. In the research paper On the Fintech Revolution: Interpreting the Forces of Innovation, Disruption, and Transformation in Financial Services (Gomber 2018) most of the functional aspects of fintech products have more or less already existed, but were not widely available, came at an elevated cost, or involved settlement and posting timeframes that were not or are not practical for many segments of the market.
+
+	Elixir Technologies, classified as a medium sized organization, is the subject of a case study in organizational agility, and is the subject of the research paper Agility in responding to disruptive digital innovation: Case study of an SME (Chan et al., 2018). Organizational Agility as a conceptual framework is outlined in detail, and then applied to small to medium sized enterprises, SMEs, where the advantages and disadvantages of being an SME as it pertains to Organizational Agility are analyzed. Elixir Technologies Pivoted multiple times in response to several technological disruptions, switching from business reporting software, to business intelligence software, to business analytics software, switching from off-the-shelf stand-alone products to cloud based delivered services, switching from desktop software products to mobile platform products, and notably, canceling and repurposing a project: they were developing a taxi dispatch product that was disrupted by changes in consumer preferences for ride-hailing services over taxi services, the project was converted into a product related to mass transit stations. It seems odd that they would pivot a taxi related product to a mass transit product, rather than pivoting the taxi product to a ride-hailing product, but this may have been due to the project being under contract, or in cooperation with the government of Singapore.
+
+The two articles  Early vs. late adoption of radical information technology innovations across software development organizations: an extension of the disruptive information technology innovation Model (Carlo et al., 2014) and The disruptive nature of information technology innovations: The case of internet computing in systems development Organizations (Lyytinen & Rose 2003) both touch upon similar themes and concepts: the innovation cycle, disruptive innovations, strategies for handling disruptions, but there was one aspect where I think that they may have taken different positions, Lyytinen & Rose (2003) mentioned that companies that don’t adopt early enough and innovate quickly enough, often fall hopelessly behind and are not able to catch up with the competition. Carlo et al. (2014) points out that there are often cost advantages to adopting new technologies later on in the innovation cycle. The position that Lyytinen & Rose (2003) take is somewhat intuitive, but I can see Carlo et al’s (2014) point in the following scenario: I can imagine a situation where a major conglomerate adopts electric autonomous vehicles for their supply chain and logistics needs, and they do so in a major way, only for the competition, another major conglomerate, to adopt the latest innovations in on-demand manufacturing that render supply chains nearly unnecessary. A very recent, very concrete example of adopting too early might be the $245 million write-down experienced by Hertz Global Holdings on the book value of its EV fleet (Hertz Global Holdings INC 2024), and that write-down is on top of the accelerated depreciation schedules that automobiles are already subject to. It’s possible that this write down may have been avoided had they adopted electric vehicles on such a large scale a few months later. They may have also taken a slower adoption approach as an alternative, buying fewer electric vehicles during any given purchase cycle, and although it’s possible that this may have resulted in reduced availability of electric vehicles to Hertz customers, sometimes being out-of-stock just adds to a product’s allure in a customer’s psychology, exclusivity can be a force that drives demand: the fact that you can’t have it makes you want it more.
+
+
+Innovating With Artificial Intelligence 
+
+
+	One of the aspects of Artificial Intelligence I’m most interested in is how these programs self-adjust based upon new inputs of data or self-refinements of existing models. This happens in a number of ways, and the terminology, concepts, and definitions are elaborated upon in the four assigned articles. Machine Learning is the general concept, the idea that AI can learn from experience; how this occurs is broken into a number of subtypes: reinforcement learning, supervised learning, unsupervised learning, (Benbya et al., 2021) contextual, or in-context learning (Jablonka et al., 2024) and deep learning, which seeks to mimic the way human learning takes place through a system of neural networks, information is broken down into parts and processed in different parts of the network according to different sets of rules (Dwivedi et al., 2021) much in the same way that a human brain might process sight, sound, smell, touch and taste in different parts of the brain. There are a number of other machine learning subtypes, including an adversarial approach where a top level AI artifact is comprised to two or more sub-AI artifacts that exist in a state of conflict with one another, the output of the to level AI is the result of whichever sub-AI dominates the conflict.
+
+
+Critical Analysis of the Reading 
+The most critical concept that ties the main twelve articles of the three topics together is Chatterjee et al’s conceptual framework of Harmonious Information Technology Affordances (HITA), that a set of information technology artifacts can exist on a continuum of integration to disorder, they can interact on a spectrum from dissonance to synergy, in a state of harmony, or in a state of conflict, and that the capabilities that are afforded and enabled by an information technology artifact are just half of the equation: equally important is how, as Chatterjee points out, a user of an information technology artifact appropriates that artifact.
+
+References 
+Mamonov, S., & Peterson, R. (2021). The role of IT in organizational innovation – A
+	systematic literature review. Journal of Strategic Information Systems, 30, 
+	101696. https://doi.org/10.1016/j.jsis.2021.101696
+
+Chatterjee, S., Moody, G. D., Lowry, P. B., Chakraborty, S., & Hardin, A. (2021). The 
+	nonlinear influence of harmonious information technology affordance on 
+	organisational innovation. Information Systems Journal, 31(3), 294–322. 
+https://doi.org/10.1111/isj.12311
+
+Chatterjee, S., Moody, G., Lowry, P. B., Chakraborty, S., & Hardin, A. (2015). Strategic 
+	relevance of organizational virtues enabled by information technology in 
+	organizational innovation. Journal of Management Information Systems, 32(3), 
+	158–196. https://doi.org/10.1080/07421222.2015.1099180
+
+Chatterjee, S., Moody, G., Lowry, P. B., Chakraborty, S., & Hardin, A. (2020). 
+	Information technology and organizational innovation: Harmonious information 
+	technology affordance and courage-based actualization. Journal of Strategic 
+	Information Systems, 29, 101596. https://doi.org/10.1016/j.jsis.2020.101596
+
+Hopp, C., Antons, D., Kaminski, J., & Salge, T. O. (2018). Disruptive Innovation: 
+	Conceptual Foundations, Empirical Evidence, and Research Opportunities in the 
+	Digital Age. Journal of Product Innovation Management, 35(3), 446–457. 
+	https://doi.org/10.1111/jpim.12448
+
+Chan, C. M. L., Teoh, S. Y., Yeow, A., & Pan, G. (2018). Agility in responding to 
+	disruptive digital innovation: Case study of an SME. Information Systems 
+	Journal, 29(2), 436–455. https://doi.org/10.1111/isj.12215
+
+Carlo, J. L., Gaskin, J., Lyytinen, K., & Rose, G. M. (2014). Early vs. late adoption of 
+	radical information technology innovations across software development 
+	organizations: an extension of the disruptive information technology innovation 
+	model. Information Systems Journal, 24(6), 537–569. 
+	https://doi.org/10.1111/isj.12039
+
+Lyytinen, K., & Rose, G. M. (2003). The disruptive nature of information technology 
+	innovations: The case of internet computing in systems development 
+	organizations. MIS Quarterly, 27(4), 557-595. https://doi.org/10.2307/30036549
+
+
+Benbya, H., Pachidi, S., & Jarvenpaa, S. (2021). Special Issue Editorial: Artificial 
+	Intelligence in Organizations: Implications for Information Systems Research. 
+	Journal of the Association for Information Systems, 22(2), 281-303. 
+	https://doi.org/10.17705/1jais.00662
+
+
+Paschen, U., Pitt, C., & Kietzmann, J. (2020). Artificial intelligence: Building blocks and 
+	an innovation typology. Business Horizons, 63, 147-155. 
+	https://doi.org/10.1016/j.bushor.2019.10.004
+
+
+Dwivedi, Y. K., Hughes, L., Ismagilova, E., Aarts, G., Coombs, C., Crick, T., ... Williams, 
+	33M. D. (2021). Artificial Intelligence (AI): Multidisciplinary perspectives on 
+	emerging challenges, opportunities, and agenda for research, practice and 
+	policy. International Journal of Information Management, 57, 101994. 
+	https://doi.org/10.1016/j.ijinfomgt.2019.08.002
+
+
+Borges, A. F. S., Laurindo, F. J. B., Spínola, M. M., Gonçalves, R. F., & Mattos, C. A. 
+	(2021). The strategic use of artificial intelligence in the digital era: Systematic 
+	literature review and future research directions. International Journal of 
+	Information Management, 57, 102225. 
+	https://doi.org/10.1016/j.ijinfomgt.2020.102225
+
+Anderson, C., & Robey, D. (2017). Affordance potency: Explaining the actualization of 
+	technology affordances. Information and Organization, 27(2), 100-115. 
+	https://doi.org/10.1016/j.infoandorg.2017.03.002
+
+Jablonka, K. M., Schwaller, P., Ortega-Guerrero, A., & Smit, B. (2024). Leveraging large 
+	language models for predictive chemistry. Nature Machine Intelligence. 
+	https://doi.org/10.1038/s42256-023-00788-1
+
+Patnaik, D. (2024, February 11). Why Microtribes Are Wrecking Company Growth 
+	Plans. Forbes. https://www.forbes.com/sites/devpatnaik/2024/02/11/why-     
+	microtribes-are-wrecking-company-growth-plans
+
+Norfolk Southern Corporation. (2024). Form 10-K Annual Report. U.S. Securities
+	and Exchange Commission.https://www.sec.gov/ixviewer/ix.html?doc=/
+	Archives/edgar/ data/702165/000070216524000005/nsc-20231231.htm
+
+The Boeing Company. (2024). Form 10-K Annual Report. U.S. Securities
+	and Exchange Commission. https://www.sec.gov/ixviewer/ix.html?doc=/
+Archives/edgar/data/12927/000001292724000010/ba-20231231.htm
+
+Bensinger, G. (2024, March 8). Google's newest office has AI designers toiling in a 
+	Wi-Fi desert. Reuters. https://www.reuters.com/technology/googles-newest
+-office-has-ai-designers-toiling-wi-fi-desert-2024-03-08/
+
+Gurman, M. (2024, February 27). Apple to wind down electric car effort after 
+	decadelong odyssey. Bloomberg.https://www.bloomberg.com/news/articles/2024-
+	02-27/apple-to-wind-down-electric-car-effort-after-decadelong-odyssey
+
+McKinsey & Company. (2023, January 19). What is generative AI? McKinsey & 
+	Company. https://www.mckinsey.com/featured-insights/mckinsey-explainers
+	/what-is-generative-ai
+
+
+Eliot, L. (2024, March 12). Prompt Engineering Technique Known As The Step-Around Is 
+Gaining Steam As Generative AI Becomes Less Forthright. Forbes Innovation AI. 
+https://www.forbes.com/innovationai/2024/03/12/step-around-prompt-engineeri
+ng-technique-gaining-steam-generative-ai/
+
+Gomber, P., Kauffman, R. J., Parker, C., & Weber, B. W. (2018). On the Fintech 
+Revolution: Interpreting the Forces of Innovation, Disruption, and Transformation in Financial Services. Journal of Management Information Systems, 35(1), 220-265. https://doi.org/10.1080/07421222.2018.1440766
+
+Callaway, E. (2024, March 8). Could AI-designed proteins be weaponized? Scientists 
+lay out safety guidelines. Nature. https://www.nature.com/articles/d41586-
+024-00699-0?utm_source=Live+Audience&utm_campaign=bddc4c8b69-briefing-dy-20240311&utm_medium=email&utm_term=0_b27a691814-bddc4c8b69-51990316
+
+Veritasium. (2024, February 8). Why It Was Almost Impossible to Make the Blue LED 
+[Video]. YouTube. https://www.youtube.com/watch?v=UC2joTpQGY0
+
+Veritasium. (2024, February 27). The Trillion Dollar Equation [Video]. YouTube. 
+https://www.youtube.com/watch?v=Lyj5aK3FmWo
+
+Saab, V., Miller, K., & Yamat, K. L. (2024). Module Paper 1: Business Value Of IT (MIS 
+764). Vicky Saab & Co. Publications.
+
+Saab, V., Miller, K., & Yamat, K. L. (2024).  Module Paper 2: IT-Business Partnership (MIS 
+764). Vicky Saab & Co. Publications.
+
+Hu, H., & Liu, Y. (2023). Digital-free tourism intention: The effects of message 
+concreteness and intervention. Tourism Analysis, 28(3), 505-510. 
+doi:https://doi.org/10.3727/108354223X16758863498791
+
+Hertz Global Holdings, Incorporated. (2024). Form 10-K Annual Report. U.S. Securities
+	and Exchange Commission. https://www.sec.gov/ix?doc=/Archives/edgar/data/
+	47129/000165785324000022/htz-20231231.htm
+
+Veritasium [Veritasium]. (2022, April 22). The man who accidentally killed the most 
+	people in history [Video]. YouTube. https://www.youtube.com/watch?v=
+Fc0u2O2GvVU
+
+
