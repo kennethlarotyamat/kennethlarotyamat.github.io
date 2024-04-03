@@ -1,0 +1,15 @@
+/ConnectionHolder$FileConnectionHolder.class
+/ConnectionHolder$MemoryConnectionHolder.class
+/ConnectionHolder$URIConnectionHolder.class
+/ConnectionHolder.class
+/HLSConnectionHolder$Playlist.class
+/HLSConnectionHolder$PlaylistParser.class
+/HLSConnectionHolder$PlaylistThread.class
+/HLSConnectionHolder$VariantPlaylist.class
+/HLSConnectionHolder.class
+/Locator$LocatorConnection.class
+/Locator.class
+/LocatorCache$CacheDisposer.class
+/LocatorCache$CacheInitializer.class
+/LocatorCache$CacheReference.class
+/LocatorCache.class
