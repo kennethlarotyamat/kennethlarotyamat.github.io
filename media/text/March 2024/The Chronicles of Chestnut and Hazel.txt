@@ -5044,11 +5044,15 @@ Chatterjee, S., Moody, G., Lowry, P. B., Chakraborty, S., & Hardin, A. (2015). S
 of organizational virtues enabled by information technology in organizational innovation. Journal of 
 Management Information Systems, 32(3), 158–196. https://doi.org/10.1080/07421222.2015.1099180
 
-Chatterjee, S., Moody, G., Lowry, P. B., Chakraborty, S., & Hardin, A. (2020). Information technology and organizational innovation: Harmonious information technology affordance and courage-based actualization. Journal of Strategic Information Systems, 29, 101596. https://doi.org/10.1016/j.jsis.2020.101596
-Rao, D. (2024, March 26). Mastering Pivots & Turnarounds: #1 Lesson From Under Armour, Hertz & Apple. Forbes. https://www.forbes.com/sites/dileeprao/2024/03/26/mastering-pivots--turnarounds-1-lesson-from-under-armour-hertz--apple/?sh=2ebc19f5afae
+Chatterjee, S., Moody, G., Lowry, P. B., Chakraborty, S., & Hardin, A. (2020). Information technology 
+and organizational innovation: Harmonious information technology affordance and courage-based actualization. 
+Journal of Strategic Information Systems, 29, 101596. https://doi.org/10.1016/j.jsis.2020.101596
+Rao, D. (2024, March 26). Mastering Pivots & Turnarounds: #1 Lesson From Under Armour, Hertz & Apple. 
+Forbes. https://www.forbes.com/sites/dileeprao/2024/03/26/mastering-pivots--turnarounds-1-lesson-from-under-armour-hertz--apple/?sh=2ebc19f5afae
 America’s Most Innovative Companies. (2024). Fortune. https://fortune.com/ranking/americas-most-innovative-companies/
 
-Patnaik, D. (2024, March 24). Is It Time To Rethink Your Innovation Strategy? Forbes. Retrieved from https://www.forbes.com/sites/devpatnaik/2024/03/24/is-it-time-to-rethink-your-innovation-strategy/?sh=7090736f440a
+Patnaik, D. (2024, March 24). Is It Time To Rethink Your Innovation Strategy? Forbes. Retrieved from 
+https://www.forbes.com/sites/devpatnaik/2024/03/24/is-it-time-to-rethink-your-innovation-strategy/?sh=7090736f440a
 
 Chapman, M., & The Associated Press. (2024, March 28). Home Depot’s largest acquisition ever is an $18.25 billion bet on the housing market’s severe shortage of new homes. Fortune. Retrieved from https://fortune.com/2024/03/28/home-depot-acquisition-srs-distribution-18-25-billion-housing-market/
 Li, Y., and T. Chi. 2013. Venture capitalists’ decision to withdraw: The role of portfolio configuration from a real options lens. Strategic Management Journal 34: 1351-1366.
