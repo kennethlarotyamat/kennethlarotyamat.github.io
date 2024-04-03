@@ -5062,12 +5062,22 @@ Chapman, M., & The Associated Press. (2024, March 28). Home Depot’s largest ac
 ever is an $18.25 billion bet on the housing market’s severe shortage of new homes. Fortune. 
 Retrieved from https://fortune.com/2024/03/28/home-depot-acquisition-srs-distribution-18-25-billion-housing-market/
 
-Li, Y., and T. Chi. 2013. Venture capitalists’ decision to withdraw: The role of portfolio configuration from a real options lens. Strategic Management Journal 34: 1351-1366.
+Li, Y., and T. Chi. 2013. Venture capitalists’ decision to withdraw: The role of portfolio configuration from a real 
+options lens. Strategic Management Journal 34: 1351-1366.
+
 Li, Y. & J. Mahoney. 2011. When Are Venture Capital Projects Initiated? Journal of Business Venturing. 26(2): 239-254.
-Tong, T. & Y. Li. 2011. Real Options and Investment Mode Decision: Evidence from Corporate Venture Capital and Acquisition. Organization Science. 22(3): 659-674
-Courtney, C., Dutta, S., and Li, Y. 2017. Resolving information asymmetry: Signaling and crowdfunding success. Entrepreneurship Theory and Practice 41(2): 265-290.
-Liu, Y., Y. Li, X. Hao, and Y. Zhang. 2019. Narcissism and entrepreneurial learning from Failure. Journal of Business Venturing. 34 (3), 496-512
-Li, Y., S. Zahra and S. Lan. 2017. Heterogeneity in New Venture Formation Rates across Nations: The Schumpeterian and Institutional Economics Views. Entrepreneurial Finance: Managerial and Policy Implications. 1-35. Lead article
+Tong, T. & Y. Li. 2011. Real Options and Investment Mode Decision: Evidence from Corporate Venture Capital and Acquisition. 
+Organization Science. 22(3): 659-674
+
+Courtney, C., Dutta, S., and Li, Y. 2017. Resolving information asymmetry: Signaling and crowdfunding success. Entrepreneurship 
+Theory and Practice 41(2): 265-290.
+Liu, Y., Y. Li, X. Hao, and Y. Zhang. 2019. Narcissism and entrepreneurial learning from Failure. Journal of Business Venturing. 
+34 (3), 496-512
+Li, Y., S. Zahra and S. Lan. 2017. Heterogeneity in New Venture Formation Rates across Nations: The Schumpeterian and Institutional 
+Economics Views. Entrepreneurial Finance: Managerial and Policy Implications. 1-35. Lead article
+
+191
+
 Li, Y., and E. Yao. 2019. All ties are not created equal: Institutional equity ties, IPO performance, and market growth of new ventures. In D. Cumming & S. Johan (ed.). Oxford Handbook of IPO
 Wang, E. T. G., Hu, H.-f., & Hu, P. J.-H. (2013). Examining the role of information technology in cultivating firms’ dynamic marketing capabilities. Information & Management, 50(6), 336-343. https://doi.org/10.1016/j.im.2013.04.007
 Randolph, R. V., Hu, H.-f., & Silvernail, K. D. (2020). Better the devil you know: Inter-organizational information technology and network social capital in coopetition networks. Information & Management. Advance online publication. https://doi.org/10.1016/j.im.2020.103344
