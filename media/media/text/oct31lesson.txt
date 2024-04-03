@@ -1,0 +1,482 @@
+[ Project 14 Requirements]
+
+1. Project
+Communicating on the Web
+For this project, you will be adding something we’ve studied this week to your personal web page. This makes the code yours, and can be an example of your knowledge. There doesn’t necessarily have to be a purpose for what you choose to add; in some ways you simply want to show off your skills to a potential employer. Choose from:
+Leaflet
+Asynchronous functions
+Collect form information in json format
+Google Maps
+Whatever you choose, be sure to have clear comments in your code so a reviewer can understand what you did, and also so you can go back a month or more later and be reminded of what your thought process was.
+When finished, submit your code!
+Submission steps:
+Before you click on "Mark as Completed":
+You need to do one of the following: either upload all of your files to Codio or deploy a GitHub Page for this project.
+Also, if you mark this project as complete but any of the boxes are blank, your TA will be unable to grade your project.
+Codio upload:
+Make sure all of your project code has been uploaded to Codio.
+If you did not write your code in Codio, you will need to import all of the required files into your workspace file tree.
+You can do this by going to File => Upload Files, and either manually importing each file, or dragging and dropping your project folder.
+Please refer to this video if you are unsure of what to do.
+GitHub Pages:
+If you would rather upload your project to GitHub, please make sure to have the project deployed as a GitHub page so we can thoroughly test it.
+If you are unsure of how to do this, please follow these instructions.
+It is important to understand you will need to make a separate repository for every project. You cannot deploy multiple pages from the same repository, even with different branches.
+Also, no matter whether you uploaded your files from your computer or not, make sure to thoroughly test your code! This only takes a few minutes, but will prevent the amount of resubmissions because you missed something.
+
+... [End Project 14 Requirements due 11/4]
+
+[Resources]
+
+https://www.loom.com/share/72cbfd981cab4b318106dcfbc77a25b0
+
+https://www.youtube.com/watch?v=nXLkuXX88w8
+
+https://correlation-one.typeform.com/to/OyH3N6NA#email=xxxxx
+
+https://docs.google.com/document/d/1nC59RMOhZAWZO1_fdGAaeykVETOt3ODm5G2u9lPBda0/edit#heading=h.ik10jyq3fy44
+
+https://docs.google.com/document/d/1CotCVrECfbgJx-T5SaQ-DSwgpV3MhhRYEIWM2WPQDpc/edit#heading=h.ik10jyq3fy44
+
+...
+
+1. Introduction to React
+Goals
+By the end of this lesson, you should understand:
+What React is, and what single page applications (SPAs) are
+The purpose of React and why it was created
+Several key concepts of React such as components, the virtual DOM, and one-way data binding
+Introduction
+In this lesson, we will begin learning about the immensely popular and powerful frontend JavaScript library React. 
+First, we’ll delve a bit into the fascinating evolution of frontend development, charting the progression from early 
+vanilla JavaScript to the emergence of libraries and frameworks that have revolutionized the way web applications are 
+built today. Additionally, we will discuss the concept of single-page applications (SPAs) in greater depth, exploring 
+their advantages, challenges, and the role of React in facilitating their development. By understanding the historical 
+context and the advancements that led to the creation of React, you will gain a deeper appreciation for its significance 
+in modern web development and its role in shaping the future of frontend technologies.
+
+...
+
+2. Evolution of Frontend Development
+To better understand the significance of React in modern web development, it’s helpful to examine the evolution of frontend development over the years. Frontend development has come a long way from using only basic vanilla JavaScript to now having a plethora of advanced libraries and frameworks, shaping the way we build applications today.
+Vanilla JavaScript
+In the early days of web development, developers were limited to using vanilla JavaScript, which refers to plain JavaScript without any additional libraries or frameworks, to interact with the DOM. While this early form of JavaScript allowed for basic interactivity and DOM manipulation, it was very limited in terms of functionality and often required a lot of repetitive code. As web applications became more complex, developers sought more efficient ways to build dynamic user interfaces.
+jQuery
+jQuery, released in 2006, was a game-changer for frontend development. It provided a simple, powerful API for DOM manipulation, event handling, and AJAX requests, all while ensuring cross-browser compatibility. jQuery significantly reduced the amount of code required to perform common tasks and quickly became the go-to library for frontend developers.
+Early frontend frameworks
+As web applications continued to grow in complexity, developers needed more robust solutions for organizing and structuring their code. In response, libraries like Backbone.js and frameworks like the original Angular.js emerged, offering more sophisticated tools for building web applications.
+Backbone.js, released in 2010, introduced a lightweight, flexible structure based on the Model-View-Controller (MVC) pattern. It provided developers with a way to manage application state and encouraged code modularity.
+Angular.js, introduced by Google in 2010, took frontend development yet a step further with its two-way data binding, dependency injection, and built-in directives. Angular.js enabled developers to create complex, feature-rich applications with less code and effort than ever before.
+
+...
+
+2. Evolution of Frontend Development
+To better understand the significance of React in modern web development, it’s helpful to examine the evolution of frontend development over the years. Frontend development has come a long way from using only basic vanilla JavaScript to now having a plethora of advanced libraries and frameworks, shaping the way we build applications today.
+Vanilla JavaScript
+In the early days of web development, developers were limited to using vanilla JavaScript, which refers to plain JavaScript without any additional libraries or frameworks, to interact with the DOM. While this early form of JavaScript allowed for basic interactivity and DOM manipulation, it was very limited in terms of functionality and often required a lot of repetitive code. As web applications became more complex, developers sought more efficient ways to build dynamic user interfaces.
+jQuery
+jQuery, released in 2006, was a game-changer for frontend development. It provided a simple, powerful API for DOM manipulation, event handling, and AJAX requests, all while ensuring cross-browser compatibility. jQuery significantly reduced the amount of code required to perform common tasks and quickly became the go-to library for frontend developers.
+Early frontend frameworks
+As web applications continued to grow in complexity, developers needed more robust solutions for organizing and structuring their code. In response, libraries like Backbone.js and frameworks like the original Angular.js emerged, offering more sophisticated tools for building web applications.
+Backbone.js, released in 2010, introduced a lightweight, flexible structure based on the Model-View-Controller (MVC) pattern. It provided developers with a way to manage application state and encouraged code modularity.
+Angular.js, introduced by Google in 2010, took frontend development yet a step further with its two-way data binding, dependency injection, and built-in directives. Angular.js enabled developers to create complex, feature-rich applications with less code and effort than ever before.
+
+...
+
+3. The Birth of React
+As web applications continued to evolve, the need for a more efficient and performant solution became apparent – one that could adequately address the challenges of maintaining and scaling large, complex applications with rapidly changing data. This solution emerged at Facebook, of all places!
+Facebook’s applications grew, and the engineering team realized that traditional methods for building user interfaces were becoming increasingly inefficient and difficult to manage. To solve this problem, Facebook engineer Jordan Walke began developing React in 2011. After several iterations and improvements, React was eventually open-sourced in 2013, allowing the wider development community to contribute to and utilize the library. Today, React is used by a vast number of companies and developers, making it one of the most popular JavaScript libraries for building UIs.
+React is primarily used for developing what are known as single-page applications (SPAs), where the user interacts with and navigates through the website without requiring full-page refreshes. We’ll delve deeper into single-page applications shortly. For now, suffice it to say that one of React’s core strengths is its ability to handle rapidly changing data and seamlessly update the UI without causing unnecessary re-rendering or page refreshes. This is particularly useful when building applications that need to display real-time information or have numerous user interactions.
+
+...
+
+4. Single Page Applications (SPAs)
+Typically, as you may remember from the explanation of the client-server model in Week One, the way the vast majority of websites used to work is as follows: a user entered a URL in a browser’s address bar, which then made a request to that website’s server. The server, in turn, sent back to the user all the HTML, CSS, and JavaScript necessary to display the requested page. If the user clicked a link to go to a different page on that website, another request was sent to the server, which then sent back another HTML document with its associated CSS and JavaScript, and so on.
+Single-page applications (SPAs), on the other hand, are web applications that load a single HTML page and dynamically update the content as the user interacts with the application – including navigating to a new “page.” This approach provides a smoother, more seamless user experience compared to traditional multi-page applications.
+There are several advantages to using SPAs:
+Improved performance: By reducing the need for full-page refreshes, SPAs can deliver faster, more responsive user experiences.
+Simplified deployment and maintenance: With a single HTML file and separate assets (JavaScript, CSS, images), SPAs can be easier to deploy and maintain compared to traditional multi-page applications.
+Enhanced user experience: The app-like behavior of SPAs can lead to a more engaging and user-friendly experience, as users can navigate and interact with the application more quickly and smoothly.
+However, there are also some challenges associated with SPAs:
+SEO: Due to their reliance on JavaScript for rendering content, SPAs can sometimes face issues with search engine optimization (SEO). Modern search engines have improved their ability to index SPAs, but developers still need to take extra precautions to ensure their content is crawlable and indexable.
+Initial load time: As SPAs load most of the application resources upfront, the initial load time can be longer compared to traditional multi-page applications. However, once the initial resources are loaded, subsequent interactions are usually much faster.
+Browser history management: Since SPAs don’t rely on traditional page navigation, managing browser history and enabling the back button functionality can be more complex. Developers often use client-side routing libraries to handle this aspect of SPAs.
+Of course, as React has only grown in popularity over the years, and the number of React developers has exponentially multiplied, there exists a wealth of different solutions within the React ecosystem to help address these challenges (as there are in other SPA frameworks like Angular and Vue). We’ll cover a couple of them later this week – namely, React Router and React’s lazy loading functionality.
+
+...
+
+5. Core Concepts in React
+Let’s look at some of React’s core concepts which are important to understand before we begin using it in order to fully appreciate why React is so advantageous for frontend development.
+Declarative vs Imperative Programming
+The imperative paradigm of programming, which is what we’ve been doing with JavaScript so far in this course, requires developers to explicitly define each step of the program – make this change to the DOM, then that change; if the user does this, then make a different DOM update, etc.
+Let’s look at a very simple example to help illustrate the difference between imperative and declarative:
+Imperative Example:
+Imagine you want to change the background color of a div with an ID of “myDiv” to red when a button is clicked. In imperative programming, you would explicitly specify the steps to achieve this:
+const button = document.getElementById('myButton');
+const myDiv = document.getElementById('myDiv');
+
+button.addEventListener('click', function () {
+  myDiv.style.backgroundColor = 'red';
+});
+Declarative Example:
+Now let’s look at the same example, implemented in a declarative way with React. In the declarative paradigm, we simply express what we want to achieve without detailing the specific steps. React will then handle the updating the DOM for us:
+import { useState } from 'react';
+
+function App() {
+  const [bgColor, setBgColor] = useState('');
+
+  const handleClick = () => {
+    setBgColor('red');
+  };
+
+  return (
+    <div>
+      <button onClick={handleClick}>Change color</button>
+      <div id="myDiv" style={{ backgroundColor: bgColor }}>Hello, World!</div>
+    </div>
+  );
+}
+
+export default App;
+
+Here, we’re using the useState React hook to manage the background color state (more on hooks and state later). When the button is clicked, the handleClick function updates the background color to red, and React takes care of updating the UI accordingly.
+React follows this declarative paradigm, which is one of the reasons it has become so popular among developers. By abstracting away much of the complexity involved in updating the UI, React enables developers to focus on what they want their applications to do, rather than how they should do it.
+Virtual DOM
+React uses a virtual DOM to improve performance. The virtual DOM is an in-memory representation of the actual DOM (Document Object Model), which is the structure representing the elements on a web page. In traditional web development, manipulating the DOM can be slow and resource-intensive, leading to poor performance and a suboptimal user experience.
+Whenever a component’s state changes, React calculates the difference between the current virtual DOM and the new one. Once the differences have been determined, React updates the real DOM with the minimal set of changes required. This approach minimizes the number of DOM manipulations, leading to significant performance improvements.
+Reactive Updates
+React automatically updates the UI when the application state changes. This is achieved through the use of reactive updates, which efficiently update only the components affected by the state change. When a component’s state or properties (also known as “props”) change, React triggers a re-render of that component and its children, ensuring that the UI is always in sync with the application state.
+This reactive approach simplifies the process of managing UI changes in response to data updates. React handles this automatically, allowing developers to focus on implementing the application’s core functionality.
+Component-based Architecture
+React follows a component-based architecture, allowing developers to build complex UIs by breaking them down into reusable, isolated components. Each component is a self-contained unit with its own state and properties, encapsulating the logic and rendering for a specific part of the UI.
+This modular approach promotes code reusability and maintainability, making it easier to manage large applications with numerous features and components. By composing an application from smaller, focused components, developers can create highly organized and scalable codebases that are easier to understand and debug.
+One-way Data Binding
+React enforces a unidirectional data flow (one-way data binding). This means that data flows from parent components to child components, making it easier to track and debug data changes in the application.
+
+...
+
+what's the difference between code originally written in react, and code originally written in JavaScript, and subsequently translated into react?
+
+...
+
+User
+what's the difference between code originally written in react, and code originally written in JavaScript, and subsequently translated into react?
+ChatGPT
+Code originally written in React and code originally written in JavaScript and subsequently translated into React can differ in several ways. React is a JavaScript library for building user interfaces, so both React and pure JavaScript can be used to achieve similar functionality. However, there are key differences in terms of structure, maintainability, and development approach:
+
+Component-based vs. Procedural/Imperative:
+
+React is a component-based library. Code written in React is organized into reusable components, each responsible for a specific part of the user interface. This promotes a more modular and structured approach to building applications.
+Pure JavaScript code might be more procedural or imperative, where you define the logic step by step without necessarily breaking it down into smaller, reusable pieces. This can make the code harder to maintain as the application grows.
+JSX vs. Plain JavaScript:
+
+React uses JSX (JavaScript XML) to define the structure of UI components. JSX allows you to write HTML-like code within your JavaScript, making it more readable and maintainable.
+In pure JavaScript, you would typically manipulate the DOM directly using methods like document.createElement, appendChild, and so on, which can be more verbose and error-prone.
+Virtual DOM vs. Manual DOM Manipulation:
+
+React utilizes a Virtual DOM to efficiently update the actual DOM when the application's state changes. This minimizes the need for direct manipulation of the DOM, resulting in better performance and easier maintenance.
+When you translate code from pure JavaScript to React, you often replace manual DOM manipulation with React's component-based approach.
+State Management:
+
+React has built-in state management, allowing you to manage the data and its changes in a predictable manner using concepts like useState and useEffect hooks.
+In plain JavaScript, you might need to implement your own state management solutions, which can be error-prone and lead to inconsistencies.
+Community and Ecosystem:
+
+React has a vast and active community, along with a rich ecosystem of libraries and tools that can streamline development.
+Pure JavaScript doesn't offer the same level of standardized tools and practices for building user interfaces.
+Learning Curve:
+
+Learning to write code in React may require understanding the React-specific concepts and syntax, like JSX, components, props, and state management.
+Pure JavaScript may be more approachable for beginners, but it may require more effort to build complex, maintainable UIs.
+Developer Experience:
+
+React comes with developer-friendly tools like the React Developer Tools browser extension and create-react-app for setting up projects quickly.
+Writing code in plain JavaScript may require more manual setup and debugging.
+In summary, code originally written in React is designed with a more structured and component-based approach, leveraging React's ecosystem and tools for efficient development. When you translate code from pure JavaScript into React, you're likely to benefit from improved maintainability, a more robust architecture, and access to a supportive community. However, there can be a learning curve associated with transitioning from plain JavaScript to React.
+
+...
+
+during project 13 i noticed that the problems could be solved by, whatever programming language a person wanted to use, and i also noticed that, i could also do something like take my javascript code and translate it into a different language and the problem would still work as a solution.
+
+...
+
+1. React Basics - Part 1
+Goals
+By the end of this lesson, you should understand:
+How to set up a React environment using both create-react-app (CRA) and Vite
+What JSX is and its role in React components
+How to create both class components and function components
+Introduction
+In this lesson, we will focus on setting up a React development environment and explore the fundamentals of creating React components. We will cover different tools for setting up your React environment, such as create-react-app (CRA) and Vite, discussing their pros and cons to help you choose the best option for your projects. We’ll also introduce JSX, which is a core concept in React. Finally, we’ll dive into the two types of React components: class components and function components. By the end of this lesson, you’ll have a solid understanding of many of React’s basic concepts. So, let’s get started!
+
+...
+
+2. Setting up a React Project with CRA
+There are a few different ways to set up a React development environment. While it’s possible to create a React project from scratch this involves a lot of complex configuration using Babel and Webpack; the easier way by far is to use a project scaffolding tool like Create React App (developed by the creators of React) or the new and increasingly popular Vite. We’ll take a look at creating a React project boilerplate with both scaffolding tools in this section, as well as briefly explore the files they output and how they connect. Let’s start with the older, more standard way of generating a React project - Create React App (CRA for short).
+Setup a React project using Create React App
+To generate a new React project using CRA, you would run the following command in the terminal (don’t do this just yet!):
+npx create-react-app my-app
+Let’s break down this command a bit, beginning with the npx part.
+npx is a command-line tool that is included with the Node.js package manager, npm, starting from version 5.2.0. It’s purpose is to make it easier to run Node.js packages and scripts from the command line without installing them in a project or globally on our computers.
+create-react-app refers to the Node package developed by the React team to scaffold React projects. By running npx create-react-app, we’re saying we want to run the create-react-app executable but not install it in our project or on our machine.
+Lastly, my-app is simply the name we want to give the directory our project will be created in (this will also be the name of our app listed in the package.json file which will be generated). This name could be anything you want, technically, or if you want to simply create the React project in whatever directory you’re currently in you would replace the name my-app with a period character:
+npx create-react-app .
+This is the approach we will take here, since a directory has already been created in Codio to house our react project. Go ahead and run this command in the terminal now!
+Keep in mind, this will take a while to complete since a lot is happening behind the scenes. Not only is our project boilerplate being generated but create-react-app is also initializing a Git repository in our project and installing all of the necessary dependencies.
+When the process finishes, you’ll see a message in the terminal that says "Happy hacking!". Next, run the following command in the terminal to start up the development server:
+npm start
+This may take a moment to complete as well. Once it does, click here to open a preview in the bottom left panel and see the current state of our React application. Then, go ahead and click the Next button below to proceed to the next section where we’ll take a brief look at the files and folders which were just created for us in our project!
+
+...
+
+2. Setting up a React Project with CRA
+There are a few different ways to set up a React development environment. While it’s possible to create a React project from scratch this involves a lot of complex configuration using Babel and Webpack; the easier way by far is to use a project scaffolding tool like Create React App (developed by the creators of React) or the new and increasingly popular Vite. We’ll take a look at creating a React project boilerplate with both scaffolding tools in this section, as well as briefly explore the files they output and how they connect. Let’s start with the older, more standard way of generating a React project - Create React App (CRA for short).
+Setup a React project using Create React App
+To generate a new React project using CRA, you would run the following command in the terminal (don’t do this just yet!):
+npx create-react-app my-app
+Let’s break down this command a bit, beginning with the npx part.
+npx is a command-line tool that is included with the Node.js package manager, npm, starting from version 5.2.0. It’s purpose is to make it easier to run Node.js packages and scripts from the command line without installing them in a project or globally on our computers.
+create-react-app refers to the Node package developed by the React team to scaffold React projects. By running npx create-react-app, we’re saying we want to run the create-react-app executable but not install it in our project or on our machine.
+Lastly, my-app is simply the name we want to give the directory our project will be created in (this will also be the name of our app listed in the package.json file which will be generated). This name could be anything you want, technically, or if you want to simply create the React project in whatever directory you’re currently in you would replace the name my-app with a period character:
+npx create-react-app .
+This is the approach we will take here, since a directory has already been created in Codio to house our react project. Go ahead and run this command in the terminal now!
+Keep in mind, this will take a while to complete since a lot is happening behind the scenes. Not only is our project boilerplate being generated but create-react-app is also initializing a Git repository in our project and installing all of the necessary dependencies.
+When the process finishes, you’ll see a message in the terminal that says "Happy hacking!". Next, run the following command in the terminal to start up the development server:
+npm start
+This may take a moment to complete as well. Once it does, click here to open a preview in the bottom left panel and see the current state of our React application. Then, go ahead and click the Next button below to proceed to the next section where we’ll take a brief look at the files and folders which were just created for us in our project!
+
+...
+
+3. CRA - Boilerplate Files and Folders
+After running create-react-app our project directory should be organized as follows:
+node_modules/      // Contains all project dependencies, should be in .gitignore
+public/
+  ├── favicon.ico     // Icon that appears in the browser tab
+  ├── index.html      // Main HTML file that gets served to the user's browser
+  ├── logo192.png     // Icon that appears on user's home screen (192px)
+  ├── logo512.png     // Icon that appears on user's home screen (512px)
+  ├── manifest.json   // Provides various info about application (mainly for PWAs)
+  └── robots.txt      // Provides instructions to search engine crawlers
+src/
+  ├── App.css              // CSS file for App.js
+  ├── App.js               // Main file containing all application components
+  ├── App.test.js          // Test file for App.js
+  ├── index.css            // CSS file for index.js
+  ├── index.js             // File which renders our app to the DOM
+  ├── logo.svg             // SVG logo
+  ├── reportWebVitals.js   // Contains code to measure performance of our app
+  └── setupTests.js        // Imports jest-dom package for tests
+.gitignore          // Specifies which files Git should ignore
+package-lock.json   // Contains project info (name, description, scripts, dependencies, etc.)
+package.json        // Contains project info (name, description, scripts, dependencies, etc.)
+README.md           // README file generated by CRA
+Many developers often do a bit of file cleanup (largely a matter of preference), such as deleting everything in the public folder except index.html, deleting reportWebVitals.js, logo.svg, App.test.js and setupTests.js (unless testing is needed in the application), etc., but we won’t worry about that here.
+For now, let’s just open up and examine a few files. The main ones of interest to us are: index.html, index.js, and App.js. Click the link below to open these files in new tabs in the top left panel:
+Open Files
+If the link doesn’t open the files, from the Codio menu bar go to Project -> Resync File Tree and then try the “Open Files” link again after about 5 seconds (sometimes, when creating files via the terminal, the file tree doesn’t update right away).
+Let’s start with index.html, which should look like this:
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <link rel="icon" href="%PUBLIC_URL%/favicon.ico" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="theme-color" content="#000000" />
+    <meta
+      name="description"
+      content="Web site created using create-react-app"
+    />
+    <link rel="apple-touch-icon" href="%PUBLIC_URL%/logo192.png" />
+    <!--
+      manifest.json provides metadata used when your web app is installed on a
+      user's mobile device or desktop. See https://developers.google.com/web/fundamentals/web-app-manifest/
+    -->
+    <link rel="manifest" href="%PUBLIC_URL%/manifest.json" />
+    <!--
+      Notice the use of %PUBLIC_URL% in the tags above.
+      It will be replaced with the URL of the `public` folder during the build.
+      Only files inside the `public` folder can be referenced from the HTML.
+
+      Unlike "/favicon.ico" or "favicon.ico", "%PUBLIC_URL%/favicon.ico" will
+      work correctly both with client-side routing and a non-root public URL.
+      Learn how to configure a non-root public URL by running `npm run build`.
+    -->
+    <title>React App</title>
+  </head>
+  <body>
+    <noscript>You need to enable JavaScript to run this app.</noscript>
+    <div id="root"></div>
+    <!--
+      This HTML file is a template.
+      If you open it directly in the browser, you will see an empty page.
+
+      You can add webfonts, meta tags, or analytics to this file.
+      The build step will place the bundled scripts into the <body> tag.
+
+      To begin the development, run `npm start` or `yarn start`.
+      To create a production bundle, use `npm run build` or `yarn build`.
+    -->
+  </body>
+</html>
+As stated above in the file structure overview, index.html is the file that will be served to the user’s browser. It contains a few things particular to React - most importantly the div element with the id of root, where our entire React application will be loaded.
+Next, let’s have a look at index.js which should look as follows:
+import React from 'react';
+import ReactDOM from 'react-dom/client';
+import './index.css';
+import App from './App';
+import reportWebVitals from './reportWebVitals';
+
+const root = ReactDOM.createRoot(document.getElementById('root'));
+root.render(
+  <React.StrictMode>
+    <App />
+  </React.StrictMode>
+);
+
+// If you want to start measuring performance in your app, pass a function
+// to log results (for example: reportWebVitals(console.log))
+// or send to an analytics endpoint. Learn more: https://bit.ly/CRA-vitals
+reportWebVitals();
+This file’s main purpose is to establish the app’s root element for React, by passing our div with the id of root to the createRoot method of ReactDOM, which handles the rendering of our application.
+Last, but not least, is App.js which should look as follows:
+import logo from './logo.svg';
+import './App.css';
+
+function App() {
+  return (
+    <div className="App">
+      <header className="App-header">
+        <img src={logo} className="App-logo" alt="logo" />
+        <p>
+          Edit <code>src/App.js</code> and save to reload.
+        </p>
+        <a
+          className="App-link"
+          href="https://reactjs.org"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          Learn React
+        </a>
+      </header>
+    </div>
+  );
+}
+
+export default App;
+This is the file where you typically start working on your React app, replacing everything in here with your own components, routes (which we’ll cover later), etc. Normally, you don’t do much if anything in index.js except remove a couple of things during any initial file cleanup.
+Now, let’s move on and see how to scaffold a React project with Vite.
+
+...
+
+Kenneth Larot Yamat
+  17 minutes ago
+i'm sure an algorithm solving websites are different from front end frameworks,
+what I'm trying to figure out is, what's the difference between writing code in javascript and translating it into react, and just writing something in react in the first place.
+
+...
+
+I think that it would help for me to have a second screen. 
+I have another computer, and, I guess I've worked using two computers 
+at once before.
+
+...
+
+I'm already bored to death.
+
+...
+
+what a nightmare.
+
+...
+
+I could not follow along.
+
+...
+
+Class ran over by an hour. I went out to get soda, but, I honestly could not follow along.
+
+...
+
+<!-- End Image Template -->
+<!-- Start Image Template -->
+<!-- Start Image Template -->
+<!-- Start Image Template -->
+<!-- End Image Template -->
+<!-- End Image Template -->
+
+  <!-- id="q5i " name="q5n " value="q5v " -->
+
+  <!-- // https://www.geeksforgeeks.org/how-to-refresh-a-page-using-jquery/
+//  References: https://stackoverflow.com/questions/7526601/setattributedisabled-false-changes-editable-attribute-to-false
+//              https://www.w3schools.com/howto/howto_css_switch.asp
+//              https://stackoverflow.com/questions/32034144/how-to-off-the-mouseenter-and-mouseleave-on-click-event
+
+// $('.resetExamButton').on('click', function() {
+
+//   $('.exampleForm').attr('disabled',false).reset().on('mouseenter mouseleave') ;
+
+
+//  https://kennethlarotyamat.github.io/other/project12/project12.html
+
+
+
+// }); -->
+
+
+
+
+  <!-- id="q3i " name="q3n " value="q3v " -->
+
+  <!-- id="q4i " name="q4n " value="q4v " -->
+
+  <!-- //  this should work. this should be done. 10/25/2023 11:01 AM
+
+// it does work. 10252023 1101
+
+// anyway. what a nightmare.
+
+//  this might work for the reset button
+
+// $('.resetExamButton').on('click', function() {
+
+//  $('.exampleForm').attr('disabled',false).on('mouseenter mouseleave') ;
+
+//  }); -->
+
+...
+
+
+<!-- comments from project 12 -->
+
+<!-- this almost works. i just need an onclick function for the reset button -->
+
+<!-- https://stackoverflow.com/questions/15176098/cant-span-form-over-multiple-divs -->
+
+    <!-- potential location to move form tags -->
+
+    <!-- <form class="exampleForm" id="exampleFormB" autocomplete="off" action="mailto:info@chestnutandhazel.com" target="" method="post" novalidate> -->
+
+  <!-- Reactivate if needed -->
+
+        <!-- 10252023 0605 what a nightmare. i had a special hover effect specifically in place for the green book response where the hover effect is green, rather than blue, it broke everything and then i had to fix it. it took pretty much over a million years. -->
+
+
+...
+
+<!-- Start Estimage Template -->
+<!-- <p>
+
+    <br>        Estimage for:   SPLG, 10/25/2023        <br>
+    <br>        Range AMT:      .70
+    <br>        Midpoint:       49.85 
+    <br>        Range L/H:      49.50 - 50.20
+    <br>        O/C:            49.90 - 49.70
+    
+</p> -->
+<!-- End Estimage Template -->
+
+<!-- Start Image Template -->
+<!-- End Image Template -->
+
+...

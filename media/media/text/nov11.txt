@@ -1,0 +1,670 @@
+1. Agile & Scrum
+Goals
+By the end of this lesson, you should:
+Have a basic understanding of Agile and Scrum principles and methodologies
+Be familiar with the importance and benefits of Agile and Scrum in the software development process
+Introduction
+Agile concept
+When working as part of a software development team, efficient collaboration and project management can often be challenging. The Agile and Scrum methodologies have become vital tools for addressing these challenges, with their focus on enhancing efficiency, adaptability, and stakeholder satisfaction. This lesson will provide you with a basic overview of Agile and Scrum, as well as their key principles.
+Next
+
+...
+
+1. Agile & Scrum
+Goals
+By the end of this lesson, you should:
+Have a basic understanding of Agile and Scrum principles and methodologies
+Be familiar with the importance and benefits of Agile and Scrum in the software development process
+Introduction
+Agile concept
+When working as part of a software development team, efficient collaboration and project management can often be challenging. The Agile and Scrum methodologies have become vital tools for addressing these challenges, with their focus on enhancing efficiency, adaptability, and stakeholder satisfaction. This lesson will provide you with a basic overview of Agile and Scrum, as well as their key principles.
+Next
+
+...
+
+2. Overview of Agile
+What is Agile?
+Agile illustration
+Agile is a paradigm in project management based on the Agile Manifesto, written in 2001 by a group of seventeen software professionals who met to discuss the philosophy behind lightweight software development. The Manifesto outlines 4 key values and 12 principles. These values and principles form the basis of Agile and guide the practices and techniques in Agile methodologies. We’ll explore the key values and principles more shortly.
+Agile, in a nutshell, is a response to the limitations of the traditional Waterfall model for project management and represents a monumental shift in the approach to software development. The Waterfall model was linear and required detailed planning and documentation, which often led to longer development cycles and difficulty in accommodating changes. Agile, with its iterative and incremental approach, presents a great solution to these issues.
+While the principles and values of Agile are constant, within the Agile paradigm there are several methodologies or frameworks that teams can use to implement Agile. In this lesson we will focus on Scrum, which is one of the most popular implementations of Agile in software development.
+Agile Values and Principles
+As mentioned earlier, the Agile Manifesto (the seminal work that established Agile as a philosophy and methodology for product development), sets out 4 key values and 12 guiding principles. Let’s now explore each of these values and principles to better understand what Agile is.
+4 Key Values:
+Agile core values
+Individuals and Interactions over Processes and Tools: Agile places a higher value on individuals and their interactions. While processes and tools are important, they should serve the people doing the work, not the other way around.
+Working Software over Comprehensive Documentation: In traditional methodologies, large amounts of time are spent creating detailed documentation. Agile, however, places emphasis on delivering working software. That’s not to say documentation isn’t important in Agile; it’s about creating documentation that truly delivers value.
+Customer Collaboration over Contract Negotiation: Rather than negotiating terms and sticking strictly to them, Agile encourages continuous customer or stakeholder involvement. The idea is to work with the customer throughout the development process to understand their needs and adapt the product accordingly.
+Responding to Change over Following a Plan: In Agile, change is not only expected but also welcomed, even late in development. Agile teams are ready to respond to change in order to provide the customer with the best possible product. While having a plan is important, the ability to adapt to changes is viewed as more crucial.
+12 Guiding Principles:
+Our highest priority is to satisfy the customer through early and continuous delivery of valuable software.
+Welcome changing requirements, even late in development. Agile processes harness change for the customer’s competitive advantage.
+Deliver working software frequently, from a couple of weeks to a couple of months, with a preference to the shorter timescale.
+Business people and developers must work together daily throughout the project.
+Build projects around motivated individuals. Give them the environment and support they need, and trust them to get the job done.
+The most efficient and effective method of conveying information to and within a development team is face-to-face conversation.
+Working software is the primary measure of progress.
+Agile processes promote sustainable development. The sponsors, developers, and users should be able to maintain a constant pace indefinitely.
+Continuous attention to technical excellence and good design enhances agility.
+Simplicity–the art of maximizing the amount of work not done–is essential.
+The best architectures, requirements, and designs emerge from self-organizing teams.
+At regular intervals, the team reflects on how to become more effective, then tunes and adjusts its behavior accordingly.
+Next
+
+...
+
+focusing on individuals is the emphasis, rather than the specific processes.
+working software over documentation. comment code and all that, it's not that 
+documentation is bad, first priority is sofware that works, before we have the 
+documentation. happy customers are the priority.
+
+...
+
+3. Knowledge Check
+Question 1 of 3
+
+Which of the following is NOT one of the key values of the Agile Manifesto?
+
+
+Customer collaboration over contract negotiation.
+
+
+Comprehensive documentation over working software.
+
+
+Responding to change over following a plan.
+
+
+Individuals and interactions over processes and tools.
+
+Check It! (3 left)
+
+Question 2 of 3
+
+Which model did Agile primarily emerge as a response to, due to its limitations in project management?
+
+
+Kanban
+
+
+Lean
+
+
+Waterfall
+
+
+Scrum
+
+Check It! (1 left)
+Next
+
+...
+
+4. Overview of Scrum
+What is Scrum?
+Scrum illustration
+Scrum, named after a formation in rugby where team members act together to get the ball, is a lightweight yet powerful framework for complex product development. It doesn’t provide detailed instructions for every scenario but offers a set of rules, roles, events, and artifacts for managing work. Scrum embraces the Agile principles of flexibility, speed, customer collaboration, and continuous improvement.
+Scrum Principles
+Scrum operates on six key principles:
+Empirical Process Control: Scrum relies on evidence-based decision-making where progress is based on observed results rather than predictions.
+Self-organization: Teams are given the autonomy to manage and organize their work, leveraging the expertise of its members.
+Collaboration: All stakeholders, including team members and customers, work closely together throughout the development process.
+Value-based prioritization: Features and tasks are prioritized based on their value to the customer or project outcome.
+Time-boxing: Work is structured into fixed-length intervals (sprints) with specific goals, ensuring timely delivery and feedback.
+Iterative development: The product is developed and improved in small increments, allowing for regular feedback and adjustments.
+Scrum framework
+Components of Scrum
+Scrum Artifacts
+Scrum Artifacts are tools that provide information and give insights into the product and the project. These include the Product Backlog, a prioritized list of desired product features or changes; the Sprint Backlog, a subset of the Product Backlog that the team commits to deliver during a Sprint; and the Increment, the sum of all Product Backlog items completed during a Sprint and the value of the increments of all previous Sprints. These artifacts help teams plan and track their work, assess their progress, and adapt their plans as needed.
+Scrum Roles
+There are three main roles in Scrum: the Product Owner, the Scrum Master, and the Development Team.
+The Product Owner is the key stakeholder who has a vision of what they wish to build and conveys that vision to the team. The Scrum Master facilitates the Scrum process, removes impediments, and helps the team perform at their highest level. The Development Team is the group of professionals who do the work of delivering a potentially releasable product Increment at the end of each Sprint.
+Scrum Events
+Scrum Ceremonies, also known as events, provide the framework for the team to get work done in a structured manner, facilitate communication, and reduce unnecessary meetings.
+These include Sprint Planning (where the team determines the product backlog items they will work on during the sprint and discusses the plan for delivering the product increment), Daily Scrum (a quick meeting for the team to sync up and plan their day’s work), Sprint Review (where the team, stakeholders, and Product Owner review what was accomplished during the sprint and update the backlog), and Sprint Retrospective (where the team reflects on their performance during the sprint and discusses ways to improve for the next sprint).
+User Stories
+User story illustration
+User Stories are a powerful tool in Agile and Scrum, serving as a simple description of a product feature from the end-user’s perspective.
+Effective User Stories should conform to the INVEST criteria: Independent (can be developed in any sequence), Negotiable (details can be worked out over time), Valuable (provides value to the customer), Estimable (enough information is provided to estimate size), Small (can be completed within one sprint), and Testable (clear acceptance criteria are defined).
+A User Story might be something like: “As a user, I want a search function on the homepage so that I can easily find information on the website.” The corresponding acceptance criteria might include: “Given I am on the homepage, when I enter ‘FAQ’ into the search bar and hit enter, then the FAQ page should appear in the search results.”
+Question 3 of 3
+
+Which Scrum principle suggests that decisions should be based on observed realities?
+
+
+Value-based prioritization
+
+
+Time-boxing
+
+
+Empirical Process Control
+
+
+Collaboration
+
+Check It! (4 left)
+Next
+
+...
+
+4. Overview of Scrum
+What is Scrum?
+Scrum illustration
+Scrum, named after a formation in rugby where team members act together to get the ball, is a lightweight yet powerful framework for complex product development. It doesn’t provide detailed instructions for every scenario but offers a set of rules, roles, events, and artifacts for managing work. Scrum embraces the Agile principles of flexibility, speed, customer collaboration, and continuous improvement.
+Scrum Principles
+Scrum operates on six key principles:
+Empirical Process Control: Scrum relies on evidence-based decision-making where progress is based on observed results rather than predictions.
+Self-organization: Teams are given the autonomy to manage and organize their work, leveraging the expertise of its members.
+Collaboration: All stakeholders, including team members and customers, work closely together throughout the development process.
+Value-based prioritization: Features and tasks are prioritized based on their value to the customer or project outcome.
+Time-boxing: Work is structured into fixed-length intervals (sprints) with specific goals, ensuring timely delivery and feedback.
+Iterative development: The product is developed and improved in small increments, allowing for regular feedback and adjustments.
+Scrum framework
+Components of Scrum
+Scrum Artifacts
+Scrum Artifacts are tools that provide information and give insights into the product and the project. These include the Product Backlog, a prioritized list of desired product features or changes; the Sprint Backlog, a subset of the Product Backlog that the team commits to deliver during a Sprint; and the Increment, the sum of all Product Backlog items completed during a Sprint and the value of the increments of all previous Sprints. These artifacts help teams plan and track their work, assess their progress, and adapt their plans as needed.
+Scrum Roles
+There are three main roles in Scrum: the Product Owner, the Scrum Master, and the Development Team.
+The Product Owner is the key stakeholder who has a vision of what they wish to build and conveys that vision to the team. The Scrum Master facilitates the Scrum process, removes impediments, and helps the team perform at their highest level. The Development Team is the group of professionals who do the work of delivering a potentially releasable product Increment at the end of each Sprint.
+Scrum Events
+Scrum Ceremonies, also known as events, provide the framework for the team to get work done in a structured manner, facilitate communication, and reduce unnecessary meetings.
+These include Sprint Planning (where the team determines the product backlog items they will work on during the sprint and discusses the plan for delivering the product increment), Daily Scrum (a quick meeting for the team to sync up and plan their day’s work), Sprint Review (where the team, stakeholders, and Product Owner review what was accomplished during the sprint and update the backlog), and Sprint Retrospective (where the team reflects on their performance during the sprint and discusses ways to improve for the next sprint).
+User Stories
+User story illustration
+User Stories are a powerful tool in Agile and Scrum, serving as a simple description of a product feature from the end-user’s perspective.
+Effective User Stories should conform to the INVEST criteria: Independent (can be developed in any sequence), Negotiable (details can be worked out over time), Valuable (provides value to the customer), Estimable (enough information is provided to estimate size), Small (can be completed within one sprint), and Testable (clear acceptance criteria are defined).
+A User Story might be something like: “As a user, I want a search function on the homepage so that I can easily find information on the website.” The corresponding acceptance criteria might include: “Given I am on the homepage, when I enter ‘FAQ’ into the search bar and hit enter, then the FAQ page should appear in the search results.”
+Question 3 of 3
+
+Which Scrum principle suggests that decisions should be based on observed realities?
+
+
+Value-based prioritization
+
+
+Time-boxing
+
+
+Empirical Process Control
+
+
+Collaboration
+
+Check It! (4 left)
+Next
+
+
+...
+
+frontend-frameworks--lesson-3-3slashproject-15---sat---nov--4
+
+...
+
+frontend-frameworks--lesson-3-3slashproject-15---sat---nov--4
+
+...
+
+One suggestion would be to try and refactor your personal website in React. Alternatively, you could try searching Google for some React project ideas and attempt to build one of them. Or, maybe you’ve got your own idea for a React project already and could try building that.
+
+...
+
+6. Common Software Tools
+Tools can play a significant role in implementing Agile and Scrum effectively. Jira, Trello, and Asana are some popular ones. Jira, developed by Atlassian, is an issue tracking product that allows bugs tracking and agile project management. It can manage the entire life cycle of a task, from requirement to deployment. Trello, with its Kanban-style boards, lists, and cards, is great for managing and visualizing project tasks. Asana allows for task assignments, commenting, and tracking, making it a useful tool for managing work, especially in a remote setting. These tools can help teams collaborate, track progress, manage changes, and stay aligned with their goals.
+JIRA
+Jira website screenshot
+TRELLO
+Trello website screenshot
+ASANA
+Asana website screenshot
+Next
+
+...
+
+6. Common Software Tools
+Tools can play a significant role in implementing Agile and Scrum effectively. Jira, Trello, and Asana are some popular ones. Jira, developed by Atlassian, is an issue tracking product that allows bugs tracking and agile project management. It can manage the entire life cycle of a task, from requirement to deployment. Trello, with its Kanban-style boards, lists, and cards, is great for managing and visualizing project tasks. Asana allows for task assignments, commenting, and tracking, making it a useful tool for managing work, especially in a remote setting. These tools can help teams collaborate, track progress, manage changes, and stay aligned with their goals.
+JIRA
+Jira website screenshot
+TRELLO
+Trello website screenshot
+ASANA
+Asana website screenshot
+Next
+
+...
+
+7. Certifications
+Becoming certified can enhance your understanding of Agile and Scrum and boost your credibility in the field. There are several certification programs available:
+Certified ScrumMaster (CSM): Offered by the Scrum Alliance, the CSM certification validates your understanding of Scrum principles and your skill in applying Scrum in projects.
+Professional Scrum Master (PSM): Offered by Scrum.org, the PSM certification comes in three levels (I, II, and III), each with an increasing depth of knowledge and expertise in Scrum.
+PMI Agile Certified Practitioner (PMI-ACP): Offered by the Project Management Institute (PMI), the PMI-ACP certification recognizes knowledge of Agile principles and skill with various Agile methodologies.
+Next
+
+...
+
+8. Conclusion & Takeaways
+Conclusion & Takeaways
+In this lesson, we covered the roots of Agile and Scrum, their principles, artifacts, roles, and events, some real-world applications, and common tools used by Agile teams. Agile and Scrum are more than just methodologies - they represent a mindset; as we touched on, they are a way of approaching work that values individuals and interactions, customer collaboration, and responsiveness to change. As you continue your journey in software development, it’s crucial to keep learning, exploring and adapting…
+This is the [Agile] Way.
+Mandalorian meme - This is the Way
+Attribution
+Agile Manifesto https://agilemanifesto.org/
+The Scrum Framework at a glance https://www.scrumalliance.org/about-scrum#!section2
+Agile agility nimble quick fast volant concept Free Photo. (2021, August 11). Freepik. https://www.freepik.com/free-photo/agile-agility-nimble-quick-fast-volant-concept_17057425.htm
+Agile Alliance. (2023a, April 15). Agile Manifesto for Software Development | Agile Alliance. Agile Alliance |. https://www.agilealliance.org/agile101/the-agile-manifesto/
+Agile Alliance. (2023b, July 29). Agile Essentials | Agile Alliance. Agile Alliance |. https://www.agilealliance.org/agile-essentials/
+Agile method concept illustration Free Vector. (2022, June 29). Freepik. https://www.freepik.com/free-vector/agile-method-concept-illustration_28902469.htm
+Agile principles. (2023, January 6). https://www.productplan.com/glossary/agile-principles/
+Arun, R. (2023). What is Agile: Understanding Agile Methodology and Principles. Simplilearn.com. https://www.simplilearn.com/tutorials/agile-scrum-tutorial/what-is-agile
+Atlassian. (n.d.). What is Agile? | Atlassian. https://www.atlassian.com/agile
+Cprime Inc. (2023, April 17). What is Agile? - What is Scrum? - Agile FAQ’s | Cprime. Cprime. https://www.cprime.com/resources/what-is-agile-what-is-scrum/
+Dark mode concept illustration Free Vector. (2020, December 11). Freepik. https://www.freepik.com/free-vector/dark-mode-concept-illustration_11608452.htm
+Drapkin, A. (2023). The key principles of Scrum in Project Management. Tech.co. https://tech.co/project-management-software/key-principles-scrum
+Gradient blue agile core values infographic Free Vector. (2020, June 20). Freepik. https://www.freepik.com/free-vector/gradient-blue-agile-core-values-infographic_8848307.htm
+McCormack, C. (2023). Introduction to agile. monday.com Blog. https://monday.com/blog/project-management/introduction-to-agile/
+Ops, D. (2023, April 15). What does INVEST Stand For? | Agile Alliance. Agile Alliance |. https://www.agilealliance.org/glossary/invest/
+Scrum infographic Free Vector. (2020, June 17). Freepik. https://www.freepik.com/free-vector/scrum-infographic_8806106.htm
+Mark as CompletedBack to dashboard
+
+...
+
+Lesson 3.2 
+
+1. Client / Stakeholder Management
+Client / Stakeholder Management
+Goals
+By the end of this case you will:
+Understand why client/stakeholder management is one of the most important things a professional web developer does
+Familiarize yourself with the concept of scope creep
+Recognize that perception is reality
+Introduction
+If your work puts you in direct contact with your client, it will be necessary to manage that client’s expectations. A well-managed client is a happy client, and you too will reap the benefits of having happy clients. Regular and targeted communication with your client can help build trust which in turn facilitates the client/stakeholder management task.
+Next
+
+...
+
+undestand what will make the customer really get into the 
+services that the company can provide.
+
+...
+
+2. Helping Your Client Feel Heard
+Helping Your Client Feel Heard
+The start of your relationship with a given client often consists of a meeting or a phone call where the client will talk to you about what they are looking for. Whether they are starting a new project or building on an existing one, this stage of the relationship sets the tone for what follows. This is your opportunity to show the customer that you are actively listening to their needs and responding in kind.
+Remember that your client is not a developer. They may say things that are not technically correct, but this is not the time to correct them. In the first interaction, you are listening to their story to understand their long-term vision. It’s ok to take notes, but do not interrupt them. Make eye contact. Nod and smile encouragingly. Save your questions for the end. Detailed specifications will be produced only after you have a solid understanding of what will make this client’s heart sing.
+Managing Expectations and Building Trust
+Managing client expectations starts with setting clear goals. Suppose your client has requested a functionality add-on to their e-commerce website. You estimate that you will need 2 weeks to deliver the add-on. Telling your customer that you will be able to launch the new functionality in two weeks, does not leave you any wiggle room for unexpected hurdles that can and do arise. If the customer expects a 2 week delivery timeline, and you run into trouble and miss the deadline, the customer will not be happy and they will not trust your ability to estimate deliverables.
+In this case, it would have been better to tell the customer that you will be ready to begin testing the new functionality in 2 weeks, and anticipate launching in 3 weeks time. This way, you have wiggle room for incidentals, you can deliver in line with the customer’s expectations, and the customer can trust in your ability to estimate deliverables.
+Similarly, you want to be transparent about your fee structure. Most clients would rather know what to expect upfront. Zero clients want to be surprised with unexpected invoices.
+The same idea applies to your availability. If you are not available for work on the weekends, that’s allowed, but you have to be clear about that with your customer. Customers need to know when they can call you to collaborate on the project. If they expect you are working, and then can’t reach you, they will perceive you to be slacking off.
+Next
+
+...
+
+2. Helping Your Client Feel Heard
+Helping Your Client Feel Heard
+The start of your relationship with a given client often consists of a meeting or a phone call where the client will talk to you about what they are looking for. Whether they are starting a new project or building on an existing one, this stage of the relationship sets the tone for what follows. This is your opportunity to show the customer that you are actively listening to their needs and responding in kind.
+Remember that your client is not a developer. They may say things that are not technically correct, but this is not the time to correct them. In the first interaction, you are listening to their story to understand their long-term vision. It’s ok to take notes, but do not interrupt them. Make eye contact. Nod and smile encouragingly. Save your questions for the end. Detailed specifications will be produced only after you have a solid understanding of what will make this client’s heart sing.
+Managing Expectations and Building Trust
+Managing client expectations starts with setting clear goals. Suppose your client has requested a functionality add-on to their e-commerce website. You estimate that you will need 2 weeks to deliver the add-on. Telling your customer that you will be able to launch the new functionality in two weeks, does not leave you any wiggle room for unexpected hurdles that can and do arise. If the customer expects a 2 week delivery timeline, and you run into trouble and miss the deadline, the customer will not be happy and they will not trust your ability to estimate deliverables.
+In this case, it would have been better to tell the customer that you will be ready to begin testing the new functionality in 2 weeks, and anticipate launching in 3 weeks time. This way, you have wiggle room for incidentals, you can deliver in line with the customer’s expectations, and the customer can trust in your ability to estimate deliverables.
+Similarly, you want to be transparent about your fee structure. Most clients would rather know what to expect upfront. Zero clients want to be surprised with unexpected invoices.
+The same idea applies to your availability. If you are not available for work on the weekends, that’s allowed, but you have to be clear about that with your customer. Customers need to know when they can call you to collaborate on the project. If they expect you are working, and then can’t reach you, they will perceive you to be slacking off.
+Next
+
+...
+
+let the customer know what you availability is and manage what expectations they 
+have, they should know when it's appropriate to be interacting. 
+
+...
+
+<iframe width="1257" height="707" src="https://www.youtube.com/embed/-7CdHXTZT7M" title="Total War  ROME 2: Battle of Ephesus" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+...
+
+status updates don't really contribute to a project in any way, but 
+they help to set and manage the expectations and perceptions of the 
+client, and they client will make you show that you are working. 
+
+<iframe width="1257" height="707" src="https://www.youtube.com/embed/ds3aKPNOcKs" title="Total War  ROME 2: Battle of Alexandria" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+...
+
+https://www.youtube.com/watch?v=As3LGNTlPQ0
+
+...
+
+2. Helping Your Client Feel Heard
+Helping Your Client Feel Heard
+The start of your relationship with a given client often consists of a meeting or a phone call where the client will talk to you about what they are looking for. Whether they are starting a new project or building on an existing one, this stage of the relationship sets the tone for what follows. This is your opportunity to show the customer that you are actively listening to their needs and responding in kind.
+Remember that your client is not a developer. They may say things that are not technically correct, but this is not the time to correct them. In the first interaction, you are listening to their story to understand their long-term vision. It’s ok to take notes, but do not interrupt them. Make eye contact. Nod and smile encouragingly. Save your questions for the end. Detailed specifications will be produced only after you have a solid understanding of what will make this client’s heart sing.
+Managing Expectations and Building Trust
+Managing client expectations starts with setting clear goals. Suppose your client has requested a functionality add-on to their e-commerce website. You estimate that you will need 2 weeks to deliver the add-on. Telling your customer that you will be able to launch the new functionality in two weeks, does not leave you any wiggle room for unexpected hurdles that can and do arise. If the customer expects a 2 week delivery timeline, and you run into trouble and miss the deadline, the customer will not be happy and they will not trust your ability to estimate deliverables.
+In this case, it would have been better to tell the customer that you will be ready to begin testing the new functionality in 2 weeks, and anticipate launching in 3 weeks time. This way, you have wiggle room for incidentals, you can deliver in line with the customer’s expectations, and the customer can trust in your ability to estimate deliverables.
+Similarly, you want to be transparent about your fee structure. Most clients would rather know what to expect upfront. Zero clients want to be surprised with unexpected invoices.
+The same idea applies to your availability. If you are not available for work on the weekends, that’s allowed, but you have to be clear about that with your customer. Customers need to know when they can call you to collaborate on the project. If they expect you are working, and then can’t reach you, they will perceive you to be slacking off.
+Next
+
+...
+
+3. Perception is Reality
+Perception is Reality
+When you call or email your customer to give them an update on their project, they perceive you as working hard. When you fail to call or email your customer to give them an update, they perceive you as not working at all, even if you are working harder than you ever have in your entire life. This is what we mean by perception is reality. You have to manage your client’s perception of you and of the work you are doing for them.
+If you have included many “extras” on the project, but you never told your client about these “extras”, your client is unable to perceive and therefore unable to appreciate the extra effort that you made. Communicating is not bragging. Tell your customer explicitly what you have done for them using simple (non-technical) language they can understand. Only then can they perceive how hard you are working for them, and this too will build trust in the relationship.
+Scope Creep
+Scope creep occurs when clients request work that is not included within the scope of the initial project. This might occur, for example, if you are integrating a new homepage layout and the client asks you to fix a few typos on their About-Us page “while you’re in there”. If the request is very small, you might use your discretion to decide whether or not to fulfill the request, but small “extras” can add up, and before you know it, you may have crept well beyond the initial project’s scope.
+This is problematic because you are being asked to do more work without additional financial compensation. Furthermore, the customer’s expectations regarding launch timelines will not change even though they are causing delays with additional requests. That means that if you miss deadlines, their trust in your capacity is negatively impacted.
+It is best to develop and sign detailed specifications regarding the project scope up front and to make clear that while you are overjoyed to receive any additional requests, the specifications for those requests will be drawn up as part of a separate mandate with a revised timeline if applicable. This way the customer’s expectations are adjusted and scope creep is limited.
+Further reading : https://www.projectmanager.com/blog/5-ways-to-avoid-scope-creep
+Next
+
+...
+
+4. Conclusion
+Conclusion
+Effective Client / Stakeholder management is an important part of forming and maintaining successful customer relationships. Making sure your customer feels heard is where trust begins. Limiting scope creep using clearly written contractual specifications helps to manage client expectations and end of cycle satisfaction. Remember that perception is reality and that regular communications foster trust and forge rapport. Satisfied customers are more easily retained for future business, and they are more likely to provide referrals for new business.
+Mark as CompletedBack to dashboard
+
+...
+
+1. Cross-Browser and Device Testing
+Cross-Browser and Device Testing
+Goals
+By the end of this case you will:
+Know what cross-browser and device testing refers to
+Understand why no project is complete without this step
+Learn to use “inspect” in Chrome to test different screen sizes.
+Introduction
+When a website is nearly ready to go live, the final step is cross-browser testing and device testing. In this step, you must try to use the website (as a target user might) on different browsers and different devices. Typically browsers tested include Chrome and Safari, but depending on your customer, you may also need to test on Microsoft Edge and FireFox. Testing for different devices means desktop screens, laptops, tablets and different cell phones. Don’t worry if you don’t have all those devices, we will use a Chrome feature to test different screen sizes. Your goal is for the website to display and function seamlessly regardless of screen size, and no matter which browser is used.
+Next
+
+...
+
+<iframe width="1257" height="707" src="https://www.youtube.com/embed/uhb3B2Bbn3I" title="&quot;Dedication to Cornelius Nepos&quot; by Caius Valerius Catullus" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+...
+
+<iframe width="1257" height="707" src="https://www.youtube.com/embed/F9oq5dU1aoc" title="&quot;Lesbia&#39;s Sparrow&quot; by Caius Valerius Catullus" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+...
+
+<iframe width="1257" height="707" src="https://www.youtube.com/embed/kub7sRpDyrU" title="&quot;Approach of Winter&quot; by William Carlos Williams" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+...
+
+1. Cross-Browser and Device Testing
+Cross-Browser and Device Testing
+Goals
+By the end of this case you will:
+Know what cross-browser and device testing refers to
+Understand why no project is complete without this step
+Learn to use “inspect” in Chrome to test different screen sizes.
+Introduction
+When a website is nearly ready to go live, the final step is cross-browser testing and device testing. In this step, you must try to use the website (as a target user might) on different browsers and different devices. Typically browsers tested include Chrome and Safari, but depending on your customer, you may also need to test on Microsoft Edge and FireFox. Testing for different devices means desktop screens, laptops, tablets and different cell phones. Don’t worry if you don’t have all those devices, we will use a Chrome feature to test different screen sizes. Your goal is for the website to display and function seamlessly regardless of screen size, and no matter which browser is used.
+Next
+
+...
+
+2. Defining the scope of your testing
+Defining the scope of your testing
+It is important to include which browsers and devices your website will support in the contracted project specifications. Without this detail, your customer may insist the code be made compatible with versions of Explorer, for example, which are no longer supported.
+Responsive Design Includes Cell Phones
+Even if your website is intended to be used primarily on desktops, the design must nevertheless be responsive for optimal display across all screen sizes, including cell phones. As of 2021, 85% of Americans owned a smartphone, up from just 35% in 2011. Knowing this, it is not surprising that the field of Web Development has adopted a mobile-first mindset. Google search results also prioritize responsive websites in their search results, meaning your website will be penalized in search ranking if it is not mobile-friendly.
+Next
+
+...
+
+4. Knowledge Check
+Question 1 of 2
+
+What does cross-browser and device testing refer to?
+
+
+Reviewing website design only on Chrome browser
+
+
+Testing the website on various internet devices without considering the browser compatibility
+
+
+Checking the website’s security across multiple browsers
+
+
+Testing the website’s display and functionality on different browsers and devices
+
+Check It! (3 left)
+
+Question 2 of 2
+
+Why is it essential to have a responsive design for websites, even if they are intended primarily for desktops?
+
+
+To give developers a challenge in designing
+
+
+Because a majority of Americans still use desktops as their primary device
+
+
+To ensure seamless display across all screen sizes and prevent penalization in Google search ranking
+
+
+Because mobile phones cannot access non-responsive websites
+
+Check It! (4 left)
+Next
+
+...
+
+5. Conclusion
+Conclusion
+Cross-browser and device testing is the final stage of producing a product you can be proud of. When this stage is omitted or rushed you can trust that your client will find display and functionality problems post-launch. That outcome dramatically reduces customer satisfaction and should be avoided at all costs. Instead, test your site on different browsers and devices until you are sure there are no bugs. Leave your client overjoyed with their flawless new website so that they remain your client for future business and sing your praises to everyone with ears.
+Attribution
+https://www.pewresearch.org/internet/fact-sheet/mobile/
+https://www.apple.com/
+Mark as CompletedBack to dashboard
+
+...
+
+<iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" 
+frameborder="0" height="auto" src="https://www.youtube.com/embed/AE6UnUduNuU" style="aspect-ratio: 8.68/6.86;" title=" " width="100%"></iframe>
+
+<iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" 
+frameborder="0" height="auto" src="https://www.youtube.com/embed/oUCFHtym8dI" style="aspect-ratio: 8.68/6.86;" title=" " width="100%"></iframe>
+
+<iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" 
+frameborder="0" height="auto" src="https://www.youtube.com/embed/kub7sRpDyrU" style="aspect-ratio: 8.68/6.86;" title=" " width="100%"></iframe>
+
+...
+
+1. Contact Forms in WordPress
+Contact Forms in WordPress
+Goals
+By the end of this case you will:
+Install the Contact Form 7 plugin for WordPress
+Create a simple contact form for your website
+Protect your website by integrating Google reCaptcha V3 on your form
+Introduction
+Creating contact forms in WordPress is relatively straight-forward. There are a variety of (free and paid) form builder plugins available and your choice of plugin will depend on what it is you need your form to do.
+Select a plugin that receives regular updates and that is highly rated. Plugins that have not received any updates in two years are considered abandoned. It is not recommended that you use abandoned plugins.
+cover image
+Image by Freepik
+Business Context
+As a developer, you may be called on to create new forms and/or modify existing forms in WordPress. If your employer/customer is already using a certain plugin for their forms, and assuming that plugin is secure, you should work with the plugin that is already in place. Only introduce a new form solution if the existing solution is no longer secure or is no longer compatible with the rest of the website.
+Next
+
+...
+
+I'm thinking right now. Project 15 should be pretty easy. 
+the only issue is setting up the environment or whatever 
+to refactor the page or project I want to refactor using 
+react. This should be easy, but there have been many times 
+that I thought something would be easy, and it turned out 
+to me a total nightmare to do.
+
+...
+
+1. Contact Forms in WordPress
+Contact Forms in WordPress
+Goals
+By the end of this case you will:
+Install the Contact Form 7 plugin for WordPress
+Create a simple contact form for your website
+Protect your website by integrating Google reCaptcha V3 on your form
+Introduction
+Creating contact forms in WordPress is relatively straight-forward. There are a variety of (free and paid) form builder plugins available and your choice of plugin will depend on what it is you need your form to do.
+Select a plugin that receives regular updates and that is highly rated. Plugins that have not received any updates in two years are considered abandoned. It is not recommended that you use abandoned plugins.
+cover image
+Image by Freepik
+Business Context
+As a developer, you may be called on to create new forms and/or modify existing forms in WordPress. If your employer/customer is already using a certain plugin for their forms, and assuming that plugin is secure, you should work with the plugin that is already in place. Only introduce a new form solution if the existing solution is no longer secure or is no longer compatible with the rest of the website.
+Next
+
+...
+
+https://www.youtube.com/watch?v=Nv_q2cCs9LM
+
+...
+
+1. Contact Forms in WordPress
+Contact Forms in WordPress
+Goals
+By the end of this case you will:
+Install the Contact Form 7 plugin for WordPress
+Create a simple contact form for your website
+Protect your website by integrating Google reCaptcha V3 on your form
+Introduction
+Creating contact forms in WordPress is relatively straight-forward. There are a variety of (free and paid) form builder plugins available and your choice of plugin will depend on what it is you need your form to do.
+Select a plugin that receives regular updates and that is highly rated. Plugins that have not received any updates in two years are considered abandoned. It is not recommended that you use abandoned plugins.
+cover image
+Image by Freepik
+Business Context
+As a developer, you may be called on to create new forms and/or modify existing forms in WordPress. If your employer/customer is already using a certain plugin for their forms, and assuming that plugin is secure, you should work with the plugin that is already in place. Only introduce a new form solution if the existing solution is no longer secure or is no longer compatible with the rest of the website.
+Next
+
+...
+
+2. Contact Form 7 - Installation & Configuration
+Before we proceed with the plugin installation steps, let’s review a few troubleshooting steps:
+1. Use LocalWP
+If you can remember from Module 8, we installed LocalWP to set up a local WordPress environment on our computers. It is crucial to ensure that we exclusively use LocalWP for installing plugins, whether they are free or paid, rather than installing them directly on wordpress.com.
+If you are installing plugins directly on www.wordpress.com, you might come across a prompt like this to upgrade:
+wordpress.com upgrade
+If you don’t have LocalWP installed, you can download it from https://localwp.com/. If you need help with the installation process, please refer to this video.
+2. Revert IIS setting from Module 16 Lesson 1.2
+Another problem that you might encounter when attempting to view your site using LocalWP is the following error:
+wordpress.com upgrade
+To resolve this error, you need to revert back the IIS changes you made, on Module 16, Lesson 1.2.
+Open your Control Panel
+Open Programs and Features
+Click on Turn Window features on or off
+turn features on or off
+In the popup, locate Internet Information Services, uncheck the box. If you also see Internet Information Services Hostable Web Core then uncheck that box as well. Click OK.
+edits to internet information services
+When your computer is finished making the changes, it may ask to restart your computer. This is normal. Save any changes you may need to in open files. Close everything including the Control Panel and restart your computer.
+Contact Form 7 - Installation & Configuration
+Now, let’s create a simple contact form for your personal website using the plugin Contact Form 7.
+Step 1: Using the left-hand menu, navigate to Plugins → Add New
+Step 2: Use the search bar in the upper left-hand corner to search for Contact Form 7
+Step 3: Click Install Now button on the Contact Form 7 plugin
+install button
+Step 4: Once it is installed, click the Activate button.
+Step 5: Using the left-hand menu, navigate to Contact → Contact Forms
+contact forms
+Step 6: Notice that a default contact form is already in place. Click Edit on the default form.
+edit or duplicate
+Step 7: Begin by re-naming the form to something else along the lines of
+Contact YourFullName
+Step 8: The default form includes the fields name, email, subject, message
+Let’s also add a phone number field. Your code should look something like this:
+<label> Your name
+    [text* your-name autocomplete:name] </label>
+
+<label> Your email
+    [email* your-email autocomplete:email] </label>
+
+<label> Your phone number
+    [tel usrphone placeholder "123-456-7890"] </label>
+
+<label> Subject
+    [text* your-subject] </label>
+
+<label> Your message (optional)
+    [textarea your-message] </label>
+
+[submit "Submit"]
+Step 9: Remember to Save your changes.
+Step 10: So far, by editing code in the Form tab, we have only added the phone number field to the front end form. We still must add the phone number to the notification email. This is done in the Mail tab. Navigate to the Mail tab now.
+Mail tab
+Step 11: In this tab you can modify the To, From and Subject of the notification email that will be sent when someone uses the contact form.
+(Note that it is good practice to send From the domain name of the website.
+For example, the website https://mysite.com could send email from contact@mysite.com. )
+Add the phone number field to the body of the email that will be sent. Your code should look something like this:
+From: [your-name] <[your-email]>
+Subject: [your-subject]
+
+Phone: [usrphone]
+
+Message Body:
+[your-message]
+
+-- 
+This email was sent from a contact form on [_site_title] ([_site_url])
+By default this is a text email, but Contact Form 7 does offer the option (free) of sending an email in HTML format so that you can style the appearance of this email as desired.
+Step 12: Remember to save your form.
+save button
+Step 13: Now that we have a contact form, we can integrate it on our contact page. Return to Contact → Contact Forms. Your contact form has a shortcode that you must copy.
+shortcode
+Step 14: Now that you have copied the shortcode for your contact form, use the left-hand menu to navigate to Pages. If you do not have a contact page yet, you will need to create one now.
+Paste the shortcode into the body of the page. Publish the changes.
+Step 15: View your contact page, including your new contact form, on the front end of your website. You can submit a test to receive the notification email.
+Please note that your form has not been styled and may look less than excellent depending on your active theme. If you have some time now, modify your theme’s css file to style the form.
+Next
+
+...
+
+3. Protecting Your Contact Form
+Protecting Your Contact Form
+We have a contact form that works, but is vulnerable to spam. Bots will flood your inbox with junk unless you activate some form of spam filter. We will integrate Google reCAPTCHA V3 to limit bot spam that comes through the form.
+Navigate to Contact → Integration
+Scroll down to reCAPTCHA and click Setup Integration.
+setup recaptcha intergraion
+We must create a Site Key and a Secret Key.
+In a new browser tab, login to your google account the visit: https://www.google.com/recaptcha/admin/create
+Complete the form as follows:
+Google reCAPTCHA
+Once you click SUBMIT, you will be taken to a screen that includes your site key and your secret key. These must be copied and pasted into their respective fields in the Contact Form integration screen from your previous browser tab.
+create a site key and secret key
+Remember to Save Changes. Your form now has some protection from Spam.
+save changes
+Next
+
+...
+
+4. Turning Design into Code
+Turning Design into Code
+The contact form we just created is very plain. Depending on your active theme, it may look like the image on the left. We will want to make the front end of this form much more attractive to users.
+Sometimes you will be presented with designs that you will “bring to life” on the website. Suppose you were given the task to create the following form on the right. Notice that it contains all the same fields as your new contact form. That means we can use our new contact form as a starting point for design integration, so that the end result looks like the form on the right.
+Plain	Designed
+form example	finished example
+To do this, you will need not only a mock-up (as above), but also specifications regarding fonts, spacing, margins, padding, components and interaction, functionality requirements and responsive design requirements. Even if it is not specified, all of your code should be responsive for optimal display across screen sizes.
+The designer can provide you with all of the relevant specifications. As a developer, your job is not to critique the design work, but rather to implement it. Designers are artistic individuals who are emotionally invested in their work. It is essential that you maintain an open back-and-forth dialogue with designers on your team. Ask as many questions as you must to get the job done and, if you must provide design feedback, keep your feedback as complimentary as possible.
+Think about how you can use CSS to modify the layout of your form so that it is visually appealing for users.
+Next
+
+...
+
+5. Conclusion & Takeaways
+Conclusion & Takeaways
+Adding a contact form to a WordPress website is a straightforward task that will make your website more interactive and will help you gather leads. No matter what form builder plugin you decide to use, that plugin must receive regular security updates as security patches are released in new plugin versions. It is also important to protect contact forms against spam. All form builders will offer some kind of anti-spam integration. Forms must be secure, functional and attractive to users, in that order.
+Learn more about creating forms with Contact Form 7:
+https://contactform7.com/docs/
+Attribution
+Image https://www.freepik.com/free-vector/contact-concept-landing-page_5102922.htm
+Contact Form 7 Documentation https://contactform7.com/docs/
+Google reCAPTCHA keys https://www.google.com/recaptcha/admin/create
+Mark as CompletedBack to dashboard
+
+...
+
+
+

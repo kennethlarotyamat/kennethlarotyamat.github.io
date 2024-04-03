@@ -1,0 +1,2354 @@
+2. What is a JSON file?
+JSON (JavaScript Object Notation) is a file format that is easily readable for a human and requires less formatting. 
+It is used for sharing or transmitting data to store. The extension of this type of file is .JSON and it is supported 
+by many modern programming languages.
+The media type used for JSON is application/json.
+JSON File Structure
+JSON is structured with key and value pairs. The key is unique and is a string surrounded by double quotation marks. 
+The Value can be a Number, string (surrounded by double quotation marks), Array, Boolean, null and object. The key and 
+value are separated by a colon(:) in the middle with the key on the left and the value on the right. Different key/value 
+pairs are separated by a comma(,).
+
+...
+
+Examples by types values:
+Number
+{"age" : 34}
+String
+{"name" : "Joseph"}
+Array
+{"fruits" : ["Apple","Banana","Strawberry"]}
+Boolean
+{"Enable" : true}
+Null
+{"genre" : null}
+Object
+{"user" : {"name" : "Joseph", "age" : 34, "genre" : null}}
+
+...
+
+Resources:          [https://www.youtube.com/watch?v=nXLkuXX88w8]
+                    [https://www.geeksforgeeks.org/json-data-types/]
+                    [https://docs.fileformat.com/web/json/]
+
+
+...
+
+Christopher	7464839	+1457938740	Read, Sing, Dance	Name:HTML, ID:1; Name:Javascript, ID:2; Name:API; ID:3
+
+...
+
+Exercise 3
+Build a JSON file for the data below (hint: think of this as a user object).
+Name	        Id	            Telephone number	    Hobbies	            Lessons
+Christopher	    7464839	    +1457938740	            Read, Sing, Dance	Name:HTML, ID:1; Name:Javascript, ID:2; Name:API; ID:3
+
+...
+
+{"user" : {"name" : "Joseph", "age" : 34, "genre" : null}}
+
+{"Name" : "Christopher", "Id" : 7464839, "TelephoneNumber" : +1457938740, "Hobbies" : ["Read, Sing, Dance"], 
+"Lessons" [{"Name":"HTML", "ID":1}{"Name":"Javascript", "ID":2 }{"Name":"API", "ID":3}] }
+
+...
+
+oct28lesson2-1
+
+...
+
+1. Accessing APIs with Fetch
+javascript fetch api
+Goals
+By the end of this lesson you will:
+Know how to work with the fetch method
+Be able to get data using the fetch method
+Be able to execute a public free API
+Introduction
+The fetch() method easily connects the server to the client. You need only type the URL of the API and a second 
+parameter for POST requests. With the fetch() method you can execute an API (if you have access) and begin to 
+interact a little more with APIs to see an API in action. Also, the fetch() method allows you to get data and show it on your page.
+
+...
+
+[Resources] 
+
+[https://youtu.be/nXLkuXX88w8?t=1461]
+
+...
+
+what happened, well. I attended class, on saturday, but I was still working on project 13 on Saturday. I could have 
+completed this stuff that day, and in retrospect, I should have just done this stuff on Saturday.
+
+I'm going to take a short break.
+
+...
+
+2. fetch() Method in Javascript
+fetch diagram
+fetch() Method in Javascript
+The fetch() method is used to request data from a server for any type of API that returns the data in JSON or XML format.
+Syntax
+fetch('url')
+  .then(response => response.json())
+  .then(data => console.log(data));
+The fetch() method requires one parameter: the URL to request. It accepts two parameters and returns a promise. The second 
+parameter is an array of properties.
+For the next example we will use a free API found here.
+
+[Resources]             [https://apipheny.io/free-api/#apis-without-key]
+
+...
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+ <meta charset="UTF-8">
+ <meta name="viewport" content="width=device-width, initial-scale=1.0">
+ <title>C1 | JavaScript | fetch() Method</title>
+</head>
+<body>
+ <script src="/.guides/console.js"> </script>
+    <script>
+        let result = fetch("https://www.boredapi.com/api/activity");
+        result.then(res => res.json())
+              .then(d => { console.log(d)});
+    </script>
+</body>
+</html>
+
+...
+
+The return value is a promise whether it is resolved or not. The return data can be of the format JSON or XML. 
+It can be an array of objects or simply a single object.
+
+...
+
+[How many parameters are accepted? And What value is required?]
+
+2 parameter's are accepted, The first parameter is required is a URL, and the second parameter is optional.
+
+...
+
+<!-- Fetching data with options: -->
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>C1 | JavaScript | fetch() Method with Options</title>
+</head>
+
+<body>
+    <script>
+        user = {
+            "name": "Christopher Miller",
+            "age": "35",
+            "salary": "4321"
+        };
+        let options = {
+            method: 'POST',
+            headers: {
+                'Content-Type':'application/json;charset=utf-8'
+            },
+            body: JSON.stringify(user)
+        };
+        // Rest API example
+        let result = fetch("https://dummy.restapiexample.com/api/v1/create", options);
+        result.then(res => res.json())
+              .then(d => {console.log(d)});
+    </script>
+</body>
+
+</html>
+
+...
+
+    <script>
+        user = {
+            "name": "Christopher Miller",
+            "age": "35",
+            "salary": "4321"
+        };
+        let options = {
+            method: 'POST',
+            headers: {
+                'Content-Type':'application/json;charset=utf-8'
+            },
+            body: JSON.stringify(user)
+        };
+        // Rest API example
+        let result = fetch("https://dummy.restapiexample.com/api/v1/create", options);
+        result.then(res => res.json())
+              .then(d => {console.log(d)});
+    </script>
+
+...
+
+{"status":"success","data":{"name":"Christopher Miller","age":"35","salary":"4321","id":7993},"message":"Successfully! Record has been added."}
+
+...
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+ <meta charset="UTF-8">
+ <meta name="viewport" content="width=device-width, initial-scale=1.0">
+ <title>C1 | JavaScript | fetch() Method</title>
+</head>
+<body>
+ <script src="/.guides/console.js"> </script>
+ 
+    <script>
+        user = {
+            "name": "Christopher Miller",
+            "age": "35",
+            "salary": "4321"
+        };
+        let options = {
+            method: 'POST',
+            headers: {
+                'Content-Type':'application/json;charset=utf-8'
+            },
+            body: JSON.stringify(user)
+        };
+        // Rest API example
+        let result = fetch("https://dummy.restapiexample.com/api/v1/create", options);
+        result.then(res => res.json())
+              .then(d => {console.log(d)});
+    </script>
+
+
+    
+</body>
+</html>
+
+...
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+ <meta charset="UTF-8">
+ <meta name="viewport" content="width=device-width, initial-scale=1.0">
+ <title>C1 | JavaScript | fetch() Method</title>
+</head>
+<body>
+ <script src="/.guides/console.js"> </script>
+ 
+    <script>
+        user = {
+            "name": "Christopher Miller",
+            "age": "35",
+            "salary": "4321"
+        };
+        let options = {
+            method: 'POST',
+            headers: {
+                'Content-Type':'application/json;charset=utf-8'
+            },
+            body: JSON.stringify(user)
+        };
+        // Rest API example
+        let result = fetch("https://dummy.restapiexample.com/api/v1/create", options);
+        result.then(res => res.json())
+              .then(d => {console.log(d)});
+    </script>
+
+
+    
+</body>
+</html>
+
+...
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>C1 | JavaScript | fetch() Method Exercise</title>
+</head>
+
+<body>
+    <script>
+        //Completed code here
+    </script>
+    <img id="imageAPI" width="500" height="600">
+</body>
+
+</html>
+
+...
+
+<!-- myDogImg = document.getElementbyID("imageAPI").src -->
+<!-- result or response check difference in javascript -->
+<!-- https://dog.ceo/api/breeds/image/random -->
+<!-- src="  " -->
+<!-- https://dog.ceo/api/breeds/image/random -->
+
+...
+
+[Final Working Version]
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>C1 | JavaScript | fetch() Method Exercise</title>
+</head>
+
+<body>
+<script>
+//Completed code here
+
+
+
+let result = fetch("https://dog.ceo/api/breeds/image/random");
+result.then(res => res.json())
+.then(d => {document.getElementById("imageAPI").src=d.message});
+</script>
+
+
+<img id="imageAPI" width="500" height="600" >
+
+</body>
+
+
+</html>
+
+...
+
+[https://sabrinaprinter-groupsphere.codio.io/example.html]
+
+...
+
+3. Conclusion & Takeaways
+The fetch() method has two parameters, the URL of the API and a second parameter for options.
+The fetch() method is very easy to use, you can try to do several tests to see it in action, there are many free APIs on the web.
+Attribution
+Team, A. (2022, February 19). Free API – Huge List of Public APIs For Testing [No Key]. Apipheny. https://apipheny.io/free-api/
+GeeksforGeeks. (2022, October 19). JavaScript | fetch() Method. https://www.geeksforgeeks.org/javascript-fetch-method/
+GeeksforGeeks. (2021a, January 8). How to use JavaScript Fetch API to Get Data ? https://www.geeksforgeeks.org/how-to-use-javascript-fetch-api-to-get-data/?ref=rp
+
+[https://apipheny.io/free-api/]
+[https://www.geeksforgeeks.org/javascript-fetch-method/]
+[https://www.geeksforgeeks.org/how-to-use-javascript-fetch-api-to-get-data/?ref=rp]
+[https://sabrinaprinter-groupsphere.codio.io/example.html]
+[https://youtu.be/nXLkuXX88w8?t=2914]
+[https://youtu.be/nXLkuXX88w8?t=3415]
+
+...
+
+lesson-2-2---sat---oct-28
+
+...
+
+[https://youtu.be/nXLkuXX88w8?t=2914]
+
+...
+
+lesson-2-2-sat-oct-28
+
+...
+
+1. Project [14] 
+
+Communicating on the Web
+
+For this project, you will be adding something we’ve studied this week to your personal web page. 
+This makes the code yours, and can be an example of your knowledge. There doesn’t necessarily have to 
+be a purpose for what you choose to add; in some ways you simply want to show off your skills to a 
+potential employer. Choose from:
+
+Leaflet
+
+Asynchronous functions
+Collect form information in json format
+
+Google Maps
+
+Whatever you choose, be sure to have clear comments in your code so a reviewer can understand what you did, 
+and also so you can go back a month or more later and be reminded of what your thought process was.
+When finished, submit your code!
+
+Submission steps:
+
+Before you click on "Mark as Completed":
+
+You need to do one of the following: either upload all of your files to Codio or deploy a GitHub Page for this project.
+Also, if you mark this project as complete but any of the boxes are blank, your TA will be unable to grade your project.
+
+Codio upload:
+
+Make sure all of your project code has been uploaded to Codio.
+If you did not write your code in Codio, you will need to import all of the required files into your workspace file tree.
+You can do this by going to File => Upload Files, and either manually importing each file, or dragging and dropping your project folder.
+Please refer to this video if you are unsure of what to do.
+
+GitHub Pages:
+
+If you would rather upload your project to GitHub, please make sure to have the project deployed as a GitHub page so we can thoroughly test it.
+If you are unsure of how to do this, please follow these instructions.
+It is important to understand you will need to make a separate repository for every project. You cannot deploy 
+multiple pages from the same repository, even with different branches.
+Also, no matter whether you uploaded your files from your computer or not, make sure to thoroughly test your code! 
+This only takes a few minutes, but will prevent the amount of resubmissions because you missed something.
+
+[Project 14 Requirements]
+
+...
+
+Stargate, Roland Emmerich (1994)
+
+[https://www.youtube.com/watch?v=lsuY5dYxOCs]
+
+Roland Emmerich Filmography
+
+In addition to film,[51] Emmerich also co-created and produced the short-lived television series 
+The Visitor, and, in 2001, directed a one-minute commercial 
+entitled "Infinite Possibilities" for DaimlerChrysler.[52]
+
+Film
+
+Year	Title	                        Director	Writer	Producer
+1979	Franzmann	                    Yes	        Yes	    No
+        Wilde Witwe (Short film)	    Yes	        No	    No
+1984	The Noah's Ark Principle	    Yes	        Yes	    Co-producer
+1985	Joey	                        Yes	        Yes	    Co-producer
+1987	Hollywood-Monster	            Yes	        Yes	    Yes
+1990	Moon 44	                        Yes	        Story	Yes
+1992	Universal Soldier	            Yes	        No	    No
+1994	Stargate	                    Yes	        Yes	    No
+1996	Independence Day	            Yes	        Yes	    Executive
+1998	Godzilla	                    Yes	        Yes	    Executive
+2000	The Patriot	                    Yes	        No	    Executive
+2004	The Day After Tomorrow          Yes	        Yes	    Yes
+2008	10,000 BC	                    Yes	        Yes	    Yes
+2009	2012	                        Yes	        Yes	    Executive
+2011	Anonymous	                    Yes	        No	    Yes
+2013	White House Down	            Yes	        No	    Yes
+2015	Stonewall	                    Yes	        No	    Yes
+2016	Independence Day: Resurgence	Yes	        Yes	    Yes
+2019	Midway	                        Yes	        No	    Yes
+2022	Moonfall	                    Yes	        Yes	    Yes
+
+[https://en.wikipedia.org/wiki/Roland_Emmerich]
+
+...
+
+[https://www.youtube.com/watch?v=nXLkuXX88w8]
+
+...
+
+[Project 14 Requirements due November 4th]
+
+1. Project [14] 
+
+Communicating on the Web
+
+For this project, you will be adding something we’ve studied this week to your personal web page. 
+This makes the code yours, and can be an example of your knowledge. There doesn’t necessarily have to 
+be a purpose for what you choose to add; in some ways you simply want to show off your skills to a 
+potential employer. Choose from:
+
+Leaflet
+
+Asynchronous functions
+Collect form information in json format
+
+Google Maps
+
+Whatever you choose, be sure to have clear comments in your code so a reviewer can understand what you did, 
+and also so you can go back a month or more later and be reminded of what your thought process was.
+When finished, submit your code!
+
+Submission steps:
+
+Before you click on "Mark as Completed":
+
+You need to do one of the following: either upload all of your files to Codio or deploy a GitHub Page for this project.
+Also, if you mark this project as complete but any of the boxes are blank, your TA will be unable to grade your project.
+
+Codio upload:
+
+Make sure all of your project code has been uploaded to Codio.
+If you did not write your code in Codio, you will need to import all of the required files into your workspace file tree.
+You can do this by going to File => Upload Files, and either manually importing each file, or dragging and dropping your project folder.
+Please refer to this video if you are unsure of what to do.
+
+GitHub Pages:
+
+If you would rather upload your project to GitHub, please make sure to have the project deployed as a GitHub page so we can thoroughly test it.
+If you are unsure of how to do this, please follow these instructions.
+It is important to understand you will need to make a separate repository for every project. You cannot deploy 
+multiple pages from the same repository, even with different branches.
+Also, no matter whether you uploaded your files from your computer or not, make sure to thoroughly test your code! 
+This only takes a few minutes, but will prevent the amount of resubmissions because you missed something.
+
+[Project 14 Requirements due November 4th]
+
+...
+
+[https://www.youtube.com/watch?v=nXLkuXX88w8]
+
+[communicating-on-the-web--lesson-2-3---sat---oct-28]
+
+[https://www.youtube.com/watch?v=D1kEtVJrmk0&t=329s]
+
+[https://www.youtube.com/watch?v=1xt13dn74wc]
+
+[https://www.grants.gov/web/grants]
+
+[https://www.youtube.com/watch?v=1xt13dn74wc]
+
+...
+
+Kenneth Larot Yamat
+
+"This Is Just To Say Something About The Young Housewife" (2023)
+
+I totally ate all of the  so many    fried turkeys
+that were hanging out
+by the red wheelbarrow
+you know     the one glazed with
+soy sauce and beside the 
+                      kentucky fried 
+                             kung pao chickens
+           which 
+themselves were drenched in
+              tabasco sauce
+
+I request neither forgiveness
+nor do I intend to apologize for
+          my actions 
+
+because 
+
+I spent several hours
+of quality time
+with a certain young housewife
+
+                    who
+
+braless and dressed in negligee 
+
+          and 
+
+whose wild hair suggested
+she spent even more additional
+even higher quality time with
+both the ice man
+and the fish man
+
+       either sequentially 
+               or 
+              simultaneously 
+                     neither would surprise me
+
+left me    breathless    exhausted
+as well as      famished
+
+I thought I gave a good
+account of myself
+
+but then along came 
+          the milkman
+and    she             still
+   had enough energy 
+       for 
+    round four
+
+I was there
+I saw it all
+
+...
+
+[Reflections]
+
+I accidentially closed my browser, and now my progress has been lost. 
+I was at a stopping point, so, I didn't lose any actual work, I just lost 
+my place. It's kind of like, when reading, and the book falls to the ground,
+or the book is accidentially shut, and so, you know, the last place is lost.
+
+I'm about to take a nap, I have class later today at 11 AM. For javascript,
+I really do think that I have to start from the very beginning, again.
+
+[End Reflections]
+
+...
+
+[https://www.msn.com/en-us/money/savingandinvesting/has-the-s-p-500-s-recent-correction-triggered-a-new-bear-market/ar-AA1j95Yc?ocid=NL_ENUS_A1_00010101_1_1]
+
+[https://www.youtube.com/watch?v=lsuY5dYxOCs]
+
+[https://www.youtube.com/watch?v=xu-t3tqDyAY]
+
+[https://www.youtube.com/watch?v=geclsIbWqoA]
+
+[https://www.youtube.com/watch?v=rhlM0rhl7Mk]
+
+[https://www.youtube.com/watch?v=gq-4vIIJO30]
+
+...
+
+[https://leafletjs.com/index.html]
+
+Goals
+
+By the end of this lesson you will:
+Know how to work with Leaflet
+Implement a solution with maps using Leaflet
+Practice knowledge in Javascript
+
+Introduction
+
+Leaflet is a powerful tool for developing maps. The programming language used to develop Leaflet is 
+JavaScript, whereby it is easy to learn and use. Leaflet is designed with simplicity, performance and 
+usability in mind. It works efficiently across all major desktop and mobile platforms.
+
+...
+
+2. What is Leaflet?
+
+Leaflet is an open-source JavaScript library for interactive maps. It has all the mapping features most 
+developers need. It is compatible with mobile platforms and all major desktops. It has a beautiful, 
+easy to use and well-documented API.
+In this link you can see all documentation of the APIs available in this library.
+Preparing your page
+Write the basic HTML code for a webpage or copy and paste in the following code in your editor:
+
+...
+
+Which of the following is the goal of step 3 found above?
+
+
+[A]It is required for basic HTML.
+
+
+[B] [x] With this integration you can use all Leaflet methods.
+
+
+[C]It describes the version of Leaflet.
+
+...
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.3/dist/leaflet.css"
+integrity="sha256-kLaT2GOSpHechhsozzB+flnD+zUyjE2LlfWPgU04xyI="
+crossorigin=""/>
+<script src="https://unpkg.com/leaflet@1.9.3/dist/leaflet.js"
+integrity="sha256-WBkoXOwTeyKclOHuWtc+i2uENFpDZ9YPdf5Hf+D7ewM="
+crossorigin="">
+</script>
+
+    <title>Hello Leaflet</title>
+
+</head>
+
+<body>
+
+    <div id="map" style="width: 600px; height: 400px;"></div>
+<script>
+
+        const map = L.map('map').setView([40.689, //latitude
+            -74.044], //longitude
+            13);    //zoom
+
+        const tiles = L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
+            maxZoom: 19,
+            attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
+        }).addTo(map);
+
+
+</script>
+
+</body>
+
+</html>
+
+...
+
+In the previous code we set up the coordinates of the “Statue of liberty” monument. We suggest that you use the page 
+[https://www.latlong.net/] for searching the latitude and longitude of a place.
+Exercise 2:
+Search the coordinates of Niagara falls, put in your code and refresh your navigator.
+Answer:
+It looks like this:
+
+...
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.3/dist/leaflet.css"
+integrity="sha256-kLaT2GOSpHechhsozzB+flnD+zUyjE2LlfWPgU04xyI="
+crossorigin=""/>
+<script src="https://unpkg.com/leaflet@1.9.3/dist/leaflet.js"
+integrity="sha256-WBkoXOwTeyKclOHuWtc+i2uENFpDZ9YPdf5Hf+D7ewM="
+crossorigin="">
+</script>
+
+    <title>Hello Leaflet</title>
+
+</head>
+
+<body>
+
+<div id="map" style="width: 600px; height: 400px;"></div>
+<script>
+
+        const map = L.map('map').setView([40.689, //latitude
+            -74.044], //longitude
+            13);    //zoom
+
+        const tiles = L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
+            maxZoom: 19,
+            attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
+        }).addTo(map);
+
+
+</script>
+
+<div id="map2" style="width: 600px; height: 400px;"></div>
+<script>
+
+        const map2 = L.map2('map2').setView([43.096214, //latitude
+            -79.037743], //longitude
+            13);    //zoom
+
+        const tiles = L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
+            maxZoom: 19,
+            attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
+        }).addTo(map2);
+
+
+</script>
+
+
+
+</body>
+
+...
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.3/dist/leaflet.css"
+integrity="sha256-kLaT2GOSpHechhsozzB+flnD+zUyjE2LlfWPgU04xyI="
+crossorigin=""/>
+<script src="https://unpkg.com/leaflet@1.9.3/dist/leaflet.js"
+integrity="sha256-WBkoXOwTeyKclOHuWtc+i2uENFpDZ9YPdf5Hf+D7ewM="
+crossorigin="">
+</script>
+
+    <title>Hello Leaflet</title>
+
+</head>
+
+<body>
+
+<div id="map" style="width: 600px; height: 400px;"></div>
+<script>
+
+        const map = L.map('map').setView([40.689, //latitude
+            -74.044], //longitude
+            13);    //zoom
+
+        const tiles = L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
+            maxZoom: 19,
+            attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
+        }).addTo(map);
+
+
+</script>
+
+<div id="mapTwo" style="width: 600px; height: 400px;"></div>
+<script>
+
+        const mapTwo = L.mapTwo('mapTwo').setView([43.096214, //latitude
+            -79.037743], //longitude
+            13);    //zoom
+
+        const tiles = L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
+            maxZoom: 19,
+            attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
+        }).addTo(mapTwo);
+
+
+</script>
+
+
+
+</body>
+
+</html>
+
+...
+
+adding a second map doesn't seem to work, I don't know how to set that up.
+
+...
+
+This still doesn't work.
+
+...
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.3/dist/leaflet.css"
+integrity="sha256-kLaT2GOSpHechhsozzB+flnD+zUyjE2LlfWPgU04xyI="
+crossorigin=""/>
+<script src="https://unpkg.com/leaflet@1.9.3/dist/leaflet.js"
+integrity="sha256-WBkoXOwTeyKclOHuWtc+i2uENFpDZ9YPdf5Hf+D7ewM="
+crossorigin=""></script>
+<title>Hello Leaflet</title>
+</head>
+
+<body>
+
+<div id="map" style="width: 600px; height: 400px;"></div>
+<script>
+
+        const map = L.map('map').setView([40.689, //latitude
+            -74.044], //longitude
+            13);    //zoom
+
+        const tiles = L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
+            maxZoom: 19,
+            attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
+        }).addTo(map);
+
+
+</script>
+
+<div id="mapTwo" style="width: 600px; height: 400px;"></div>
+<script>
+
+        const mapTwo = L.mapTwo('mapTwo').setView([43.096214, //latitude
+            -79.037743], //longitude
+            13);    //zoom
+
+        const tilesTwo = L.tilesTwoLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
+            maxZoom: 19,
+            attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
+        }).addTo(mapTwo);
+
+
+</script>
+
+
+
+</body>
+
+</html>
+
+...
+
+<div id="mapTwo" style="width: 600px; height: 400px;"></div>
+<script>
+
+        const mapTwo = L.mapTwo('mapTwo').setView([43.096214, //latitude
+            -79.037743], //longitude
+            13);    //zoom
+
+        const tilesTwo = L.tilesTwoLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
+            maxZoom: 19,
+            attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
+        }).addTo(mapTwo);
+
+
+</script>
+
+...
+
+the above doesn't work.
+
+...
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.3/dist/leaflet.css"
+integrity="sha256-kLaT2GOSpHechhsozzB+flnD+zUyjE2LlfWPgU04xyI="
+crossorigin=""/>
+<script src="https://unpkg.com/leaflet@1.9.3/dist/leaflet.js"
+integrity="sha256-WBkoXOwTeyKclOHuWtc+i2uENFpDZ9YPdf5Hf+D7ewM="
+crossorigin=""></script>
+<title>Hello Leaflet</title>
+</head>
+
+<body>
+
+<div id="map" style="width: 600px; height: 400px;"></div>
+
+<script>
+
+        const map = L.map('map').setView([43.096214, //latitude
+            -79.037743], //longitude
+            13);    //zoom
+
+        L.tileLayer('http://{s}.google.com/vt/lyrs=m&x={x}&y={y}&z={z}', {
+            maxZoom: 20,
+            subdomains: ['mt0', 'mt1', 'mt2', 'mt3'],
+            attribution: 'Copyright Google Maps'
+            }).addTo(map);
+
+    </script>
+
+
+
+
+
+</body>
+
+</html>
+
+...
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.3/dist/leaflet.css"
+integrity="sha256-kLaT2GOSpHechhsozzB+flnD+zUyjE2LlfWPgU04xyI="
+crossorigin=""/>
+<script src="https://unpkg.com/leaflet@1.9.3/dist/leaflet.js"
+integrity="sha256-WBkoXOwTeyKclOHuWtc+i2uENFpDZ9YPdf5Hf+D7ewM="
+crossorigin=""></script>
+<title>Hello Leaflet</title>
+</head>
+
+<body>
+
+<div id="map" style="width: 600px; height: 400px;"></div>
+
+<script>
+
+        const map = L.map('map').setView([43.096214, //latitude
+            -79.037743], //longitude
+            13);    //zoom
+
+        L.tileLayer('http://{s}.google.com/vt/lyrs=m&x={x}&y={y}&z={z}', {
+            maxZoom: 20,
+            subdomains: ['mt0', 'mt1', 'mt2', 'mt3'],
+            attribution: 'Copyright Google Maps'
+            }).addTo(map);
+
+    </script>
+
+
+
+
+
+</body>
+
+</html>
+
+...
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.3/dist/leaflet.css"
+integrity="sha256-kLaT2GOSpHechhsozzB+flnD+zUyjE2LlfWPgU04xyI="
+crossorigin=""/>
+<script src="https://unpkg.com/leaflet@1.9.3/dist/leaflet.js"
+integrity="sha256-WBkoXOwTeyKclOHuWtc+i2uENFpDZ9YPdf5Hf+D7ewM="
+crossorigin=""></script>
+<title>Hello Leaflet</title>
+</head>
+
+<body>
+
+<div id="map" style="width: 600px; height: 400px;"></div>
+
+<script>
+
+        const map = L.map('map').setView([43.096214, //latitude
+            -79.037743], //longitude
+            13);    //zoom
+
+        const tiles = L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
+            maxZoom: 19,
+            attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
+        }).addTo(map);
+
+
+</script>
+
+
+
+
+
+</body>
+
+</html>
+
+...
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.3/dist/leaflet.css"
+integrity="sha256-kLaT2GOSpHechhsozzB+flnD+zUyjE2LlfWPgU04xyI="
+crossorigin=""/>
+<script src="https://unpkg.com/leaflet@1.9.3/dist/leaflet.js"
+integrity="sha256-WBkoXOwTeyKclOHuWtc+i2uENFpDZ9YPdf5Hf+D7ewM="
+crossorigin=""></script>
+<title>Hello Leaflet</title>
+</head>
+
+<body>
+
+<div id="map" style="width: 600px; height: 400px;"></div>
+
+<script>
+
+        const map = L.map('map').setView([43.096214, //latitude
+            -79.037743], //longitude
+            13);    //zoom
+
+        L.tileLayer('http://{s}.google.com/vt/lyrs=m&x={x}&y={y}&z={z}', {
+            maxZoom: 20,
+            subdomains: ['mt0', 'mt1', 'mt2', 'mt3'],
+            attribution: 'Copyright Google Maps'
+            }).addTo(map);
+
+    </script>
+
+<!-- Most tile providers such as OpenStreetMap and Google Maps require an attribution, 
+please check the copyright notice of the tiles provider before publishing your page 
+in production. -->
+
+
+
+</body>
+
+</html>
+
+...
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.3/dist/leaflet.css"
+integrity="sha256-kLaT2GOSpHechhsozzB+flnD+zUyjE2LlfWPgU04xyI="
+crossorigin=""/>
+<script src="https://unpkg.com/leaflet@1.9.3/dist/leaflet.js"
+integrity="sha256-WBkoXOwTeyKclOHuWtc+i2uENFpDZ9YPdf5Hf+D7ewM="
+crossorigin=""></script>
+<title>Hello Leaflet</title>
+</head>
+
+<body>
+
+<div id="map" style="width: 600px; height: 400px;"></div>
+
+<script>
+
+        const map = L.map('map').setView([43.096214, //latitude
+            -79.037743], //longitude
+            13);    //zoom
+
+        L.tileLayer('http://{s}.google.com/vt/lyrs=m&x={x}&y={y}&z={z}', {
+            maxZoom: 20,
+            subdomains: ['mt0', 'mt1', 'mt2', 'mt3'],
+            attribution: 'Copyright Google Maps'
+            }).addTo(map);
+
+    var marker = L.marker([43.096214, -79.037743]).addTo(map);
+    var circle = L.circle([43.08, -79.08], {radius: 600}).addTo(map);
+    </script>
+
+<!-- Most tile providers such as OpenStreetMap and Google Maps require an attribution, 
+please check the copyright notice of the tiles provider before publishing your page 
+in production. -->
+
+
+
+</body>
+
+</html>
+
+...
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.3/dist/leaflet.css"
+integrity="sha256-kLaT2GOSpHechhsozzB+flnD+zUyjE2LlfWPgU04xyI="
+crossorigin=""/>
+<script src="https://unpkg.com/leaflet@1.9.3/dist/leaflet.js"
+integrity="sha256-WBkoXOwTeyKclOHuWtc+i2uENFpDZ9YPdf5Hf+D7ewM="
+crossorigin=""></script>
+<title>Hello Leaflet</title>
+</head>
+
+<body>
+
+<div id="map" style="width: 600px; height: 400px;"></div>
+
+<script>
+
+        const map = L.map('map').setView([43.096214, //latitude
+            -79.037743], //longitude
+            13);    //zoom
+
+        const tiles = L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
+            maxZoom: 19,
+            attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
+        }).addTo(map);
+
+var marker = L.marker([43.096214, -79.037743]).addTo(map);
+var circle = L.circle([43.08, -79.08], {radius: 600}).addTo(map);
+</script>
+
+<!-- 
+Coordinates:
+[43.09, -79.07]
+[43.08, -79.06]
+[43.1, -79.05]
+Options:
+Color: orange
+fillOpacity: 0.8
+weight: 6
+Your map should now look like the one below.
+ -->
+<!-- 
+[43.09, -79.07]
+[43.08, -79.06]
+[43.1, -79.05] 
+-->
+
+
+
+<!-- https://leafletjs.com/reference.html#polygon -->
+<!-- Most tile providers such as OpenStreetMap and Google Maps require an attribution, 
+please check the copyright notice of the tiles provider before publishing your page 
+in production. -->
+
+
+
+</body>
+
+</html>
+
+...
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.3/dist/leaflet.css"
+integrity="sha256-kLaT2GOSpHechhsozzB+flnD+zUyjE2LlfWPgU04xyI="
+crossorigin=""/>
+<script src="https://unpkg.com/leaflet@1.9.3/dist/leaflet.js"
+integrity="sha256-WBkoXOwTeyKclOHuWtc+i2uENFpDZ9YPdf5Hf+D7ewM="
+crossorigin=""></script>
+<title>Hello Leaflet</title>
+</head>
+
+<body>
+
+<div id="map" style="width: 600px; height: 400px;"></div>
+
+<script>
+
+        const map = L.map('map').setView([43.096214, //latitude
+            -79.037743], //longitude
+            13);    //zoom
+
+        const tiles = L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
+            maxZoom: 19,
+            attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
+        }).addTo(map);
+
+var marker = L.marker([43.096214, -79.037743]).addTo(map);
+var circle = L.circle([43.08, -79.08], {radius: 600}).addTo(map);
+
+var latlngs = [[43.09, -79.07],[43.08, -79.06],[43.1, -79.05]];
+
+var polygon = L.polygon(latlngs, {color: 'orange', weight:6, fillOpacity: .8}).addTo(map);
+
+
+
+
+  var popup = L.popup()
+           .setLatLng([43.1123, -79.01])
+           .setContent("The last time we ever crossed paths.")
+           .openOn(map); 
+
+           
+
+</script>
+
+<!-- polygon.bindPopup("She's hanging out at her favorite restaurants").openPopup(); -->
+<!-- circle.bindPopup("<b>Where's that crazy girl?</b>").openPopup(); -->
+<!-- marker.bindPopup("Your Favorite Place").openPopup(); -->
+
+<!-- 
+  var popup = L.popup()
+           .setLatLng([43.1123, -79.01])
+           .setContent("The last time we ever crossed paths.")
+           .openOn(map); 
+           
+           -->
+
+<!-- [working area]
+
+marker.bindPopup("Testing a popup.").openPopup();
+circle.bindPopup("<b>Testing!</b>I am a circle.");
+polygon.bindPopup("Testing a polygon.");
+
+[working area] -->
+
+<!-- 
+  
+  Sometimes you need to attach information in your map. With the next code you can add easily a popup:
+var popup = L.popup()
+           .setLatLng([43.1123, -79.01])
+           .setContent("Testing a popup.")
+           .openOn(map);
+It looks like this:
+
+ -->
+
+<!-- 
+  
+  We also can add a popup to our objects as makers, polygons, circles, etc. Add the following code to your page.
+marker.bindPopup("Testing a popup.").openPopup();
+circle.bindPopup("<b>Testing!</b>I am a circle.");
+polygon.bindPopup("Testing a polygon.");
+Refresh your page and try clicking on our objects. The popup appears when you click on the object and with method openPopup() you can see the popup immediately open the page (for makers only). See below.
+
+ -->
+
+<!-- weight	Number	3	Stroke width in pixels -->
+
+<!-- fillOpacity	Number	0.2	Fill opacity. -->
+
+<!-- 
+I was missing brackets around the bracketed co-ordinates on the latlngs line
+
+Reference:  Eliot Woidyla
+            var latlngs = [[43.09, -79.07],[43.08, -79.06],[43.1, -79.05]];
+            var polygon = L.polygon(latlngs, {color: 'orange', fillOpacity: 0.8, weight: 6}).addTo(map);
+
+ -->
+
+<!-- https://leafletjs.com/reference.html#polygon -->
+<!-- 
+
+var latlngs = [43.09, -79.07],[43.08, -79.06],[43.1, -79.05],];
+
+var polygon = L.polygon(latlngs, {color: 'orange'}).addTo(map); 
+
+
+ -->
+
+<!-- that didn't work -->
+<!-- var latlngs = [43.09, -79.07],[43.08, -79.06],[43.1, -79.05],];
+
+var polygon = L.polygon(latlngs, {color: 'orange'}).addTo(map);  -->
+<!-- [work area]
+
+var latlngs = [43.09, -79.07],[43.08, -79.06],[43.1, -79.05],];
+
+var polygon = L.polygon(latlngs, {color: 'orange'}).addTo(map); 
+
+[work area] --> 
+
+<!-- weight	Number	3	Stroke width in pixels -->
+
+<!-- fillOpacity	Number	0.2	Fill opacity. -->
+
+<!-- https://leafletjs.com/reference.html#polygon -->
+
+<!-- [43.09, -79.07]
+[43.08, -79.06]
+[43.1, -79.05] -->
+
+
+<!-- https://leafletjs.com/reference.html#polygon -->
+
+<!-- 
+  Leaflet was created 11 years ago by Volodymyr Agafonkin, a Ukrainian citizen living in Kyiv.
+
+Russian bombs are now falling over Volodymyr’s hometown. His family, his friends, his neighbours, thousands and thousands of absolutely wonderful people, are either seeking refuge or fighting for their lives.
+
+The Russian soldiers have already killed tens of thousands of civilians, including women and children, and are committing mass war crimes like gang rapes, executions, looting, and targeted bombings of civilian shelters and places of cultural significance. The death toll keeps rising, and Ukraine needs your help.
+
+As Volodymyr expressed a few days before the invasion:
+
+If you want to help, educate yourself and others on the Russian threat, follow reputable journalists, demand severe Russian sanctions and Ukrainian support from your leaders, protest war, reach out to Ukrainian friends, donate to Ukrainian charities. Just don’t be silent.
+
+Ukrainians are recommending the Come Back Alive charity. For other options, see StandWithUkraine.
+
+If an appeal to humanity doesn’t work for you, I’ll appeal to your egoism: the future of Ukrainian citizens is the future of Leaflet.
+
+It is chilling to see Leaflet being used for documenting Russia’s war crimes, factual reporting of the war and for coordination of humanitarian efforts in Romania and in Poland. We commend these uses of Leaflet.
+
+If you support the actions of the Russian government (even after reading all this), do everyone else a favour and carry some seeds in your pocket.
+
+Yours truly,
+Leaflet maintainers.
+ -->
+
+<!-- 
+Coordinates:
+[43.09, -79.07]
+[43.08, -79.06]
+[43.1, -79.05]
+Options:
+Color: orange
+fillOpacity: 0.8
+weight: 6
+Your map should now look like the one below.
+ -->
+<!-- 
+[43.09, -79.07]
+[43.08, -79.06]
+[43.1, -79.05] 
+-->
+
+
+
+<!-- https://leafletjs.com/reference.html#polygon -->
+<!-- Most tile providers such as OpenStreetMap and Google Maps require an attribution, 
+please check the copyright notice of the tiles provider before publishing your page 
+in production. -->
+
+
+
+</body>
+
+</html>
+
+...
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.3/dist/leaflet.css"
+integrity="sha256-kLaT2GOSpHechhsozzB+flnD+zUyjE2LlfWPgU04xyI="
+crossorigin=""/>
+<script src="https://unpkg.com/leaflet@1.9.3/dist/leaflet.js"
+integrity="sha256-WBkoXOwTeyKclOHuWtc+i2uENFpDZ9YPdf5Hf+D7ewM="
+crossorigin=""></script>
+<title>Hello Leaflet</title>
+</head>
+
+<body>
+
+<div id="map" style="width: 600px; height: 400px;"></div>
+
+<script>
+
+        const map = L.map('map').setView([43.096214, //latitude
+            -79.037743], //longitude
+            13);    //zoom
+
+        const tiles = L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
+            maxZoom: 19,
+            attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
+        }).addTo(map);
+
+var marker = L.marker([43.096214, -79.037743]).addTo(map);
+var circle = L.circle([43.08, -79.08], {radius: 600}).addTo(map);
+
+var latlngs = [[43.09, -79.07],[43.08, -79.06],[43.1, -79.05]];
+
+var polygon = L.polygon(latlngs, {color: 'orange', weight:6, fillOpacity: .8}).addTo(map);
+
+
+
+
+var popup = L.popup()
+.setLatLng([43.1123, -79.01])
+.setContent("The last time we ever crossed paths.")
+.openOn(map); 
+
+function onMapClick(e) {
+alert("You clicked the map at " + e.latlng);
+}
+
+map.on('click', onMapClick);
+
+           
+
+</script>
+
+<!-- 
+  
+  7. Conclusion & Takeaways
+map: used to create a map on a page and manipulate it
+tileLayer: used to load and display tile layers on the map
+Marker: used to display clickable/draggable icons on the map
+Polygon: A class for drawing polygon overlays on a map
+Circle: A class for drawing circle overlays on a map
+Leaflet allows easy interaction with and manipulation of maps.
+The documentation is very complete.
+With knowledge in JavaScript and Leaflet you can create big projects.
+Attribution
+Quick Start Guide - Leaflet - a JavaScript library for interactive maps. (n.d.). [Video]. https://leafletjs.com/examples/quick-start/
+
+
+ -->
+
+<!-- 6. Dealing with events
+You can interact with the map using events (see documentation for details).
+Every object has its corresponding event which can be used as a function. It allows you to react to user interaction. For example:
+function onMapClick(e) {
+        alert("You clicked the map at " + e.latlng);
+}
+
+map.on('click', onMapClick);
+With this code, you can click anywhere on the map to view the coordinates of that point. It will show an alert like the one below:
+alert image
+Try to click on your page and see the alerts. -->
+
+<!-- 
+
+  You can interact with the map using events (see documentation for details).
+Every object has its corresponding event which can be used as a function. It allows you to react to user interaction. For example:
+function onMapClick(e) {
+        alert("You clicked the map at " + e.latlng);
+}
+
+map.on('click', onMapClick);
+With this code, you can click anywhere on the map to view the coordinates of that point. It will show an alert like the one below:
+alert image
+Try to click on your page and see the alerts.
+
+ -->
+
+<!-- polygon.bindPopup("She's hanging out at her favorite restaurants").openPopup(); -->
+<!-- circle.bindPopup("<b>Where's that crazy girl?</b>").openPopup(); -->
+<!-- marker.bindPopup("Your Favorite Place").openPopup(); -->
+
+<!-- 
+  var popup = L.popup()
+           .setLatLng([43.1123, -79.01])
+           .setContent("The last time we ever crossed paths.")
+           .openOn(map); 
+           
+           -->
+
+<!-- [working area]
+
+marker.bindPopup("Testing a popup.").openPopup();
+circle.bindPopup("<b>Testing!</b>I am a circle.");
+polygon.bindPopup("Testing a polygon.");
+
+[working area] -->
+
+<!-- 
+  
+  Sometimes you need to attach information in your map. With the next code you can add easily a popup:
+var popup = L.popup()
+           .setLatLng([43.1123, -79.01])
+           .setContent("Testing a popup.")
+           .openOn(map);
+It looks like this:
+
+ -->
+
+<!-- 
+  
+  We also can add a popup to our objects as makers, polygons, circles, etc. Add the following code to your page.
+marker.bindPopup("Testing a popup.").openPopup();
+circle.bindPopup("<b>Testing!</b>I am a circle.");
+polygon.bindPopup("Testing a polygon.");
+Refresh your page and try clicking on our objects. The popup appears when you click on the object and with method openPopup() you can see the popup immediately open the page (for makers only). See below.
+
+ -->
+
+<!-- weight	Number	3	Stroke width in pixels -->
+
+<!-- fillOpacity	Number	0.2	Fill opacity. -->
+
+<!-- 
+I was missing brackets around the bracketed co-ordinates on the latlngs line
+
+Reference:  Eliot Woidyla
+            var latlngs = [[43.09, -79.07],[43.08, -79.06],[43.1, -79.05]];
+            var polygon = L.polygon(latlngs, {color: 'orange', fillOpacity: 0.8, weight: 6}).addTo(map);
+
+ -->
+
+<!-- https://leafletjs.com/reference.html#polygon -->
+<!-- 
+
+var latlngs = [43.09, -79.07],[43.08, -79.06],[43.1, -79.05],];
+
+var polygon = L.polygon(latlngs, {color: 'orange'}).addTo(map); 
+
+
+ -->
+
+<!-- that didn't work -->
+<!-- var latlngs = [43.09, -79.07],[43.08, -79.06],[43.1, -79.05],];
+
+var polygon = L.polygon(latlngs, {color: 'orange'}).addTo(map);  -->
+<!-- [work area]
+
+var latlngs = [43.09, -79.07],[43.08, -79.06],[43.1, -79.05],];
+
+var polygon = L.polygon(latlngs, {color: 'orange'}).addTo(map); 
+
+[work area] --> 
+
+<!-- weight	Number	3	Stroke width in pixels -->
+
+<!-- fillOpacity	Number	0.2	Fill opacity. -->
+
+<!-- https://leafletjs.com/reference.html#polygon -->
+
+<!-- [43.09, -79.07]
+[43.08, -79.06]
+[43.1, -79.05] -->
+
+
+<!-- https://leafletjs.com/reference.html#polygon -->
+
+<!-- 
+  Leaflet was created 11 years ago by Volodymyr Agafonkin, a Ukrainian citizen living in Kyiv.
+
+Russian bombs are now falling over Volodymyr’s hometown. His family, his friends, his neighbours, thousands and thousands of absolutely wonderful people, are either seeking refuge or fighting for their lives.
+
+The Russian soldiers have already killed tens of thousands of civilians, including women and children, and are committing mass war crimes like gang rapes, executions, looting, and targeted bombings of civilian shelters and places of cultural significance. The death toll keeps rising, and Ukraine needs your help.
+
+As Volodymyr expressed a few days before the invasion:
+
+If you want to help, educate yourself and others on the Russian threat, follow reputable journalists, demand severe Russian sanctions and Ukrainian support from your leaders, protest war, reach out to Ukrainian friends, donate to Ukrainian charities. Just don’t be silent.
+
+Ukrainians are recommending the Come Back Alive charity. For other options, see StandWithUkraine.
+
+If an appeal to humanity doesn’t work for you, I’ll appeal to your egoism: the future of Ukrainian citizens is the future of Leaflet.
+
+It is chilling to see Leaflet being used for documenting Russia’s war crimes, factual reporting of the war and for coordination of humanitarian efforts in Romania and in Poland. We commend these uses of Leaflet.
+
+If you support the actions of the Russian government (even after reading all this), do everyone else a favour and carry some seeds in your pocket.
+
+Yours truly,
+Leaflet maintainers.
+ -->
+
+<!-- 
+Coordinates:
+[43.09, -79.07]
+[43.08, -79.06]
+[43.1, -79.05]
+Options:
+Color: orange
+fillOpacity: 0.8
+weight: 6
+Your map should now look like the one below.
+ -->
+<!-- 
+[43.09, -79.07]
+[43.08, -79.06]
+[43.1, -79.05] 
+-->
+
+
+
+<!-- https://leafletjs.com/reference.html#polygon -->
+<!-- Most tile providers such as OpenStreetMap and Google Maps require an attribution, 
+please check the copyright notice of the tiles provider before publishing your page 
+in production. -->
+
+
+
+</body>
+
+</html>
+
+...
+
+[ End Lesson communicating-on-the-web--lesson-2-3---sat---oct-28 ]
+
+...
+
+[https://www.youtube.com/watch?v=nXLkuXX88w8]
+
+...
+
+1. Google Maps API - Part 1
+google maps
+Goals
+By the end of this lesson you will:
+Know how to set up Google Cloud
+Create a project in Google Cloud
+Learn how to use Google Maps API
+Enable APIs in Google Cloud
+Introduction
+In this lesson we will set up your Google Cloud project to use Google Maps Platform APIs. Before starting with Google Maps Platform we should create a project, enable billing and enable APIs. Also we will introduce to you Google Maps and its usefulness.
+map image
+Image from https://maps.google.com/
+For most personal projects, and even small business projects, leaflet is fine (and free). Google maps has extended functionality, so for large projects with heavy mapping needs, Google maps could offer more solutions.
+Business Context
+It is standard practice to include a map of the business location either on the contact page or in the footer of the website. Integrating Google Maps API makes the map interactive and provides the user easy access to directions in the event that they plan to visit the business in person.
+
+...
+
+2. What is Google Maps?
+Google Maps is a web mapping platform created by Google (Alphabet Inc) in the year 2005. It offers satellite imagery, aerial photography, street maps, 360° interactive panoramic views of streets (Street View), real-time traffic conditions, and route planning for traveling by foot, car, bike, air (in beta) and public transportation.
+Google Maps is available on all devices (smartphones, tablets, desktops, laptops and others) and also from a browser:
+https://maps.google.com/.
+Google Maps has enabled APIs that you can interact with and use to build solutions that require maps. For more details:
+https://developers.google.com/maps/documentation
+Get started with Google Maps Platform
+Step 1: Create a project
+Before you can use Google Maps Platform you should create a project to manage services, credentials, billing, APIs and SDKs. For each project a billing setup is required. You will only be charged if your project exceeds its quota of no-charge services. When developing for customers, it is recommended that you use the customer’s credit card to activate billing. In this case the API would go through the customer’s Google account.
+Prerequisites:
+You should have a Google account
+You should have a credit card
+To create a Cloud project:
+Create a new Google Cloud project in the Cloud Console, go to this direction
+https://console.cloud.google.com/projectcreate
+google cloud setupalt text
+Enter your customized Project name
+You can accept the Project ID or click EDIT and enter your customized ID
+In Location in this case choose “No organization”
+Click Create
+Step 2: Enable billing
+It is very important that you enable billing to deploy your apps. Within your free quota your account will not be charged.
+Be careful with exceeding your free quota to prevent headaches.
+To enable billing:
+Go to the billing page:
+https://console.cloud.google.com/projectselector/billing
+Select the project
+google project
+Create a new billing account
+google billing
+Set up your billing profile
+set up google billing
+Submit and Enable billing
+To gain more control over your costs, you can create a budget and set alerts. For more information, see Billing.
+Step 3: Enable APIs
+Now, let’s go to enable APIs to use in your application, go to url
+https://console.cloud.google.com/apis/library/static-maps-backend.googleapis.com
+Click the button Enable.
+enable the api
+Bonus Step: Shutting down a project
+We suggest that you complete this additional step after completing the program if you intend to discontinue your use of the Google API.
+Go to the Project page:
+https://console.cloud.google.com/iam-admin/projects
+shut down project
+Select the project to shut down and click DELETE. It is not recommended that you delete the project at this time, as you will need to use the API in the upcoming lessons 3.2 and 3.3.
+
+...
+
+3. Conclusion & Takeaways
+Google Maps is a powerful tool; it is used by many people and by developers worldwide.
+There is a great deal of documentation provided by Google for using all methods of these APIs.
+Note that a monthly recurring credit of 200 USD will be applied to your Billing Account. During the 90-day trial period, the 200 USD recurring credit will be used first, then anything further is deducted from the 300 USD trial credit. We HIGHLY doubt you will use 200 USD worth of Google Maps API credit for this program, so we encourage you to find other ways to use the 300 USD Cloud Billing credits, within 90-days, to further your learning! You can check any additional credit by selecting your billing account on the Billing page in the Cloud Console.
+Attribution
+Google Maps Platform |. (n.d.). [Video]. Google Developers. https://developers.google.com/maps
+
+...
+
+https://www.youtube.com/watch?v=nXLkuXX88w8
+
+...
+
+1. Google Maps API - Part 2
+Goals
+By the end of this lesson you will:
+Use Google API keys in your deploy
+Learn how to restrict an API key
+Develop some simple examples using Google Maps APIs
+Introduction
+In this second section on Google Maps you will learn more technical Google Maps skills. We will begin by setting up the API keys and then we will use them in our development. Also in this lesson, you will learn about APIs such as Geocoding and Directions services. Geocoding is important for getting the position and mark on the map, and Directions give an efficient path for rendering on the map.
+Next
+
+...
+
+2. Use API Keys
+Only the calls to the API that have proper authentication credentials can use the functions of Google Maps Platform. The API key is a unique alphanumeric string that associates your project with a specific API.
+Create API keys
+In the previous lesson (Google Maps Part 1) when you created the project, enabled the billing account, and enabled the API, it generated the API key.
+You can check by clicking on
+Navigation Menu > APIs & Services > Credentials
+and then clicking on SHOW KEY if you have an API key in the list of API Keys.
+api keys
+api keys list
+In the case that you do not have API key, please follow the next steps:
+Go to Navigation Menu > APIs & Services > Credentials
+Click + CREATE CREDENTIALS
+create credentials
+Chose API key from the list:
+You will see a popup like this one:
+popup
+Now you have your API key.
+Enable the APIs or SDKs
+In order to utilize the Google Maps Platform, we need to activate the APIs or SDKs that we intend to use for our project. Currently, we will need to enable six APIs essential for our upcoming examples and project.
+Go to Maps API Library Page
+https://console.cloud.google.com/project/_/google/maps-apis/api-list?utm_source=Docs_EnableAPIs&utm_content=Docs_Central
+Select your project
+select project
+Click on the Maps filter and Enable the following APIs:
+Maps Elevation API
+Maps Embed API
+Maps JavaScript API
+Maps Static API
+select maps APIs
+Click on the Places filter and Enable the following APIs:
+Geocoding API
+select places APIs
+Click on the Routes filter and Enable the following APIs:
+Directions API
+select routes APIs
+Restrict API keys
+It is recommended that you restrict your API Keys to protect them from unwanted requests.
+Go to Navigation Menu > APIs & Services > Credentials
+Click on your API key.
+restrict api keys
+Select the option IP addresses
+Add you IP address. You can locate your IP address by using this website.
+Leave the API restrictions as default - Don’t restrict key
+To finalize your changes, click SAVE
+IPv6 disabled/ Dynamic IP address
+If you encounter an error after restricting your API key, please make sure you have both IPv4 and IPv6 added to the list. If your IPv6 is disabled or you have a dynamic IP address, you may have to temporarily remove any API restrictions for our upcoming examples.
+If you were unable to restrict your API key, it is crucial to protect your key and refrain from sharing it in a public GitHub repository or Codepen.
+Next
+
+...
+
+3. Add the API key to your request
+For you to use the API Key you must include the Google Maps web service. It looks like this:
+https://maps.googleapis.com/maps/api/js?key=YOUR_API_KEY&callback=initMap&v=weekly
+Replace YOUR_API_KEY with your API key. HTTPS is required for requests that use an API key.
+select API
+Part 1: Hello Google Maps
+Now, let’s deploy some methods of the APIs to see it in action:
+Step 1: Preparing your page
+Write the basic HTML code for a webpage or copy and paste the following code in your editor:
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <title>Hello Google Maps</title>
+
+</head>
+
+<body>
+
+</body>
+
+</html>
+Include the Google Maps JavaScript file in the body. Make sure to replace YOUR_API_KEY with your api key.
+<script src="https://maps.googleapis.com/maps/api/js?key=YOUR_API_KEY&callback=initMap&v=weekly"
+      defer></script>
+
+Why should you not share your API key?
+
+
+Nothing happens, you can share your API key.
+
+
+If you share your API, other people can use it. This might exceed the free quota if your key is not properly restricted in the key’s settings.
+
+
+Your API key can only be used on your computer where code is deployed.
+
+Check It!
+Put a div element with a certain id where you want your map to be:
+<div id="map" style="width: 600px; height: 400px;"></div>
+Up to this point we have the following code which displays a blank page.
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>Hello Google Maps</title>
+</head>
+
+<body>
+    <script src="https://maps.googleapis.com/maps/api/js?key=YOUR_API_KEY&callback=initMap&v=weekly" defer></script>
+    
+    <script> 
+    
+    <!-- CODE GOES HERE  -->
+    
+    
+    </script>
+    
+    <div id="map" style="width: 600px; height: 400px;"></div>
+</body>
+
+</html>
+Step 2: Setting up the map
+Let’s create our first map. Add the following code between <script> CODE GOES HERE </script> tags and below the script that calls the Google API, then save and refresh your browser:
+function initMap() {
+            
+            const coordinates = { lat: 40.689, lng: -74.044 };
+           
+            const map = new google.maps.Map(document.getElementById("map"), {
+                zoom: 13,
+                center: coordinates,
+            });
+        }
+window.initMap = initMap;
+
+For this example, we are utilizing the coordinates of Statue of Liberty in NY, New York.
+“lat” and “lng” values
+Feel free to modify the “lat:” and “lng:” values to the coordinates of a place of your choice.
+We recommend using the website https://www.latlong.net/ to find the latitude and longitude of a specific location.
+In the above code, the callback parameter executes the initMap function after the API loads. The async attribute allows the browser to continue to parse the remainder of your page while the API loads. Once it has loaded, the browser will pause and immediately execute the script.
+Troubleshooting Tips
+Here are some tips for troubleshooting if you’re having trouble viewing an embedded map:
+If you’re unable to load your Google Billing Account, try accessing it through a different browser such as Microsoft Edge or Firefox to obtain your API key.
+If you’re experiencing issues with expired or invalid keys, ensure that your Google Console’s IP address restrictions or API restrictions settings are properly configured with the correct IP address. Additionally, make sure that you’re using the correct Google Script Tag.
+If you see an error message that says “Oops! Something went wrong. This page didn’t load Google Maps correctly. See the JavaScript console for technical details.”, it could mean that your API key is incorrect or your script isn’t properly linked.
+If you encounter an error after restricting your API key, please make sure you have both IPv4 and IPv6 added to the list. If your IPv6 is disabled, you may have to temporarily remove any API restrictions.
+Please make sure you are not connected to a VPN.
+Bonus Tip: If you’re unsure of what the error is, you can use the Inspect tool to check your console for more information.
+google chrome console
+Part 2: Markers and circles
+Search for the coordinates of Googleplex in Mountain View, CA, and put these coordinates in your code then refresh your browser.
+google map embedded
+Now, let’s add some markers and circles:
+Add marker to map:
+// inside the initMap() function
+
+const marker = new google.maps.Marker({
+               position: coordinates,
+               map: map,
+           });
+Add a circle to map. In this case you should indicate the radius of the circle in meters:
+// inside the initMap() function
+
+const circle = new google.maps.Circle({
+                map,
+                center: coordinates,
+                radius: 600,
+            });
+add circle to map
+You can add more custom options for changing the design of the figure.
+const circle = new google.maps.Circle({
+                    strokeColor: "blue",
+                    strokeOpacity: 0.8,
+                    strokeWeight: 2,
+                    fillColor: "#FFF",
+                    fillOpacity: 0.5,
+                    map,
+                    center: coordinates,
+                    radius: 600,
+            });
+Your code should look like this:
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <title>Hello Google Maps</title>
+
+</head>
+
+<body>
+<script src="https://maps.googleapis.com/maps/api/js?key=YOUR_API_KEY&callback=initMap&v=weekly"
+      defer></script>
+      <div id="map" style="width: 600px; height: 400px;"></div>
+<script>
+    function initMap() {
+            
+            const coordinates = { lat: 37.422040, lng: -122.082810 };
+           
+            const map = new google.maps.Map(document.getElementById("map"), {
+                zoom: 13,
+                center: coordinates,
+            });
+           
+const marker = new google.maps.Marker({
+               position: coordinates,
+               map: map,
+           });
+           const circle = new google.maps.Circle({
+                    strokeColor: "blue",
+                    strokeOpacity: 0.8,
+                    strokeWeight: 2,
+                    fillColor: "#FFF",
+                    fillOpacity: 0.5,
+                    map,
+                    center: coordinates,
+                    radius: 600,
+            });
+        }
+        
+window.initMap = initMap;
+
+
+</script>
+</body>
+
+</html>
+Now, your map should look like this:
+add map marker
+Part 3: Rectangles
+Add a rectangle with the following coordinates:
+Tip: You can find Google Maps API’s documentation on rectangles here.
+Also, make sure you write your code for the rectangle inside the initMap function and under the const circle.
+Coordinates for the rectangle:
+north: 37.429
+south: 37.415
+east: -122.073
+west: -122.091
+And now, your map should look like this:
+circle, marker, and square on map
+Next
+
+...
+
+4. Working with popups in makers
+Part 4: Popups
+Sometimes you need to attach information to your map. With the following code you can easily add a popup.
+// inside the initMap() function
+let infowindow = new google.maps.InfoWindow();
+
+            google.maps.event.addListener(marker, 'click', function() {
+                        infowindow.setContent("Test");
+                        infowindow.open(map, marker);
+            });
+            markers.push(marker);
+Click on the red marker and you will see the “Test” popup.
+popup on map
+For more details see documentation.
+Part 5: Events
+You can interact with the map using events (see documentation for details). Every object has its corresponding event and this can be used as a function. It allows you to react to user interactions. For example:
+Tip: Make sure to comment out or delete the code from our prior popup example.
+// inside the initMap() function
+map.addListener("click", (e) => {
+                alert("You clicked the map at " + JSON.stringify(e.latLng.toJSON(), null, 2));
+            });
+Now when you click anywhere on the map, you will see an alert box that includes the coordinates of the point you clicked on.
+alert image from map
+Try clicking on your map to see the alerts.
+Geocoding services
+This service helps to convert addresses into geographic coordinates; the result can be used for place makers or positions the map. The GeocoderRequest has the following structure:
+{
+ address: string,
+ location: LatLng,
+ placeId: string,
+ bounds: LatLngBounds,
+ componentRestrictions: GeocoderComponentRestrictions,
+ region: string
+}
+Required parameters are address, location or placeID. You must supply one, and only one.
+The GeocoderResult has the following structure:
+results[]: {
+ types[]: string,
+ formatted_address: string,
+ address_components[]: {
+   short_name: string,
+   long_name: string,
+   postcode_localities[]: string,
+   types[]: string
+ },
+ partial_match: boolean,
+ place_id: string,
+ postcode_localities[]: string,
+ geometry: {
+   location: LatLng,
+   location_type: GeocoderLocationType
+   viewport: LatLngBounds,
+   bounds: LatLngBounds
+ }
+}
+The status codes are:
+“OK”
+“ZERO_RESULTS”
+“OVER_QUERY_LIMIT”
+“REQUEST_DENIED”
+“INVALID_REQUEST”
+“UNKNOWN_ERROR”
+“ERROR”
+Example of a Geocoding services:
+The following code has input where you indicate the place to search and return a place maker in the map.
+Initialize variable "geocoder" and map with the construct of Google Maps API. Let’s also add a little form under the map for the user to input the address they would like to search for:
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <title>Hello Google Maps</title>
+
+</head>
+
+<body>
+  <div id="map" style="width: 600px; height: 400px;"></div>
+    <div>
+        <input id="address" type="textbox">
+        <input type="button" value="Search Address" onclick="getCoordinates()">
+    </div>
+<script src="https://maps.googleapis.com/maps/api/js?key=YOUR_API_KEY&callback=initMap&v=weekly"
+      defer></script>
+<script>
+        let geocoder;
+        let map;
+       
+        function initMap() {
+            geocoder = new google.maps.Geocoder();
+            const coordinates = { lat: 37.422040, lng: -122.082810 };
+
+            map = new google.maps.Map(document.getElementById("map"), {
+                zoom: 13,
+                center: coordinates,
+            });
+            
+        }
+    </script>
+</body>
+
+</html>
+Add the function responsible for getting the address of the front page and set to the center on your map.
+Tip: Make sure to add the function inside the script tag and under the initMap function
+function getCoordinates() {
+            let address = document.getElementById('address').value;
+            geocoder.geocode({ 'address': address }, function (results, status) {
+                if (status == 'OK') {
+                    map.setCenter(results[0].geometry.location);
+                    let marker = new google.maps.Marker({
+                        map: map,
+                        position: results[0].geometry.location
+                    });
+                } else {
+                    alert('Geocode was not successful for the following reason: ' + status);
+                }
+            });
+        }
+This is the result when you search for Mountain View:
+map image with marker
+Directions Services
+This service helps to calculate directions (an efficient path) specifying an origin and a destination. Is important to indicate the method of transportation. Directions are displayed as a polyline drawing the route on a map and can return multi-part directions using a series of waypoints.
+The DirectionsRequest object literal contains the following fields:
+{
+  origin: LatLng | String | google.maps.Place,
+  destination: LatLng | String | google.maps.Place,
+  travelMode: TravelMode,
+  transitOptions: TransitOptions,
+  drivingOptions: DrivingOptions,
+  unitSystem: UnitSystem,
+  waypoints[]: DirectionsWaypoint,
+  optimizeWaypoints: Boolean,
+  provideRouteAlternatives: Boolean,
+  avoidFerries: Boolean,
+  avoidHighways: Boolean,
+  avoidTolls: Boolean,
+  region: String
+}
+Required parameters are origin, destination and travelMode.
+Travel Modes:
+DRIVING (Default)
+BICYCLING
+TRANSIT
+WALKING
+The DirectionsResult contains the result of the directions query, which you may either handle yourself, or pass to a code directionsRenderer object, which can automatically handle displaying the result on a map.
+The status codes are:
+OK
+NOT_FOUND
+ZERO_RESULTS
+MAX_WAYPOINTS_EXCEEDED
+MAX_ROUTE_LENGTH_EXCEEDED
+INVALID_REQUEST
+OVER_QUERY_LIMIT
+REQUEST_DENIED
+UNKNOWN_ERROR
+Example of Directions Services
+The following code has input where you indicate the place origin and destination to search and return an efficient path.
+Initialize variables directionsService, directionsRenderer and map with the construct of Google Maps API. Add a little form on the front page so that the user can input the fields origin and destination: Add the code below to the body of a basic html:
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+    <title>Hello Google Maps</title>
+
+</head>
+
+<body>
+<div id="map" style="width: 600px; height: 400px;"></div>
+    <div>
+        <label>Origin</label>
+        <input id="origin" type="textbox">
+        <label>Destination</label>
+        <input id="destination" type="textbox">
+        <input type="button" value="Search Route" onclick="calcRoute()">
+    </div>
+<script src="https://maps.googleapis.com/maps/api/js?key=YOUR_API_KEY&callback=initMap&v=weekly"
+      defer></script>
+<script>
+        let directionsService;
+        let directionsRenderer
+        let map;
+        // Initialize and add the map
+        function initMap() {
+            directionsService = new google.maps.DirectionsService();
+            directionsRenderer = new google.maps.DirectionsRenderer();
+            const coordinates = { lat: 37.422040, lng: -122.082810 };
+
+            map = new google.maps.Map(document.getElementById("map"), {
+                zoom: 13,
+                center: coordinates,
+            });
+            directionsRenderer.setMap(map);
+        }
+        </script>
+        </body>
+
+</html>
+Add the function responsible for obtaining an origin and a destination on the front page and render the result on map:
+Tip: Make sure to add the function inside the script tag and under the initMap function
+function calcRoute() {
+            let start = document.getElementById('origin').value;
+            let end = document.getElementById('destination').value;
+            let request = {
+                origin: start,
+                destination: end,
+                travelMode: 'DRIVING'
+            };
+            directionsService.route(request, function (result, status) {
+                if (status == 'OK') {
+                    directionsRenderer.setDirections(result);
+                } else { alert("An unexpected error occurred")}
+            });
+        }
+
+
+In this case, we use DRIVING in the field travelMode
+This is the end result from Googleplex to Computer History Museum if we were to drive:
+marked map
+Next
+
+...
+
+5. Conclusion & Takeaways
+Generally, the Google documentation is clear and simple, so we can easily understand the API and apply it to our development.
+You can mark objects with google.maps.Marker
+You can circle objects with google.maps.Circle
+You can create a polygon object with google.maps.Polygon
+You can create a rectangle object with google.maps.Rectangle
+Other options are available: see documentation.
+Note that a monthly recurring credit of 200 USD will be applied to your Billing Account. During the 90-day trial period, the 200 USD recurring credit will be used first, then anything further is deducted from the 300 USD trial credit. We HIGHLY doubt you will use 200 USD worth of Google Maps API credit for this program, so we encourage you to find other ways to use the 300 USD Cloud Billing credits, within 90-days, to further your learning! You can check any additional credit by selecting your billing account on the Billing page in the Cloud Console.
+Attribution
+Google Maps Platform |. (n.d.). [Video]. Google Developers. https://developers.google.com/maps
+Mark as UncompletedBack to dashboard
+
+...
+
+1. Google Maps Tools
+Goals
+By the end of this project you will:
+Practice all of the concepts and topics learned in this week
+Explore Google documentation and learn new things
+Improve your skills in Javascript and in working with APIs
+Introduction
+In this project you will apply all of this week’s learning. Our focus is to develop a solution with the different Google Maps APIs, which centralize many functions in only one place and from which the user can choose what they need to do.
+Business Context
+The ability to generate a map with customized functionality is an important tool in your web development toolbox. Clients will expect you to have this skill in hand. What’s more, giving the map additional functionality can improve the user experience and ultimately deliver better results for the client.
+Next
+
+...
+
+2. Instructions
+Create a form and function to place a marker on the map.
+Create a form and function to get the path of origin to destination by filling in the form.
+Create a form and function to place a circle on the map.
+Create a form and function to place a rectangle on the map.
+Create a form and function to place a polygon on the map.
+Create a form and function to place polylines on the map with four coordinates.
+Create an alert when the user clicks on the map to show the latitude and longitude of the point using the InfoWindow API.
+Note: Use HTML and advanced CSS for a better user interface.
+Tip: To get the coordinates of a location use the page https://www.latlong.net/ for searching the latitude and longitude.
+Solution:
+Answers will vary. The result should look something like this:
+map example
+Attribution
+Google Maps Platform |. (n.d.). [Video]. Google Developers. https://developers.google.com/maps
+Mark as CompletedBack to dashboard
+
+...
+
+https://www.youtube.com/watch?v=nXLkuXX88w8
+
+...
+
+1. Project
+Communicating on the Web
+For this project, you will be adding something we’ve studied this week to your personal web page. This makes the code yours, and can be an example of your knowledge. There doesn’t necessarily have to be a purpose for what you choose to add; in some ways you simply want to show off your skills to a potential employer. Choose from:
+Leaflet
+Asynchronous functions
+Collect form information in json format
+Google Maps
+Whatever you choose, be sure to have clear comments in your code so a reviewer can understand what you did, and also so you can go back a month or more later and be reminded of what your thought process was.
+When finished, submit your code!
+Submission steps:
+Before you click on "Mark as Completed":
+You need to do one of the following: either upload all of your files to Codio or deploy a GitHub Page for this project.
+Also, if you mark this project as complete but any of the boxes are blank, your TA will be unable to grade your project.
+Codio upload:
+Make sure all of your project code has been uploaded to Codio.
+If you did not write your code in Codio, you will need to import all of the required files into your workspace file tree.
+You can do this by going to File => Upload Files, and either manually importing each file, or dragging and dropping your project folder.
+Please refer to this video if you are unsure of what to do.
+GitHub Pages:
+If you would rather upload your project to GitHub, please make sure to have the project deployed as a GitHub page so we can thoroughly test it.
+If you are unsure of how to do this, please follow these instructions.
+It is important to understand you will need to make a separate repository for every project. You cannot deploy multiple pages from the same repository, even with different branches.
+Also, no matter whether you uploaded your files from your computer or not, make sure to thoroughly test your code! This only takes a few minutes, but will prevent the amount of resubmissions because you missed something.
+GitHub Repo & Pages Links
+If your project is uploaded to Codio, simply type "N/A".
+
+Submit Answer!
+HTML
+Please summarize the HTML changes you made.
+
+Submit Answer!
+CSS
+Please summarize the CSS changes you made.
+
+Submit Answer!
+JavaScript
+Please summarize the JavaScript changes you made.
+
+Submit Answer!
+Mark as CompletedBack to dashboard
+
+...
+
+<!-- C:\Users\KLYam\OneDrive\Documents\GitHub\kennethlarotyamat.github.io\css\project14.css -->
+<!-- <link rel="stylesheet" href="https://kennethlarotyamat.github.io/css/p14chestnutandhazelconnections.css"> -->
+<!-- <iframe width="1257" height="707" src="https://www.youtube.com/embed/2hGmoMrvSYo" title="Total War ROME 2: Battle of Pella" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> -->
+<!-- https://kennethlarotyamat.github.io/chestnutandhazelsgithubadventures.html -->
+<!-- https://github.com/kennethlarotyamat/kennethlarotyamat.github.io -->
+
+<!-- fixing project 10 -->
+<!-- C:\Users\KLYam\OneDrive\Documents\GitHub\kennethlarotyamat.github.io\CSS\chestnutandhazelsgithubadventures.css -->
+<!-- <iframe  src="https://github.com/kennethlarotyamat/miscellaneous" style="aspect-ratio: 8.68/6.86; height: auto; width:100%;" scrolling="yes"   
+allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen ></iframe> -->
+<!-- <link rel="stylesheet" href="..\miscellaneous\css\index.css"> -->
+<!-- <link rel="stylesheet" href="https://kennethlarotyamat.github.io/miscellaneous/css/index.css"> [this works] -->
+<!-- [this works]  <link rel="stylesheet" href="https://kennethlarotyamat.github.io/CSS/chestnutandhazelsgithubadventures.css">  -->
+
+<!-- Deploying New Changes
+Every time you make a change to your site, use the normal GitHub flow. That is, use git commit and git push to send your changes to GitHub. After this, the GitHub site should update within a few seconds. Just refresh the page in your browser, and you're good to go! -->
+
+...
+
+<!-- C:\Users\KLYam\OneDrive\Documents\GitHub\kennethlarotyamat.github.io\javascript\project14.js -->
+<!-- <script src=" https://kennethlarotyamat.github.io/javascript/p14chestnutandhazelconnections.js "></script> -->
+
+...
+
+ <!-- this is part of a test migration -->
+
+      <!-- file:///C:/Users/KLYam/OneDrive/Documents/GitHub/miscellaneous/other/project13/Part2Calculator/options-pricing-calculator-project-13-part-2/src/index.html -->
+
+    <!-- <link rel="stylesheet" href="https://kennethlarotyamat.github.io/miscellaneous/css/index.css"> -->
+
+    <!-- /*      [Resources]              https://www.linkedin.com/in/marianneshaffer/
+                                          https://codepen.io/marnee
+                                          https://codepen.io/shafferma08
+                                          https://github.com/shafferma08
+
+    */ -->
+
+    <!-- /*      [Resources]              https://www.linkedin.com/in/marianneshaffer/
+                                 https://codepen.io/marnee
+                                 https://codepen.io/shafferma08
+                                 https://github.com/shafferma08
+
+*/ -->
+
+<!-- /*      
+        [Resources]              https://www.linkedin.com/in/marianneshaffer/
+                                 https://codepen.io/marnee
+                                 https://codepen.io/shafferma08
+                                 https://github.com/shafferma08
+
+*/
+
+// Define a class named Calculator
+// Quantitative Information Processing Apparatus
+//  <link rel="stylesheet" href="https://kennethlarotyamat.github.io/miscellaneous/css/index.css"> -->
+
+<!-- // 
+  
+  // it works again, there is an issue where, since i'm referencing files directly from github, it takes longer to load, and so, 
+  // i don't always see when something breaks, i wont see when something breaks right when it breaks, only after the broken version
+  // is uploaded to github will I see that it is broken.
+  
+  // 
+
+  // -->
+
+  <!-- /*      [Resources]              https://www.linkedin.com/in/marianneshaffer/
+  //                                       https://codepen.io/marnee
+  //                                       https://codepen.io/shafferma08
+  //                                       https://github.com/shafferma08
+  
+  // */ -->
+  
+  
+  <!-- // 10292023 1239 -->
+  
+  <!-- <div> <p class="questionsbeingasked">Do You Currently Possess a Scantron?  </p>
+  
+  //         <div class="input-group radio">
+  
+  //           <div class="form-check ">
+  //             <input type="radio" id="q1i " name="q1n " value="q1v "  class="correctanswerQ1 form-check-input form-check-input1" required>
+  //             <label for="answera" class="form-check-label">A. I Do</label>
+  //             <small class="error-msg invalid-feedback">Required</small>
+  //           </div>       
+  
+  //           <div class="form-check">
+  //             <input type="radio" id="q1i " name="q1n " value="q1v "  class="alternativeresponseQ1dn form-check-input form-check-input1" required>
+  //             <label for="answerb" class="form-check-label ">B. I Do Not</label>
+  //             <small class="error-msg invalid-feedback">Required</small>
+  //           </div>         
+  
+  //           <div class="form-check">
+  //             <input type="radio" id="q1i " name="q1n " value="q1v "  class="alternativeresponseQ1bb form-check-input form-check-input1" required>
+  //             <label for="answerc" class="form-check-label">C. I Have a Blue Book</label>
+  //             <small class="error-msg invalid-feedback">Required</small>
+  //           </div>       
+  
+  //           <div class="form-check" id="form-check-labelgreenradiogreennightmare" >
+  //             <input type="radio" id="q1i " name="q1n " value="q1v " id="form-check-labelgreenradio"  class="alternativeresponseQ1gb form-check-input form-check-input1" required>
+  //             <label for="answerd" class=" form-check-label " id="form-check-labelgreen" >D. I Have a Green Book </label>
+  //             <small class="error-msg invalid-feedback">Required</small>
+  //           </div> 
+  
+  //         </div> <div class="feedbackquestion1"> </div> <br>           
+  //       </div> -->
+
+
+
+...
+
+  <!-- 10272023 0120 it worked. -->
+
+  <!-- 10272023 0116 this is another test. this comment is being written directly in GitHub, and I want to see if I can see this change in VS code after pulling it. -->
+
+  <!-- 10272023 0111 -->
+  <!-- i need to test this. I was using the other github account, and i want to make sure that everything is set back to my regular account 
+  and committing correctly.  -->
+  <!-- i had to use github desktop for a while it was strange going back to it. it felt strange. i've been committing and pushing directly from  
+  
+  vs code for a while. -->
+
+  ...
+
+  
+
+
+
+

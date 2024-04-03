@@ -1,0 +1,1199 @@
+1
+
+Web Hosting and Web Security Concepts 1 - Tuesday, November 7
+
+In the first lesson you will understand what local hosting is, understand what cloud hosting is , understand the difference between local hosting and cloud hosting and be able to select between local hosting and cloud hosting in a given context. In the second lesson you will cover how to set up localhost, set up localhost on your computer and practice using your newly configured localhost. In the third lesson you will know how to select a cloud hosting provider and a hosting package, understand how to use FTP to move files and familiarize yourself with cPanel. By the fourth lesson you have a basic understanding of 4 types of common website attacks ,understand where and how these common attacks occur and be able to identify possible outcomes for each of these common attacks.
+
+Session Recording - Module 16 Day 1 - Tue., November 7
+Module 16 Lesson 1.1
+Module 16 Lesson 1.2
+Module 16 Lesson 1.3
+Module 16 Lesson 1.4
+
+2
+
+Web Hosting and Web Security Concepts 2 - Thursday, November 9
+
+In the first lesson you will understand how filtering user input resists cross site scripting (XSS), use JavaScript to validate user input in a for and to sanitize user input variables. In the second lesson you will understand the importance of specifying your base directory, know the difference between full paths and relative paths, understand how to use relative paths to include files in your code, and practice sanitizing a variable containing a file path. In the third lesson you will learn about the OWASP Foundation, join the OWASP community, familiarize yourself with the OWASP Top Ten security risks and understand how the OWASP Top Ten list is produced. By the fourth lesson you will understand WordPress security risks, install the Wordfence Security plugin, familiarize yourself with WordFence settings and capabilities and perform a Wordfence security scan.
+
+1. Defending Against XSS
+Defending Against XSS
+Goals
+By the end of this case you will:
+Understand how filtering user input resists cross site scripting (XSS)
+Use javascript to validate user input in a form
+Use javascript to sanitize user input variables
+Introduction
+Now that we have a solid understanding of some common website attacks, we must learn how to defend against them. Cybersecurity is a field unto itself, but as a website developer there are many things you can do to protect your employer/client and their data, as well as to protect users who visit your website. In this section, we will consider simple defenses against XSS attacks by learning how to filter user inputs on simple contact forms.
+cover image, contact form
+Image by storyset on Freepik
+Business Context
+While larger companies do employ cybersecurity experts to safeguard their websites, their servers, and their networks, smaller companies will depend on their web developers to make their websites as safe as possible. Web hosting providers also have a critically important role to play in securing the websites they host by securing their servers. As a website developer, you are not responsible for server level security. You are however responsible for ensuring that the website you build, and the code it uses, respect web security best practices.
+Next
+
+2. Filtering User Inputs
+Filtering User Inputs
+You will recall that Cross Site Scripting attacks occur when malicious code is injected through a form on the website. The attacker needs to inject and execute their malicious code. You can prevent this by validating inputs and sanitizing variables. This is known as input encoding. The attacker will still be able to enter their malicious code, but your code will intercept it and clean it up before it can run, thereby thwarting the attack.
+Consider the following HTML form.
+newsletter signups
+This form will take input from the user (name and email address) in order to add the user to the list of Newsletter recipients. If an attacker tries to enter malicious code in the name or email fields, we will need to intercept the attack.
+When the user clicks the submit button, a JavaScript function is called that will validate and sanitize the user inputs so that they can be safely submitted. If the user inputs are unsafe, the form will not submit and instead show an error message.
+The HTML code for this form, as well as the JavaScript function are included below.
+Save the code below as a file in your localhost environment, then view the file in your browser.
+<!DOCTYPE html>
+<html lang="en">
+<head>
+   <meta charset="utf-8" />
+   <title>My Basic Form</title>
+</head>
+<body>
+   <h1 style="text-align:center;">Newsletter Sign-Up</h1>
+   <form name="MyForm"  method="Post" action="thankyou.html">
+     <div style="text-align:center;">
+     <input type="text" name="fullname"  placeholder="Your name">
+     <input type="text" name="email"  placeholder="Your email">
+     <input type="submit" name="submit"  value="Submit" onClick="javascript:return validateInputs();">
+    </div>
+   </form>
+<script>
+function validateInputs()
+  {
+    //declaration of variables
+    var SubmitForm;
+    var FormErrors;
+
+    //Initially set SubmitForm to true. 
+    SubmitForm = true;
+
+    //Retrieve variables to be validated and sanitized
+    //Assume they are dangerous for now
+    var fullname    = new String(document.MyForm.fullname.value);
+    var email   = new String(document.MyForm.email.value);
+
+    //Check that the user inputs are not blank
+    //JavaScript logical operator for OR : ||
+    if ( fullname.length<1 || email.length<1 )
+    {
+    FormErrors = "All fields are mandatory. Please complete the form.";
+    SubmitForm = false;
+    } else {
+//Set up a filter for the pattern of an email
+//Learn more about referencing characters:          //https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_Expressions/Character_Classes
+
+var filter = /^([\w-]+(?:\.[\w-]+)*)@((?:[\w-]+\.)*\w[\w-]{0,66})\.([a-z]{2,6}(?:\.[a-z]{2})?)$/i;
+    
+    //Use test() method to check user email against the filter
+    //test() method: https://www.w3schools.com/jsref/jsref_regexp_test.asp     
+    if (!filter.test(email))
+    {
+        FormErrors = "Your form contains invalid field entries. Please correct your form before submitting";
+        SubmitForm = false;
+     }
+    }
+    
+    if (SubmitForm == false)
+    {
+        //The form cannot be submitted.
+        alert(FormErrors);
+        return false;
+    } else {
+        //SANITIZE user inputs by allowing only [a-z 0-9 _ - . @] 
+        //strip forbidden characters
+        fullname = fullname.replace(/[^a-z0-9\s\-]/gim,"");
+        fullname = fullname.trim();
+        email = email.replace(/[^a-z0-9_@.-]/gim,"");
+        email = email.trim();
+
+        //ready to submit
+        document.MyForm.submit();
+    }
+}
+</script>
+</body>
+</html>
+Try submitting the form using your name and email address.
+You should get a crash page on thankyou.html because you have not created this page yet.
+Create and save an HTML file called thankyou.html then try the form again.
+If you made it to your new thankyou.html page, then the form was successfully submitted.
+Question
+Which of the following is more secure? Why?
+
+<input type=”text” name=”firstname” placeholder=”First name”>
+<input type=”text” name=”firstname” placeholder=”First name” maxlength="20">
+<input type=”text” name=”firstname” placeholder=”First name” size="20">
+Submit Answer!
+Question
+What does it mean to sanitize a variable?
+
+Submit Answer!
+Question
+A user enters the following input in the Full Name field:
+
+<script>$SOMETHING</script>
+The validation function in the form sanitizes this variable as follows:
+
+fullname = fullname.replace(/[^a-z0-9\s\-]/gim,"");
+After being sanitized, what is the value of string fullname?
+
+Submit Answer!
+Next
+
+2. Filtering User Inputs
+Filtering User Inputs
+You will recall that Cross Site Scripting attacks occur when malicious code is injected through a form on the website. The attacker needs to inject and execute their malicious code. You can prevent this by validating inputs and sanitizing variables. This is known as input encoding. The attacker will still be able to enter their malicious code, but your code will intercept it and clean it up before it can run, thereby thwarting the attack.
+Consider the following HTML form.
+newsletter signups
+This form will take input from the user (name and email address) in order to add the user to the list of Newsletter recipients. If an attacker tries to enter malicious code in the name or email fields, we will need to intercept the attack.
+When the user clicks the submit button, a JavaScript function is called that will validate and sanitize the user inputs so that they can be safely submitted. If the user inputs are unsafe, the form will not submit and instead show an error message.
+The HTML code for this form, as well as the JavaScript function are included below.
+Save the code below as a file in your localhost environment, then view the file in your browser.
+<!DOCTYPE html>
+<html lang="en">
+<head>
+   <meta charset="utf-8" />
+   <title>My Basic Form</title>
+</head>
+<body>
+   <h1 style="text-align:center;">Newsletter Sign-Up</h1>
+   <form name="MyForm"  method="Post" action="thankyou.html">
+     <div style="text-align:center;">
+     <input type="text" name="fullname"  placeholder="Your name">
+     <input type="text" name="email"  placeholder="Your email">
+     <input type="submit" name="submit"  value="Submit" onClick="javascript:return validateInputs();">
+    </div>
+   </form>
+<script>
+function validateInputs()
+  {
+    //declaration of variables
+    var SubmitForm;
+    var FormErrors;
+
+    //Initially set SubmitForm to true. 
+    SubmitForm = true;
+
+    //Retrieve variables to be validated and sanitized
+    //Assume they are dangerous for now
+    var fullname    = new String(document.MyForm.fullname.value);
+    var email   = new String(document.MyForm.email.value);
+
+    //Check that the user inputs are not blank
+    //JavaScript logical operator for OR : ||
+    if ( fullname.length<1 || email.length<1 )
+    {
+    FormErrors = "All fields are mandatory. Please complete the form.";
+    SubmitForm = false;
+    } else {
+//Set up a filter for the pattern of an email
+//Learn more about referencing characters:          //https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_Expressions/Character_Classes
+
+var filter = /^([\w-]+(?:\.[\w-]+)*)@((?:[\w-]+\.)*\w[\w-]{0,66})\.([a-z]{2,6}(?:\.[a-z]{2})?)$/i;
+    
+    //Use test() method to check user email against the filter
+    //test() method: https://www.w3schools.com/jsref/jsref_regexp_test.asp     
+    if (!filter.test(email))
+    {
+        FormErrors = "Your form contains invalid field entries. Please correct your form before submitting";
+        SubmitForm = false;
+     }
+    }
+    
+    if (SubmitForm == false)
+    {
+        //The form cannot be submitted.
+        alert(FormErrors);
+        return false;
+    } else {
+        //SANITIZE user inputs by allowing only [a-z 0-9 _ - . @] 
+        //strip forbidden characters
+        fullname = fullname.replace(/[^a-z0-9\s\-]/gim,"");
+        fullname = fullname.trim();
+        email = email.replace(/[^a-z0-9_@.-]/gim,"");
+        email = email.trim();
+
+        //ready to submit
+        document.MyForm.submit();
+    }
+}
+</script>
+</body>
+</html>
+Try submitting the form using your name and email address.
+You should get a crash page on thankyou.html because you have not created this page yet.
+Create and save an HTML file called thankyou.html then try the form again.
+If you made it to your new thankyou.html page, then the form was successfully submitted.
+Question
+Which of the following is more secure? Why?
+
+<input type=”text” name=”firstname” placeholder=”First name”>
+<input type=”text” name=”firstname” placeholder=”First name” maxlength="20">
+<input type=”text” name=”firstname” placeholder=”First name” size="20">
+Submit Answer!
+Question
+What does it mean to sanitize a variable?
+
+Submit Answer!
+Question
+A user enters the following input in the Full Name field:
+
+<script>$SOMETHING</script>
+The validation function in the form sanitizes this variable as follows:
+
+fullname = fullname.replace(/[^a-z0-9\s\-]/gim,"");
+After being sanitized, what is the value of string fullname?
+
+Submit Answer!
+Next
+
+...
+
+putting javascript in the. in a different page helps with security somewhat. it just makes it slightly more difficult for 
+people to mess with your website.
+
+...
+
+What is the glaring validation issue with this form?
+There are two fields here. The name is not being validated, we also need to validate the name field as well.
+need to run a filter test on the name, and also apply it to the name area.
+
+...
+
+If you made it to your new thankyou.html page, then the form was successfully submitted.
+Question
+Which of the following is more secure? Why?
+
+<input type=”text” name=”firstname” placeholder=”First name”>
+<input type=”text” name=”firstname” placeholder=”First name” maxlength="20">
+<input type=”text” name=”firstname” placeholder=”First name” size="20">
+2. maxlength="20" size doesn't limit user input, only display
+Modify answer
+Your answer has been submitted and will be reviewed by your teacher in due course.
+Question
+What does it mean to sanitize a variable?
+
+to check the contents of a variable or submission for unsafe characters before using it.
+Modify answer
+Your answer has been submitted and will be reviewed by your teacher in due course.
+Question
+A user enters the following input in the Full Name field:
+
+<script>$SOMETHING</script>
+The validation function in the form sanitizes this variable as follows:
+
+fullname = fullname.replace(/[^a-z0-9\s\-]/gim,"");
+After being sanitized, what is the value of string fullname?
+
+scriptSOMETHINGscript
+Modify answer
+Your answer has been submitted and will be reviewed by your teacher in due course.
+Next
+
+...
+
+3. Conclusion & Takeaways
+Conclusion & Takeaways
+Controlling user inputs on forms is an essential element of defense against XSS attacks. This can be done by limiting the length of inputs, matching inputs against expected patterns, and of course most importantly sanitizing variables before submitting them.
+Never output unsanitized user inputs.
+Attribution
+Image https://www.freepik.com/free-vector/get-touch-concept-illustration_8960459.htm
+test() method https://www.w3schools.com/jsref/jsref_regexp_test.asp
+referencing characters https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_Expressions/Character_Classes
+Mark as CompletedBack to dashboard
+
+...
+
+      <aside class="grid-item aside-two">
+
+<form action="mailto:info@chestnutandhazel.com" target="_blank" method="post"> <td style="width:20%; height: 20%;" >First Name  <br><input type="text" id="firstname" name="firstname"><br><br>Last Name <br><input type="text" id="lastname" name="lastname"><br><br>Email  <br><input type="text" id="email" name="email"><br><br> Telephone  <br><input type="text" id="telephone" name="telephone"><br><br> Website <br><input type="text" id="website" name="website"><br><br>  Comments <br><input style="width: 100%; height: auto; aspect-ratio: 8.68 / 6.08;" type="text" id="comments" name="comments" ><br><br> <h2><div  height="100px">    <button id="submitinformationcontactbutton" type="submit"   >Reach Out</button> </div>  </td></form>
+
+
+</aside>
+
+...
+
+1. Defending Against XSS
+Defending Against XSS
+Goals
+By the end of this case you will:
+Understand how filtering user input resists cross site scripting (XSS)
+Use javascript to validate user input in a form
+Use javascript to sanitize user input variables
+Introduction
+Now that we have a solid understanding of some common website attacks, we must learn how to defend against them. Cybersecurity is a field unto itself, but as a website developer there are many things you can do to protect your employer/client and their data, as well as to protect users who visit your website. In this section, we will consider simple defenses against XSS attacks by learning how to filter user inputs on simple contact forms.
+cover image, contact form
+Image by storyset on Freepik
+Business Context
+While larger companies do employ cybersecurity experts to safeguard their websites, their servers, and their networks, smaller companies will depend on their web developers to make their websites as safe as possible. Web hosting providers also have a critically important role to play in securing the websites they host by securing their servers. As a website developer, you are not responsible for server level security. You are however responsible for ensuring that the website you build, and the code it uses, respect web security best practices.
+Next
+
+...
+
+for next saturday, the 18th, the finale the last class will be shorter, we will do the 
+celebration with optional TA breakout rooms and work on other stuff and go to breakout 
+rooms and can just leave after 11.
+
+1. Defending Against Directory Traversal
+Defending Against Directory Traversal
+Goals
+By the end of this case you will:
+Understand the importance of specifying your base directory
+Know the difference between full paths and relative paths
+Understand how to use relative paths to include files in your code
+Practice sanitizing a variable containing a file path
+Introduction
+Since directory traversal involves an attacker attempting to gain access to content outside of the website’s root directory, the first line of defense occurs at the server level. Your web host will set permissions on the directories in your hosting environment which should prevent an attacker from gaining access to higher level directories.
+That being said, you can still make your code more robust against directory traversal attacks.
+cover image, magnifying glass and slides
+Image by rawpixel.com on Freepik
+Business Context
+Your employer/customer may know absolutely nothing about common cyber security attacks and how to guard against them. They will depend on you to integrate responsible and safe code and to advise them of any security precautions they should take. Web development is a field in which lifelong learning is rewarded. Never stop learning how to improve your code, because hackers will never stop trying to hack it.
+Next
+
+...
+
+
+Google
+difference between modem and router
+
+Images
+Videos
+Vs router
+Spectrum
+Speed
+Shopping
+Xfinity
+Tabular form
+Cable modem
+All filters
+Tools
+SafeSearch
+Generative AI is experimental. Info quality may vary. Learn more
+A modem connects your home network to your internet service provider (ISP). A router connects your devices to your home network or WiFi network so they can communicate with each other. 
+
+Lifewire
+Here are some other differences between modems and routers: 
+Modem
+A box that connects your home network to your ISP. Modems translate different digital languages from the components that make up your home network.
+Router
+A box that lets all of your wired and wireless devices use your internet connection at once. Routers create the network inside your house.
+While they can operate independently, most people use them together. 
+
+Modem vs. Router: What's the Difference? | Wirecutter
+Sep 7, 2022
+
+The New York Times
+
+Modem vs router: What's the difference? - ZDNet
+Mar 8, 2023
+
+ZDNet
+
+Modem vs Router... What's the Difference? | Learn | Hitron
+
+Hitron Americas
+
+What Is a Modem? | Linksys: US
+
+linksys.com
+
+Modem vs Router – What is the Difference? Do I Need Both?
+
+Verizon
+
+Modem vs Router: What's the Difference? - Xfinity
+
+Xfinity
+Do I need both a modem and a router?
+Should I connect Ethernet to the modem or router?
+Is a modem better than WiFi?
+Ask a follow up...
+
+A modem is a box that connects your home network to your internet service provider, or ISP. A router is a box that lets all of your wired and wireless devices use that internet connection at once and allows them to talk to one another directly.Sep 7, 2022
+
+Modem vs. Router: What's the Difference? | Wirecutter
+
+...
+
+
+Google
+are modems still used
+
+Images
+Shopping
+News
+Videos
+Books
+Maps
+Flights
+Finance
+All filters
+Tools
+SafeSearch
+Generative AI is experimental. Info quality may vary. Learn more
+Yes, modems are still used today. They act as gateways to the internet, converting signals from your internet service provider (ISP) into a format that your devices can understand. Modems are essential for modern communication because they allow us to connect computers to each other over long distances. 
+Modems are used for: 
+Streaming videos
+Downloading files
+High-speed computer network links to outlying areas
+Connecting computers to each other over long distances using existing infrastructure such as telephone lines, cable TV networks, or satellite networks
+There are different types of modems, including: Radio modems, Cable modems. 
+You can purchase compatible modems separately from any retailer to cut down on the monthly cost. Broadband providers also “rent” modems as part of their subscription plans. 
+You can test your internet speed with online tools like Speedtest.net. If you feel that your internet speeds have decreased or you are seeing issues with increased buffering and lagging or breaking in the connection, it could be time for a new modem. 
+
+...
+
+1. Defending Against Directory Traversal
+Defending Against Directory Traversal
+Goals
+By the end of this case you will:
+Understand the importance of specifying your base directory
+Know the difference between full paths and relative paths
+Understand how to use relative paths to include files in your code
+Practice sanitizing a variable containing a file path
+Introduction
+Since directory traversal involves an attacker attempting to gain access to content outside of the website’s root directory, the first line of defense occurs at the server level. Your web host will set permissions on the directories in your hosting environment which should prevent an attacker from gaining access to higher level directories.
+That being said, you can still make your code more robust against directory traversal attacks.
+cover image, magnifying glass and slides
+Image by rawpixel.com on Freepik
+Business Context
+Your employer/customer may know absolutely nothing about common cyber security attacks and how to guard against them. They will depend on you to integrate responsible and safe code and to advise them of any security precautions they should take. Web development is a field in which lifelong learning is rewarded. Never stop learning how to improve your code, because hackers will never stop trying to hack it.
+Next
+
+...
+
+2. Don’t Open the Door
+Don’t Open the Door
+The most effective way to prevent directory traversal is to avoid passing any user supplied input to the file system in the first place. If the door is never open, an attacker will never be able to get through it. The risk arrives when a user has the opportunity to speak to the file system through a form or through a querystring as seen in unit 2.1.
+BASE_DIRECTORY
+Even if the door is closed, it is considered good practice to establish the base directory in your code. Website development platforms like WordPress will do this by default, but if you are not using a content management system, you can explicitly set the base directory as a variable to be used throughout your code.
+The second most important thing you can do is to sanitize user input variables, as you did in the previous unit, to ensure that they do not contain directory traversing inputs. User inputs must always be sanitized.
+Below is a screenshot that showcases an example of how to specify your base directory. It is assumed that the userInput has been sanitized.
+Before processing the file, this code double checks that the file path begins with the base directory. This is another effective mitigation tactic against directory traversal.
+code to double check
+Taken from: https://www.youtube.com/watch?v=Jg5lb_dmwuM
+If the file path does not begin with the base_directory, the file absolutely must not be processed.
+Using Relative Paths
+Please take a moment to view this short video to refresh your memory about the difference between full (absolute) paths and relative paths: https://www.youtube.com/watch?v=EJ0xvY5wT5Q
+Understanding how to use …/ as a means of navigating a file system will help you better understand directory traversal attacks and how to prevent them. Suppose your website URL is https://mysite.com.
+You are working in a file whose full path is https://mysite.com/shop/category1/singleproduct.php
+And you would like to include a file whose full path is https://mysite.com/js/functions.js
+When you include this file, you could of course include it with the full path, but using a relative path is best. Every …/ moves you up a directory from where you currently are.
+Suppose you are standing at singleproduct.php.
+file path
+The first …/ will take you into the category1 directory.
+The next …/ will take you into the shop directory.
+The next …/ will take you into the base directory for https://mysite.com .
+directory traversal
+Then you must go forward into the js directory before naming the file you want to include.
+In this case, the relative path to include would be ‥/‥/‥/js/functions.js
+Exercise
+You are working in a file with full path: base_directory/my_account/orders.php
+
+You would like to include the file base_directory/inc/functions.php in your orders.php file. What path will you use to include the file?
+
+Submit Answer!
+A user input names a file to be uploaded to the server. You would like to sanitize that user input to make sure that it does not contain the string ‥/
+Write a short JavaScript function that checks if the user input filename includes the string ‥/
+
+Submit Answer!
+Next
+
+...
+
+you can choose when it comes to choosing langagues, whenever
+we use or can avoide query strings, we should avoid them, and.
+
+...
+
+2. Don’t Open the Door
+Don’t Open the Door
+The most effective way to prevent directory traversal is to avoid passing any user supplied input to the file system in the first place. If the door is never open, an attacker will never be able to get through it. The risk arrives when a user has the opportunity to speak to the file system through a form or through a querystring as seen in unit 2.1.
+BASE_DIRECTORY
+Even if the door is closed, it is considered good practice to establish the base directory in your code. Website development platforms like WordPress will do this by default, but if you are not using a content management system, you can explicitly set the base directory as a variable to be used throughout your code.
+The second most important thing you can do is to sanitize user input variables, as you did in the previous unit, to ensure that they do not contain directory traversing inputs. User inputs must always be sanitized.
+Below is a screenshot that showcases an example of how to specify your base directory. It is assumed that the userInput has been sanitized.
+Before processing the file, this code double checks that the file path begins with the base directory. This is another effective mitigation tactic against directory traversal.
+code to double check
+Taken from: https://www.youtube.com/watch?v=Jg5lb_dmwuM
+If the file path does not begin with the base_directory, the file absolutely must not be processed.
+Using Relative Paths
+Please take a moment to view this short video to refresh your memory about the difference between full (absolute) paths and relative paths: https://www.youtube.com/watch?v=EJ0xvY5wT5Q
+Understanding how to use …/ as a means of navigating a file system will help you better understand directory traversal attacks and how to prevent them. Suppose your website URL is https://mysite.com.
+You are working in a file whose full path is https://mysite.com/shop/category1/singleproduct.php
+And you would like to include a file whose full path is https://mysite.com/js/functions.js
+When you include this file, you could of course include it with the full path, but using a relative path is best. Every …/ moves you up a directory from where you currently are.
+Suppose you are standing at singleproduct.php.
+file path
+The first …/ will take you into the category1 directory.
+The next …/ will take you into the shop directory.
+The next …/ will take you into the base directory for https://mysite.com .
+directory traversal
+Then you must go forward into the js directory before naming the file you want to include.
+In this case, the relative path to include would be ‥/‥/‥/js/functions.js
+Exercise
+You are working in a file with full path: base_directory/my_account/orders.php
+
+You would like to include the file base_directory/inc/functions.php in your orders.php file. What path will you use to include the file?
+
+Submit Answer!
+A user input names a file to be uploaded to the server. You would like to sanitize that user input to make sure that it does not contain the string ‥/
+Write a short JavaScript function that checks if the user input filename includes the string ‥/
+
+Submit Answer!
+Next
+
+...
+
+[https://www.youtube.com/watch?v=Jg5lb_dmwuM]
+
+...
+
+2. Don’t Open the Door
+Don’t Open the Door
+The most effective way to prevent directory traversal is to avoid passing any user supplied input to the file system in the first place. If the door is never open, an attacker will never be able to get through it. The risk arrives when a user has the opportunity to speak to the file system through a form or through a querystring as seen in unit 2.1.
+BASE_DIRECTORY
+Even if the door is closed, it is considered good practice to establish the base directory in your code. Website development platforms like WordPress will do this by default, but if you are not using a content management system, you can explicitly set the base directory as a variable to be used throughout your code.
+The second most important thing you can do is to sanitize user input variables, as you did in the previous unit, to ensure that they do not contain directory traversing inputs. User inputs must always be sanitized.
+Below is a screenshot that showcases an example of how to specify your base directory. It is assumed that the userInput has been sanitized.
+Before processing the file, this code double checks that the file path begins with the base directory. This is another effective mitigation tactic against directory traversal.
+code to double check
+Taken from: https://www.youtube.com/watch?v=Jg5lb_dmwuM
+If the file path does not begin with the base_directory, the file absolutely must not be processed.
+Using Relative Paths
+Please take a moment to view this short video to refresh your memory about the difference between full (absolute) paths and relative paths: https://www.youtube.com/watch?v=EJ0xvY5wT5Q
+Understanding how to use …/ as a means of navigating a file system will help you better understand directory traversal attacks and how to prevent them. Suppose your website URL is https://mysite.com.
+You are working in a file whose full path is https://mysite.com/shop/category1/singleproduct.php
+And you would like to include a file whose full path is https://mysite.com/js/functions.js
+When you include this file, you could of course include it with the full path, but using a relative path is best. Every …/ moves you up a directory from where you currently are.
+Suppose you are standing at singleproduct.php.
+file path
+The first …/ will take you into the category1 directory.
+The next …/ will take you into the shop directory.
+The next …/ will take you into the base directory for https://mysite.com .
+directory traversal
+Then you must go forward into the js directory before naming the file you want to include.
+In this case, the relative path to include would be ‥/‥/‥/js/functions.js
+
+...
+
+Exercise
+You are working in a file with full path: base_directory/my_account/orders.php
+
+You would like to include the file base_directory/inc/functions.php in your orders.php file. What path will you use to include the file?
+
+../inc/functions.php
+Submit Answer!
+
+in this case, we are already in the account, the root or base directory, so we just need the two dots for 
+this to work.
+
+want to sanitize the user input to sanitize the string. closed 
+when I rebooted my whole computer.
+
+
+
+...
+
+3. Conclusion & Takeaways
+Conclusion & Takeaways
+Good code is safe code. By taking basic precautions against common attacks, you can protect your website and its users from malicious actors. Forms can be weak points in terms of security because they allow users to enter and submit inputs. By restricting, validating and sanitizing user inputs your code can be made more robust. ALL user inputs should ALWAYS be sanitized before they are submitted.
+Remember that cybersecurity is fluid. Attacks evolve as vulnerabilities emerge and web developers must implement new security practices and patches as they become available. A responsible web developer is proactive in learning about emerging threats so that their code can be maintained and made robust in the face of new attacks.
+Attribution
+Image https://www.freepik.com/free-vector/characters-people-searching-through-files_3530103.htm
+Arbitrary File Read Video https://www.youtube.com/watch?v=Jg5lb_dmwuM
+Relative vs Absolute Path https://www.youtube.com/watch?v=ZQLpSOGOj8E
+Mark as CompletedBack to dashboard
+
+...
+
+1. The OWASP® Foundation
+The OWASP® Foundation
+Goals
+By the end of this case you will:
+Learn about the OWASP Foundation
+Join the OWASP community
+Familiarize yourself with the OWASP Top Ten security risks
+Understand how the OWASP Top Ten list is produced
+Introduction
+The Open Web Application Security Project® (OWASP) is the world’s largest non-profit foundation concerned with software security. Their work seeks to improve software security through community-led open-source software projects. They have hundreds of chapters worldwide and provide valuable education and training conferences for professionals interested in developing their software security knowhow.
+security image lock
+Image by rawpixel.com on Freepik
+Business Context
+Security is always a primary concern, and even if you are not inclined to attend software security conferences, OWASP is a valuable and credible source of security information. Familiarize yourself with their tools, resources, community and training opportunities.
+Next
+
+...
+
+2. About OWASP
+About OWASP
+Here is a brief introductory video to OWASP
+https://youtu.be/GJADjlBbv3Y
+Activity: Join the OWASP community
+To get a better feel for the OWASP community, we will join their Slack community.
+If you do not already have a Slack account, visit https://slack.com/ to create one.
+Now visit this page and join OWASP’s Slack community. https://owasp.org/about/
+email input
+After you have entered your email to join, return to https://slack.com/ and you should see a pending invitation from OWASP. Click “JOIN TEAM”.
+pending invitation
+Welcome to the OWASP community. You can browse different topics by clicking “All channels”
+slack connect channels
+Take a moment to look around and see if any of those channels are of particular interest to you. #Learning and #Developers are good places to start.
+
+Who can join the OWASP community?
+
+
+Software developers
+
+
+Website developers
+
+
+Security specialists
+
+
+Newbies with no security experience
+
+
+All of the above
+
+Check It! (4 left)
+Next
+
+...
+
+2. About OWASP
+About OWASP
+Here is a brief introductory video to OWASP
+https://youtu.be/GJADjlBbv3Y
+Activity: Join the OWASP community
+To get a better feel for the OWASP community, we will join their Slack community.
+If you do not already have a Slack account, visit https://slack.com/ to create one.
+Now visit this page and join OWASP’s Slack community. https://owasp.org/about/
+email input
+After you have entered your email to join, return to https://slack.com/ and you should see a pending invitation from OWASP. Click “JOIN TEAM”.
+pending invitation
+Welcome to the OWASP community. You can browse different topics by clicking “All channels”
+slack connect channels
+Take a moment to look around and see if any of those channels are of particular interest to you. #Learning and #Developers are good places to start.
+
+Who can join the OWASP community?
+
+
+Software developers
+
+
+Website developers
+
+
+Security specialists
+
+
+Newbies with no security experience
+
+
+All of the above
+
+Check It! (2 left)
+Next
+
+...
+
+2. About OWASP
+About OWASP
+Here is a brief introductory video to OWASP
+https://youtu.be/GJADjlBbv3Y
+Activity: Join the OWASP community
+To get a better feel for the OWASP community, we will join their Slack community.
+If you do not already have a Slack account, visit https://slack.com/ to create one.
+Now visit this page and join OWASP’s Slack community. https://owasp.org/about/
+email input
+After you have entered your email to join, return to https://slack.com/ and you should see a pending invitation from OWASP. Click “JOIN TEAM”.
+pending invitation
+Welcome to the OWASP community. You can browse different topics by clicking “All channels”
+slack connect channels
+Take a moment to look around and see if any of those channels are of particular interest to you. #Learning and #Developers are good places to start.
+
+Who can join the OWASP community?
+
+
+Software developers
+
+
+Website developers
+
+
+Security specialists
+
+
+Newbies with no security experience
+
+
+All of the above
+
+Check It! (2 left)
+Next
+
+...
+
+People who are seasoned and more accomplished tend 
+to be the most friendly and helpful.
+
+...
+
+4. Conclusion & Takeaways
+Conclusion & Takeaways
+OWASP offers exciting and affordable opportunities to access software security knowledge, cultivate your professional expertise, network with other professionals and participate in an active and ethical like-minded community.
+A security-first approach to web development is forward-thinking and increasingly the industry standard. The OWASP community is an excellent place to start taking this approach. Whether you consult their Slack channel or join a local chapter, it’s important to remember that you are not in this alone. You are part of a larger international community that seeks to make the web a safer place. Ask questions, make friends, and cultivate your security skills.
+Attribution
+About the OWASP foundation https://youtu.be/GJADjlBbv3Y
+Slack https://slack.com
+To join OWASP Slack channel https://owasp.org/about/
+OWASP Top 10 (YouTube) https://www.youtube.com/watch?v=hryt-rCLJUA
+OWASP Top 10 (Website) https://owasp.org/www-project-top-ten
+
+...
+
+4. Conclusion & Takeaways
+Conclusion & Takeaways
+OWASP offers exciting and affordable opportunities to access software security knowledge, cultivate your professional expertise, network with other professionals and participate in an active and ethical like-minded community.
+A security-first approach to web development is forward-thinking and increasingly the industry standard. The OWASP community is an excellent place to start taking this approach. Whether you consult their Slack channel or join a local chapter, it’s important to remember that you are not in this alone. You are part of a larger international community that seeks to make the web a safer place. Ask questions, make friends, and cultivate your security skills.
+Attribution
+About the OWASP foundation https://youtu.be/GJADjlBbv3Y
+Slack https://slack.com
+To join OWASP Slack channel https://owasp.org/about/
+OWASP Top 10 (YouTube) https://www.youtube.com/watch?v=hryt-rCLJUA
+OWASP Top 10 (Website) https://owasp.org/www-project-top-ten
+
+...
+
+3. Major Security Risks
+Major Security Risks
+The OWASP Top Ten is a standard awareness document intended for developers. It highlights the top 10 security risks so that developers can apply focus to the most important/high risk areas.
+Here is an introductory video about the OWASP Top Ten and how it can be used.
+https://www.youtube.com/watch?v=hryt-rCLJUA
+You can read more about the OWASP Top Ten on their website:
+https://owasp.org/www-project-top-ten/
+As you can see, insecure design and injection both feature on this list of top 10 concerns. Using the OWASP Top Ten to minimize security risk is an effective first step in securing the code you develop.
+In the OWASP Top Ten, cross site scripting or XSS attacks are included in which category?
+Injection
+Check It! (3 left)
+
+
+How does OWASP compile their top 10 lists of security concerns?
+
+
+Using GitHub repositories
+
+
+Industry contributor surveys
+
+
+Using information from chapters and worldwide members
+
+
+Public consensus
+
+
+Through open-source community software projects
+
+
+All of the above
+
+
+With data gathered during training conferences
+
+Check It! (3 left)
+
+Injection used to be the number one security risk but it is now number three. What is considered to be the number one security risk now?
+
+Broken Access Control
+Check It! (3 left)
+Next
+
+...
+
+1. WordPress Security Part 1
+WordPress Security
+Goals
+By the end of this case you will:
+Understand WordPress security risks
+Install the Wordfence Security plugin
+Familiarize yourself with WordFence settings and capabilities
+Perform a Wordfence security scan
+Introduction
+WordPress, as you know, is a website content management system that offers many advantages. It’s also important to be mindful of the security risks that can emerge at various stages of development and how to mitigate them. The OWASP Top Ten Web Application Security Risks includes Vulnerable and Outdated Components which is of particular relevance to WordPress websites.
+cover image security lock
+Image by kjpargeter on Freepik
+Business Context
+Approximately 63% of websites are built in WordPress making it very likely that you will work in WordPress as a developer. If you are building the website from the ground up, you will be able to include basic security measures at the outset. If, however, the website is already in place, it will be important to assess the security measures in place and to scan for vulnerabilities in order to take the steps necessary to secure the website’s existing vulnerabilities.
+WordPress Vulnerabilities
+WordPress websites are built using themes and plugins that can present malicious actors with vulnerable points of entry. When new versions that include security patches are released you must update WordPress/theme/plugin versions to ensure that your website is not exposed to attacks that could have been prevented.
+Installing too many plugins on a website exposes that website to an increased number of security risks. It is recommended that you limit the number of plugins your website requires and that you delete plugins and themes that you are not using. With fewer plugins, your website will be more secure, will load more quickly and will require less maintenance.
+Take a quick look at this list of plugin vulnerabilities to understand the scope of the problem. https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins
+Defending WordPress Websites
+Let’s make your personal WordPress website more secure by installing the Wordfence Security plugin.
+Step 1: If you can remember from Module 8, we installed LocalWP to set up a local WordPress environment on our computers. Open the application LocalWP and go to your Admin settings.
+Tip: It is crucial to ensure that we exclusively use LocalWP for installing plugins, whether they are free or paid, rather than installing them directly on wordpress.com.
+Step 2: Using the left-hand menu, navigate to Plugins → Add New
+Step 3: Use the search bar in the upper left-hand corner to search for Wordfence
+Step 4: Click Install Now button on the Wordfence Security plugin
+install wordfence button
+Step 5: Once it is installed, click the Activate button.
+Step 6: Using the left-hand menu, navigate to Wordfence Dashboard
+wordfence menu
+It may ask you for your email address. This is the email address that will receive security notifications and status updates. Ensure that you check this email regularly.
+Here is the screenshot you will see:
+alt text
+Click ‘Get your Wordfence license’
+You will then be brought to the following screen:
+alt text
+Under ‘Free’ click ‘Get a Free License’
+Then you will see the following screen, enter your email and press Yes for ‘Would you like to receive emails’ and check off the box for terms and conditions and click Register
+alt text
+Your license key is going to be emailed to you, and you will receive the following email.
+alt text
+You then have to copy the long number below and go back to your Wordpress where you will be greeted with the same popup as before:
+alt text
+This time click ‘Install an existing license’ and once you click that, all you need to do is enter your email and the long license key that you copied, accept the terms and conditions and proceed. You will now have installed your free license. Click 'Go to Dashboard’.
+The Wordfence dashboard will give you an overview of your website security, and it is on this page that you will see (in the future) any security notifications or vulnerabilities that may have been identified in a recent scan.
+Next
+
+...
+
+go to the wordpress website made earlier in the class. 
+go to plugins and add a new one 
+add wordfence. 
+
+...
+
+1. WordPress Security Part 1
+WordPress Security
+Goals
+By the end of this case you will:
+Understand WordPress security risks
+Install the Wordfence Security plugin
+Familiarize yourself with WordFence settings and capabilities
+Perform a Wordfence security scan
+Introduction
+WordPress, as you know, is a website content management system that offers many advantages. It’s also important to be mindful of the security risks that can emerge at various stages of development and how to mitigate them. The OWASP Top Ten Web Application Security Risks includes Vulnerable and Outdated Components which is of particular relevance to WordPress websites.
+cover image security lock
+Image by kjpargeter on Freepik
+Business Context
+Approximately 63% of websites are built in WordPress making it very likely that you will work in WordPress as a developer. If you are building the website from the ground up, you will be able to include basic security measures at the outset. If, however, the website is already in place, it will be important to assess the security measures in place and to scan for vulnerabilities in order to take the steps necessary to secure the website’s existing vulnerabilities.
+WordPress Vulnerabilities
+WordPress websites are built using themes and plugins that can present malicious actors with vulnerable points of entry. When new versions that include security patches are released you must update WordPress/theme/plugin versions to ensure that your website is not exposed to attacks that could have been prevented.
+Installing too many plugins on a website exposes that website to an increased number of security risks. It is recommended that you limit the number of plugins your website requires and that you delete plugins and themes that you are not using. With fewer plugins, your website will be more secure, will load more quickly and will require less maintenance.
+Take a quick look at this list of plugin vulnerabilities to understand the scope of the problem. https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins
+Defending WordPress Websites
+Let’s make your personal WordPress website more secure by installing the Wordfence Security plugin.
+Step 1: If you can remember from Module 8, we installed LocalWP to set up a local WordPress environment on our computers. Open the application LocalWP and go to your Admin settings.
+Tip: It is crucial to ensure that we exclusively use LocalWP for installing plugins, whether they are free or paid, rather than installing them directly on wordpress.com.
+Step 2: Using the left-hand menu, navigate to Plugins → Add New
+Step 3: Use the search bar in the upper left-hand corner to search for Wordfence
+Step 4: Click Install Now button on the Wordfence Security plugin
+install wordfence button
+Step 5: Once it is installed, click the Activate button.
+Step 6: Using the left-hand menu, navigate to Wordfence Dashboard
+wordfence menu
+It may ask you for your email address. This is the email address that will receive security notifications and status updates. Ensure that you check this email regularly.
+Here is the screenshot you will see:
+alt text
+Click ‘Get your Wordfence license’
+You will then be brought to the following screen:
+alt text
+Under ‘Free’ click ‘Get a Free License’
+Then you will see the following screen, enter your email and press Yes for ‘Would you like to receive emails’ and check off the box for terms and conditions and click Register
+alt text
+Your license key is going to be emailed to you, and you will receive the following email.
+alt text
+You then have to copy the long number below and go back to your Wordpress where you will be greeted with the same popup as before:
+alt text
+This time click ‘Install an existing license’ and once you click that, all you need to do is enter your email and the long license key that you copied, accept the terms and conditions and proceed. You will now have installed your free license. Click 'Go to Dashboard’.
+The Wordfence dashboard will give you an overview of your website security, and it is on this page that you will see (in the future) any security notifications or vulnerabilities that may have been identified in a recent scan.
+Next
+
+443 - 868 
+
+...
+
+2. WordPress Security Part 2
+Step 7: Navigate to All Options in the Wordfence sub-menu
+Step 8: This is where we will configure your Wordfence plugin. There are premium options that can be accessed for a subscription fee, but these will not be discussed at this time.
+wordfence setup
+If you haven’t already, be sure to enter your email address to receive security alerts.
+Always select the Recommended settings if you are unsure.
+Hide the WordPress version from attackers. It’s none of their business
+It is wise to disable code execution in the uploads directory.
+Scroll down to Email Alert Preferences and decide if there are alerts you would prefer not to receive.
+Below that you can also select how frequently you would like to receive Activity Reports.
+Scroll down to Basic Firewall Options. A firewall acts as a protective barrier against attackers. The firewall status may be set to learning mode and this is ok to start, but eventually it should be set to Enabled and Protecting.
+If you can, click Optimize the Wordfence Firewall.
+click optimize
+Click on Advanced Firewall Options and then scroll down to Rules. These Wordfence rules guard against some common attacks. You may notice that some of the attack categories are familiar to you ex. XSS and Traversal. All of these rules should be activated, though you do have the option to turn them off individually. If you are worried that your rules may be out of date, you also have the option to Manually refresh rules.
+refresh rules
+Scroll down to Brute Force Protection.
+brute force protection
+This option should be on. Below that you can decide how strict your login rules are. Different websites will require different settings here. If many users need to login all of the time, you may not want to be too strict and lock valid users out. Security is important, but so is the user experience. For example, if you check the option Immediately lock out invalid usernames, valid users who forgot their account details may get blocked from the public website (not good).
+You should absolutely check the option: Prevent the use of passwords leaked in data breaches.
+Scroll down to Additional Options
+You should Enforce strong passwords for all members. It is safe to select all or most of these additional options.
+enforce strong passwords
+Step 9: Remember to save your changes.
+Next
+
+...
+
+3. Scanning WordPress for Vulnerabilities
+Scanning WordPress for Vulnerabilities
+Now that we have configured Wordfence, we can also use it to scan our website files/themes/plugins for known vulnerabilities.
+Using the left-hand menu, navigate to Scan in the Wordfence sub-menu.
+From this page you can click the Start New Scan button to begin scanning your website.
+start scan button
+This may take some time and it’s important to give the scan time to run to completion. It is worth noting that websites do slow down while they are being scanned. Since we do not want to have a negative impact on user experience, security scans are best performed during low traffic periods.
+Once the scan is complete, you can scroll down to see Results Found.
+Activity
+What are the results of your Wordfence Security Scan? Share a screen capture or list of results.
+
+Submit Answer!
+
+It is essential that regular security scans are performed on any website. New vulnerabilities will arise over time. Regular security scans allow you to identify and patch the vulnerabilities so that your website is not exposed to attack.
+Note that you should always have a backup of your website ready to restore before attempting to update plugins or themes. Occasionally, updates will break the front end of the website and if this cannot be remedied promptly, you may need to restore your backup.
+Sample Answer:
+sample answer
+Next
+
+...
+
+3. Scanning WordPress for Vulnerabilities
+Scanning WordPress for Vulnerabilities
+Now that we have configured Wordfence, we can also use it to scan our website files/themes/plugins for known vulnerabilities.
+Using the left-hand menu, navigate to Scan in the Wordfence sub-menu.
+From this page you can click the Start New Scan button to begin scanning your website.
+start scan button
+This may take some time and it’s important to give the scan time to run to completion. It is worth noting that websites do slow down while they are being scanned. Since we do not want to have a negative impact on user experience, security scans are best performed during low traffic periods.
+Once the scan is complete, you can scroll down to see Results Found.
+Activity
+What are the results of your Wordfence Security Scan? Share a screen capture or list of results.
+
+...
+
+
+It is essential that regular security scans are performed on any website. New vulnerabilities will arise over time. Regular security scans allow you to identify and patch the vulnerabilities so that your website is not exposed to attack.
+Note that you should always have a backup of your website ready to restore before attempting to update plugins or themes. Occasionally, updates will break the front end of the website and if this cannot be remedied promptly, you may need to restore your backup.
+Sample Answer:
+
+...
+
+4. Git Reviews
+Git Reviews
+Git is a free version control system that is the most widely used version control system in the world and is considered the industry standard for developers. Version control refers to tracking and managing code changes. Version control allows teams to review code before it is live, and to restore previous versions if something goes wrong with the live version. In the context of performing WordPress version and plugin security updates, Git’s version control allows you to undo and analyze any updates that would cause a display or compatibility problem.
+Major Benefits of using Git
+Access to a complete change history of every file.
+Branching (new code) and merging (combine branches) capability.
+Ability to trace back changes, review and analyze them
+Getting started with Git
+To get started, follow the instructions on this page to install Git for Windows. https://git-scm.com/download/win
+download git
+It is recommended that you accept the default (recommended) settings as you click “Next” through the installation. As we saw in the video, once you have installed Git, you can write your first commands to configure your username and email address.
+command line git setup
+Now you are ready to create your first Git repository. Watch this video to see how Git is set up. The start of the video shows the steps you just completed. The second half of the video will help you create your first repository, your first file and to do your first commit. Follow along in your Git terminal to get hands on Git experience. https://git-scm.com/video/get-going
+Getting to know Git
+As so many developer job openings list knowledge of Git as a required or preferred skill, taking the time to learn Git will strengthen your application.
+Further reading to learn Git (documentation / instruction book / videos): https://git-scm.com/doc
+Once you have worked through the instruction book and are more familiar with Git commands, you may want to download this Git “cheat sheet” so that you don’t have to look up every command as you go: https://www.atlassian.com/git/tutorials/atlassian-git-cheatsheet
+Best Practices for using Git
+Commit often. Every time you “commit”, you are capturing a snapshot of the code base. This will be a version that you could return to if needed. It is better to commit too often rather than not often enough. A group of commits can always be combined to simplify the development history later on.
+When you commit you can and should leave a detailed log message explaining why you are making this commit and what is contained within it.
+Make sure to git pull (fetch) the global copy so you are working with the most recent version of the code.
+Use the staging area to collect/review a group of edits before writing them to a commit.
+
+Why do people use Git?
+
+
+To allow version control
+
+
+To facilitate collaboration of development teams
+
+
+To track changes made to code
+
+
+All of the above
+
+Check It! (4 left)
+
+
+What does a commit do?
+
+
+Merge two branches of code into the global code.
+
+
+Capture a snapshot of the code base.
+
+
+Download the most recent version of the global code to your local environment?
+
+Check It! (4 left)
+Next
+
+...
+
+5. Conclusion & Takeaways
+Conclusion & Takeaways
+With continuously evolving cyber security threats, it is essential to monitor websites for vulnerabilities and resolve them as they occur. Prioritize WordPress version updates and Plugin version updates as outdated versions pose security risks. The Wordfence security plugin, and other plugins like it, can be configured to improve your website security and to identify vulnerabilities. Limiting the number of plugins that your site requires and ensuring that only secure versions of these plugins are used, will go a long way toward improving your site’s performance and security.
+Cybersecurity is a rapidly growing field. Security scanning is often a web developer’s responsibility, so knowing how to do this is important. Learning about cPanel, file and folder permissions, or other security tools can make you more marketable. Sign up for security newsletters (wordfence has one) to learn how security breaches are investigated and uncovered. One employer has stated “If I’m hiring a web designer and they have an interest in security, that appeals to me.”
+Beware! Updates can (occasionally) break the front end of your website so proceed with caution. It is good practice to make updates in the development environment rather than in production when possible. It is also wise to have a website backup on hand so that a broken site can be restored promptly when there is a problem following a plugin update.
+Attribution
+Image https://www.freepik.com/free-photo/3d-internet-secuirty-badge_38007814.htm
+Vulnerable and Outdated Components - OWASP Top Ten Web Application Security Risks https://owasp.org/Top10/A06_2021-Vulnerable_and_Outdated_Components/
+Further reading re: WordPress Security https://developer.wordpress.org/apis/security/
+Further reading re: Wordpress Sanitization https://developer.wordpress.org/apis/security/sanitizing/
+WordPress plugin vulnerabilities https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins
+WordFence Security (Free version) https://www.wordfence.com/products/wordfence-free/
+Downloading Git for Window https://git-scm.com/download/win
+Video - Git basics episode 3 https://git-scm.com/video/get-going
+Git Documentation https://git-scm.com/doc
+Git cheat sheet https://www.atlassian.com/git/tutorials/atlassian-git-cheatsheet
+Mark as CompletedBack to dashboard
+
+...
+
+5. Conclusion & Takeaways
+Conclusion & Takeaways
+With continuously evolving cyber security threats, it is essential to monitor websites for vulnerabilities and resolve them as they occur. Prioritize WordPress version updates and Plugin version updates as outdated versions pose security risks. The Wordfence security plugin, and other plugins like it, can be configured to improve your website security and to identify vulnerabilities. Limiting the number of plugins that your site requires and ensuring that only secure versions of these plugins are used, will go a long way toward improving your site’s performance and security.
+Cybersecurity is a rapidly growing field. Security scanning is often a web developer’s responsibility, so knowing how to do this is important. Learning about cPanel, file and folder permissions, or other security tools can make you more marketable. Sign up for security newsletters (wordfence has one) to learn how security breaches are investigated and uncovered. One employer has stated “If I’m hiring a web designer and they have an interest in security, that appeals to me.”
+Beware! Updates can (occasionally) break the front end of your website so proceed with caution. It is good practice to make updates in the development environment rather than in production when possible. It is also wise to have a website backup on hand so that a broken site can be restored promptly when there is a problem following a plugin update.
+Attribution
+Image https://www.freepik.com/free-photo/3d-internet-secuirty-badge_38007814.htm
+Vulnerable and Outdated Components - OWASP Top Ten Web Application Security Risks https://owasp.org/Top10/A06_2021-Vulnerable_and_Outdated_Components/
+Further reading re: WordPress Security https://developer.wordpress.org/apis/security/
+Further reading re: Wordpress Sanitization https://developer.wordpress.org/apis/security/sanitizing/
+WordPress plugin vulnerabilities https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins
+WordFence Security (Free version) https://www.wordfence.com/products/wordfence-free/
+Downloading Git for Window https://git-scm.com/download/win
+Video - Git basics episode 3 https://git-scm.com/video/get-going
+Git Documentation https://git-scm.com/doc
+Git cheat sheet https://www.atlassian.com/git/tutorials/atlassian-git-cheatsheet
+Mark as CompletedBack to dashboard
+
+...
+
+4. Git Reviews
+Git Reviews
+Git is a free version control system that is the most widely used version control system in the world and is considered the industry standard for developers. Version control refers to tracking and managing code changes. Version control allows teams to review code before it is live, and to restore previous versions if something goes wrong with the live version. In the context of performing WordPress version and plugin security updates, Git’s version control allows you to undo and analyze any updates that would cause a display or compatibility problem.
+Major Benefits of using Git
+Access to a complete change history of every file.
+Branching (new code) and merging (combine branches) capability.
+Ability to trace back changes, review and analyze them
+Getting started with Git
+To get started, follow the instructions on this page to install Git for Windows. https://git-scm.com/download/win
+download git
+It is recommended that you accept the default (recommended) settings as you click “Next” through the installation. As we saw in the video, once you have installed Git, you can write your first commands to configure your username and email address.
+command line git setup
+Now you are ready to create your first Git repository. Watch this video to see how Git is set up. The start of the video shows the steps you just completed. The second half of the video will help you create your first repository, your first file and to do your first commit. Follow along in your Git terminal to get hands on Git experience. https://git-scm.com/video/get-going
+Getting to know Git
+As so many developer job openings list knowledge of Git as a required or preferred skill, taking the time to learn Git will strengthen your application.
+Further reading to learn Git (documentation / instruction book / videos): https://git-scm.com/doc
+Once you have worked through the instruction book and are more familiar with Git commands, you may want to download this Git “cheat sheet” so that you don’t have to look up every command as you go: https://www.atlassian.com/git/tutorials/atlassian-git-cheatsheet
+Best Practices for using Git
+Commit often. Every time you “commit”, you are capturing a snapshot of the code base. This will be a version that you could return to if needed. It is better to commit too often rather than not often enough. A group of commits can always be combined to simplify the development history later on.
+When you commit you can and should leave a detailed log message explaining why you are making this commit and what is contained within it.
+Make sure to git pull (fetch) the global copy so you are working with the most recent version of the code.
+Use the staging area to collect/review a group of edits before writing them to a commit.
+
+Why do people use Git?
+
+
+To allow version control
+
+
+To facilitate collaboration of development teams
+
+
+To track changes made to code
+
+
+All of the above
+
+Check It! (3 left)
+
+
+What does a commit do?
+
+
+Merge two branches of code into the global code.
+
+
+Capture a snapshot of the code base.
+
+
+Download the most recent version of the global code to your local environment?
+
+Check It! (3 left)
+Next
+
+...
+
+5. Conclusion & Takeaways
+Conclusion & Takeaways
+With continuously evolving cyber security threats, it is essential to monitor websites for vulnerabilities and resolve them as they occur. Prioritize WordPress version updates and Plugin version updates as outdated versions pose security risks. The Wordfence security plugin, and other plugins like it, can be configured to improve your website security and to identify vulnerabilities. Limiting the number of plugins that your site requires and ensuring that only secure versions of these plugins are used, will go a long way toward improving your site’s performance and security.
+Cybersecurity is a rapidly growing field. Security scanning is often a web developer’s responsibility, so knowing how to do this is important. Learning about cPanel, file and folder permissions, or other security tools can make you more marketable. Sign up for security newsletters (wordfence has one) to learn how security breaches are investigated and uncovered. One employer has stated “If I’m hiring a web designer and they have an interest in security, that appeals to me.”
+Beware! Updates can (occasionally) break the front end of your website so proceed with caution. It is good practice to make updates in the development environment rather than in production when possible. It is also wise to have a website backup on hand so that a broken site can be restored promptly when there is a problem following a plugin update.
+Attribution
+Image https://www.freepik.com/free-photo/3d-internet-secuirty-badge_38007814.htm
+Vulnerable and Outdated Components - OWASP Top Ten Web Application Security Risks https://owasp.org/Top10/A06_2021-Vulnerable_and_Outdated_Components/
+Further reading re: WordPress Security https://developer.wordpress.org/apis/security/
+Further reading re: Wordpress Sanitization https://developer.wordpress.org/apis/security/sanitizing/
+WordPress plugin vulnerabilities https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins
+WordFence Security (Free version) https://www.wordfence.com/products/wordfence-free/
+Downloading Git for Window https://git-scm.com/download/win
+Video - Git basics episode 3 https://git-scm.com/video/get-going
+Git Documentation https://git-scm.com/doc
+Git cheat sheet https://www.atlassian.com/git/tutorials/atlassian-git-cheatsheet
+Mark as CompletedBack to dashboard
+
+...
+
+Laura Gauthier Lead Instructor
+
+...
+
+Default (GPT-3.5)
+
+User
+A user input names a file to be uploaded to the server. You would like to sanitize that user input to make sure that it does not contain the string ‥/
+Write a short JavaScript function that checks if the user input filename includes the string ‥/
+ChatGPT
+Certainly! You can create a simple JavaScript function to check if the user input filename includes the string ../. Here's an example function:
+
+javascript
+Copy code
+
+function isFilenameValid(filename) {
+  // Check if the filename includes the string `../`
+  return !filename.includes('../');
+}
+
+// Example usage:
+const userInputFilename = "example/file/path.txt";
+if (isFilenameValid(userInputFilename)) {
+  // Proceed with uploading the file
+  console.log("File is valid. Uploading...");
+} else {
+  // Reject the filename
+  console.log("Invalid filename. Please choose a different one.");
+}
+
+In this example, the isFilenameValid function uses the includes method to check if the string ../ is present in the user input filename. 
+The function returns true if the filename is valid (i.e., does not contain ../) and false otherwise. You can customize this function 
+further based on your specific requirements.
+
+...
+
+
+
+
+
+

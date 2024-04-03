@@ -1,0 +1,652 @@
+3. Conclusion & Takeaways
+Conclusion & Takeaways
+Local hosting and cloud hosting each have their place in the field of website development. It’s all about deciding where you want to save your files, and striking a balance between the pros and cons in any given context. Consider the scenarios below and evaluate whether local hosting or cloud hosting is the most advisable option. After reading each scenario, circle the type of hosting you recommend.
+Scenario 1
+You’ve decided to build yourself a small website to serve as a portfolio of your work as a web developer. Eventually you will want to put it online, but for now you are still just playing around with the code, trying to get it to look polished and professional.
+Question
+Which type of hosting would you recommend? Select one of the following and justify your choice :
+
+local hosting
+cloud hosting
+I would recommend local hosting because for a portfolio it only needs to be worked on, and doesn't need a host, and it's not ready for public viewing, and there is no need to pay fees when you don't need to.
+Modify answer
+Your answer has been submitted and will be reviewed by your teacher in due course.
+Scenario 2
+Your customer wants to put up a one-page website as soon as possible so that they can begin running Google Ads that drive traffic to their page. The page will include their logo, mission statement, contact information, and opening hours. They may add to the website later, but for now, they just want a live page to work with Google Ads.
+Question
+Which type of hosting would you recommend? Select one of the following and justify your choice :
+
+local hosting
+cloud hosting
+I would recommend cloud hosting because Google needs to see the page, and there is a need for collaboration, and public viewing of the page, and there is a need to run Google Ads and drive traffic, it needs to be live.
+Modify answer
+Your answer has been submitted and will be reviewed by your teacher in due course.
+Scenario 3
+You have been contracted to work on an e-commerce website for a large company. They have a local server room that hosts their website now as it is being developed. They would like to launch the website that they have now and make no changes to the live site once it is published. They would also like to keep a copy of the site on their local servers, so that they can continue to develop new features until they are ready for the public.
+Question
+Which type of hosting would you recommend? Select one of the following and justify your choice:
+
+local hosting
+cloud hosting
+The public / published website should be using cloud hosting, but for the locally hosted page, it should use local hosting to continue development work. It's possible to have two environments in this case.
+Modify answer
+Your answer has been submitted and will be reviewed by your teacher in due course.
+Scenario 4
+Your friend has asked you to help them create a one-page HTML file with their resume’s information. Your friend has not bought a domain name yet, they only want help with building the HTML file.
+Which type of hosting would you recommend? Select one of the following and justify your choice :
+
+local hosting
+cloud hosting
+Local hosting, they don't have a domain, and they only want to work on it just for right now.
+Submit Answer!
+Attribution
+https://www.freepik.com/free-photo/website-hosting-concept-with-screen_26412543.htm
+
+
+...
+
+1. Setting Up a Localhost
+Setting Up a Localhost
+Goals
+By the end of this lesson you will:
+Understand how to set up localhost
+Set up localhost on your computer
+Practice using your newly configured localhost
+Introduction
+Learning how to set up a localhost on your computer is a handy bit of knowledge that will allow you to play around with website development, without publishing unfinished work and without needing to pay for cloud hosting. The process is different depending on your operating system. We will consider how to set up a localhost server in Windows 10. If you are not running Windows 10 or if you encounter technical difficulties, an alternative activity will be provided.
+Business Context
+In a business context, your employer may already have a hosting set up as well as IT employees who assist with configurations and access. However, it is also possible that you will work for a small business, or that you will decide to work as a freelance web developer. In the later case, knowing how to use localhost will provide you with the independence you need to get started quickly.
+Next
+
+... 
+
+nov 7 lesson 1.2
+
+...
+
+This is process depending on your operating system. 
+
+...
+
+I don't know what version operating system this is.
+
+...
+
+https://www.youtube.com/results?search_query=how+tos+setup+localhost+server+windows+10
+
+internet information services.
+
+...
+
+tech solution
+
+...
+
+2. Localhost server in Windows 10
+Localhost server in Windows 10
+Watch the following video to learn how to set up localhost in Windows 10. It is recommended that you watch the video all the way through one time and then re-watch the video, following along by doing each step on your own computer, pausing as needed. Basic steps are listed below the video link to help you in case your computer looks different than the one in the video.
+If you run into trouble (with permissions for example), you can use the alternate activity on the next page.
+Video: How to set up a local host in Windows 10
+Open your Control Panel
+Open Programs and Features
+Click on Turn Window features on or off
+turn features on or off
+In the popup, locate Internet Information Services, check the box. If you also see Internet Information Services Hostable Web Core then check that box as well. Click OK.
+edits to internet information services
+Allow your computer to search for required files and apply changes. Do not cancel.
+When your computer is finished making the changes, it may ask to restart your computer. This is normal. Save any changes you may need to in open files. Close everything including the Control Panel and restart your computer.
+You are now ready to test your localhost. Open a new tab in your browser and type localhost and hit Enter.
+You will see a window like this one:
+example window
+Using file explorer go to C:\inetpub\wwwroot and double click on iisstart.png
+It will ask what program it should use to open .png files and suggest Photos. You can just click OK. It will open the png file in photos and will look like the localhost start page.
+Save the image below as test.png in this folder: C:\inetpub\wwwroot
+practice image to save
+Now return to your browser tab to view http://localhost/test.png
+Next
+
+...
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+   <meta charset="utf-8" />
+   <title>My local web page</title>
+</head>
+<body>
+   <h1 style="text-align:center;">Locally Hosted Web Page</h1>
+   <img src="test.png" style="width:100%;" alt="This is a test image"/>
+</body>
+</html>
+
+...
+
+3. Alternate activity
+Alternate activity:
+If you do not have Windows 10 or do not have the necessary permissions to set up localhost or if you did not have the necessary permissions to save an image in the wwwroot folder, you can try this activity instead.
+Create a new folder on your computer called MyLocalWebsite.
+Save the image below as test.png in this new folder.
+image to save
+Open TextPad or Notepad on your computer.
+Copy the code below into TextPad or Notepad.
+<!DOCTYPE html>
+<html lang="en">
+<head>
+   <meta charset="utf-8" />
+   <title>My local web page</title>
+</head>
+<body>
+   <h1 style="text-align:center;">Locally Hosted Web Page</h1>
+   <img src="test.png" style="width:100%;" alt="This is a test image"/>
+</body>
+</html>
+Save the file as test.html in your MyLocalWebsite folder.
+Now use file explorer to locate this file on your computer.
+Double click on the file test.html to open it.
+The file will open in a tab on your browser. You can modify this local html file, save the changes, and refresh your browser tab to view the changes.
+Since websites include many files, it’s good practice to organize your images in a separate image folder. Create a new folder called img inside the MyLocalWebsite folder.
+Save the following images as test2.jpg and test3.jpg in this new img folder.
+test image 2
+test image 3
+Update your code in your local test.html file to read these two images from the img folder instead of the original test.png image.
+<!DOCTYPE html>
+<html lang="en">
+<head>
+   <meta charset="utf-8" />
+   <title>My local web page</title>
+</head>
+<body>
+   <h1 style="text-align:center;">Locally Hosted Web Page</h1>
+   <img src="img/test2.jpg" style="width:45%;float:left;" alt="This is a test image"/>
+   <img src="img/test3.jpg" style="width:45%;float:right;" alt="This is a test image"/>
+
+</body>
+</html>
+Next
+
+...
+
+4. Knowledge Check
+Question 1 of 2
+
+What is the primary purpose of setting up a localhost on your computer as described in the lesson?
+
+
+To access cloud hosting services.
+
+
+To publish a finished website to the internet.
+
+
+To permanently store files and data.
+
+
+To practice web development without needing to publish or pay for hosting.
+
+Check It! (4 left)
+
+Question 2 of 2
+
+In the lesson provided, which of the following is NOT a step in setting up a localhost server on Windows 10?
+
+
+Checking the box for Internet Information Services.
+
+
+Opening the Control Panel.
+
+
+Saving an image in the wwwroot folder.
+
+
+Purchasing a domain for your localhost.
+
+Check It! (4 left)
+Next
+
+...
+
+4. Knowledge Check
+Question 1 of 2
+
+What is the primary purpose of setting up a localhost on your computer as described in the lesson?
+
+
+To access cloud hosting services.
+
+
+To publish a finished website to the internet.
+
+
+To permanently store files and data.
+
+
+To practice web development without needing to publish or pay for hosting.
+
+Check It! (4 left)
+
+Question 2 of 2
+
+In the lesson provided, which of the following is NOT a step in setting up a localhost server on Windows 10?
+
+
+Checking the box for Internet Information Services.
+
+
+Opening the Control Panel.
+
+
+Saving an image in the wwwroot folder.
+
+
+Purchasing a domain for your localhost.
+
+Check It! (4 left)
+Next
+
+...
+
+5. Conclusion & Takeaways
+Conclusion & Takeaways
+Though it comes with some limitations, the flexibility of working locally in web development is sometimes very convenient, especially when you are just getting started with a project. Knowing that only you can see your files can remove pressure and free you to explore, take risks and get creative. Cloud hosting can always be set up later.
+Attribution
+How to Setup localhost Server in Windows 10 Create Local Host Server IIS Server Windows 10 https://www.youtube.com/watch?v=gpSK0CbSu2g
+Free images resource https://unsplash.com/images/events/celebration
+https://unsplash.com/photos/ooxMySOfRRU Photo by Alexander Grey on Unsplash
+Open Access at the National Gallery of Art https://www.nga.gov/open-access-images.html
+“Mahana Atua” by Paul Gauguin, 1894 https://www.nga.gov/collection/art-object-page.4876.html
+“Le Sourire” by Paul Gauguin, 1899 https://www.nga.gov/collection/art-object-page.4877.html
+
+
+...
+
+1. Setting Up a Cloudhost
+Setting Up a Cloudhost
+Goals
+By the end of this case you will:
+Know how to select a cloud hosting provider and a hosting package
+Understand how to use FTP to move files
+Familiarize yourself with cPanel
+Introduction
+cover image
+Designed by Freepik
+If the decision has been made to host the website using Cloud Hosting, the next step is to determine which cloud hosting provider will be contracted to host the website. Hosting providers offer a variety of options with their hosting packages. A decision must be made regarding which cloud hosting package is best suited for your project. Once the cloud hosting environment has been set up, you can use FTP to upload local copies of your website files (stored on your computer) to the cloud. It is also possible that your hosting package includes cPanel access, in which case you can directly access and update your website files in the cloud without the need for local copies of the files.
+Business Context
+If your employer or client already has a public website, then they already have a Cloud Hosting environment. Sometimes a client does not know how to access their files but they do know who their Hosting provider is. In this case you can contact the hosting provider directly and they will provide you with either FTP or cPanel access. If your client does not have a website yet, you may need to recommend a hosting provider and package for the project as well as coordinate with the hosting provider on behalf of the client to set up the environment and gain access to it.
+Next
+
+...
+
+
+Tilak Ghimire
+  12:22 PM
+secure socket layer
+
+...
+
+1. Setting Up a Cloudhost
+Setting Up a Cloudhost
+Goals
+By the end of this case you will:
+Know how to select a cloud hosting provider and a hosting package
+Understand how to use FTP to move files
+Familiarize yourself with cPanel
+Introduction
+cover image
+Designed by Freepik
+If the decision has been made to host the website using Cloud Hosting, the next step is to determine which cloud hosting provider will be contracted to host the website. Hosting providers offer a variety of options with their hosting packages. A decision must be made regarding which cloud hosting package is best suited for your project. Once the cloud hosting environment has been set up, you can use FTP to upload local copies of your website files (stored on your computer) to the cloud. It is also possible that your hosting package includes cPanel access, in which case you can directly access and update your website files in the cloud without the need for local copies of the files.
+Business Context
+If your employer or client already has a public website, then they already have a Cloud Hosting environment. Sometimes a client does not know how to access their files but they do know who their Hosting provider is. In this case you can contact the hosting provider directly and they will provide you with either FTP or cPanel access. If your client does not have a website yet, you may need to recommend a hosting provider and package for the project as well as coordinate with the hosting provider on behalf of the client to set up the environment and gain access to it.
+Next
+
+...
+
+2. Selecting a Cloud Host & Package
+Selecting a Cloud Host & Package
+There are many web hosting providers to choose from. Some of the most popular include:
+Bluehost https://www.bluehost.com/
+HostGator https://www.hostgator.com/web-hosting/
+HOSTINGER https://www.hostinger.com/
+Each of these providers offers the choice of shared hosting, dedicated hosting, and VPS hosting (Virtual Private Server). We will briefly overview the differences between these.
+Shared Hosting - Best for small websites with low traffic
+This is the most common type of cloud hosting and is the first choice for small businesses. With shared web hosting, many websites share resources on a single server. You will only have access to your files, but you will share bandwidth, processing power and memory with the other websites on that server. While this is the least expensive hosting option, there can be disadvantages, particularly if your website is very large and/or supports a great deal of traffic. Another concern with shared hosting relates to security. If a website on the shared server becomes infected with malware, for example, it can infect other websites on that server.
+Package prices vary depending, among other things, on the amount of space included in the package. Discounted prices are offered at signup, but renewed at a different price. Other signup perks are also offered. Email should be included with a hosting package but isn’t always.
+No matter what package you select, it is always worthwhile to call the hosting provider to speak directly with a representative. They will be able to answer all of your questions about what is included for the first year only, and what is included when the package renews the following year.
+One small note regarding SSL certificates: Though free SSL certificates are generally available for at least the first year of shared hosting, these are not the best SSL certificates. Most hosting providers and/or domain name registrars offer a variety of SSL certificates as a separate product depending on the level of data encryption your website requires. For simplicity, we will not worry about SSL certificates at this time.
+Below, you will find information about three comparable hosting packages from different cloud hosting providers as of January 2023. Items in red, though included with the package, are free to everyone regardless of their web hosting provider. Items in blue are very nice to have, but you’ll want to ask the hosting provider if those benefits carry over to the following year, or if they only apply for the first year.
+It is usually also possible to purchase add-ons if there is something you want that is not included in the package you are considering. Remember that hosting providers want your business and can sometimes be flexible when presented with a competing offer. Don’t be afraid to ask lots of questions, and a little negotiation can only work in your favor.
+Bluehost	HostGator	HOSTINGER
+7.38 USD/month* *Renews at 27.08 USD/month	3.50 USD/month* *Renews at 12.99 USD/month	3.99 USD/month* *Renews at 8.99 USD/month
+40 GB SSD Storage	Unmetered disk space*	200 GB SSD Storage
+Free CDN	Unmetered bandwidth*	Unlimited Bandwidth
+Custom WP Themes	Website & domain transfers	~100 000 Visits Monthly
+SSL certificate*	SSL certificate*	Unlimited Free SSL*
+Daily Website Backup - 1year	Unlimited Websites	100 Websites
+Domain name - 1year	1 year domain registration	Free Domain ($9.99 value)
+Domain Privacy	One-click WordPress installs	Nameservers
+Malware Scanning	Email	Email
+Resource protection	30 Days Money Back Guarantee	30 Days Money Back Guarantee
+Domain manager		DNS Management
+Google my business		Unlimited Databases
+Yoast SEO		Website builder
+Cloudflare Protected
+$150 Google Ads spend match credit	$500 Google Ads spend match credit	Daily Backups ($25.08 value)
+$100 Microsoft Advertising credit*	Managed WordPress
+WordPress Acceleration
+WordPress Staging Tool
+24/7 Support
+99.90% Uptime Guarantee
+*As of January 2023
+Question
+Suppose your customer asked you to build a small (<10GB), simple, non-transactional website to showcase a local art gallery. They have already reserved a domain name. Looking at the packages above, which hosting provider would you recommend and why? You may also visit the websites of these hosting providers to see if you can find a better package.
+
+Submit Answer!
+
+Note: Although all of the recommended packages meet the customer’s shared hosting requirements, it is not advisable to choose the Bluehost package (Provider 1) due to its high cost and unreasonable renewal price.
+Next
+
+...
+
+2. Selecting a Cloud Host & Package
+Selecting a Cloud Host & Package
+There are many web hosting providers to choose from. Some of the most popular include:
+Bluehost https://www.bluehost.com/
+HostGator https://www.hostgator.com/web-hosting/
+HOSTINGER https://www.hostinger.com/
+Each of these providers offers the choice of shared hosting, dedicated hosting, and VPS hosting (Virtual Private Server). We will briefly overview the differences between these.
+Shared Hosting - Best for small websites with low traffic
+This is the most common type of cloud hosting and is the first choice for small businesses. With shared web hosting, many websites share resources on a single server. You will only have access to your files, but you will share bandwidth, processing power and memory with the other websites on that server. While this is the least expensive hosting option, there can be disadvantages, particularly if your website is very large and/or supports a great deal of traffic. Another concern with shared hosting relates to security. If a website on the shared server becomes infected with malware, for example, it can infect other websites on that server.
+Package prices vary depending, among other things, on the amount of space included in the package. Discounted prices are offered at signup, but renewed at a different price. Other signup perks are also offered. Email should be included with a hosting package but isn’t always.
+No matter what package you select, it is always worthwhile to call the hosting provider to speak directly with a representative. They will be able to answer all of your questions about what is included for the first year only, and what is included when the package renews the following year.
+One small note regarding SSL certificates: Though free SSL certificates are generally available for at least the first year of shared hosting, these are not the best SSL certificates. Most hosting providers and/or domain name registrars offer a variety of SSL certificates as a separate product depending on the level of data encryption your website requires. For simplicity, we will not worry about SSL certificates at this time.
+Below, you will find information about three comparable hosting packages from different cloud hosting providers as of January 2023. Items in red, though included with the package, are free to everyone regardless of their web hosting provider. Items in blue are very nice to have, but you’ll want to ask the hosting provider if those benefits carry over to the following year, or if they only apply for the first year.
+It is usually also possible to purchase add-ons if there is something you want that is not included in the package you are considering. Remember that hosting providers want your business and can sometimes be flexible when presented with a competing offer. Don’t be afraid to ask lots of questions, and a little negotiation can only work in your favor.
+Bluehost	HostGator	HOSTINGER
+7.38 USD/month* *Renews at 27.08 USD/month	3.50 USD/month* *Renews at 12.99 USD/month	3.99 USD/month* *Renews at 8.99 USD/month
+40 GB SSD Storage	Unmetered disk space*	200 GB SSD Storage
+Free CDN	Unmetered bandwidth*	Unlimited Bandwidth
+Custom WP Themes	Website & domain transfers	~100 000 Visits Monthly
+SSL certificate*	SSL certificate*	Unlimited Free SSL*
+Daily Website Backup - 1year	Unlimited Websites	100 Websites
+Domain name - 1year	1 year domain registration	Free Domain ($9.99 value)
+Domain Privacy	One-click WordPress installs	Nameservers
+Malware Scanning	Email	Email
+Resource protection	30 Days Money Back Guarantee	30 Days Money Back Guarantee
+Domain manager		DNS Management
+Google my business		Unlimited Databases
+Yoast SEO		Website builder
+Cloudflare Protected
+$150 Google Ads spend match credit	$500 Google Ads spend match credit	Daily Backups ($25.08 value)
+$100 Microsoft Advertising credit*	Managed WordPress
+WordPress Acceleration
+WordPress Staging Tool
+24/7 Support
+99.90% Uptime Guarantee
+*As of January 2023
+Question
+Suppose your customer asked you to build a small (<10GB), simple, non-transactional website to showcase a local art gallery. They have already reserved a domain name. Looking at the packages above, which hosting provider would you recommend and why? You may also visit the websites of these hosting providers to see if you can find a better package.
+
+hostinger because they have better features at a lower cost.
+Modify answer
+Your answer has been submitted and will be reviewed by your teacher in due course.
+
+Note: Although all of the recommended packages meet the customer’s shared hosting requirements, it is not advisable to choose the Bluehost package (Provider 1) due to its high cost and unreasonable renewal price.
+Next
+
+...
+
+3. Dedicated Hosting vs VPS Hosting
+Dedicated Hosting vs VPS Hosting
+cover image
+Image by Freepik
+As we saw in the previous section, shared hosting is an affordable solution for a smaller website that sees limited traffic.
+Larger websites, however, will require additional resources. Among other things, they need more storage and more bandwidth to operate. For these websites, dedicated hosting & VPS hosting offer two alternatives to shared hosting.
+Dedicated Hosting - Ideal for larger companies with more traffic
+This kind of hosting is more expensive (between   100−
+ 150 a month), but comes with many benefits. With dedicated hosting, your website is the only one on that server. With this kind of hosting, you are not sharing bandwidth or server resources or memory with other websites. This will help your website to run faster and handle more traffic than it could with shared hosting.
+The risk of malware or virus infection from neighboring websites is also eliminated because your site is alone on the server (you have no neighbors). Since you’re paying more, you can count on improved, around-the-clock technical support from the hosting provider.
+VPS Hosting - Ideal for the in-between
+This kind of hosting is a middle-ground between shared and dedicated hosting. Your website is on a shared server BUT a specific quantity of resources, bandwidth and memory are dedicated to your website. It is perfect for a website that has outgrown shared hosting but is not quite big enough to require dedicated hosting.
+As with shared hosting, there are different packages available depending on the volume of server resources/bandwidth/memory that will be dedicated exclusively to your website, but you can expect to pay somewhere around $50 per month.
+
+A website expects more than 100 000 visitors per month and expects it will process an average of 20 000 transactions per month. What kind of hosting solution is right for this website?
+
+
+Shared hosting
+
+
+Dedicated hosting
+
+
+VPS hosting
+
+Check It! (4 left)
+
+
+A medium sized business is expanding. Their website currently runs on a shared hosting solution, but lately, during peak traffic periods, the website runs very slowly and reports for the last few months show that they are losing sales when this happens. They would like a hosting solution that can better accommodate this increase in traffic without slowing down the site. What kind of hosting solution is right for this website?
+
+
+Dedicated hosting
+
+
+Shared hosting
+
+
+VPS hosting
+
+Check It! (4 left)
+
+
+A small non-transactional website for a local business receives less than 1000 visitors per month. What kind of hosting solution is right for this website?
+
+
+Shared hosting
+
+
+Dedicated hosting
+
+
+VPS hosting
+
+Check It! (4 left)
+Next
+
+...
+
+4. FTP : File Transfer Protocol
+FTP : File Transfer Protocol
+FTP is a means of moving files between your computer and the cloud hosting environment. You can upload files to the host server or download files from that host server. There are several programs that help you do this, but FileZilla ( https://filezilla-project.org/ ) is FREE and widely used because it is available for Mac, Windows and Linux systems. There is also an affordable PRO version of the software that offers additional features, though generally the free software is sufficient.
+The software must be downloaded to your computer and access to a website can be added using the login credentials provided to you by your web hosting provider.
+One of the major advantages of using FTP is that you can upload and download not only files, but entire folders, including sub-folders with a simple drag and drop. Though it may take some time, the folder and sub-folder structure will be respected, which is great for moving a website from localhost to cloudhost, or for backing-up folders locally before making changes on the server files.
+You can view some screenshots of the software here: https://filezilla-project.org/client_screenshots.php
+Here is a short introductory video to FileZilla
+https://www.youtube.com/watch?v=JilbuyOGA00
+Getting to know cPanel
+cPanel access is sometimes included with your cloud hosting package. There are hosting providers who will only make cPanel available at an additional charge.
+cPanel is an easy-to-use website management platform offering a wide variety of features including a file manager, database access, virus scanner, PHP version manager and more. It is accessed through your web browser using login credentials provided to you by your web hosting provider. Always request cPanel access to your hosting environment as cPanel tools are tremendously helpful for web development.
+You can view features and screenshots of the platform here
+https://cpanel.net/products/cpanel-whm-features/
+Here is a short introductory video to cPanel
+https://www.youtube.com/watch?v=nwM5xd_AJOs
+Next
+
+...
+
+5. Conclusion & Takeaways
+Conclusion & Takeaways
+Selecting the best cloud hosting solution for your web project can seem a little daunting at first glance. There are so many features, packages and providers to choose from. Prices are often listed as discount prices for first-time clients and it is not always apparent what the renewal prices will be. Those low first-time prices also often depend on contracts that are billed annually even though prices are advertised as monthly.
+To make the best choice, you need to think about what your project requires. If it is a small website, then a shared hosting solution is desirable. If it is a large website that expects a good deal of traffic, then dedicated hosting is more appropriate. If the website is medium sized, meaning it requires dedicated resources but is not large enough to justify the expense of dedicated hosting, then VPS hosting offers a reasonable middle-ground between shared and dedicated hosting.
+Once you have a cloud hosted environment for your website, you will need to access it. FTP software like FileZilla and cPanel access will provide you with the means of managing your website.
+Attribution
+https://www.freepik.com/free-vector/cloud-computing-polygonal-wireframe-technology-concept_12071198.htm
+https://www.freepik.com/free-vector/abstract-creative-website-hosting-illustration_21743698.htm
+Bluehost https://www.bluehost.com/
+HostGator https://www.hostgator.com/web-hosting/
+HOSTINGER https://www.hostinger.com/
+FileZilla screenshots https://filezilla-project.org/client_screenshots.php
+Introduction to FileZilla https://www.youtube.com/watch?v=JilbuyOGA00
+cPanel features https://cpanel.net/products/cpanel-whm-features/
+Introduction to cPanel https://www.youtube.com/watch?v=nwM5xd_AJOs
+Mark as CompletedBack to dashboard
+
+...
+
+1. Common Website Attacks
+Common Website Attacks
+Goals
+By the end of this case you will:
+Have a basic understanding of 4 types of common website attacks
+Understand where and how these common attacks occur
+Be able to identify possible outcomes for each of these common attacks.
+Introduction
+cover image
+Image by Freepik
+Web security is a critically important aspect of web development. Protecting your website’s data, as well as the data of the website’s users must always be a top priority. Malicious actors prey on a website’s vulnerabilities for a variety of reasons. In this unit we will consider the following four types of common attacks:
+Cross site scripting (XSS)
+SQL injection
+Directory traversal
+DDoS
+and what basic steps you can take to protect your website against them.
+Business Context
+You may think that large businesses make the best targets for attack, but small businesses are desirable targets as well. One reason is that small businesses often have little to no budget for maintenance, leaving vulnerabilities unpatched for extended periods. This can make gaining access easier for attackers. Understanding how these attacks occur is the first step towards building a robust website with an eye toward web security.
+Next
+
+...
+
+1. Common Website Attacks
+Common Website Attacks
+Goals
+By the end of this case you will:
+Have a basic understanding of 4 types of common website attacks
+Understand where and how these common attacks occur
+Be able to identify possible outcomes for each of these common attacks.
+Introduction
+cover image
+Image by Freepik
+Web security is a critically important aspect of web development. Protecting your website’s data, as well as the data of the website’s users must always be a top priority. Malicious actors prey on a website’s vulnerabilities for a variety of reasons. In this unit we will consider the following four types of common attacks:
+Cross site scripting (XSS)
+SQL injection
+Directory traversal
+DDoS
+and what basic steps you can take to protect your website against them.
+Business Context
+You may think that large businesses make the best targets for attack, but small businesses are desirable targets as well. One reason is that small businesses often have little to no budget for maintenance, leaving vulnerabilities unpatched for extended periods. This can make gaining access easier for attackers. Understanding how these attacks occur is the first step towards building a robust website with an eye toward web security.
+
+...
+
+2. Cross Site Scripting (XSS)
+Cross Site Scripting (XSS)
+Cross site scripting is a type of injection attack which often occurs at the level of the web interface. For example, if you have a contact form on your website, information received in that contact form is generally safe, but if the form submission contains malicious code, that code risks being injected through the contact form. In this way, an attacker may be able to access sensitive/private information or execute malicious code on the server. There are 3 main types of cross site scripting attacks: reflected, stored and dom-based.
+Here is a short video to provide an overview of the three types of cross site scripting attacks.
+https://www.youtube.com/watch?v=DxsmEXicXEE
+SQL Injection
+The vast majority of websites pair files containing code, with a database. The code in the files communicates with the database using MySQL statements. SQL injection is also a type of injection attack that injects malicious code directly into the website database. The result can reveal sensitive/private information and give the attacker control over the website. In a worst case scenario, the attacker might even be able to take control of the server hosting the website.
+Here is a short video to provide an overview on SQL injection attacks.
+https://www.youtube.com/watch?v=Yqu93GXx0vI
+Next
+
+...
+
+3. Directory Traversal
+Directory Traversal
+Directory traversal, also known as path traversal, is an HTTP attack wherein the attacker exploits vulnerabilities to gain access to directories and files outside of the website’s root folder. If successful, the attacker can not only view sensitive files, they may also be able to execute commands on the server.
+Consider the following file structure for a very simple website:
+file structure
+Everything in the root folder can be safely accessed through a web browser, however, outside of the root, suppose there is a sensitive file that the browser should not be able to access. This sensitive file might include server logs, for example, that expose sensitive data about the file structure, existing vulnerabilities or server settings. We want to ensure that malicious actors do not have access to sensitive information.
+Let’s assume that there are numerous images stored in the ‘img’ directory. The index page will determine which image to display based on the specific filename provided in the query string (parameters included within the URL).
+So, for example, if the URL says: https://mywebsite.com/index.php?show=myimage.jpg, then the index file will load /img/myimage.jpg.
+But if the attacker modifies the query string and the variables are not sanitized or permissions are not set securely then this command will reveal the contents of the sensitive file outside of the root directory https://mywebsite.com/index.php?show=‥/‥/SensitiveFile.txt
+Here is a short video illustrating how directory traversal (using …/ to navigate directories) can be exploited to access sensitive information. https://www.youtube.com/watch?v=a0nXnY3_1gw
+Distributed Denial of Service (DDoS)
+This is a more complicated type of attack that requires the coordination of several computer systems to attack a given target. The target could be a particular website or server. The attack denies (blocks) service to regular/intended users of the target website or server. This can result in significant service interruptions impacting business and users alike.
+For example, if a target banking website is bombarded with requests, this may create a digital traffic jam of sorts that prevents the website from being accessed by regular/intended users. Clients would no longer have access to their online banking. A large-scale denial of service attack can have important social impacts and constitutes one of the major digital threats of our time.
+Here is a short video that illustrates DDoS attacks
+https://www.youtube.com/watch?v=ilhGh9CEIwM
+Next
+
+...
+
+4. Conclusion & Takeaways
+Conclusion & Takeaways
+Cross site scripting, SQL injection, Directory Traversal and Distributed Denial of Service are four of the most common types of attacks that a website can encounter.
+Understanding the basic idea behind each of these will help you construct code that better resists these and other types of attacks.
+cover image
+Image by rawpixel.com on Freepik
+Question
+Which type of attack is being described?
+
+An attacker exploits vulnerabilities using ‥/ to access files outside of the website’s root directory.
+Select an answer
+An attacker uses an army of infected computers to flood a server and interrupt service.
+Select an answer
+An attacker exploits unsanitized variables in a contact form to execute malicious script on a website.
+Select an answer
+An attacker targets a website’s database to take over the website and possibly the server it is hosted on.
+Select an answer
+Check It! (4 left)
+Attribution
+Image https://www.freepik.com/free-vector/cyber-security-concept_7970729.htm
+Cross site scripting https://www.youtube.com/watch?v=DxsmEXicXEE
+SQL Injection https://www.youtube.com/watch?v=Yqu93GXx0vI
+Directory Traversal https://www.youtube.com/watch?v=a0nXnY3_1gw
+DDoS https://www.youtube.com/watch?v=ilhGh9CEIwM
+Image https://www.freepik.com/free-photo/eye-futuristic-robot_11309679.htm
+Mark as CompletedBack to dashboard
+
+...
+
+4. Conclusion & Takeaways
+Conclusion & Takeaways
+Cross site scripting, SQL injection, Directory Traversal and Distributed Denial of Service are four of the most common types of attacks that a website can encounter.
+Understanding the basic idea behind each of these will help you construct code that better resists these and other types of attacks.
+cover image
+Image by rawpixel.com on Freepik
+Question
+Which type of attack is being described?
+
+An attacker exploits vulnerabilities using ‥/ to access files outside of the website’s root directory.
+Select an answer
+An attacker uses an army of infected computers to flood a server and interrupt service.
+Select an answer
+An attacker exploits unsanitized variables in a contact form to execute malicious script on a website.
+Select an answer
+An attacker targets a website’s database to take over the website and possibly the server it is hosted on.
+Select an answer
+Check It! (4 left)
+Attribution
+Image https://www.freepik.com/free-vector/cyber-security-concept_7970729.htm
+Cross site scripting https://www.youtube.com/watch?v=DxsmEXicXEE
+SQL Injection https://www.youtube.com/watch?v=Yqu93GXx0vI
+Directory Traversal https://www.youtube.com/watch?v=a0nXnY3_1gw
+DDoS https://www.youtube.com/watch?v=ilhGh9CEIwM
+Image https://www.freepik.com/free-photo/eye-futuristic-robot_11309679.htm
+
+...
+
+4. Conclusion & Takeaways
+Conclusion & Takeaways
+Cross site scripting, SQL injection, Directory Traversal and Distributed Denial of Service are four of the most common types of attacks that a website can encounter.
+Understanding the basic idea behind each of these will help you construct code that better resists these and other types of attacks.
+cover image
+Image by rawpixel.com on Freepik
+Question
+Which type of attack is being described?
+
+An attacker exploits vulnerabilities using ‥/ to access files outside of the website’s root directory.
+Directory Traversal
+An attacker uses an army of infected computers to flood a server and interrupt service.
+DDoS
+An attacker exploits unsanitized variables in a contact form to execute malicious script on a website.
+XSS
+An attacker targets a website’s database to take over the website and possibly the server it is hosted on.
+SQL injection
+Check It! (2 left)
+Attribution
+Image https://www.freepik.com/free-vector/cyber-security-concept_7970729.htm
+Cross site scripting https://www.youtube.com/watch?v=DxsmEXicXEE
+SQL Injection https://www.youtube.com/watch?v=Yqu93GXx0vI
+Directory Traversal https://www.youtube.com/watch?v=a0nXnY3_1gw
+DDoS https://www.youtube.com/watch?v=ilhGh9CEIwM
+Image https://www.freepik.com/free-photo/eye-futuristic-robot_11309679.htm
+
+...
