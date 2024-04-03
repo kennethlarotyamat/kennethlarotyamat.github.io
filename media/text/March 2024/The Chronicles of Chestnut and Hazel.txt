@@ -5118,7 +5118,6 @@ all the transfers have to be commited and pushed and uploaded.
 and then I can go ahead and delete the project 16 repository,
 but, it's taking forever to upload.
 
-
 what am I thinking about? I'm frustrated about how this
 first semester. there are a lot of things that really.
 did not go right this first semester, and really add stress.
