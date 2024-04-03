@@ -1,0 +1,6 @@
+Date: April 2nd 2024
+
+The Project 16 Repository has been dismantled, and it's contents have 
+been consolidated with the Main Repository. This Repository will be deleted.
+
+- Kenneth Larot Yamat, dba Chestnut + Hazel, SP
