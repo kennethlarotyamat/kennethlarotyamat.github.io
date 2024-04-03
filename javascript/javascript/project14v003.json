@@ -1,0 +1,21 @@
+{ 
+    "user001" : {"fname" : "Audrey ", "mname" : null, "lname" : "Hepburn","tagline" : "years of anger following hours that float idly down "},
+    "user002" : {"fname" : "Elizabeth ", "mname" : null, "lname" : "Grant","tagline" : "the blizzard drifts its weight deeper and deeper for three days "},
+    "user003" : {"fname" : "Josephine ", "mname" : null, "lname" : "McClellan","tagline" : "Then the sun! a clutter of yellow and blue flakes "},
+    "user004" : {"fname" : "Marion ", "mname" : null, "lname" : "Silver","tagline" : " Hairy looking trees stand out in long alleys over a wild solitude. "},
+    "user005" : {"fname" : "Alicia ", "mname" : null, "lname" : "Nash","tagline" : " The man turns and there — his solitary track stretched out upon the world. "},
+    "user006" : {"fname" : "Madeleine ", "mname" : null, "lname" : "Bowen","tagline" : " the baby is sleeping and the sun is a flame-white disc in silken mists above shining trees "},
+    "user007" : {"fname" : "Helen ", "mname" : null, "lname" : "Benson","tagline" : " Who shall say I am not the happy genius of my household? "},
+    "user008" : {"fname" : "Janine ", "mname" : null, "lname" : "Gunders","tagline" : " Among the rain and lights I saw the figure 5 in gold on a red firetruck "},
+    "user009" : {"fname" : "Gabriella ", "mname" : null, "lname" : "Darc","tagline" : "   moving tense  unheeded  to gong clangs  siren howls  and wheels rumbling  through the dark city. "},
+    "user010" : {"fname" : "Claire ", "mname" : null, "lname" : "Hamilton","tagline" : "   a trouble  archaically fettered  to produce    E Pluribus Unum an island  in the sea "},
+    "user011" : {"fname" : "Gloria ", "mname" : null, "lname" : "Harper","tagline" : " gross matters of the everyday world such as are never much hidden from a quick eye "},
+    "user012" : {"fname" : "Emma ", "mname" : null, "lname" : "Darwin","tagline" : "Why pretend to remember the weather two years back? "},
+    "user013" : {"fname" : "Gwen ", "mname" : null, "lname" : "Vanderveer","tagline" : " I lie here thinking of you "},
+    "user014" : {"fname" : "Penelope ", "mname" : null, "lname" : "Benjamin","tagline" : " the horned branches that lean heavily against a smooth purple sky "},
+    "user015" : {"fname" : "Eleanor ", "mname" : null, "lname" : "Abbott","tagline" : " I have eaten the plums that were in the icebox and which you were probably saving for breakfast "},
+    "user016" : {"fname" : "Dawn ", "mname" : null, "lname" : "Dwyer","tagline" : " a purple mole at the center of each flower.  Each flower is a hand’s span  of her "},
+    "user017" : {"fname" : "Amanda ", "mname" : null, "lname" : "Marsh","tagline" : " the whole field is an empty, single stem, a cluster, flower by flower, a pious wish "}
+  } 
+
+
