@@ -5578,7 +5578,10 @@ make one long poem out of this set, or have a ten sonnet series.
 205
 
 I had to undo several commits, and then stage the changes, and then re-commit 
-and push. I think that this might work.
+and push. I think that this might work. This might work, but it still might 
+take a total eternity. Like a real eternity. forever. and ever. and I 
+was finally able to get rid of so many repositories. I don't know how.
+I'm going to sort all of this stuff out.
 
 I shaved my head
 Letters from the Conoco Station
