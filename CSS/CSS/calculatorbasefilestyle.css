@@ -1,0 +1,260 @@
+@import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@400;500;600;700;800;900&family=Playfair+Display:ital,wght@0,400;0,500;0,600;0,700;0,800;0,900;1,400;1,500;1,600;1,700;1,800;1,900&family=Roboto+Serif:ital,opsz,wght@0,8..144,100;0,8..144,200;0,8..144,300;0,8..144,400;0,8..144,500;0,8..144,600;0,8..144,700;0,8..144,800;0,8..144,900;1,8..144,100;1,8..144,200;1,8..144,300;1,8..144,400;1,8..144,500;1,8..144,600;1,8..144,700;1,8..144,800;1,8..144,900&display=swap');
+/* <!--  [11/05/2023 09:40 AM] [11/05/2023 10:02 AM]    <iframe  src=".\options-pricing-calculator-project-13-part-2\src\index.html" 
+      [11/05/2023 09:40 AM] style="margin: 1vh 1vh 1vh 1vh; padding: 1vh 1vh 1vh 1vh; width:100%; height: auto; aspect-ratio: 50/29; " 
+      [11/05/2023 09:40 AM] [11/05/2023 09:40 AM] scrolling="yes"   
+      [11/05/2023 09:40 AM] allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+      [11/05/2023 09:40 AM]allowfullscreen ></iframe>  -->
+  <!-- <link rel="icon" type="image/svg+xml" href="/vite.svg" />  --> all the paths here are connected, and absolute, so I just need to wait for them to deploy.*/ 
+.container {
+  min-height: 80vh;
+  margin-block: 0;
+  display: flex;
+  align-items: center;
+  margin: 1vh 1vh 1vh 1vh !important; 
+  padding: 1vh 1vh 1vh 1vh !important;
+}
+
+/* <!--  [11/05/2023 09:40 AM] [11/05/2023 10:02 AM]    <iframe  src=".\options-pricing-calculator-project-13-part-2\src\index.html" 
+/* <!--  [11/05/2023 09:40 AM] [11/05/2023 09:40 AM] [11/05/2023 10:02 AM]    <iframe  src=".\options-pricing-calculator-project-13-part-2\src\index.html" 
+      [11/05/2023 09:40 AM] style="margin: 1vh 1vh 1vh 1vh; padding: 1vh 1vh 1vh 1vh; width:100%; height: auto; aspect-ratio: 50/29; " 
+      [11/05/2023 09:40 AM] scrolling="yes"   
+      [11/05/2023 09:40 AM] allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+      [11/05/2023 09:40 AM]allowfullscreen ></iframe>  -->
+  <!-- [11/05/2023 09:45 AM] [Deployment Test] <link rel="icon" type="image/svg+xml" href="/vite.svg" />  --> all the paths here are connected, and absolute, so I just need to wait for them to deploy.*/
+
+.row {
+  margin: 1vh 1vh 1vh 1vh !important; 
+  padding: 1vh 1vh 1vh 1vh !important;
+}
+/* <!--  [11/05/2023 09:40 AM] [11/05/2023 10:02 AM]    <iframe  src=".\options-pricing-calculator-project-13-part-2\src\index.html" 
+      [11/05/2023 09:40 AM] style="margin: 1vh 1vh 1vh 1vh; padding: 1vh 1vh 1vh 1vh; width:100%; height: auto; aspect-ratio: 50/29; " 
+      [11/05/2023 09:40 AM] scrolling="yes"   
+      [11/05/2023 09:40 AM] allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+      [11/05/2023 09:40 AM]allowfullscreen ></iframe>  -->
+  <!-- <link rel="icon" type="image/svg+xml" href="/vite.svg" />  --> all the paths here are connected, and absolute, so I just need to wait for them to deploy.*/
+.col {
+  padding-left: 1vh !important;
+  padding-right: 1vh !important;
+  margin-left: 1vh !important;
+  margin-right: 1vh !important;
+}
+/* <!--  [11/05/2023 09:40 AM] [11/05/2023 10:02 AM]    <iframe  src=".\options-pricing-calculator-project-13-part-2\src\index.html" 
+      [11/05/2023 09:40 AM] style="margin: 1vh 1vh 1vh 1vh; padding: 1vh 1vh 1vh 1vh; width:100%; height: auto; aspect-ratio: 50/29; " 
+      [11/05/2023 09:40 AM] scrolling="yes"   
+      [11/05/2023 09:40 AM] allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+      [11/05/2023 09:40 AM]allowfullscreen ></iframe>  -->
+  <!-- <link rel="icon" type="image/svg+xml" href="/vite.svg" />  --> all the paths here are connected, and absolute, so I just need to wait for them to deploy.*/
+.justify-content-center {
+  padding-left: 1vh !important;
+  padding-right: 1vh !important;
+  margin-left: 1vh !important;
+  margin-right: 1vh !important;
+}
+.col-md-6 {
+  padding-left: 1vh !important;
+  padding-right: 1vh !important;
+  margin-left: 1vh !important;
+  margin-right: 1vh !important;
+}
+.container > .row {
+  flex-basis: 100% !important;
+  padding-left: 1vh !important;
+  padding-right: 1vh !important;
+  margin-left: 1vh !important;
+  margin-right: 1vh !important;
+} 
+.container > .row > .justify-content-center {
+  padding-left: 1vh !important;
+  padding-right: 1vh !important;
+  margin-left: 1vh !important;
+  margin-right: 1vh !important;
+}
+.card-body {
+  padding: 0;
+}
+.btn {
+  font-size: 1.2rem;
+  padding: 0.75rem 1rem;
+}
+.btn-secondary {
+  background-color: #f0f0f0;
+  color: #333;
+  border: 1px solid #ccc;
+}
+.btn-light {
+  background-color: #e5e5e5;
+  color: #333;
+  border: 1px solid #ccc;
+}
+.btn-warning {
+  background-color: #ff9500;
+  color: #fff;
+  border: none;
+}
+.btn-block {
+  width: 80%;
+}
+#zero-row {
+  margin-top: 0.7rem;
+}
+.btn-block#zero {
+  width: 91%;
+}
+.btn-group {
+  display: flex;
+}
+.btn-group-vertical {
+  gap: 0.5235rem;
+  width: 80%;
+}
+.btn-group-vertical > * {
+  width: 100%;
+}
+
+/* width: 80% !important; */
+/* I've come to the conclusion that it's actually the iframe that's the problem */
+/* .body {
+width: 60% !important;
+} */
+/* flex-basis: 100%; */
+/* margin: 1vh 1vh 1vh 1vh; padding: 1vh 1vh 1vh 1vh */
+/*  there's too much empty space between the calculator, 
+and the div when this is placed into the iframe inside of 
+the DIV, I'm trying to figure 
+out how to fix this. */
+/* https://developer.mozilla.org/en-US/docs/Web/CSS/flex-basis */
+/* file:///C:/Users/KLYam/OneDrive/Documents/GitHub/miscellaneous/other/project13/Part2Calculator/options-pricing-calculator-project-13-part-2/src/index.html */
+/* end changes */
+/* start changes */
+/* start changes */
+/* end changes */
+/* .card { 
+padding-left: 1vh !important;
+padding-right: 1vh !important;
+margin-left: 1vh !important;
+margin-right: 1vh !important;
+} */
+/* .container {
+min-height: auto;
+margin-block: 0;
+display: flex;
+align-items: center;
+} */
+
+/*      [Resources]              https://www.linkedin.com/in/marianneshaffer/
+                          https://codepen.io/marnee
+                          https://codepen.io/shafferma08
+                          https://github.com/shafferma08
+
+*/
+
+/* *, *::before, *::after 
+{
+text-wrap: wrap; 
+font-size: 1vw; 
+font-weight: 600; 
+box-sizing: border-box;
+font-family: 'Cinzel', "Century Schoolbook","Times New Roman", Times, Courier,"Georgia", serif; 
+text-decoration: none;
+}
+
+.container {
+
+margin-block: 0;
+display: flex;
+padding: auto auto auto auto;
+
+
+}
+
+.container > .row {
+flex-basis: auto;
+}
+.card-body {
+padding: 0;
+}
+
+.btn {
+font-size: 1.2rem;
+padding: 0.75rem 1rem;
+}
+
+.btn-secondary {
+background-color: #f0f0f0;
+color: #333;
+border: 1px solid #ccc;
+}
+
+.btn-light {
+background-color: #e5e5e5;
+color: #333;
+border: 1px solid #ccc;
+}
+
+.btn-warning {
+background-color: #ff9500;
+color: #fff;
+border: none;
+}
+
+.btn-block {
+width: 80%;
+}
+
+#zero-row {
+margin-top: 0.7rem;
+}
+
+.btn-block#zero {
+width: 91%;
+}
+
+.btn-group {
+display: flex;
+}
+
+.btn-group-vertical {
+gap: 0.5235rem;
+width: 80%;
+}
+
+.btn-group-vertical > * {
+width: 100%;
+}
+.col-md-6 { */
+/* flex: 0 0 auto  !important ;
+width: 70% !important;
+height: auto !important; */
+/* aspect-ratio: 1/1 !important; */
+/* } */
+
+/* // <!-- Reference:
+
+// I don't know where to begin. I'm thinking about taking this regular calculator we made in class, and turning it into an options pricing calculator. 10272023 0635
+
+// https://codepen.io/Chris_Scomersi/pen/KoWpVr
+
+// https://codepen.io/ShaeSco/pen/LreNrj
+
+// https://codepen.io/ShaeSco/pen/LreNrj
+
+// https://codepen.io/Chris_Scomersi/pen/KoWpVr
+
+// https://codepen.io/lindenalee/pen/KxyXMB
+
+// https://www.optionseducation.org/toolsoptionquotes/optionscalculator 
+
+// https://www.investopedia.com/terms/o/optionpricingtheory.asp#:~:text=Models%20used%20to%20price%20options,%2C%20and%20Monte%2DCarlo%20simulation.
+
+// https://codepen.io/kennethlarotyamat/pen/rNPOGEV
+
+// https://corporatefinanceinstitute.com/resources/derivatives/option-pricing-models/
+
+// https://www.investopedia.com/articles/optioninvestor/07/options_beat_market.asp
+
+// https://pages.stern.nyu.edu/~adamodar/pdfiles/valn2ed/ch5.pdf
+
+// https://en.wikipedia.org/wiki/Monte_Carlo_methods_for_option_pricing
+
+
+// --> */

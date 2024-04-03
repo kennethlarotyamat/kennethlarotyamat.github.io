@@ -1,0 +1,108 @@
+
+*  {
+      box-sizing: border-box;
+        font-family:  "Century Schoolbook", Times, Courier,"Georgia",serif;
+      }
+
+button{
+
+  border-style: outset;border-width: thick;width: auto; border-color: silver; padding: 1px 6px; 
+  
+}
+button:hover{
+  
+border-style: inset;border-width: thick; width: auto; border-color: silver; padding: 1px 6px;
+  
+}
+#submitinformationcontactbutton{
+  
+border-style: outset;border-width: thick;padding:1px 1px; width: auto; border-color: silver;  
+  
+}
+#submitinformationcontactbutton:hover{
+  
+border-style: inset;border-width: thick;padding:1px 1px; width: auto; border-color: silver;  
+  
+}
+
+.headerbutton{
+  
+border-style: outset;border-width: thick;  border-color: silver;  padding: 1px 6px; background-color: white;
+  
+}
+.headerbutton:hover{
+  
+border-style: inset;border-width: thick;  border-color: silver;  padding: 1px 6px;
+  
+}
+
+h1 {
+  text-align: center;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+.textbodyparagrahindented{text-indent: 50px;}
+
+.wrapper {
+  width: max(60% - 2rem, 1500px);
+  margin-inline: auto;
+}
+
+.grid-container {
+  display: grid;
+  grid-template-areas: 
+    "header header header header header"
+    "aside-left main main main aside-right"
+    "aside-left main main main aside-right"
+    "footer footer footer footer footer"
+  ;
+  min-height: 80vh;
+  margin-top: 4rem;
+  gap: 0.5rem;
+}
+
+.grid-item {
+  font-size: 1.5rem;
+  padding: 1rem;
+
+}
+
+.header {
+  grid-area: header;
+  background-color: #d4e2eb;
+  margin: auto;
+}
+
+ .main {
+
+  grid-area: main;
+  background-color: #D7C3A3;
+  margin: auto;
+
+}
+
+#tableasideleft{  vertical-align: top;}
+
+.aside-left {
+  grid-area: aside-left;
+
+  background-color: #CFFDBC;
+  margin: auto;
+
+
+}
+
+.aside-right {
+  grid-area: aside-right;
+  background-color: #ffffbf;
+  margin: auto;
+
+  
+}
+
+.footer {
+  grid-area: footer;
+  background-color: #ffefea;
+  margin: auto;}
+
+
