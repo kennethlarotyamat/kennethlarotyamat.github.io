@@ -1,0 +1,6 @@
+Course Number	Credit Hours	Letter Grade	Number Grade
+Orange Juice 232				3				a				4.0
+Lemonade 443				3				a				4.0
+Milk 868				3				c				2.0
+Nectar				3				a				4.0
+Grade Point Average: 3.5
