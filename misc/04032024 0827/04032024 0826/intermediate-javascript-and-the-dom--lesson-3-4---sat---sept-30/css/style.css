@@ -1,0 +1,365 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap");
+*, *::before, *::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: "Poppins", sans-serif;
+  position: relative;
+}
+
+.container {
+  width: min(100% - 1rem, 1400px);
+  margin-inline: auto;
+}
+
+.fullpage {
+  min-height: 100vh;
+}
+
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding-block: 1rem;
+}
+
+.brand, .header-btns {
+  display: flex;
+  align-items: center;
+  gap: 2.5rem;
+}
+
+.brand__name {
+  color: rgb(14, 94, 57);
+}
+.brand__name h1 {
+  font-size: 3rem;
+}
+
+.clear-issues-btn {
+  padding-block: 0.55rem !important;
+  font-family: "Poppins", sans-serif;
+  font-size: 1.1rem;
+  color: rgb(14, 94, 57);
+  min-height: 2.825rem;
+}
+.clear-issues-btn:hover {
+  color: rgb(17, 77, 49);
+}
+
+.new-issue-btn {
+  background-color: rgb(14, 94, 57);
+  color: #fff;
+  border: 1px solid gray;
+  font-family: "Poppins", sans-serif;
+  padding: 0.3rem 1.4rem;
+  display: flex;
+  align-items: center;
+  border-radius: 5px;
+  font-size: 1.1rem;
+  cursor: pointer;
+  transition: all 200ms ease;
+}
+.new-issue-btn:hover {
+  background-color: rgb(17, 77, 49);
+  color: #fff;
+}
+.new-issue-btn:active {
+  background-color: rgb(17, 77, 49) !important;
+  color: #fff !important;
+  transform: scale(0.98);
+  transition: all 200ms ease-in-out;
+}
+.new-issue-btn > span {
+  margin-right: 0.8rem;
+  font-size: 1.4rem;
+}
+
+.main {
+  display: flex;
+  flex-direction: column;
+  gap: 3rem;
+}
+
+.team-members__list,
+.active-issues__list {
+  margin-top: 2rem;
+  border: 1px solid gray;
+  border-radius: 10px;
+}
+
+.team-members {
+  margin-top: 3rem;
+}
+.team-members h1 {
+  text-align: center;
+  font-size: 2rem;
+}
+.team-members__list {
+  min-height: 10rem;
+  padding: 2rem;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(105px, 1fr));
+  gap: 0.5rem;
+}
+.team-members .team-member__details {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.team-members .team-member__details h5 {
+  font-size: 0.9rem;
+  font-weight: 600;
+}
+.team-members .avatar {
+  width: 5rem !important;
+}
+.team-members .issues-detail {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.25rem;
+  margin-bottom: 0;
+}
+.team-members .issues-number {
+  background-color: rgb(14, 94, 57);
+}
+
+.active-issues__list {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  gap: 1.2rem;
+  min-height: 45vh;
+  padding: 3.5rem 2rem;
+}
+.active-issues__list h2 {
+  color: gray;
+}
+.active-issues__list .card {
+  width: 100%;
+  cursor: pointer;
+}
+.active-issues__list .issue {
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  gap: 0.75rem;
+}
+.active-issues__list .issue-id__heading {
+  font-weight: bold;
+}
+.active-issues__list .issue-summary {
+  max-width: 24ch;
+}
+.active-issues__list .issue-summary__text {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+.active-issues .no-issues-img {
+  width: 10rem;
+}
+.active-issues .no-issues-msg {
+  text-align: center;
+}
+.active-issues .no-issues-msg :nth-child(2) {
+  font-size: 2.5rem;
+}
+.active-issues .active-issues__heading {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.active-issues h1 {
+  text-align: center;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 2rem;
+}
+
+.modal-body {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.add-issues-form {
+  display: flex;
+  flex-direction: column;
+  gap: 1.2rem;
+}
+.add-issues-form input {
+  width: 20rem;
+}
+.add-issues-form #assign-to label {
+  color: rgb(14, 94, 57);
+}
+.add-issues-form #assign-to > option:first-child,
+.add-issues-form #issue-priority > option:first-child,
+.add-issues-form #issue-status > option:first-child {
+  font-weight: bold;
+}
+.add-issues-form .form-outline .form-control:focus ~ .form-label {
+  color: rgb(14, 94, 57);
+}
+.add-issues-form .form-outline .form-control:focus:invalid ~ .form-label {
+  color: rgb(211, 70, 70);
+}
+.add-issues-form .form-outline .form-control:focus ~ .form-notch .form-notch-leading {
+  border-color: rgb(14, 94, 57);
+  box-shadow: -1px 0 0 0 rgb(14, 94, 57), 0 1px 0 0 rgb(14, 94, 57), 0 -1px 0 0 rgb(14, 94, 57);
+}
+.add-issues-form .form-outline .form-control:focus:invalid ~ .form-notch .form-notch-leading {
+  border-color: rgb(211, 70, 70);
+  box-shadow: -1px 0 0 0 rgb(211, 70, 70), 0 1px 0 0 rgb(211, 70, 70), 0 -1px 0 0 rgb(211, 70, 70);
+}
+.add-issues-form .form-outline .form-control:focus ~ .form-notch .form-notch-middle {
+  border-color: rgb(14, 94, 57);
+  box-shadow: 0 1px 0 0 rgb(14, 94, 57);
+  border-top: 1px solid transparent;
+}
+.add-issues-form .form-outline .form-control:focus:invalid ~ .form-notch .form-notch-middle {
+  border-color: rgb(211, 70, 70);
+  box-shadow: 0 1px 0 0 rgb(211, 70, 70);
+  border-top: 1px solid transparent;
+}
+.add-issues-form .form-outline .form-control:focus ~ .form-notch .form-notch-trailing {
+  border-color: rgb(14, 94, 57);
+  box-shadow: 1px 0 0 0 rgb(14, 94, 57), 0 -1px 0 0 rgb(14, 94, 57), 0 1px 0 0 rgb(14, 94, 57);
+}
+.add-issues-form .form-outline .form-control:focus:invalid ~ .form-notch .form-notch-trailing {
+  border-color: rgb(211, 70, 70);
+  box-shadow: 1px 0 0 0 rgb(211, 70, 70), 0 -1px 0 0 rgb(211, 70, 70), 0 1px 0 0 rgb(211, 70, 70);
+}
+.add-issues-form .form-floating > .form-select ~ label {
+  color: rgb(14, 94, 57);
+}
+.add-issues-form .form-floating > .form-select:focus:invalid ~ label {
+  color: rgb(211, 70, 70);
+}
+.add-issues-form .form-select:focus {
+  border-color: rgb(14, 94, 57);
+  outline: 0;
+  box-shadow: inset 0 0 0 1px rgb(14, 94, 57);
+}
+.add-issues-form .form-select:focus:invalid {
+  border-color: rgb(211, 70, 70);
+  outline: 0;
+  box-shadow: inset 0 0 0 1px rgb(211, 70, 70);
+}
+.add-issues-form .form-item {
+  margin-bottom: 0.5rem;
+}
+.add-issues-form .form-item input {
+  width: 100%;
+}
+.add-issues-form .feedback {
+  display: none;
+  color: rgb(211, 70, 70);
+}
+.add-issues-form .form-control {
+  width: 100%;
+}
+.add-issues-form .form-submit-control {
+  margin-top: 1.5rem;
+}
+.add-issues-form .form-submit-control > * {
+  max-width: max-content;
+}
+
+.modal-save-changes {
+  background-color: rgb(14, 94, 57);
+  color: #fff;
+  transition: all 200ms ease-in-out;
+}
+.modal-save-changes:hover {
+  background-color: rgb(17, 77, 49);
+  color: #fff;
+}
+.modal-save-changes:active {
+  background-color: rgb(17, 77, 49) !important;
+  color: #fff !important;
+  transform: scale(0.98);
+  transition: all 200ms ease-in-out;
+}
+.modal-save-changes:disabled, .modal-save-changes[disabled] {
+  background-color: rgb(26, 136, 85);
+  color: #fff;
+  cursor: not-allowed;
+}
+
+.modal-close {
+  color: rgb(14, 94, 57);
+}
+.modal-close:active {
+  transform: scale(0.98) !important;
+  transition: all 200ms ease-in-out !important;
+}
+
+.footer {
+  margin-top: 3rem;
+}
+
+@media (max-width: 1200px) {
+  .team-members__list {
+    grid-template-columns: repeat(auto-fill, minmax(155px, 1fr));
+    gap: 2rem;
+  }
+}
+@media (max-width: 1000px) {
+  .header {
+    flex-direction: column;
+  }
+  .header-btns {
+    gap: 1rem;
+    margin-top: 2rem;
+  }
+  .issue-card-segment {
+    font-size: 0.85rem;
+  }
+}
+@media (max-width: 768px) {
+  .card {
+    align-items: flex-start;
+    overflow-x: scroll;
+  }
+  .issue-card-segment {
+    font-size: 0.75rem;
+  }
+}
+@media (max-width: 500px) {
+  .header-btns {
+    flex-direction: column-reverse;
+  }
+  .clear-issues-btn {
+    width: 100%;
+  }
+  .active-issues .no-issues-msg :nth-child(2) {
+    font-size: 1.75rem;
+  }
+  .active-issues__list {
+    padding-inline: 1rem;
+  }
+  .active-issues__list h2 {
+    font-size: 1.1rem;
+  }
+  .active-issues__list .issue {
+    gap: 1rem;
+    padding-inline: 1.25rem;
+    justify-content: space-between;
+  }
+  .issue-id,
+  .issue-summary,
+  .issue-priority,
+  .date-assigned {
+    display: none;
+  }
+}
