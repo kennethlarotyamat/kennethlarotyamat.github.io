@@ -6023,6 +6023,7 @@ Vitamin Pills for Plants
 
 234
 
+This article was really - boring!
 The text-reader has a new voice.
 I don't even remember how to start a new project 
 in eclipse.
