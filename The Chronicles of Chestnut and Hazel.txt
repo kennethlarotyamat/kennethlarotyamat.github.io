@@ -6060,6 +6060,10 @@ be a lot of traffic right now.
 Programming - I'm going to worry about that later.
 I'm not sure if I'll ever come back to this.
 
+ERBV:					Extended Resource based view - enterprises that share resources. As partners, or through supplier 
+					   and customer relationships - Resource access over ownership - RBV - Resource Based View - 
+					   extended into the customer context framework
+
 There usually is. there
 is usually quite a bit of traffic
 going on right now.
