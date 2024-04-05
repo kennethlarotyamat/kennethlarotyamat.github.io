@@ -6057,6 +6057,9 @@ be a lot of traffic right now.
 
 235
 
+Programming - I'm going to worry about that later.
+I'm not sure if I'll ever come back to this.
+
 There usually is. there
 is usually quite a bit of traffic
 going on right now.
