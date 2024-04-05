@@ -6023,6 +6023,27 @@ Vitamin Pills for Plants
 
 234
 
+Concerns:				A digital artifact doesn’t give a reason for any given decision
+                     This might be true, but digital artifacts are also programmed, so, 
+                     it might not give a reason, but the reason can be traced back to the programming of the digital artifact.
+
+ERBV:					Extended Resource based view- enterprises that share resources. As partners, or through supplier 
+					   and customer relationships
+
+Opportunity Conversion:	
+
+
+
+Platform technologies: 	Conducts business without hardly any resources involved - netflix uber Airbnb
+					         This relates to that other article that mentioned that most disruptions are usually business 
+						      model disruptions, rather than technology related.
+
+Incumbents:			Have a resource advantage but this advantage is also often considered a liability because existing 
+                  resources are often considered old.
+	
+                  Pursue evolutionary and revolutionary change - exploratory and exploitative innovation -  
+	               incremental and major innovations
+
 This article was really - boring!
 The text-reader has a new voice.
 I don't even remember how to start a new project 
@@ -6033,6 +6054,8 @@ leaving for work right
 about now, but I realized 
 that there probably would
 be a lot of traffic right now.
+
+235
 
 There usually is. there
 is usually quite a bit of traffic
