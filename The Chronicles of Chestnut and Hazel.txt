@@ -6102,6 +6102,45 @@ area.
 
 236
 
+Presumers:				consumers and producers at the same time, where users of a product both consume the product, 
+					      and produce the product - Innovation partners and consumers. They have a multi-faceted role in 
+					      the digital ecosystem.
+
+
+
+Concerns:				A digital artifact doesn’t give a reason for any given decision
+                     This might be true, but digital artifacts are also programmed, 
+                     so, it might not give a reason, but the reason can be traced back to the programming of the digital artifact.
+
+Digital Technologies - a more general term for information technology
+
+ERBV:					Extended Resource based view - enterprises that share resources. As partners, or through supplier 
+					   and customer relationships - Resource access over ownership - RBV - Resource Based View - 
+					   extended into the customer context framework
+
+Opportunity Conversion:	   Starts with opportunity Identification
+
+
+
+Platform technologies: 	   Conducts business without hardly any resources involved - netflix uber Airbnb
+					            This relates to that other article that mentioned that most disruptions are usually business 
+						         model disruptions, rather than technology related.
+
+Incumbents:			Have a resource advantage but this advantage is also often considered a liability because existing 
+                  resources are often considered old.
+	
+                  Pursue evolutionary and revolutionary change - exploratory and exploitative innovation -  
+                  incremental and major innovations
+
+                  Digital Information related to or precursor of Digital transformation
+
+                  Transformation of the old while transitioning, incumbents, applies to incumbents
+
+                  Existing infrastructure is considered old, and a liability
+
+                  Incumbents have a resource advantage over new entrants, but their existing infrastructure can 
+                  be considered old, and as a result, a liability.
+
 where the fries change back 
 into potatoes and 
 where the fries change 
