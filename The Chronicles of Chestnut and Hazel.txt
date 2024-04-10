@@ -6382,6 +6382,51 @@ I had to deal with this trademark stuff
 earlier today. It was basically: I had to 
 amend the initial application.
 
+500 - S&P 500, the s&p
+30 - Dow 30, dow jones industrial average, the dow
+3000 - Russell 3000
+5000 - WIlshire 5000
+100 - NASDAQ 100, the nasdaq
+
+Well, maybe not because there is a NASDAQ 100 and an S&P 100. So we might be able to use 500.
+I don’t know where to put this:
+Create a model similar to the Zaibatsu of the Meiji Restoration, but rather than have a bank 
+as the central actor, with credit as the force that ties the different businesses together, 
+we would have a model where a university is the central actor, and innovation is the force 
+that ties the businesses together, or creates inter-dependencies.
+
+	Chatterjee 36 HITA Equity Index
+	Chatterjee M&A Laboratories, INC
+		Chatterjee Holdings Block A, Corp
+			Target Companies 1-12
+		Chatterjee Holdings Block B, Corp
+			Target Companies 13-24
+		Chatterjee Holdings Block C, Corp
+			Target Companies 25-36
+	Yong Li Venture Capital Laboratories, LP
+		If a company cannot be acquired, then this organization would create new companies that would stand in for the 
+		company that could not be acquired.
+		For Example: suppose target company 17 is a bottling company, but for one reason or another it cannot be acquired, then
+		We would create a bottling company through Yong Li VC Partners, LP from UNLV Student Business Proposal 232 and then 
+		Chatterjee Holdings Block B, Corp would Acquire that company as an alternative.
+	Han-fen Hu High-frequency Trading Laboratories, LP
+		Suppose target company 29 has less than ideal trading characteristics, the Han-fen Hu High-frequency Trading 
+		Laboratories, LP would increase volume and narrow bid-ask spreads for the equities of the target company using as few 
+		shares as possible. The corresponding Equity derivatives could be targeted after the underlying equities have been 
+		stabilized. 
+	Lisa R. Davis Fixed-Asset Trust Laboratories, INC
+		I imagine this being structured as a REIT, 
+			with a DR Horton or Greystone Lennar component as a subsidiary
+				Would experiment with post-frame, modular, pre-fabricated, and additive construction techniques 
+		Target Companies would relocate their headquarters to one of the various cities in Clark County.
+Topic: turn-arounds and pivots: leveraging organizational courage for high-risk innovation as an alternative to the 
+conventional approach of distressed asset fire sales and mass-layoffs
+intro/motivation: 
+Exploratory innovation as a key turn-around / pivot strategy
+Affordance level reappropriation of existing IP catalog as an ancillary strategy
+
+247
+
 I just would have liked for things to have turned out differently with the whole. I don't what 
 I should refer to it as, but let's call it, the <Text Deleted> situation. Yeah. I would have 
 liked that to have turned out differently. And. How do I say this. I don't think it's going to 
