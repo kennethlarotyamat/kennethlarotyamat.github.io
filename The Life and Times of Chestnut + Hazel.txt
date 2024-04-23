@@ -350,7 +350,6 @@ but have been more incremental or even glacial in others
 		Crowdfunding
 		Blockchain
 		
-
 Structural Ambidexterity happens in individual business units
 	Historical: 		AT&T’s Bell Labs, Xerox’s Xerox PARC, Lockheed’s Skunk Works
 	Contemporary:	Amazon’s Zoox, Google’s DeepMind, Apple’s Mira Labs, DowDuPont’s Corteva
@@ -368,7 +367,9 @@ Synchrony (incumbent) & Klarna (entrant)
 31
 
 Examples from popular culture
-
+Increased data collection
+Increased automation
+Increased use of social media
 
 corollaries with that era’s 
 wealth & income
