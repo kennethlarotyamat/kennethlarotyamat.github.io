@@ -310,6 +310,61 @@ tend to be
 
 29
 
+Summary
+Incumbent firms have an existing resource base that can be both an asset and a liability. 
+New entrants to a market have disrupted incumbents while having few if any resources at play.
+Objective
+The purpose of this paper is to create a framework for identifying an incumbent firm’s resources and 
+how to utilize those resources for identifying and capitalizing on opportunities for innovation.
+
+Discussion
+
+Sequential Ambidexterity happens over time
+
+Structural Ambidexterity happens in individual business units
+
+Contextual Ambidexterity happens at an individual employee level
+
+Amdi
+The ability of a firm to adapt and pivot to address new threats and capitalize on new opportunities.
+Ambidexterity
+Ambidexterity
+Page 3-4
+Discussion:
+
+30
+
+Discussion
+
+Sequential Ambidexterity happens over time
+	A firm will focus on incremental innovation or radical innovation during one period of time 
+		May switch focus to radical innovation over incremental innovation during a different period of time.
+
+	Traditional banks have kept up technologically with fintech companies in some areas
+		Peer-to-peer payments
+		Mobile applications
+		Mobile wallets
+		
+but have been more incremental or even glacial in others
+		Peer-to-peer lending
+		Crowdfunding
+		Blockchain
+		
+
+Structural Ambidexterity happens in individual business units
+	Historical: 		AT&T’s Bell Labs, Xerox’s Xerox PARC, Lockheed’s Skunk Works
+	Contemporary:	Amazon’s Zoox, Google’s DeepMind, Apple’s Mira Labs, DowDuPont’s Corteva
+
+Contextual Ambidexterity happens at an individual employee level
+	Having an innovation culture
+
+Implications
+
+Amazon (incumbent) & Shopify (entrant)
+PayPal (incumbent) & CashApp (entrant)
+E-Trade (incumbent) & Robinhood (entrant)
+Synchrony (incumbent) & Klarna (entrant)
+
 
 Incumbent firms have an existing resource base that can be both an asset and a liability. 
 New entrants to a market have disrupted incumbents while having few if any resources at play.
