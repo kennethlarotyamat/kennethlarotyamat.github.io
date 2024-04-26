@@ -479,6 +479,74 @@ some reason. It seemed like he had memory issues.
 
 34
 
+4.3.1 Digital Innovation Review
+
+Framework for conceptualizing digital innovation framework
+
+Economics strategy and marketing 
+
+Digital object, digital technology has different uses and meanings depending on the social circles where it is being used. This results in products boundaries are fluid, and determined by social actors
+
+Socio-Technical phenomenon.
+Agency is distributed
+Heterogeneous groups
+Across industries
+Across disciplines		
+
+4.3.2 Unpacking The Difference 		
+
+4.3.3 Digital Opportunities For Incumbents
+
+Presumers:				consumers and producers at the same time, where users of a product both consume the product, 
+					and produce the product - Innovation partners and consumers. They have a multi-faceted role in 
+					the digital ecosystem.
+
+
+
+Concerns:				A digital artifact doesn’t give a reason for any given decision
+This might be true, but digital artifacts are also programmed, so, it might not give a reason, but the reason can be traced back to the programming of the digital artifact.
+
+Digital Technologies - a more general term for information technology
+
+ERBV:					Extended Resource based view - enterprises that share resources. As partners, or through supplier 
+					and customer relationships - Resource access over ownership - RBV - Resource Based View - 
+					extended into the customer context framework
+
+Opportunity Conversion:	Starts with opportunity Identification
+
+
+
+Platform technologies: 	Conducts business without hardly any resources involved - netflix uber Airbnb
+					This relates to that other article that mentioned that most disruptions are usually business 
+						model disruptions, rather than technology related.
+
+Incumbents:			Have a resource advantage but this advantage is also often considered a liability because existing 
+resources are often considered old.
+	
+Pursue evolutionary and revolutionary change - exploratory and exploitative innovation -  
+	incremental and major innovations
+
+Digital Information related to or precursor of Digital transformation
+
+Transformation of the old while transitioning, incumbents, applies to incumbents
+
+Existing infrastructure is considered old, and a liability
+
+Incumbents have a resource advantage over new entrants, but their existing infrastructure can 
+	be considered old, and as a result, a liability.
+
+ 		
+
+4.3.4 Digitalization Ethical Challenge
+
+	Terminology:			How is digitalization - and digitization different?
+	Concepts:				Digital ethics as a concept is somewhat new.
+						Ethics and morality - Ethics is the problematization of morality. Michel foucault. 
+						Digital ethics is related or based upon information and communication ethics.
+						The human need for recognition - social media gives rise to narcissism, voyeurism exhibitionism, 
+but also a means to express oneself authentically
+
+
 There was this issue where there were some kind of communication 
 issues. Like for some reason everything I said was misinterpreted. How. How 
 do I explain this? For some reason. I was.
