@@ -479,7 +479,55 @@ some reason. It seemed like he had memory issues.
 
 34
 
+when the various things 
+that change all things
+ that bring about more things.
  automated manufacturing software
+
+35
+
+Digitalization: Advances and Challenges
+This module provides details on the opportunities and difficulties that will be faced as 
+organizations and entities move forward in their path towards digitalization. The first 
+article, Digital Innovation: Review and Novel Perspective (Hund et. al. 2021) is a meta 
+analysis of the literature of digitalization across different disciplines (Saab et. al. April 28th 2024) 
+such as economics, marketing, entrepreneurship, human resources, and other business fields. It provides 
+
+a few outlines of the structural frameworks of how digital innovation is conceptualized, how strategies 
+for digital innovation can be managed by people in leadership and management positions, and how different 
+tensions and paradoxes can be alleviated (Saab et. al April 28th 2024). 
+The second article Unpacking the Difference Between Digital Transformation and IT Enabled Organizational 
+Transformation (Wessel et. al 2021) makes a distinction between two transformative process that can take 
+place within an organization as it takes steps towards digitizing it’s business strategies and business 
+practices, providing two cases studies illustrating an example of digital transformation, or DT, which 
+changes the very identity of what a organization is and what the organization does, and IT Enabled 
+Organizational Transformation, or ITOT, which transforms how an organization handles its business 
+
+practices and procedures without changing its fundamental identity (Saab et. al April 28th 2024). An 
+example of DT used in the paper was a hardware and machinery company that pivoted toward becoming a 
+provider of manufacturing automation software, and the example provided for an example of ITOT was a 
+hospital that transitioned from keeping paper patient records to keeping digital patient records (Saab et. al. April 28th 2024). 
+The article Digital opportunities for incumbents – A resource-centric perspective (Oberländer et. al 2021) 
+creates two conceptual frameworks, a Digital Innovation Opportunity Taxonomy, as well as a system of Stylized 
+Facts that simplifies how an incumbent firm can utilize its resources for capitalizing on opportunities for 
+digital innovation, although it may seem natural to think that an incumbent institution would have an inherent 
+advantage, it’s actually challenging for incumbents to avoid disruption from new entrants in a marketplace 
+because new entrants are often more nimble, and a lack of resources and existing infrastructure can provide 
+agility to new entrants (Saab et. al April 28th 2024). This is why the framework provided in this paper is 
+so useful and critical for incumbents to leverage. 
+
+Digitization as an ethical challenge (Capurro 2016) is an opinion piece and provides counter arguments to 
+the prevailing idea that digital technological innovation is the be all and end all of what progress really 
+is, it goes into details of some of the ethical shortcomings of the prevailing outlook of innovation, and how we 
+can moderate many of the negative aspects that are brought about by digitalization (Sabb et. al. April 28th 2024). 
+Toward a better digital future: Balancing the utopic and dystopic ramifications of digitalization 
+(Chatterjee & Sarker 2024) provides an excellent companion piece to Capurro’s article, while Capurro 
+describes many of the horrors of the digital age, and how things have gone terribly wrong in so many 
+ways during the past few decades, Chatterjee & Sarker provide a moderating viewpoint, and a plethora of 
+moderating approaches to the ethical challenges that Capurro brings up such as increasing representation 
+and inclusion of excluded groups when adjusting biased algorithms, or obtaining better levels of informed 
+consent when users apply for various digital platforms.
+
 
 
 4.3.1 Digital Innovation Review
