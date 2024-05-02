@@ -866,16 +866,16 @@ ERBV:					Extended Resource based view - enterprises that share
 
 56
 
-Opportunity Conversion:	Starts with opportunity Identification
-
-
+Opportunity Conversion:	Starts with 
+opportunity Identification
 
 Platform technologies: 	Conducts business without hardly any resources involved - netflix uber Airbnb
-					This relates to that other article that mentioned that most disruptions are usually business 
-						model disruptions, rather than technology related.
+					         This relates to that other article that mentioned that most disruptions are usually business 
+						      model disruptions, rather than technology related.
 
-Incumbents:			Have a resource advantage but this advantage is also often considered a liability because existing 
-resources are often considered old.
+Incumbents:			Have a resource advantage but this advantage is 
+                  also often considered a liability because existing 
+                  resources are often considered old.
 	
 Pursue evolutionary and revolutionary change - exploratory and exploitative innovation -  
 	incremental and major innovations
