@@ -954,6 +954,90 @@ technology affordance on organisational innovation
 
 58
 
+(5/5) Term Project
+Topic: 
+turn-arounds and pivots: leveraging organizational courage for high-risk innovation as an
+alternative to the conventional approach of distressed asset sales and mass-layoffs
+
+Implementation:
+
+HITA Applications for Mergers & Acquisitions, Portfolio Management, and Equity Index Development
+Create an equity index of publicly traded companies based on hita; a list of companies will be compiled and 
+each company will be assigned a HITA level which will inform the M&A approach. Since the HITA impact on 
+innovation is quadratic, we would use the absolute value of a company’s assigned HITA to rank companies within this index.
+
+We can call it the 
+
+Chatterjee 500 HITA Equity Index, 
+but we might not be able to use the number 500, so it can actually be any number.
+
+We might not be able to use numbers like
+
+500 - S&P 500, the s&p
+30 - Dow 30, dow jones industrial average, the dow
+3000 - Russell 3000
+5000 - WIlshire 5000
+100 - NASDAQ 100, the nasdaq
+
+Well, maybe not because there is a NASDAQ 100 and an S&P 100. So we might be able to use 500.
+Architecture:
+Create a model similar to the Zaibatsu of the Meiji Restoration, but rather than have a bank as the central actor, 
+with credit as the force that ties the different businesses together, we would have a model where a university is 
+the central actor, and innovation is the force that ties the businesses together, or creates inter-dependencies.
+
+	Chatterjee 36 HITA Equity Index
+	Chatterjee M&A Laboratories, INC
+		Chatterjee Holdings Block A, Corp
+			Target Companies 1-12
+		Chatterjee Holdings Block B, Corp
+			Target Companies 13-24
+		Chatterjee Holdings Block C, Corp
+			Target Companies 25-36
+	Yong Li Venture Capital Laboratories, LP
+		If a company cannot be acquired, then this organization would create new companies that would stand in for the 
+			company that could not be acquired.
+		For Example: suppose target company 17 is a bottling company, but for one reason or another it cannot be acquired, then
+			We would create a bottling company through Yong Li VC Partners, LP from UNLV Student Business Proposal 232 
+			and then Chatterjee Holdings Block B, Corp would Acquire that company as an alternative.
+	Han-fen Hu High-frequency Trading Laboratories, LP
+		Suppose target company 29 has less than ideal trading characteristics, the Han-fen Hu High-frequency Trading 
+			Laboratories, LP would increase volume and narrow bid-ask spreads for the equities of the target company using 
+			as few shares as possible. 
+		The corresponding Equity derivatives could be targeted 
+			after the underlying equities have been stabilized. 
+		May need to acquire market-Maker designation
+	Lisa R. Davis Fixed-Asset Trust Laboratories, INC
+		I imagine this being structured as a REIT, 
+			with a DR Horton or Greystone Lennar component as a subsidiary
+				Would experiment with post-frame, modular, pre-fabricated, and additive construction techniques 
+		Target Companies would relocate their headquarters to one of the various cities in Clark County.
+
+intro/motivation: 
+●	Exploratory innovation as a key turn-around / pivot strategy
+●	Affordance level reappropriation of existing IP catalog as an ancillary strategy
+Lit reviews
+●	Case studies of failed companies
+●	Case studies of notable turn-arounds & pivots
+○	Recent: Twinkie turn-around (2013) by Sol Invictus 
+■	Organizational Architecture Innovations
+■	Supply chain and distribution innovations
+■	Product chemistry innovations
+○	Recent: Apple turn-around (1997)
+○	Recent: Nike Pivot (2017)
+○	Recent: Amazon Pivot (2016)
+○	Multiple Pivots at various inflection points: Disney								
+○	Historical: Wipro Pivot
+○	Historical: Nintendo Pivot
+○	Historical: American Express Pivot
+○	Failed Pivot: JC Penney Ron Johnson (2011)
+○	Failed turn-around: JC Penney Bill Ackman (2013)
+●	Examples of possible turn-arounds
+theory/conceptualization 
+●	A company turn-around / pivot project is similar to a rehabilitation & renovation (fixer-upper) project in real estate
+If we want to do last part:
+●	We are co-owners of the Vicky Saab & Co. Special Purpose Acquisition Corporation. We will look at companies that we can buy and turn around. Smallest companies on the Russell 3000, for example: Travel + Leisure Co. (TNL) or Houghton Mifflin Harcourt Co. (HMHC) and create a VR Headset travel package, that could also be reappropriated in various additional ways: licensed to schools as a geography and history learning product, or a MMORPG travel and second-life kind of VR Game.
+
+
 I'm working on my final paper or final term 
 project for MIS 764. I really need to get this 
 done. something like today.
