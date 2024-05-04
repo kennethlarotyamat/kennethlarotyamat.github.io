@@ -1186,10 +1186,14 @@ how they can be and what.
 changes
 (5/5) Term Project
 Topic: 
-turn-arounds and pivots: leveraging organizational courage for high-risk innovation as an
-alternative to the conventional approach of distressed asset sales and mass-layoffs
+turn-arounds and pivots: leveraging 
+organizational courage for high-risk innovation as an
+alternative to the conventional approach of 
+distressed asset sales and mass-layoffs
 
 Implementation:
+
+69
 
 HITA Applications for Mergers & Acquisitions, Portfolio Management, and Equity Index Development
 Create an equity index of publicly traded companies based on hita; a list of companies will be compiled and 
