@@ -967,6 +967,20 @@ References
 
 59
 
+Introduction
+
+Introduce HITA, Harmonious Information Technology Affordances
+Current Measurement Techniques
+
+Find paper where HITA is first Introduced 
+
+Find paper where HITA or Organizational HITA is measured.
+	Probably the U-shaped non-liner paper in the title
+	Explain measurement techniques used in paper
+Develop an alternative way to measure HITA using a companies publicly available financial statements
+
+Clean up the references list
+
 Gittelsohn, J. (2023, March 15). Blackstone to Stop Payments on Las Vegas Office 
 Campus. Bloomberg Law. https://news.bloomberglaw.com/mergers-and-acquisitions/blackstone-writes-down-500-million-las-vegas-office-campus
 
