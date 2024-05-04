@@ -982,7 +982,10 @@ Develop an alternative way to measure HITA using a companies publicly available 
 Clean up the references list
 
 Gittelsohn, J. (2023, March 15). Blackstone to Stop Payments on Las Vegas Office 
-Campus. Bloomberg Law. https://news.bloomberglaw.com/mergers-and-acquisitions/blackstone-writes-down-500-million-las-vegas-office-campus
+Campus. Bloomberg Law. https://news.bloomberglaw.com/mergers-and-acquisitions/
+blackstone-writes-down-500-million-las-vegas-office-campus
+
+60
 
 Chapman, M., & The Associated Press. (2024, March 28). Home Depot’s largest acquisition 
 ever is an $18.25 billion bet on the housing market’s severe shortage of new homes. 
