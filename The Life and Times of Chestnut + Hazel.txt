@@ -1016,7 +1016,8 @@ changes are made to the
 places that there were.
 
 United States Securities and Exchange Commission. (2024, April 11). Form 8-K: Current 
-report [PDF file]. Retrieved from https://www.sec.gov/Archives/edgar/data/1018724/000110465924045915/tm246113d2_8k.htm
+report [PDF file]. Retrieved from https://www.sec.gov/Archives/edgar/data/1018724/
+000110465924045915/tm246113d2_8k.htm
 
 Hertz Global Holdings, Incorporated. (2024). Form 10-K Annual Report. U.S. Securities
 	and Exchange Commission. https://www.sec.gov/ix?doc=/Archives/edgar/data/
