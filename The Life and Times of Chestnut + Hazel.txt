@@ -1243,11 +1243,16 @@ Patnaik, D. (2024, February 11). Why Microtribes Are Wrecking Company Growth
 Plans. Forbes. https://www.forbes.com/sites/devpatnaik/2024/02/11/why-     
 microtribes-are-wrecking-company-growth-plans
 
+References have to be alphabetized, they are not numerical or 
+chronological or in the order in which they appear in the paper.
 We can call it the 
 
 Chatterjee 500 HITA Equity Index, 
-but we might not be able to use the number 500, so it can actually be any number.
+but we might not be able to use the number 500, 
+so it can actually be any number.
 
+References have to be alphabetized, they are not numerical or 
+chronological or in the order in which they appear in the paper.
 We might not be able to use numbers like
 
 500 - S&P 500, the s&p
