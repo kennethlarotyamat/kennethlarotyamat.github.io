@@ -1320,6 +1320,16 @@ m_campaign=041124&utm_term=shareholderletter
 
 75
 
+Look at financial statements to develop a HITA index
+Probably revenue per employee or earnings per employee
+Try to find R& D Spending IT Spending Exiting IT spending. 
+Or IT infrastructure on the balance sheet.
+
+Eliot, L. (2024, March 12). Prompt Engineering Technique Known As The Step-Around Is 
+Gaining Steam As Generative AI Becomes Less Forthright. Forbes Innovation AI. 
+https://www.forbes.com/innovationai/2024/03/12/step-around-prompt-engineeri
+ng-technique-gaining-steam-generative-ai/
+
 Chheda, T. (2021, May 15). How Hotel Brands Are Making 
 It Easier Than Ever to Find Vacation Rentals. Travel + 
 Leisure. Retrieved from https://www.travelandleisure.
