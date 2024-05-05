@@ -1198,10 +1198,21 @@ they are amazing.
 
 69
 
+I don't exactly know 
+where to start really.
+
+The Boeing Company. (2024). Form 10-K Annual Report. U.S. Securities
+and Exchange Commission. https://www.sec.gov/ixviewer/ix.html?doc=/
+Archives/edgar/data/12927/000001292724000010/ba-20231231.htm
+
+Good Lord I still really don’t have anything done here and 
+this is due tomorrow. What a nightmare I’ve gotten myself into.
+
 HITA Applications for Mergers & Acquisitions, Portfolio Management, and Equity Index Development
 Create an equity index of publicly traded companies based on hita; a list of companies will be compiled and 
 each company will be assigned a HITA level which will inform the M&A approach. Since the HITA impact on 
-innovation is quadratic, we would use the absolute value of a company’s assigned HITA to rank companies within this index.
+innovation is quadratic, we would use the absolute value of a company’s 
+assigned HITA to rank companies within this index.
 
 We can call it the 
 
