@@ -1328,6 +1328,11 @@ Gurman, M. (2024, February 27). Apple to wind down electric car effort after
 decadelong odyssey. Bloomberg. https://www.bloomberg.com/news/articles/2024-
 02-27/apple-to-wind-down-electric-car-effort-after-decadelong-odyssey
 
+Clean up the references list
+and remove anything that I don't 
+really plan on using or probably won't 
+end up using.
+
 Look at financial statements to develop a HITA index
 Probably revenue per employee or earnings per employee
 Try to find R& D Spending IT Spending Exiting IT spending. 
@@ -1351,6 +1356,9 @@ stole more than they wanted to do where they stole all the things.
 	Chatterjee M&A Laboratories, INC
 		Chatterjee Holdings Block A, Corp
 			Target Companies 1-12
+
+76
+
 		Chatterjee Holdings Block B, Corp
 			Target Companies 13-24
 		Chatterjee Holdings Block C, Corp
