@@ -1278,6 +1278,8 @@ Index. Retrieved April 9, 2024, from https://www.spglobal.com/spdji
 /en/indices/equity/sp-homebuilders-select-industry-index/#overview
 so how can you say that tings. that things are not the same and not different?
 
+72
+
 how can you see these things that were different from what was there before.
 Yale School of Management. (July 6, 2023.). Yale School of Management logo. 
 Retrieved April 10, 2024, from https://som.yale.edu/story/2023/top-40-case-studies-2022-23
@@ -1287,7 +1289,7 @@ Retrieved April 10, 2024, from https://som.yale.edu/story/2023/top-40-case-studi
 3000 - Russell 3000
 5000 - WIlshire 5000
 100 - NASDAQ 100, the nasdaq
-
+Develop an alternative way to measure HITA using a companies publicly available financial statements
 Well, maybe not because there is a NASDAQ 100 and an S&P 100. So we might be able to use 500.
 Architecture:
 Create a model similar to the Zaibatsu of the Meiji Restoration, but rather than have a bank as the central actor, 
