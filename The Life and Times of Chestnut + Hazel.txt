@@ -1383,6 +1383,25 @@ Archives/edgar/ data/702165/000070216524000005/nsc-20231231.htm
 
 77
 
+Had to be removed - 335	Coterra Energy Inc.			CTRA
+Revenue:
+Intangibles:	
+Selection Used Random number generator 8 companies from sp 500
+
+Jablonka, K. M., Schwaller, P., Ortega-Guerrero, A., & Smit, B. (2024). Leveraging large 
+language models for predictive chemistry. Nature Machine Intelligence. 
+https://doi.org/10.1038/s42256-023-00788-1
+
+Gomber, P., Kauffman, R. J., Parker, C., & Weber, B. W. (2018). On the Fintech 
+Revolution: Interpreting the Forces of Innovation, Disruption, and Transformation 
+in Financial Services. Journal of Management Information Systems, 35(1), 220-265. https://doi.org/10.1080/07421222.2018.1440766
+
+Revenue per employee
+Look at financial statements to develop a HITA index
+Probably revenue per employee or earnings per employee
+Try to find R& D Spending IT Spending Exiting IT spending. Or IT infrastructure on the balance sheet.
+Intangible assets
+
 	Yong Li Venture Capital Laboratories, LP
 		If a company cannot be acquired, then this organization would create new companies that would stand in for the 
 			company that could not be acquired.
