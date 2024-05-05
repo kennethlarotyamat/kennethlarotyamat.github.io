@@ -1400,19 +1400,42 @@ Selection Used Random number generator 8 companies from sp 500
 
 78
 
+changes to the base line can 
+create changes in the main 
+line and can do things that 
+make the places we go to are better.
+
 Jablonka, K. M., Schwaller, P., Ortega-Guerrero, A., & Smit, B. (2024). Leveraging large 
 language models for predictive chemistry. Nature Machine Intelligence. 
 https://doi.org/10.1038/s42256-023-00788-1
 
+but then there were all these
+things that were not good and 
+they were very good and they 
+stole the fire of all the things.
+
 Gomber, P., Kauffman, R. J., Parker, C., & Weber, B. W. (2018). On the Fintech 
 Revolution: Interpreting the Forces of Innovation, Disruption, and Transformation 
 in Financial Services. Journal of Management Information Systems, 35(1), 220-265. https://doi.org/10.1080/07421222.2018.1440766
+
+79
 
 Revenue per employee
 Look at financial statements to develop a HITA index
 Probably revenue per employee or earnings per employee
 Try to find R& D Spending IT Spending Exiting IT spending. Or IT infrastructure on the balance sheet.
 Intangible assets
+Dwivedi, Y. K., Hughes, L., Ismagilova, E., Aarts, G., Coombs, C., Crick, T., ... Williams, 
+33M. D. (2021). Artificial Intelligence (AI): Multidisciplinary perspectives on 
+emerging challenges, opportunities, and agenda for research, practice and 
+policy. International Journal of Information Management, 57, 101994. 
+https://doi.org/10.1016/j.ijinfomgt.2019.08.002
+
+Borges, A. F. S., Laurindo, F. J. B., Spínola, M. M., Gonçalves, R. F., & Mattos, C. A. 
+(2021). The strategic use of artificial intelligence in the digital era: Systematic 
+literature review and future research directions. International Journal of 
+Information Management, 57, 102225. 
+https://doi.org/10.1016/j.ijinfomgt.2020.102225
 
 	Yong Li Venture Capital Laboratories, LP
 		If a company cannot be acquired, then this organization would create new companies that would stand in for the 
