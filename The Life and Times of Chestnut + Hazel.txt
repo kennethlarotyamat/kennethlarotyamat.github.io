@@ -1288,13 +1288,35 @@ Retrieved April 10, 2024, from https://som.yale.edu/story/2023/top-40-case-studi
 30 - Dow 30, dow jones industrial average, the dow
 3000 - Russell 3000
 5000 - WIlshire 5000
+
+there were new people who can be changed 
+and what they are where they can be and how 
+they naked they are and where they stole oranges.
 100 - NASDAQ 100, the nasdaq
 Develop an alternative way to measure HITA using a companies publicly available financial statements
 Well, maybe not because there is a NASDAQ 100 and an S&P 100. So we might be able to use 500.
+
+73
+
+Rogers, J. (2023, March 21). Blackstone Stops 
+Making Payments on $325M Las Vegas Office Loan. 
+GlobeSt. https://www.globest.com/2023/03/21/
+blackstone-stops-making-payments-on-325m-las-
+vegas-office-loan/?slreturn=20240321173235
+
 Architecture:
 Create a model similar to the Zaibatsu of the Meiji Restoration, but rather than have a bank as the central actor, 
 with credit as the force that ties the different businesses together, we would have a model where a university is 
 the central actor, and innovation is the force that ties the businesses together, or creates inter-dependencies.
+
+74
+
+where can they be how they store and and they changed.
+Jassy, A. (2024, April 11). CEO Andy Jassy’s 2023 Letter to 
+Shareholders. Amazon. Retrieved from https://www.aboutamazon.
+com/news/company-news/amazon-ceo-andy-jassy-2023-letter-to-
+shareholders?utm_source=amazonnewsletter&utm_medium=email&ut
+m_campaign=041124&utm_term=shareholderletter
 
 	Chatterjee 36 HITA Equity Index
 	Chatterjee M&A Laboratories, INC
