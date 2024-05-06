@@ -1420,6 +1420,11 @@ in Financial Services. Journal of Management Information Systems, 35(1), 220-265
 
 79
 
+13	Exxon Mobil Corporation		XOM
+Revenue:
+Intangibles:
+	Also removed for a new randomly selected company
+
 Revenue per employee
 
 	Reason for using intangible assets
@@ -1439,6 +1444,8 @@ configuration from a real options lens. Strategic Management Journal 34: 1351-13
 
 Tong, T. & Y. Li. 2011. Real Options and Investment Mode Decision: Evidence 
 from Corporate Venture Capital and Acquisition. Organization Science. 22(3): 659-674
+
+80
 
 Courtney, C., Dutta, S., and Li, Y. 2017. Resolving information asymmetry: 
 Signaling and crowdfunding success. Entrepreneurship Theory and Practice 41(2): 265-290.
