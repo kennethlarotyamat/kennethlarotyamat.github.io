@@ -1462,7 +1462,28 @@ Finance: Managerial and Policy Implications. 1-35. Lead article
 
 81
 
-Li, Y., and E. Yao. 2019. All ties are not created equal: Institutional equity ties, IPO performance, and market growth of new ventures. In D. Cumming & S. Johan (ed.). Oxford Handbook of IPO
+Random Selection Removals
+Li, Y., and E. Yao. 2019. All ties are not created equal: 
+Institutional equity ties, IPO performance, and market 
+growth of new ventures. In D. Cumming & S. Johan (ed.). 
+Oxford Handbook of IPO
+
+there were places where
+The Harmony aspect of HITA will be inferred by taking the 
+distance between an organization’s revenue to intangible 
+assets ratio, a proxy for how an organization is actualizing 
+its information technology affordances, then comparing that 
+ratio to the revenue to intangible assets ratio of the sample 
+mean. A value of zero for any company within the sample would 
+suggest that the company would have a HITA value of zero, and 
+thus produce zero innovation relative to the sample. A high 
+positive value would suggest a high positive HITA value as a 
+result of high level of Harmony, and a high negative value would 
+suggest a high negative HITA value as a result of a high level 
+of dissonance.
+
+82
+
 Wang, E. T. G., Hu, H.-f., & Hu, P. J.-H. (2013). Examining the role of information technology in cultivating firms’ dynamic marketing capabilities. Information & Management, 50(6), 336-343. https://doi.org/10.1016/j.im.2013.04.007
 Randolph, R. V., Hu, H.-f., & Silvernail, K. D. (2020). Better the devil you know: Inter-organizational information technology and network social capital in coopetition networks. Information & Management. Advance online publication. https://doi.org/10.1016/j.im.2020.103344
 Randolph, R. V., Hu, H., Silvernail, K. (2018). Knowledge Networking and Coopetition: The Role of Shared Technology in Promoting Goal Convergence. 2018 Western Academy of Management Conference, 59 9.
