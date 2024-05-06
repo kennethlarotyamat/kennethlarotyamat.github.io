@@ -1420,6 +1420,9 @@ in Financial Services. Journal of Management Information Systems, 35(1), 220-265
 
 79
 
+Develop a way to integrate HITA into investment decisions as an additional variable for portfolio management applications.
+HITA, as it was measured in (non linear influences) might be difficult to use for portfolio management applications.
+
 test
 Compare Intangible 
 Assets and Revenue
