@@ -1420,7 +1420,21 @@ in Financial Services. Journal of Management Information Systems, 35(1), 220-265
 
 79
 
+I'm really tired already. I'm not sure 
+I don't know. I'm never really sure about 
+anything, least of all my abilities.
+Literature
 Revenue per employee
+
+Benbya, H., Pachidi, S., & Jarvenpaa, S. (2021). Special Issue Editorial: Artificial 
+Intelligence in Organizations: Implications for Information Systems Research. 
+Journal of the Association for Information Systems, 22(2), 281-303. 
+https://doi.org/10.17705/1jais.00662
+
+Paschen, U., Pitt, C., & Kietzmann, J. (2020). Artificial intelligence: Building blocks and 
+an innovation typology. Business Horizons, 63, 147-155. 
+https://doi.org/10.1016/j.bushor.2019.10.004
+
 Look at financial statements to develop a HITA index
 Probably revenue per employee or earnings per employee
 Try to find R& D Spending IT Spending Exiting IT spending. Or IT infrastructure on the balance sheet.
