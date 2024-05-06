@@ -1484,7 +1484,18 @@ of dissonance.
 
 82
 
-Wang, E. T. G., Hu, H.-f., & Hu, P. J.-H. (2013). Examining the role of information technology in cultivating firms’ dynamic marketing capabilities. Information & Management, 50(6), 336-343. https://doi.org/10.1016/j.im.2013.04.007
+Criteria Based Selection Removals
+Industrials:	LTMAY was not selected because it is not traded on either the NASDAQ or NYSE
+	GE was not selected due to recent restructuring 
+
+Wang, E. T. G., Hu, H.-f., & Hu, P. J.-H. (2013). Examining 
+the role of information technology in cultivating firms’ dynamic 
+marketing capabilities. Information & Management, 50(6), 
+336-343. https://doi.org/10.1016/j.im.2013.04.007
+
+Health Care:	LLY was not selected because it already appears in the randomly selected group
+	NVO was selected over UNH in an effort to include international companies in the selection process
+
 Randolph, R. V., Hu, H.-f., & Silvernail, K. D. (2020). Better the devil you know: Inter-organizational information technology and network social capital in coopetition networks. Information & Management. Advance online publication. https://doi.org/10.1016/j.im.2020.103344
 Randolph, R. V., Hu, H., Silvernail, K. (2018). Knowledge Networking and Coopetition: The Role of Shared Technology in Promoting Goal Convergence. 2018 Western Academy of Management Conference, 59 9.
 Hu, H.-F., Moore, W. L., & Hu, P. J. (2024). Incorporating user perceptions and product attributes in software product design and evaluation. Journal of Information Technology, 36(2), 123-137.
