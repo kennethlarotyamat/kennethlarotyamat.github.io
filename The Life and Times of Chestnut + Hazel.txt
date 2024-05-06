@@ -1498,7 +1498,11 @@ Health Care:	LLY was not selected because it already appears in the randomly sel
 
 83
 
-Randolph, R. V., Hu, H.-f., & Silvernail, K. D. (2020). Better the devil you know: Inter-organizational information technology and network social capital in coopetition networks. Information & Management. Advance online publication. https://doi.org/10.1016/j.im.2020.103344
+Randolph, R. V., Hu, H.-f., & Silvernail, K. D. (2020). Better the devil you know: 
+Inter-organizational information technology and network social capital in coopetition 
+networks. Information & Management. Advance online publication. 
+https://doi.org/10.1016/j.im.2020.103344
+
 Randolph, R. V., Hu, H., Silvernail, K. (2018). Knowledge Networking and Coopetition: The Role of Shared Technology in Promoting Goal Convergence. 2018 Western Academy of Management Conference, 59 9.
 Hu, H.-F., Moore, W. L., & Hu, P. J. (2024). Incorporating user perceptions and product attributes in software product design and evaluation. Journal of Information Technology, 36(2), 123-137.
 Chatterjee, S., Chakraborty, S., Fulk, K., & Lowry, P. B. (2024). The role of dissonant relational multiplexity in information system implementation failures. Journal of the Association for Information Systems (JAIS). Advance online publication. https://aisel.aisnet.org/jais/vol25/iss2/1/
