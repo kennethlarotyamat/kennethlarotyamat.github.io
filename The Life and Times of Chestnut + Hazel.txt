@@ -1484,6 +1484,20 @@ of dissonance.
 
 82
 
+there were places where
+The Harmony aspect of HITA will be inferred by taking the 
+distance between an organization’s revenue to intangible 
+assets ratio, a proxy for how an organization is actualizing 
+its information technology affordances, then comparing that 
+ratio to the revenue to intangible assets ratio of the sample 
+mean. A value of zero for any company within the sample would 
+suggest that the company would have a HITA value of zero, and 
+thus produce zero innovation relative to the sample. A high 
+positive value would suggest a high positive HITA value as a 
+result of high level of Harmony, and a high negative value would 
+suggest a high negative HITA value as a result of a high level 
+of dissonance.
+
 Criteria Based Selection Removals
 Industrials:	LTMAY was not selected because it is not traded on either the NASDAQ or NYSE
 	GE was not selected due to recent restructuring 
