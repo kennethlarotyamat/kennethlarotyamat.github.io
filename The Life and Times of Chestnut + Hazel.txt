@@ -1420,6 +1420,13 @@ in Financial Services. Journal of Management Information Systems, 35(1), 220-265
 
 79
 
+Revenue per employee
+
+	Reason for using intangible assets
+	It’s not easy to determine how much of a balance sheet is IT related
+	IT assets would be part of plant, property, and equipment, but a more granular
+	Breakdown may take more
+
 Chatterjee, S., Chakraborty, S., Fulk, H. K., & Sarker, S. (2021). Building 
 a compassionate workplace using information technology: Considerations for 
 information systems research. International Journal of Information 
