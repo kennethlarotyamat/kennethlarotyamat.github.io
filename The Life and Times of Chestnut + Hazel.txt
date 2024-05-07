@@ -1528,11 +1528,14 @@ but there were oranges t the tester of t.
    so it was skipped during the criteria-based selection process, 
    and NVO was selected over UNH to increase representation of 
    international organization in the sample selection group.
-
+Changes made to the new place wwhere the new place changes and 
+becomes a new place where teh old place makes new things that.
 Randolph, R. V., Hu, H.-f., & Silvernail, K. D. (2020). Better the devil you know: 
 Inter-organizational information technology and network social capital in coopetition 
 networks. Information & Management. Advance online publication. 
 https://doi.org/10.1016/j.im.2020.103344
+
+84
 
 Randolph, R. V., Hu, H., Silvernail, K. (2018). Knowledge Networking and Coopetition: The Role of Shared Technology in Promoting Goal Convergence. 2018 Western Academy of Management Conference, 59 9.
 Hu, H.-F., Moore, W. L., & Hu, P. J. (2024). Incorporating user perceptions and product attributes in software product design and evaluation. Journal of Information Technology, 36(2), 123-137.
