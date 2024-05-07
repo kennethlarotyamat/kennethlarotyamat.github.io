@@ -1537,8 +1537,18 @@ https://doi.org/10.1016/j.im.2020.103344
 
 84
 
-Randolph, R. V., Hu, H., Silvernail, K. (2018). Knowledge Networking and Coopetition: The Role of Shared Technology in Promoting Goal Convergence. 2018 Western Academy of Management Conference, 59 9.
-Hu, H.-F., Moore, W. L., & Hu, P. J. (2024). Incorporating user perceptions and product attributes in software product design and evaluation. Journal of Information Technology, 36(2), 123-137.
+Introduce HITA, Harmonious Information Technology Affordances
+Randolph, R. V., Hu, H., Silvernail, K. (2018). Knowledge 
+Networking and Coopetition: The Role of Shared Technology 
+in Promoting Goal Convergence. 2018 Western Academy of Management Conference, 59 9.
+
+Find paper where HITA is first Introduced 
+Hu, H.-F., Moore, W. L., & Hu, P. J. (2024). 
+Incorporating user perceptions and product 
+attributes in software product design and 
+evaluation. Journal of Information 
+Technology, 36(2), 123-137.
+
 Chatterjee, S., Chakraborty, S., Fulk, K., & Lowry, P. B. (2024). The role of dissonant relational multiplexity in information system implementation failures. Journal of the Association for Information Systems (JAIS). Advance online publication. https://aisel.aisnet.org/jais/vol25/iss2/1/
 Chatterjee, S., Sarker, S., Lee, M. J., Xiao, X., & Elbanna, A. (2021). A possible conceptualization of the information systems (IS) artifact: A general systems theory perspective. Information Systems Journal, 31(4), 550-578. https://doi.org/10.1111/isj.12292
 Oberlander, A. M., Roglinger, M., & Rosemann, M. (2021). Digital opportunities for incumbents – A resource-centric perspective. Journal of Strategic Information Systems. https://doi.org/10.1016/j.jsis.2021.101670
