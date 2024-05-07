@@ -1537,6 +1537,21 @@ https://doi.org/10.1016/j.im.2020.103344
 
 84
 
+	 After the concept of HITA is understood, the 
+second step to understanding how HITA plays a role within an 
+organization is the concept of actualization, actualization 
+being the end result of utilizing IT for a given purpose. 
+In Information technology and organizational innovation: 
+Harmonious information technology affordance and courage-based 
+actualization (Chatterjee et. al. 2020) the focus of actualization
+  process is innovation. Anderson & Robey in Affordance potency: 
+  Explaining the actualization of technology affordances focus on the 
+  fulfillment of organizational objectives as the result of 
+actualization (Anderson & Robey 2017).
+
+HITA is a measurement of potential,
+Actualization is separate from HITA
+
 Introduce HITA, Harmonious Information Technology Affordances
 Randolph, R. V., Hu, H., Silvernail, K. (2018). Knowledge 
 Networking and Coopetition: The Role of Shared Technology 
@@ -1548,6 +1563,8 @@ Incorporating user perceptions and product
 attributes in software product design and 
 evaluation. Journal of Information 
 Technology, 36(2), 123-137.
+
+85
 
 Chatterjee, S., Chakraborty, S., Fulk, K., & Lowry, P. B. (2024). The role of dissonant relational multiplexity in information system implementation failures. Journal of the Association for Information Systems (JAIS). Advance online publication. https://aisel.aisnet.org/jais/vol25/iss2/1/
 Chatterjee, S., Sarker, S., Lee, M. J., Xiao, X., & Elbanna, A. (2021). A possible conceptualization of the information systems (IS) artifact: A general systems theory perspective. Information Systems Journal, 31(4), 550-578. https://doi.org/10.1111/isj.12292
