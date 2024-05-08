@@ -1616,6 +1616,300 @@ Oberlander, A. M., Roglinger, M., & Rosemann, M. (2021). Digital
 opportunities for incumbents – A resource-centric perspective. Journal 
 of Strategic Information Systems. https://doi.org/10.1016/j.jsis.2021.101670
 
+HITA: Portfolio Management Applications
+Term Paper
+
+Kenneth Larot Yamat
+College of Business, The University of Nevada, Las Vegas
+MIS 764: Technology and Innovation Management
+Sutirtha Chatterjee, Ph.D.
+May 5th, 2024
+ 
+Introduction
+
+	HITA, harmonious information technology affordances, is a concept of what an organization could accomplish given its information technology infrastructure, and is comprised of several components: harmony, information technology, and IT affordances; the first component is harmony, which is a measurement how well different IT components within an organization’s overall IT infrastructure, the second component is IT referring to information technology and its various components, the tangible artifacts such as mobile devices, computers, data centers, servers, and the intangibles such as software and IT expertise, and the final component of HITA is IT affordances, broken down into capabilities, and appropriations (Chatterjee et. al. 2020).
+	After the concept of HITA is understood, the second step to understanding how HITA plays a role within an organization is the concept of actualization, actualization being the result of utilizing IT for a given purpose. In Information technology and organizational innovation: Harmonious information technology affordance and courage-based actualization (Chatterjee et. al. 2020) the focus of actualization process is innovation. Anderson & Robey in Affordance potency: Explaining the actualization of technology affordances focus on the fulfillment of organizational objectives as the result of actualization (Anderson & Robey 2017).
+	The purpose of this paper is to propose that understanding HITA can be useful outside of an organizational context, that HITA can be used by a party external to an organization, an investor for example, and be used to determine how an organization, in this case, a publicly traded company, can actualize HITA, is currently actualizing HITA, and how this actualization process can provide enhanced returns and mitigate risks within an organization, and by extension, enhance returns and reduce risk within a portfolio of investments.
+Motivation, Importance, and Literature Review
+
+HITA is currently measured by using a system of surveys submitted to leaders at various organizations, the responses are then used to make assessments of the various IT affordances that the organization has, particularly three specific affordances: collaborative affordances, organizational memory affordances, and process management affordances; In The nonlinear influence of harmonious information technology affordance on organisational innovation the researchers then take the HITA measurement of an organization, and see how it in turn produces innovation, finding three important areas: first, a vertex where innovation is zero or close to zero as a result of HITA being close to zero, a state where the status quo reinforces the status quo, and then two areas to the left and right of the vertex where innovation is fostered due to two key differences, in the case of negative HITA, an area left of the vertex, innovation is driven due to dissonance and creative tension, and positive HITA, an area right of the vertex where innovation is driven as a result of harmony and synergy within the organization’s IT infrastructure (Chatterjee et. al. 2021). 
+Organizational Agility is discussed in Agility in responding to disruptive digital innovation: Case study of an SME. Information Systems Journal (Chan et. al. 2019). Agility is described as the ability for an organization to adjust to various forms of disruption, and in the case studied in the research paper, the effect of disruptive digital innovation on smaller technology companies is the area being focused on (Chan et. al. 2019).  Related to organizational agility and HITA actualization is the concept of the improvisational capabilities of an organization. Improvisational capabilities are described as the ability of an organization to adjust to periods of turbulence and uncertainty with novel, spontaneous and unstructured solutions; these improvisational capabilities inform innovation outcomes (Chatterjee et. al 2015). Organizational Agility effects how an organization leverages its Improvisational Capabilities, which in turn effect the affordances aspect of a organization’s HITA, this in turn determines how an organization pursues innovation, but this is depended on another factor: Affordance Actualization.
+Actualization, as it pertains to HITA, refers to how IT affordances materialize as end products; Chatterjee’s framework of HITA operates under the premise that Organizational Courage is the primary factor in actualizing HITA (Chatterjee et. al. 2020), and that the relevant end product of actualizing HITA is innovation. Actualization Potency is discussed in Affordance potency: Explaining the actualization of technology affordances. Information and Organization (Anderson & Robey, 2017) which describes how effective an IT affordance is to productivity toward actualizing an organizational objective. Anderson & Robey discuss information technology affordances within a healthcare context using an urban hospital going through the process of digitalization and various other technology upgrades and how these new technologies can effective or ineffective, or potent, depending on how users interact with the technology that is available to them; Anderson & Robey provide a series of anecdotes of user interactions with new note taking technologies to illustrate how user interactions with these new technologies effect the hospitals objective of keeping better patient records in order to improve patient care; mobile computers, a kind of laptop on wheels was used for record keeping, but some users had issues typing, and some patients perceived that they weren’t being paid attention to while their nurse was taking notes on the computer, a shorter note system was implemented, which saved time, but there were issues with the accuracy and level of details that users, an audio recording system was also used, but there were issues with locating specific information held in the audio recordings, and the audio recordings were time consuming (Anderson & Robey, 2017). In the paper Strategic relevance of organizational virtues enabled by information technology in organizational innovation (Chatterjee et. al. 2015) IT affordances are conceptualized as being comprised of two components: IT capabilities, and appropriations; Anderson’s concept of Actualization Potency ties into Chatterjee’s HITA framework either as subordinate to affordances generally or subordinate via appropriation affordances, or complimentary to appropriation affordances.
+
+Theory, Development, and Conceptualization
+
+	The development of a HITA based index starts with the concept of HITA and attempts to use various parts of a company’s publicly available financial statements to create a measurement of HITA. Chatterjee established a method for ascertaining HITA in Information Technology and organizational innovation: Harmonious information technology affordance and courage-based actualization (Chatterjee et. al. 2020), however, HITA is an important enough conceptual framework that additional methods for assigning a HITA metric to an organization. HITA has value outside of a management and research-based context, and this is an attempt to apply HITA to portfolio management. 
+Intangible assets, a balance sheet item, is being used as a proxy for the IT Infrastructure that an organization has at its disposal. Although it might be more appropriate to use an actual balance sheet item that indicates the actual value of an organization’s information technology infrastructure, there are a number of problems with this approach, first is that IT infrastructure would fall within the plant, property, and equipment line item on a balance sheet, but plant, property, and equipment isn’t always broken down into a more granular way that would allow an investor to see specifically what an organization owns in terms of Information Technology, the second issue is that an organization may either lease IT services and equipment from  IT services provider, or they may pay subscription fees to a cloud computing services provider, in which case the organization’s IT capabilities aren’t captured as an asset on the balance sheet, but rather as an expense on the income statement, and here too the expenses aren’t always broken down in granular detail that would allow an investor to see exactly what an organization is spending on information technology services.
+Revenue, or gross sales, an income statement item, is being used as a proxy for Actualized Affordances. Although it might be possible to use a different metric such as earnings, or some variation of the earnings metric to determine Actualized Affordances, revenue might be perfectly suitable for the purposes of this paper. Profitability is important, and it’s what most people are interested in, but the amount of profit extracted from a given amount of revenue has more to do with cost control than with the variables that are being considered in this paper.
+The Harmony aspect of HITA will be inferred by taking the distance between an organization’s revenue to intangible assets ratio, a proxy for how an organization is actualizing its information technology affordances, then comparing that ratio to the revenue to intangible assets ratio of the sample mean. A value of zero for any company within the sample would suggest that the company would have a HITA value of zero, and thus produce zero innovation relative to the sample. A high positive value would suggest a high positive HITA value as a result of having high level of Harmony, and a high negative value would suggest a high negative HITA value as a result of a high level of dissonance.
+
+Selection
+
+	Three different selection groups of publicly traded companies were selected for analysis. The first group was selected using a random number generator, with a randomly generated number from 1-500 corresponding to a company on the S&P 500. Although the group of companies selected randomly was selected randomly with the hope to get a representative group of companies, it seems to have not done that, over half are healthcare related, Hologic Inc being a healthcare technology company specializing in medical imaging technology, and the rest being pharmaceutical companies depending on how a person looks at Abbot Laboratories. 
+The second group of companies was selected according to a set of criteria; first, the companies had to be considered large cap companies, and they were selected in a way such that sector diversity was an aim of the group selection, and a sector leader was chosen. During the selection process there were a few substitutions, XOM was a sector leader for Energy, and it was also selected during the random selection process as well, but they seem to have nothing listed as an intangible assets on their balance sheet, which is something that is more of an accounting related flaw, rather than an actual truth, XOM, Exxon Mobile, at the very least, has a notable brand, which is an intangible asset. CTRA was also removed during the random selection process for the same reason as XOM, and it seems to be a convention, or some kind of accounting convention among energy companies that they don’t list intangible assets on the balance sheet, or the group them in plant, property, and equipment, which is also considered fixed assets.
+	During the criteria-based selection process there were a few other removal and replacements, LTMAY, LATAM Airlines Group S.A. was the global leader in the industrials sector, however, LTMAY was not selected because it is not traded on a major stock exchange, GE, General Electric Aerospace was not selected due to recent changes in their corporate structure. LLY was already selected during the random selection process, so it was skipped during the criteria-based selection process, and NVO was selected over UNH to increase representation of international organization in the sample selection group.
+
+Conclusion
+
+There were several interesting results that came from this model of ascertaining HITA from publicly available financial statements, as well as a number of interesting insights that came from the process of developing this model. Most of the companies that had a high revenue to intangibles ratio were companies like PKG, APD, DLTR and CHRW, and this can be due to any number of factors. It is possible that these companies do not really derive much revenue from their intangible assets, intellectual property, and similar asset types, PKG makes boxes, APD sells industrial gases, DLTR is in the retail space, and CHRW is a freight broker. In other words: it’s possible that these types of companies derive more revenue as a result of their fixed-asset infrastructure, over their IT infrastructure, but it’s also possible that they would benefit the most from additional information technology investments, and it is also possible that both are true. Take DLTR for example, this would be a company that has significant fixed asset infrastructure in the form of brick and mortar locations, warehouse locations, and a freight network, which would make the first assessment true; at the same time, any visit to a Dollar Tree location would suggest that DLTR could use a technology upgrade: they use point of sell terminals that have to be from the 1970’s, nearly half a century ago.
+	The model has turned out to be interesting, but also problematic in many ways: the value of intangible assets on a balance sheet are probably an indicator of how IT affordances have been actualized, so for some applications it might not be necessary to look at revenue to determine how IT affordances are being actualized, but revenue is still important, capitalizing IT affordances as balance sheet items, as intangible assets, is important, but monetizing on IT affordances as an income statement item, revenue, is also important. This model could definitely use additional refinement, and at least as far as portfolio management, it’s also important that this model uses publicly available information for this purpose.
+
+Randomly Selected
+
+395	Packaging Corp of America	PKG
+	Revenue: 	7,802,000,000
+	Intangible:	1,154,000,000
+	Revenue to Intangibles Ratio	6.76
+	Distance from Average	5.44
+9	Eli Lilly & Co.	LLY
+	Revenue:	34,124,000,000
+	Intangible:	11,846,000,000
+	Revenue to Intangibles Ratio	2.88
+	Distance from Average	1.56
+443	The J.M. Smucker Company	SJM
+	Revenue:	8,529,000,000
+	Intangibles:	9,646,000,000
+	Revenue to Intangibles Ratio	0.88
+	Distance from Average	-0.43
+156	Air Products & Chemicals, Inc.	APD
+	Revenue:	12,600,000,000
+	Intangibles:	1,196,000,000
+	Revenue to Intangibles Ratio	10.54
+	Distance from Average	9.22
+49	Pfizer Inc.	PFE
+	Revenue:	61,996,000,000
+	Intangibles:	132,683,000,000
+	Revenue to Intangibles Ratio	0.47
+	Distance from Average	-0.85
+40	Abbott Laboratories	ABT
+	Revenue:	40,109,000,000
+	Intangibles:	32,494,000,000
+	Revenue to Intangibles Ratio	1.23
+	Distance from Average	-0.08
+463	C.H. Robinson Worldwide, Inc.	CHRW
+	Revenue:	17,596,000,000
+	Intangibles:	1,620,000,000
+	Revenue to Intangibles Ratio	10.86
+	Distance from Average	9.54
+18	Johnson & Johnson	JNJ
+	Revenue:	85,159,000,000
+	Intangibles:	70,733,000,000
+	Revenue to Intangibles Ratio	1.20
+	Distance from Average	-0.11
+368	Hologic Inc	HOLX
+	Revenue:	4,030,000,000
+	Intangibles:	4,170,000,000
+	Revenue to Intangibles Ratio	0.97
+	Distance from Average	-0.35
+190	Metlife, Inc.	MET
+	Revenue:	66,905,000,000
+	Intangibles:	11,793,000,000
+	Revenue to Intangibles Ratio	5.67
+	Distance from Average	4.36
+300	Dollar Tree Inc.	DLTR
+	Revenue:	30,604,000,000
+	Intangibles:	3,064,000,000
+	Revenue to Intangibles Ratio	9.99
+	Distance from Average	8.67
+		
+		
+Sample Averages	Revenue	33,586,727,273
+	Intangibles	25,490,818,182
+	Revenue to Intangibles Ratio	4.68
+	Revenue to Intangibles Ratio, Aggregate	1.32
+
+Criteria Selected, Large Cap
+
+Energy:	CHEVRON CORP	CVX
+	Revenue:	196,913,000,000
+	Intangibles:	4,722,000,000
+	Revenue to Intangibles Ratio	41.70
+	Distance from Average	34.30
+Materials:	LINDE PLC	LIN
+	Revenue:	32,854,000,000
+	Intangibles:	39,150,000,000
+	Revenue to Intangibles Ratio	0.84
+	Distance from Average	-6.57
+Industrials:	CATERPILLAR INC	CAT
+	Revenue:	67,060,000,000
+	Intangibles:	5,872,000,000
+	Revenue to Intangibles Ratio	11.42
+	Distance from Average	4.01
+Con. Disc.:	AMAZON.COM INC	AMZN
+	Revenue:	574,785,000,000
+	Intangibles:	30,476,000,000
+	Revenue to Intangibles Ratio	18.86
+	Distance from Average	11.45
+Con. Stap.:	WALMART INC	WMT
+	Revenue:	645,737,000,000
+	Intangibles:	32,213,000,000
+	Revenue to Intangibles Ratio	20.05
+	Distance from Average	12.64
+Health Care:	NOVO NORDISK A/S	NVO
+	Revenue:	34,445,000,000
+	Intangibles:	8,958,000,000
+	Revenue to Intangibles Ratio	3.85
+	Distance from Average	-3.56
+Financials:	JPMORGAN CHASE & CO	JPM
+	Revenue:	236,311,000,000
+	Intangibles:	64,381,000,000
+	Revenue to Intangibles Ratio	3.67
+	Distance from Average	-3.74
+Info. Tech.:	MICROSOFT CORP	MSFT
+	Revenue:	211,915,000,000
+	Intangibles:	77,252,000,000
+	Revenue to Intangibles Ratio	2.74
+	Distance from Average	-4.66
+Comm. Serv.:	META PLATFORMS INC	META
+	Revenue:	134,902,000,000
+	Intangibles:	21,442,000,000
+	Revenue to Intangibles Ratio	6.29
+	Distance from Average	-1.11
+Utilities:	NEXTERA ENERGY INC	NEE
+	Revenue:	28,114,000,000
+	Intangibles:	6,783,000,000
+	Revenue to Intangibles Ratio	4.14
+	Distance from Average	-3.26
+Real Estate:	PROLOGIS INC	PLD
+	Revenue:	8,428,000,000
+	Intangibles:	1,950,000,000
+	Revenue to Intangibles Ratio	4.32
+	Distance from Average	-3.08
+		
+		
+Sample Averages	Revenue	197,405,818,182
+	Intangibles	26,654,454,545
+	Revenue to Intangibles Ratio	10.72
+	Revenue to Intangibles Ratio, Aggregate	7.41
+
+Criteria Selected, Small Cap
+
+
+Energy:	SUNOCO LP	SUN
+	Revenue:	23,068,000,000
+	Intangibles:	2,143,000,000
+	Revenue to Intangibles Ratio	10.76
+	Distance from Average	7.82
+Materials:	APTARGROUP INC.	ATR
+	Revenue:	3,487,000,000
+	Intangibles:	1,247,000,000
+	Revenue to Intangibles Ratio	2.80
+	Distance from Average	-0.15
+Industrials:	HUNTINGTON INGALLS INDUSTRIES INC	HII
+	Revenue:	11,454,000,000
+	Intangibles:	3,509,000,000
+	Revenue to Intangibles Ratio	3.26
+	Distance from Average	0.32
+Con. Disc.:	SHARKNINJA INC	SN
+	Revenue:	4,254,000,000
+	Intangibles:	1,312,000,000
+	Revenue to Intangibles Ratio	3.24
+	Distance from Average	0.30
+Con. Stap.:	E L F BEAUTY INC	ELF
+	Revenue:	579,000,000
+	Intangibles:	250,000,000
+	Revenue to Intangibles Ratio	2.32
+	Distance from Average	-0.63
+Health Care:	TELEFLEX INC	TFX
+	Revenue:	2,978,000,000
+	Intangibles:	5,416,000,000
+	Revenue to Intangibles Ratio	0.55
+	Distance from Average	-2.39
+Financials:	JEFFERIES FINANCIAL GROUP INC	JEF
+	Revenue:	7,498,000,000
+	Intangibles:	2,036,000,000
+	Revenue to Intangibles Ratio	3.68
+	Distance from Average	0.74
+Info. Tech.:	UNITY SOFTWARE INC	U
+	Revenue:	2,187,000,000
+	Intangibles:	4,573,000,000
+	Revenue to Intangibles Ratio	0.48
+	Distance from Average	-2.47
+	DOLBY LABORATORIES INC	DLB
+	Revenue:	1,300,000,000
+	Intangibles:	576,000,000
+	Revenue to Intangibles Ratio	2.26
+	Distance from Average	-0.69
+Comm. Serv.:	NEWS CORP	NWSA
+	Revenue:	1,300,000,000
+	Intangibles:	576,000,000
+	Revenue to Intangibles Ratio	2.26
+	Distance from Average	-0.69
+Utilities:	BROOKFIELD RENEWABLE PARTNERS LP	BEP
+	Revenue:	5,038,000,000
+	Intangibles:	1,959,000,000
+	Revenue to Intangibles Ratio	2.57
+	Distance from Average	-0.37
+Real Estate:	REXFORD INDUSTRIAL REALTY INC	REXR
+	Revenue:	798,000,000
+	Intangibles:	159,000,000
+	Revenue to Intangibles Ratio	5.02
+	Distance from Average	2.07
+	CUBE	CUBESMART
+	Revenue:	1,056,000,000
+	Intangibles:	2,000,000
+	Revenue to Intangibles Ratio	528.00
+	Distance from Average	525.06
+	JLL	JONES LANG LASALLE INC
+	Revenue:	20,761,000,000
+	Intangibles:	5,372,000,000
+	Revenue to Intangibles Ratio	3.86
+	Distance from Average	0.92
+		
+		
+Sample Averages	Revenue	6,125,571,429
+	Intangibles	2,080,714,286
+	Revenue to Intangibles Ratio	41
+	Revenue to Intangibles Ratio, Aggregate	2.94
+
+
+References
+
+
+Anderson, C., & Robey, D. (2017). Affordance potency: Explaining the actualization of 
+
+technology affordances. Information and Organization, 27(2), 100-115. 
+
+https://doi.org/10.1016/j.infoandorg.2017.03.002
+
+
+Chan, C. M. L., Teoh, S. Y., Yeow, A., & Pan, G. (2019). Agility in responding to disruptive 
+
+digital innovation: Case study of an SME. Information Systems Journal (Oxford, 
+
+England), 29(2), 436–455. https://doi.org/10.1111/isj.12215
+
+
+Chatterjee, S., Moody, G., Lowry, P. B., Chakraborty, S., & Hardin, A. (2015). Strategic 
+
+relevance of organizational virtues enabled by information technology in organizational 
+
+innovation. Journal of Management Information Systems, 32(3), 158–196.
+
+https://doi.org/10.1080/07421222.2015.1099180
+
+Chatterjee, S., Sarker, S., & Siponen, M. (2017). How Do Mobile ICTs Enable Organizational 
+
+Fluidity: Toward a Theoretical Framework. Information & Management, 54(1), 1–13. 
+
+https://doi.org/10.1016/j.im.2016.03.007
+
+Chatterjee, S., Moody, G., Lowry, P. B., Chakraborty, S., & Hardin, A. (2020). Information 
+
+technology and organizational innovation: Harmonious information technology 
+
+affordance and courage-based actualization. Journal of Strategic Information Systems, 
+
+29, 101596. https://doi.org/10.1016/j.jsis.2020.101596
+
+Chatterjee, S., Moody, G. D., Lowry, P. B., Chakraborty, S., & Hardin, A. (2021). The nonlinear 
+
+influence of harmonious information technology affordance on organisational innovation. 
+
+Information Systems Journal, 31(3), 294–322. https://doi.org/10.1111/isj.12311
+
+
+
 
 Capurro, R. (2017). Digitization as an ethical challenge. AI & Soc, 32(3), 277–283. https://doi.org/10.1007/s00146-016-0686-z
 Wessel, L., Baiyere, A., Ologeanu-Taddei, R., Cha, J., & Jensen, T. B. (2021). Unpacking the Difference Between Digital Transformation and IT-Enabled Organizational Transformation. Journal of the Association for Information Systems, 22(1), 102-129. https://doi.org/10.17705/1jais.00655
