@@ -1603,6 +1603,8 @@ possible conceptualization of the information systems (IS) artifact: A
 general systems theory perspective. Information Systems Journal, 31(4), 
 550-578. https://doi.org/10.1111/isj.12292
 
+87
+
 Oberlander, A. M., Roglinger, M., & Rosemann, M. (2021). Digital opportunities for incumbents – A resource-centric perspective. Journal of Strategic Information Systems. https://doi.org/10.1016/j.jsis.2021.101670
 Capurro, R. (2017). Digitization as an ethical challenge. AI & Soc, 32(3), 277–283. https://doi.org/10.1007/s00146-016-0686-z
 Wessel, L., Baiyere, A., Ologeanu-Taddei, R., Cha, J., & Jensen, T. B. (2021). Unpacking the Difference Between Digital Transformation and IT-Enabled Organizational Transformation. Journal of the Association for Information Systems, 22(1), 102-129. https://doi.org/10.17705/1jais.00655
