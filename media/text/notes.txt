@@ -1,0 +1,43 @@
+
+GoodDiplomat
+SmoothTalker
+Secretive
+NaturalDiplomatSkill
+Multilingual
+ReligiousTolerance
+BraveDiplomat
+
+
+
+;------------------------------------------
+Trigger assassininit11
+    WhenToTest AgentCreated
+
+    Condition AgentType = assassin
+          and FactionType milan
+
+    Affects AgentPiety  9  Chance  100 
+    Affects GoodAssassin  9  Chance  100 
+    Affects GoodConspirator  9  Chance  100 
+    Affects NaturalAssassinSkill  9  Chance  100 
+    Affects AssassinsGuildMember  9  Chance  100 
+    Affects HashashinsGuildMember  9  Chance  100 
+    Affects AssassinsGuildTrained  9  Chance  100 
+    Affects GoodSaboteur  9  Chance  100 
+
+;------------------------------------------
+
+
+
+Trigger assassininit11
+    Condition FactionType milan
+
+
+
+    Affects GoodAssassin  9  Chance  99 
+    Affects GoodConspirator  9  Chance  99 
+    Affects NaturalAssassinSkill  9  Chance  99 
+    Affects AssassinsGuildMember  9  Chance  99 
+    Affects HashashinsGuildMember  9  Chance  99 
+    Affects AssassinsGuildTrained  9  Chance  99 
+    Affects GoodSaboteur  9  Chance  99 
