@@ -1783,7 +1783,91 @@ and this is where changes can be made
 when we all know for a fact that changes 
 aren[t] all that amazing! YOU KNOW IT!
 
-capabilities are described as the ability of an organization to adjust to periods of turbulence and uncertainty with novel, spontaneous and unstructured solutions; these improvisational capabilities inform innovation outcomes (Chatterjee et. al 2015). Organizational Agility effects how an organization leverages its Improvisational Capabilities, which in turn effect the affordances aspect of a organization’s HITA, this in turn determines how an organization pursues innovation, but this is depended on another factor: Affordance Actualization.
+97
+
+I went to the grocery store, and had probably the lowest cost grocery bill in the universe, 
+and it's not because prices were low, it's because I was astonished how much prices increased: 
+Ramen noodles and canned soups were 300% higher than they were before. I didn't have time to 
+shop around so I just paid it, but, only 2 packs of ramen noodles and 1 can of canned soup. 1.28 dollars total.
+
+Should have been .32 dollars total! I'm furious! anyone eating ramen noodles and canned soup is 
+price sensitive, so, it's not really possible to sneak a 300% price increase passed me. It might 
+have something to do with wheat prices being elevated. This just occurred to me. and. I looked 
+at the ramen noodle ingredient section and noticed that ramen noodles are made of wheat. so. there you go.
+
+98
+
+This most recent road trip is over, and I am back home right now. How did this whole thing go? Well, 
+I didn't really accomplish anything that I wanted to accomplish. I wanted to see Boise, Idaho, but that 
+didn't happen. I think that this whole road trip started on Friday, June 21st after having kind of a 
+slow week while Door Dashing, when things aren't busy I start thinking about things, and I started 
+thinking that I might as well go on a road trip. I dropped my Summer classes at UNLV, so I don't have 
+any school related responsibilities, and, any kind of road trip north would have to take place during 
+the summer, maybe road trips in general should be done during the summer.
+
+So my first thoughts before setting out on this road trip were: Alaska. take a road trip to Alaska, 
+and if that's not possible, then a road trip through the Pacific North West, as well as see some 
+parts of rural northern California, and rural northern Nevada. None of that happened. At Ely I booked 
+a room at a motel, but I couldn't sleep, and I eventually got hungry, and I basically couldn't find 
+anything to eat either, and as the hours passed and checkout time approached and I still hadn't fallen 
+asleep, I kind of got discouraged and figured I'd head back home via Reno. Reno is about the same distance 
+from Ely as Boise is, but heading to Boise would have added another day to the trip back. So I figured 
+I'd forget Boise for the time being
+
+If I has successfully had some kind of sleep when I was in Ely, I probably would have continued on to 
+Boise, but then, maybe not, who knows, but that lack of sleep the entire night made me extremely 
+pessimistic about the whole trip. Or, well, maybe not pessimistic, but less optimistic. but there 
+were also a few things that I did accomplish during this road trip that I wanted to accomplish on 
+previous road trips, but that I didn't accomplish on those past road trips. About this time last year 
+I took a short road trip to see the Mormon Crickets, I didn't see them last year, and I did see them 
+this year. and one time I wanted to see Tonopah, and I did do that this year.
+
+Seeing the Mormon Cricket migration was not exactly a pleasant experience. You can't really keep 
+your windows down in the middle of a cricket swarm, so, there's that, and there this kind of miasma 
+of crushed raisins, which isn't unpleasant or anything, and then, it was hot, the windows are up, 
+and there kind of an issue with the road, there are a lot of sharp turns at steep declines, and 
+sharp turns and steep inclines, and abrupt changes from sweep inclines to steep declines, so, in 
+a stick shift this whole thing is really exhausting. I found this whole thing more challenging 
+than the drive through Colorado. This happened on the road from Ely to Fallon. 
+
+Fallon was an interesting town, it was something like an hour from Reno, and it's a small rural 
+farm town. Most of the rural towns that I've come across are old mining towns, or Army or Air Force 
+towns, I think that there was even a Coast Guard town as well. The trip back from Reno to Las Vegas was 
+really interesting, it took me back through Fallon. I passed through Fallon from Ely to Reno, and then 
+again from Reno back to Las Vegas. I think it was because I missed an exit somewhere, or maybe the 
+more direct route was an hour longer or something, but the road from Reno to Las Vegas was interesting 
+in a way the road from Las Vegas to Ely was not, or from Ely to Fallon. Those road were really empty, 
+not a rest stop of gas station for hours. Reno to Las Vegas there is a new small town every hour to 
+two hours. and that was kind of nice.
+
+Changes are needed to make new
+places where these old things used 
+to be where these new things change
+back into old habits which tend to die hard
+which tend to change into old things that change back
+to new things that these are old and changed.
+
+One of the issues that I'm trying to address by using mixed zone districts 
+has to do with commute times, as well as the issue of people not really 
+taking industrial jobs unless they live near the industrial jobs.
+
+There is also another reason that I'll often build residential zoning near 
+industrial zones:  if an area is too desirable, it results in nothing but high-income 
+or high-wealth neighborhoods. So if I want low-income residents in my city, 
+unfortunately, I have to create un-desirable neighborhoods.
+
+99
+
+capabilities are described as the ability of an organization to adjust to periods of 
+turbulence and uncertainty with novel, spontaneous and unstructured solutions; these 
+improvisational capabilities inform innovation outcomes (Chatterjee et. al 2015). 
+Organizational Agility effects how an organization leverages its Improvisational 
+Capabilities, which in turn effect the affordances aspect of a organization’s HITA, 
+this in turn determines how an organization pursues innovation, but this is depended 
+on another factor: Affordance Actualization.
+
+100
+
 Actualization, as it pertains to HITA, refers to how IT affordances materialize as end products; Chatterjee’s framework of HITA operates under the premise that Organizational Courage is the primary factor in actualizing HITA (Chatterjee et. al. 2020), and that the relevant end product of actualizing HITA is innovation. Actualization Potency is discussed in Affordance potency: Explaining the actualization of technology affordances. Information and Organization (Anderson & Robey, 2017) which describes how effective an IT affordance is to productivity toward actualizing an organizational objective. Anderson & Robey discuss information technology affordances within a healthcare context using an urban hospital going through the process of digitalization and various other technology upgrades and how these new technologies can effective or ineffective, or potent, depending on how users interact with the technology that is available to them; Anderson & Robey provide a series of anecdotes of user interactions with new note taking technologies to illustrate how user interactions with these new technologies effect the hospitals objective of keeping better patient records in order to improve patient care; mobile computers, a kind of laptop on wheels was used for record keeping, but some users had issues typing, and some patients perceived that they weren’t being paid attention to while their nurse was taking notes on the computer, a shorter note system was implemented, which saved time, but there were issues with the accuracy and level of details that users, an audio recording system was also used, but there were issues with locating specific information held in the audio recordings, and the audio recordings were time consuming (Anderson & Robey, 2017). In the paper Strategic relevance of organizational virtues enabled by information technology in organizational innovation (Chatterjee et. al. 2015) IT affordances are conceptualized as being comprised of two components: IT capabilities, and appropriations; Anderson’s concept of Actualization Potency ties into Chatterjee’s HITA framework either as subordinate to affordances generally or subordinate via appropriation affordances, or complimentary to appropriation affordances.
 
 Theory, Development, and Conceptualization
