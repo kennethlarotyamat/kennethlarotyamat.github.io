@@ -1868,11 +1868,87 @@ on another factor: Affordance Actualization.
 
 100
 
-Actualization, as it pertains to HITA, refers to how IT affordances materialize as end products; Chatterjee’s framework of HITA operates under the premise that Organizational Courage is the primary factor in actualizing HITA (Chatterjee et. al. 2020), and that the relevant end product of actualizing HITA is innovation. Actualization Potency is discussed in Affordance potency: Explaining the actualization of technology affordances. Information and Organization (Anderson & Robey, 2017) which describes how effective an IT affordance is to productivity toward actualizing an organizational objective. Anderson & Robey discuss information technology affordances within a healthcare context using an urban hospital going through the process of digitalization and various other technology upgrades and how these new technologies can effective or ineffective, or potent, depending on how users interact with the technology that is available to them; Anderson & Robey provide a series of anecdotes of user interactions with new note taking technologies to illustrate how user interactions with these new technologies effect the hospitals objective of keeping better patient records in order to improve patient care; mobile computers, a kind of laptop on wheels was used for record keeping, but some users had issues typing, and some patients perceived that they weren’t being paid attention to while their nurse was taking notes on the computer, a shorter note system was implemented, which saved time, but there were issues with the accuracy and level of details that users, an audio recording system was also used, but there were issues with locating specific information held in the audio recordings, and the audio recordings were time consuming (Anderson & Robey, 2017). In the paper Strategic relevance of organizational virtues enabled by information technology in organizational innovation (Chatterjee et. al. 2015) IT affordances are conceptualized as being comprised of two components: IT capabilities, and appropriations; Anderson’s concept of Actualization Potency ties into Chatterjee’s HITA framework either as subordinate to affordances generally or subordinate via appropriation affordances, or complimentary to appropriation affordances.
+Actualization, as it pertains to HITA, refers to how IT affordances materialize as end products; 
+Chatterjee’s framework of HITA operates under the premise that Organizational Courage is the primary 
+factor in actualizing HITA (Chatterjee et. al. 2020), and that the relevant end product of actualizing 
+HITA is innovation. Actualization Potency is discussed in Affordance potency: Explaining the 
+actualization of technology affordances. Information and Organization (Anderson & Robey, 2017) which 
+
+describes how effective an IT affordance is to productivity toward actualizing an organizational objective. 
+Anderson & Robey discuss information technology affordances within a healthcare context using an urban hospital 
+going through the process of digitalization and various other technology upgrades and how these new technologies 
+can effective or ineffective, or potent, depending on how users interact with the technology that is available to 
+them; Anderson & Robey provide a series of anecdotes of user interactions with new note taking technologies to 
+
+illustrate how user interactions with these new technologies effect the hospitals objective of keeping better patient 
+records in order to improve patient care; mobile computers, a kind of laptop on wheels was used for record keeping, 
+but some users had issues typing, and some patients perceived that they weren’t being paid attention to while their 
+nurse was taking notes on the computer, a shorter note system was implemented, which saved time, but there were 
+issues with the accuracy and level of details that users, an audio recording system was also used, but there were 
+issues with locating specific information held in the audio recordings, and the audio recordings were time 
+
+consuming (Anderson & Robey, 2017). In the paper Strategic relevance of organizational virtues enabled by 
+information technology in organizational innovation (Chatterjee et. al. 2015) IT affordances are conceptualized 
+as being comprised of two components: IT capabilities, and appropriations; Anderson’s concept of Actualization 
+Potency ties into Chatterjee’s HITA framework either as subordinate to affordances generally or subordinate via 
+appropriation affordances, or complimentary to appropriation affordances.
+
+I went to the grocery store, and had probably the lowest cost grocery bill in the universe, 
+and it's not because prices were low, it's because I was astonished how much prices increased: 
+Ramen noodles and canned soups were 300% higher than they were before. I didn't have time to shop 
+around so I just paid it, but, only 2 packs of ramen noodles and 1 can of canned soup. 1.28 dollars total.
+
+Should have been .32 dollars total! I'm furious! anyone eating ramen noodles and 
+canned soup is price sensitive, so, it's not really possible to sneak a 300% price 
+increase passed me. It might have something to do with wheat prices being elevated. 
+This just occurred to me. and. I looked at the ramen noodle ingredient section and 
+noticed that ramen noodles are made of wheat. so. there you go.
+
+There was something that I was thinking about that just slipped my mind. I don't 
+remember what it was exactly. It was interesting. I remember. I'm trying to get my 
+budget back in line after the road trip that didn't really accomplish anything. I 
+didn't spend anything unusual, or well, maybe I did. I didn't really spend too much, 
+but I still spent enough that I need to get things back in line, plus, I wasn't 
+working during those days either.
+
+101
+
+I went to the grocery store, and had probably the lowest cost grocery 
+bill in the universe, and it's not because prices were low, it's because 
+I was astonished how much prices increased: Ramen noodles and canned soups 
+were 300% higher than they were before. I didn't have time to shop around 
+so I just paid it, but, only 2 packs of ramen noodles and 1 can of canned 
+soup. 1.28 dollars total.
+
+Should have been .32 dollars total! I'm furious! anyone eating ramen 
+noodles and canned soup is price sensitive, so, it's not really possible 
+to sneak a 300% price increase passed me. It might have something to do 
+with wheat prices being elevated. This just occurred to me. and. I looked 
+at the ramen noodle ingredient section and noticed that ramen noodles 
+are made of wheat. so. there you go.
+
+There was something that I was thinking about that just slipped my mind. I 
+don't remember what it was exactly. It was interesting. I remember. I'm 
+trying to get my budget back in line after the road trip that didn't really 
+accomplish anything. I didn't spend anything unusual, or well, maybe I did. I 
+didn't really spend too much, but I still spent enough that I need to get 
+things back in line, plus, I wasn't working during those days either. but. I'm 
+kind of in austerity mode right now, plus I'm not making a whole ton of money, 
+my first semester at UNLV was a total disaster, and I'm not optimistic about this 
+upcoming Fall semester. I'm going to need new tires soon, and an oil change.
 
 Theory, Development, and Conceptualization
 
-	The development of a HITA based index starts with the concept of HITA and attempts to use various parts of a company’s publicly available financial statements to create a measurement of HITA. Chatterjee established a method for ascertaining HITA in Information Technology and organizational innovation: Harmonious information technology affordance and courage-based actualization (Chatterjee et. al. 2020), however, HITA is an important enough conceptual framework that additional methods for assigning a HITA metric to an organization. HITA has value outside of a management and research-based context, and this is an attempt to apply HITA to portfolio management. 
+	The development of a HITA based index starts with the concept of HITA and 
+   attempts to use various parts of a company’s publicly available financial 
+   statements to create a measurement of HITA. Chatterjee established a method 
+   for ascertaining HITA in Information Technology and organizational innovation: 
+   Harmonious information technology affordance and courage-based actualization 
+   (Chatterjee et. al. 2020), however, HITA is an important enough conceptual 
+
+102
+
+   framework that additional methods for assigning a HITA metric to an organization. HITA has value outside of a management and research-based context, and this is an attempt to apply HITA to portfolio management. 
 Intangible assets, a balance sheet item, is being used as a proxy for the IT Infrastructure that an organization has at its disposal. Although it might be more appropriate to use an actual balance sheet item that indicates the actual value of an organization’s information technology infrastructure, there are a number of problems with this approach, first is that IT infrastructure would fall within the plant, property, and equipment line item on a balance sheet, but plant, property, and equipment isn’t always broken down into a more granular way that would allow an investor to see specifically what an organization owns in terms of Information Technology, the second issue is that an organization may either lease IT services and equipment from  IT services provider, or they may pay subscription fees to a cloud computing services provider, in which case the organization’s IT capabilities aren’t captured as an asset on the balance sheet, but rather as an expense on the income statement, and here too the expenses aren’t always broken down in granular detail that would allow an investor to see exactly what an organization is spending on information technology services.
 Revenue, or gross sales, an income statement item, is being used as a proxy for Actualized Affordances. Although it might be possible to use a different metric such as earnings, or some variation of the earnings metric to determine Actualized Affordances, revenue might be perfectly suitable for the purposes of this paper. Profitability is important, and it’s what most people are interested in, but the amount of profit extracted from a given amount of revenue has more to do with cost control than with the variables that are being considered in this paper.
 The Harmony aspect of HITA will be inferred by taking the distance between an organization’s revenue to intangible assets ratio, a proxy for how an organization is actualizing its information technology affordances, then comparing that ratio to the revenue to intangible assets ratio of the sample mean. A value of zero for any company within the sample would suggest that the company would have a HITA value of zero, and thus produce zero innovation relative to the sample. A high positive value would suggest a high positive HITA value as a result of having high level of Harmony, and a high negative value would suggest a high negative HITA value as a result of a high level of dissonance.
