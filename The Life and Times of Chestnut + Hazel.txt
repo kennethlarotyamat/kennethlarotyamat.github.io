@@ -1970,9 +1970,55 @@ more appropriate to use an actual balance sheet item that indicates the actual
 
 103
 
-value of an organization’s information technology infrastructure, there are a number of problems with this approach, first is that IT infrastructure would fall within the plant, property, and equipment line item on a balance sheet, but plant, property, and equipment isn’t always broken down into a more granular way that would allow an investor to see specifically what an organization owns in terms of Information Technology, the second issue is that an organization may either lease IT services and equipment from  IT services provider, or they may pay subscription fees to a cloud computing services provider, in which case the organization’s IT capabilities aren’t captured as an asset on the balance sheet, but rather as an expense on the income statement, and here too the expenses aren’t always broken down in granular detail that would allow an investor to see exactly what an organization is spending on information technology services.
-Revenue, or gross sales, an income statement item, is being used as a proxy for Actualized Affordances. Although it might be possible to use a different metric such as earnings, or some variation of the earnings metric to determine Actualized Affordances, revenue might be perfectly suitable for the purposes of this paper. Profitability is important, and it’s what most people are interested in, but the amount of profit extracted from a given amount of revenue has more to do with cost control than with the variables that are being considered in this paper.
-The Harmony aspect of HITA will be inferred by taking the distance between an organization’s revenue to intangible assets ratio, a proxy for how an organization is actualizing its information technology affordances, then comparing that ratio to the revenue to intangible assets ratio of the sample mean. A value of zero for any company within the sample would suggest that the company would have a HITA value of zero, and thus produce zero innovation relative to the sample. A high positive value would suggest a high positive HITA value as a result of having high level of Harmony, and a high negative value would suggest a high negative HITA value as a result of a high level of dissonance.
+value of an organization’s information technology infrastructure, there are a 
+number of problems with this approach, first is that IT infrastructure would 
+fall within the plant, property, and equipment line item on a balance sheet, 
+but plant, property, and equipment isn’t always broken down into a more 
+granular way that would allow an investor to see specifically what an 
+organization owns in terms of Information Technology, the second issue 
+is that an organization may either lease IT services and equipment from  
+IT services provider, or they may pay subscription fees to a cloud computing 
+
+services provider, in which case the organization’s IT capabilities aren’t captured 
+as an asset on the balance sheet, but rather as an expense on the income statement, 
+and here too the expenses aren’t always broken down in granular detail that would 
+allow an investor to see exactly what an organization is spending on information 
+technology services.
+
+Revenue, or gross sales, an income statement item, is being used as a proxy for 
+Actualized Affordances. Although it might be possible to use a different metric 
+such as earnings, or some variation of the earnings metric to determine Actualized 
+Affordances, revenue might be perfectly suitable for the purposes of this paper. 
+Profitability is important, and it’s what most people are interested in, but the 
+amount of profit extracted from a given amount of revenue has more to do with 
+cost control than with the variables that are being considered in this paper.
+
+The Harmony aspect of HITA will be inferred by taking the distance between an 
+organization’s revenue to intangible assets ratio, a proxy for how an organization 
+is actualizing its information technology affordances, then comparing that ratio 
+to the revenue to intangible assets ratio of the sample mean. A value of zero for 
+any company within the sample would suggest that the company would have a HITA 
+value of zero, and thus produce zero innovation relative to the sample. A high 
+positive value would suggest a high positive HITA value as a result of having 
+high level of Harmony, and a high negative value would suggest a high negative 
+HITA value as a result of a high level of dissonance.
+
+It's only Monday and I'm already kind of off to a rocky start. I did get an oil 
+change, and my wiper blades changed. It feels like they broke quickly, but I 
+think the last time I changed my wiper blades was in Arizona in 2022, so it's 
+not like they didn't last for 2 years, and I'm going in tomorrow for new tires. 
+This is a nightmare. I've been kind of wanting to buy a new computer, something 
+that plays my games a lot better, but this keeps getting pushed back. One of the 
+major complaints that I'm getting from my gaming channel is that I'm playing 
+games that are really. Old. so I kind of need to get a newer computer to 
+develop my gaming channel.
+
+There's also a kind of timing issue with getting a new computer: I won't really 
+have time to play computer games during the Fall and Spring, and Summer is almost 
+over, so I'm basically limited to putting off this purchase until next year.
+
+104
+
 
 Selection
 
