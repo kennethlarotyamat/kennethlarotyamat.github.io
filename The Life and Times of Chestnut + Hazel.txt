@@ -1948,8 +1948,29 @@ Theory, Development, and Conceptualization
 
 102
 
-   framework that additional methods for assigning a HITA metric to an organization. HITA has value outside of a management and research-based context, and this is an attempt to apply HITA to portfolio management. 
-Intangible assets, a balance sheet item, is being used as a proxy for the IT Infrastructure that an organization has at its disposal. Although it might be more appropriate to use an actual balance sheet item that indicates the actual value of an organization’s information technology infrastructure, there are a number of problems with this approach, first is that IT infrastructure would fall within the plant, property, and equipment line item on a balance sheet, but plant, property, and equipment isn’t always broken down into a more granular way that would allow an investor to see specifically what an organization owns in terms of Information Technology, the second issue is that an organization may either lease IT services and equipment from  IT services provider, or they may pay subscription fees to a cloud computing services provider, in which case the organization’s IT capabilities aren’t captured as an asset on the balance sheet, but rather as an expense on the income statement, and here too the expenses aren’t always broken down in granular detail that would allow an investor to see exactly what an organization is spending on information technology services.
+I had my oil changed, wiper blades changed, and my tires replaced. I 
+replaced my tires sooner than I wanted to. There was a repeat issue 
+with tire pressure, so I went to a used tire shop to have a replacement 
+for that one tire, but I probably should have just had the tire patched, 
+because the guy replaced my tire with a different tire size. It was the 
+correct rim size, but the tire gauge, or tire width. It was a thicker tire 
+than the other tires. So I just went to a different tire shop and had them 
+replaced with all new tires. I wanted to wait at least another month, but I 
+guess this is just the way it goes.
+
+Good lord. I can't really handle any new major expenses for a while. Nightmare.
+
+   framework that additional methods for assigning a HITA metric to an organization. 
+   HITA has value outside of a management and research-based context, and this is 
+   an attempt to apply HITA to portfolio management. 
+
+Intangible assets, a balance sheet item, is being used as a proxy for the IT 
+Infrastructure that an organization has at its disposal. Although it might be 
+more appropriate to use an actual balance sheet item that indicates the actual 
+
+103
+
+value of an organization’s information technology infrastructure, there are a number of problems with this approach, first is that IT infrastructure would fall within the plant, property, and equipment line item on a balance sheet, but plant, property, and equipment isn’t always broken down into a more granular way that would allow an investor to see specifically what an organization owns in terms of Information Technology, the second issue is that an organization may either lease IT services and equipment from  IT services provider, or they may pay subscription fees to a cloud computing services provider, in which case the organization’s IT capabilities aren’t captured as an asset on the balance sheet, but rather as an expense on the income statement, and here too the expenses aren’t always broken down in granular detail that would allow an investor to see exactly what an organization is spending on information technology services.
 Revenue, or gross sales, an income statement item, is being used as a proxy for Actualized Affordances. Although it might be possible to use a different metric such as earnings, or some variation of the earnings metric to determine Actualized Affordances, revenue might be perfectly suitable for the purposes of this paper. Profitability is important, and it’s what most people are interested in, but the amount of profit extracted from a given amount of revenue has more to do with cost control than with the variables that are being considered in this paper.
 The Harmony aspect of HITA will be inferred by taking the distance between an organization’s revenue to intangible assets ratio, a proxy for how an organization is actualizing its information technology affordances, then comparing that ratio to the revenue to intangible assets ratio of the sample mean. A value of zero for any company within the sample would suggest that the company would have a HITA value of zero, and thus produce zero innovation relative to the sample. A high positive value would suggest a high positive HITA value as a result of having high level of Harmony, and a high negative value would suggest a high negative HITA value as a result of a high level of dissonance.
 
