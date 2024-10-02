@@ -2169,6 +2169,11 @@ an actual option.
 
 110
 
+Letters from Sanford Street # 455
+
+I'm kind of lost. I really don't know
+what to do. I really do not.
+
 Selection
 
 	Three different selection groups of publicly traded companies were selected for analysis. The first group was selected using a random number generator, with a randomly generated number from 1-500 corresponding to a company on the S&P 500. Although the group of companies selected randomly was selected randomly with the hope to get a representative group of companies, it seems to have not done that, over half are healthcare related, Hologic Inc being a healthcare technology company specializing in medical imaging technology, and the rest being pharmaceutical companies depending on how a person looks at Abbot Laboratories. 
