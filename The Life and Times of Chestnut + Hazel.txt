@@ -2174,11 +2174,74 @@ Letters from Sanford Street # 455
 I'm kind of lost. I really don't know
 what to do. I really do not.
 
+job order costing = act 
+
+job order costing activity based costing 
+process costing traditional overhead costing .
+
+111
+
+Recommendations for the Diego Brass Company
+Consulting and Analysis Case # 1
+
+Kenneth Larot Yamat
+College of Business, The University of Nevada, Las Vegas
+ACC 605: Cost Management and Control
+Kimberly Charron, Ph.D.
+October 18th, 2024
+
+112
+
 Selection
 
-	Three different selection groups of publicly traded companies were selected for analysis. The first group was selected using a random number generator, with a randomly generated number from 1-500 corresponding to a company on the S&P 500. Although the group of companies selected randomly was selected randomly with the hope to get a representative group of companies, it seems to have not done that, over half are healthcare related, Hologic Inc being a healthcare technology company specializing in medical imaging technology, and the rest being pharmaceutical companies depending on how a person looks at Abbot Laboratories. 
-The second group of companies was selected according to a set of criteria; first, the companies had to be considered large cap companies, and they were selected in a way such that sector diversity was an aim of the group selection, and a sector leader was chosen. During the selection process there were a few substitutions, XOM was a sector leader for Energy, and it was also selected during the random selection process as well, but they seem to have nothing listed as an intangible assets on their balance sheet, which is something that is more of an accounting related flaw, rather than an actual truth, XOM, Exxon Mobile, at the very least, has a notable brand, which is an intangible asset. CTRA was also removed during the random selection process for the same reason as XOM, and it seems to be a convention, or some kind of accounting convention among energy companies that they don’t list intangible assets on the balance sheet, or the group them in plant, property, and equipment, which is also considered fixed assets.
-	During the criteria-based selection process there were a few other removal and replacements, LTMAY, LATAM Airlines Group S.A. was the global leader in the industrials sector, however, LTMAY was not selected because it is not traded on a major stock exchange, GE, General Electric Aerospace was not selected due to recent changes in their corporate structure. LLY was already selected during the random selection process, so it was skipped during the criteria-based selection process, and NVO was selected over UNH to increase representation of international organization in the sample selection group.
+	Three different selection groups of publicly traded companies were selected for analysis. The first group was 
+   selected using a random number generator, with a randomly generated number from 1-500 corresponding to a company 
+   on the S&P 500. Although the group of companies selected randomly was selected randomly with the hope to get a 
+   representative group of companies, it seems to have not done that, over half are healthcare related, Hologic 
+   Inc being a healthcare technology company specializing in medical imaging technology, and the rest being 
+   pharmaceutical companies depending on how a person looks at Abbot Laboratories. 
+The second group of companies was selected according to a set of criteria; first, the companies had to be 
+considered large cap companies, and they were selected in a way such that sector diversity was an aim of 
+the group selection, and a sector leader was chosen. During the selection process there were a few 
+substitutions, XOM was a sector leader for Energy, and it was also selected during the random selection 
+process as well, but they seem to have nothing listed as an intangible assets on their balance sheet, which 
+is something that is more of an accounting related flaw, rather than an actual truth, XOM, Exxon Mobile, at 
+the very least, has a notable brand, which is an intangible asset. CTRA was also removed during the random 
+selection process for the same reason as XOM, and it seems to be a convention, or some kind of accounting 
+convention among energy companies that they don’t list intangible assets on the balance sheet, or the group 
+them in plant, property, and equipment, which is also considered fixed assets.
+	During the criteria-based selection process there were a few other removal and replacements, LTMAY, LATAM 
+   Airlines Group S.A. was the global leader in the industrials sector, however, LTMAY was not selected because 
+   it is not traded on a major stock exchange, GE, General Electric Aerospace was not selected due to recent 
+   changes in their corporate structure. LLY was already selected during the random selection process, so it 
+   was skipped during the criteria-based selection process, and NVO was selected over UNH to increase 
+   representation of international organization in the sample selection group.
+
+113
+
+there were a number of different things that 
+are kind of challenging. recently. a number of different 
+things going on that are turning out to be challenging. 
+
+114
+
+Summary of Results
+
+The activity-based costing allocation system suggested by Tracy Knight can 
+provide our operations with an alternative perspective on the profitability 
+of our operations and may also explain some of the competitive forces our 
+business has been experiencing with respect to our product line-up. Pumps have 
+been experiencing competitive pressures pushing our pumps margin downward, 
+margins on pump products using our existing, traditional costing allocation 
+system show a gross margin of 20%, 15 points below management’s targets, however, 
+the activity-based cost allocation system paints a much different picture of the situation: 
+it shows a gross margin of 33%, which is much closer to management’s profitability 
+target for the pump products.
+
+115
+
+
+
 
 Conclusion
 
