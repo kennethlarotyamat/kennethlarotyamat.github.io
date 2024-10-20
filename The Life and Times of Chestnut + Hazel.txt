@@ -2240,12 +2240,51 @@ target for the pump products.
 
 115
 
+sequential processing departments. and the items are more 
+or less identical.
+Summary of Results
 
-
+The activity-based costing allocation system suggested by Tracy 
+Knight can provide our operations with an alternative perspective 
+on the profitability of our operations and may also explain some of the 
+competitive forces our business has been experiencing with respect to 
+our product line-up. Pumps have been experiencing competitive pressures 
+pushing our pumps margin downward, margins on pump products using our 
+existing, traditional costing allocation system show a gross margin of 
+20%, 15 points below management’s targets, however, the activity-based 
+cost allocation system paints a much different picture of the situation: 
+it shows a gross margin of 33%, which is much closer to management’s 
+profitability target for the pump products.
+It's possible that our competitors in the pump products are new entrants into 
+the business, and they only have a single product that they manufacture and market, 
+and if this is the case, then they would have gross-margins that are the same under 
+both traditional & activity-based cost allocation systems, they are probably showing 
+that they have a gross margin of 33%, and it’s possible that they could stomach an 
+additional 13 points in gross margin reductions before they’ve determined that they 
+need to begin making changes.
 
 Conclusion
 
-There were several interesting results that came from this model of ascertaining HITA from publicly available financial statements, as well as a number of interesting insights that came from the process of developing this model. Most of the companies that had a high revenue to intangibles ratio were companies like PKG, APD, DLTR and CHRW, and this can be due to any number of factors. It is possible that these companies do not really derive much revenue from their intangible assets, intellectual property, and similar asset types, PKG makes boxes, APD sells industrial gases, DLTR is in the retail space, and CHRW is a freight broker. In other words: it’s possible that these types of companies derive more revenue as a result of their fixed-asset infrastructure, over their IT infrastructure, but it’s also possible that they would benefit the most from additional information technology investments, and it is also possible that both are true. Take DLTR for example, this would be a company that has significant fixed asset infrastructure in the form of brick and mortar locations, warehouse locations, and a freight network, which would make the first assessment true; at the same time, any visit to a Dollar Tree location would suggest that DLTR could use a technology upgrade: they use point of sell terminals that have to be from the 1970’s, nearly half a century ago.
+There were several interesting results that came from this model of ascertaining 
+HITA from publicly available financial statements, as well as a number of interesting 
+insights that came from the process of developing this model. Most of the companies 
+that had a high revenue to intangibles ratio were companies like PKG, APD, DLTR and 
+CHRW, and this can be due to any number of factors. It is possible that these companies 
+do not really derive much revenue from their intangible assets, intellectual property, 
+and similar asset types, PKG makes boxes, APD sells industrial gases, DLTR is in the 
+retail space, and CHRW is a freight broker. In other words: it’s possible that these 
+types of companies derive more revenue as a result of their fixed-asset infrastructure, 
+over their IT infrastructure, but it’s also possible that they would benefit the most 
+from additional information technology investments, and it is also possible that both 
+are true. Take DLTR for example, this would be a company that has significant fixed 
+asset infrastructure in the form of brick and mortar locations, warehouse locations, 
+and a freight network, which would make the first assessment true; at the same time, 
+any visit to a Dollar Tree location would suggest that DLTR could use a technology 
+upgrade: they use point of sell terminals that have to be from the 1970’s, nearly half a century ago.
+
+116
+
+
 	The model has turned out to be interesting, but also problematic in many ways: the value of intangible assets on a balance sheet are probably an indicator of how IT affordances have been actualized, so for some applications it might not be necessary to look at revenue to determine how IT affordances are being actualized, but revenue is still important, capitalizing IT affordances as balance sheet items, as intangible assets, is important, but monetizing on IT affordances as an income statement item, revenue, is also important. This model could definitely use additional refinement, and at least as far as portfolio management, it’s also important that this model uses publicly available information for this purpose.
 
 Randomly Selected
