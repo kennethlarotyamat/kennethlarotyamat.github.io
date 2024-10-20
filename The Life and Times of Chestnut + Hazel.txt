@@ -2322,7 +2322,22 @@ figure it out, but who knows. anyway. there is always an issue with deployment.
 
 120
 
+It's possible that our competitors in the pump products are new entrants into the 
+business, and they only have a single product that they manufacture and market, 
+and if this is the case, then they would have gross-margins that are the same 
+under both traditional & activity-based cost allocation systems, they are 
+probably showing that they have a gross margin of 33%, and it’s possible that 
+they could stomach an additional 13 points in gross margin reductions before 
+they’ve determined that they need to begin making changes.
 
+Another aspect of the competitive environment of our product line-up could also be 
+illustrated by the switch to an activity-based cost allocation system: Flow 
+Controllers aren’t particularly profitable, in-fact they are generating losses 
+to the overall business when their costs are accounted for using an activity-based 
+cost allocation system. New Entrants simply wouldn’t enter the flow control product 
+business because there simply isn’t any money to be made entering it. 
+
+121
 
 Randomly Selected
 
