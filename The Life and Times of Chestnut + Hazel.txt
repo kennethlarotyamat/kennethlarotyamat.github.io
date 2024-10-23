@@ -2438,6 +2438,18 @@ Randomly Selected
 	Revenue to Intangibles Ratio	9.99
 	Distance from Average	8.67
 		
+125
+
+I asked a simple question, and the chatbot 
+could not respond. I simply asked: What 
+does it mean for my account to be frozen?
+
+I was just trying to determine if this is 
+similar to locking and unlocking a card. but 
+the chat bot could not explain what frozen 
+meant. I'll assume that it means my card is locked.
+
+126
 		
 Sample Averages	Revenue	33,586,727,273
 	Intangibles	25,490,818,182
