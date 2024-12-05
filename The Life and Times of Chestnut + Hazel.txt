@@ -2467,6 +2467,36 @@ blood problems I simply don't have and really don't have to worry about.
 I think being fat is a band-aid level problem. I also think viagra 
 would be even more effective than ozempic for weight-loss.
 
+Well, I might not be the most sensible student in ACC 605, however, I'm really sure that at 18 
+points the value of my submission has an understated book value of 3 points, and this doesn't 
+even consider that it's potentially undervalued as well, according to an analytical model that 
+I've recently constructed, the submission probably has a fair market value well above 27 points, 
+meaning that even after a 3 point upward adjustment, you would still be receiving a discount of 6 points.
+
+Here is my analytical model:
+
+n=1
+i=44.44
+PV=18
+PMT=1
+Solve for FV = 27
+
+See! I'm correct!
+
+127
+
+I don't think the assessment for my analysis is quite correct. For one thing, during a recent 
+archeological dig in the shadow of the Ziggurat of Blorginagi I recently uncovered a large 
+cache of hypothetical data points that would buttress my use of the regression tool, and would 
+support the conclusions that I drew regarding that aspect of the scenario. Another thing is that 
+the original scenario provided never addressed the availability of the 2 other Ugly Dolls that 
+Organic Ugli, Inc. manufactures, including the Athrophigai model, made of the supplest chupacabra 
+leather, and the Torglaanor Model, made of the hairiest sasquatch furs. I have therefore concluded 
+that the actual value of my submission is currently understated by at least 3 points, and I would 
+like to request a 3 point upward adjustment.
+
+128
+
 Criteria Selected, Large Cap
 
 Energy:	CHEVRON CORP	CVX
