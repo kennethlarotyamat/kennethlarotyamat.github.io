@@ -2554,7 +2554,29 @@ Real Estate:	PROLOGIS INC	PLD
 	Intangibles:	1,950,000,000
 	Revenue to Intangibles Ratio	4.32
 	Distance from Average	-3.08
-		
+
+129
+
+The Fall semester is almost over and I'm really experiencing an acute loss of enthusiasm for graduate school. 
+I issued payment on the interest portion of my student loans and immediately after doing so I realized that 
+I didn't really generate any taxable income this year, so the hoped for student loan interest tax deduction 
+is basically not even going to happen, if anything I generated an operating loss in addition to a capital 
+loss that adds to my capital loss carry forward from previous years.
+
+Many of the tax benefits of attending graduate school are lost unless I'm generating some type of taxable 
+income, and that's unlikely to happen unless I have an employer, and I'll never have an employer again, and 
+as long as I'm self-employed, I will be losing money.
+
+One solution to the taxable income problem would be Roth conversions, but I wouldn't be able to sustain that 
+process for the amount of time I'm expecting to be in graduate school. I'm honestly not too sure about the 
+whole Spring 2025 semester thing, but I think it might make sense to attend anyway and see what develops, 
+strategize at the end of Spring 2025, and then make a decision about continuing with graduate school for Fall 2025.
+
+A number of interesting possibilities open up at the end of 2025 since it would mark 2 years of self-employment. 
+These interesting possibilities would make attending graduate school from Fall 2025 forward significantly more 
+viable as a pursuit, but also significantly less attractive as a type of investment. We'll see what happens.
+
+130
 		
 Sample Averages	Revenue	197,405,818,182
 	Intangibles	26,654,454,545
