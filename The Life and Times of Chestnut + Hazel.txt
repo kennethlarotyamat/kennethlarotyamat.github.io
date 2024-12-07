@@ -2689,6 +2689,23 @@ on how well I do between August 4th through August 25th. What a nightmare.
 
 133
 
+Well, I might not be the most sensible student in ACC 605, however, I'm really sure that 
+at 18 points the value of my submission has an understated book value of 3 points, and 
+this doesn't even consider that it's potentially undervalued as well, according to an 
+analytical model that I've recently constructed, the submission probably has a fair market 
+value well above 27 points, meaning that even after a 3 point upward adjustment, you would 
+still be receiving a discount of 6 points.
+
+Here is my analytical model:
+
+n=1
+i=44.44
+PV=18
+PMT=1
+Solve for FV = 27
+
+See! I'm correct!
+
 Energy:	SUNOCO LP	SUN
 	Revenue:	23,068,000,000
 	Intangibles:	2,143,000,000
