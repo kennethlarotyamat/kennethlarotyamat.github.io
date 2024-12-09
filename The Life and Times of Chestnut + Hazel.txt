@@ -2970,9 +2970,31 @@ Las Vegas, Nevada.
 Saab, V., Miller, K., & Yamat, K. L. (2024).  Module Paper 2: IT-Business Partnership [Student Paper] MIS 764, 
 University of Nevada, Las Vegas, Las Vegas, Nevada.
 
-Saab, V., Miller, K., & Yamat, K. L. (2024).  Module Paper 3: IT-Enabled Innovation [Student Paper] MIS 764, University of Nevada, Las Vegas, Las Vegas, Nevada.
-Saab, V., Miller, K., & Yamat, K. L. (2024).  Module Paper 4: Contemporary Issues in IT and Innovation [Student Paper] MIS 764. University of Nevada, Las Vegas, Las Vegas, Nevada.
-Dyvik, E. H. (2023, November 22). Companies with the highest spending on research and development 2022. Statista. https://www.statista.com/statistics/265645/ranking-of-the-20-companies-with-the-highest-spending-on-research-and-development/
+137
+
+At first I didn't see the value of Okta Verify, and didn't see how it was different from text-message 
+based authentication, until I realized that most scammers say something along the lines of "I'm from a 
+totally legitimate institution that you currently do business with, and you have been hacked, I'm going 
+to send you a text message and you can read the code back to me," and then it occurred to me why Okta's 
+push authentication system is more secure. This scenario, however, was never presented to me, and I had 
+to come up with it on my own. Once I realized this I started using Okta for other applications that 
+allow this type of authentication. It's still something of an inconvenience, however, I think that 
+it's worth the security it affords.
+
+138
+
+Saab, V., Miller, K., & Yamat, K. L. (2024).  Module Paper 3: IT-Enabled Innovation 
+[Student Paper] MIS 764, University of Nevada, Las Vegas, Las Vegas, Nevada.
+
+Saab, V., Miller, K., & Yamat, K. L. (2024).  Module Paper 4: Contemporary Issues in 
+IT and Innovation [Student Paper] MIS 764. University of Nevada, Las Vegas, Las Vegas, Nevada.
+
+Dyvik, E. H. (2023, November 22). Companies with the highest spending on research and 
+development 2022. Statista. https://www.statista.com/statistics/265645/ranking-of-the-20-
+companies-with-the-highest-spending-on-research-and-development/
+
+139
+
 Chatterjee, S., & Sarker, S. (2024). Toward a better digital future: Balancing the utopic and dystopic ramifications of digitalization. The Journal of Strategic Information Systems, 33(2), 101834. https://doi.org/10.1016/j.jsis.2024.101834
 Mamonov, S., & Peterson, R. (2021). The role of IT in organizational innovation – A
 systematic literature review. Journal of Strategic Information Systems, 30, 
