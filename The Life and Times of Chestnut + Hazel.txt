@@ -3066,6 +3066,355 @@ Which more closely resembles Kenneth Large Otter of the Yams
 
 142
 
+HITA: Portfolio Management Applications
+Term Paper
+
+Kenneth Larot Yamat
+College of Business, The University of Nevada, Las Vegas
+MIS 764: Technology and Innovation Management
+Sutirtha Chatterjee, Ph.D.
+May 5th, 2024
+ 
+Introduction
+
+	HITA, harmonious information technology affordances, is a concept of what an organization could accomplish given its information technology infrastructure, and is comprised of several components: harmony, information technology, and IT affordances; the first component is harmony, which is a measurement how well different IT components within an organization’s overall IT infrastructure, the second component is IT referring to information technology and its various components, the tangible artifacts such as mobile devices, computers, data centers, servers, and the intangibles such as software and IT expertise, and the final component of HITA is IT affordances, broken down into capabilities, and appropriations (Chatterjee et. al. 2020).
+	After the concept of HITA is understood, the second step to understanding how HITA plays a role within an organization is the concept of actualization, actualization being the result of utilizing IT for a given purpose. In Information technology and organizational innovation: Harmonious information technology affordance and courage-based actualization (Chatterjee et. al. 2020) the focus of actualization process is innovation. Anderson & Robey in Affordance potency: Explaining the actualization of technology affordances focus on the fulfillment of organizational objectives as the result of actualization (Anderson & Robey 2017).
+	The purpose of this paper is to propose that understanding HITA can be useful outside of an organizational context, that HITA can be used by a party external to an organization, an investor for example, and be used to determine how an organization, in this case, a publicly traded company, can actualize HITA, is currently actualizing HITA, and how this actualization process can provide enhanced returns and mitigate risks within an organization, and by extension, enhance returns and reduce risk within a portfolio of investments.
+Motivation, Importance, and Literature Review
+
+HITA is currently measured by using a system of surveys submitted to leaders at various organizations, the responses are then used to make assessments of the various IT affordances that the organization has, particularly three specific affordances: collaborative affordances, organizational memory affordances, and process management affordances; In The nonlinear influence of harmonious information technology affordance on organisational innovation the researchers then take the HITA measurement of an organization, and see how it in turn produces innovation, finding three important areas: first, a vertex where innovation is zero or close to zero as a result of HITA being close to zero, a state where the status quo reinforces the status quo, and then two areas to the left and right of the vertex where innovation is fostered due to two key differences, in the case of negative HITA, an area left of the vertex, innovation is driven due to dissonance and creative tension, and positive HITA, an area right of the vertex where innovation is driven as a result of harmony and synergy within the organization’s IT infrastructure (Chatterjee et. al. 2021). 
+Organizational Agility is discussed in Agility in responding to disruptive digital innovation: Case study of an SME. Information Systems Journal (Chan et. al. 2019). Agility is described as the ability for an organization to adjust to various forms of disruption, and in the case studied in the research paper, the effect of disruptive digital innovation on smaller technology companies is the area being focused on (Chan et. al. 2019).  Related to organizational agility and HITA actualization is the concept of the improvisational capabilities of an organization. Improvisational capabilities are described as the ability of an organization to adjust to periods of turbulence and uncertainty with novel, spontaneous and unstructured solutions; these improvisational capabilities inform innovation outcomes (Chatterjee et. al 2015). Organizational Agility effects how an organization leverages its Improvisational Capabilities, which in turn effect the affordances aspect of a organization’s HITA, this in turn determines how an organization pursues innovation, but this is depended on another factor: Affordance Actualization.
+Actualization, as it pertains to HITA, refers to how IT affordances materialize as end products; Chatterjee’s framework of HITA operates under the premise that Organizational Courage is the primary factor in actualizing HITA (Chatterjee et. al. 2020), and that the relevant end product of actualizing HITA is innovation. Actualization Potency is discussed in Affordance potency: Explaining the actualization of technology affordances. Information and Organization (Anderson & Robey, 2017) which describes how effective an IT affordance is to productivity toward actualizing an organizational objective. Anderson & Robey discuss information technology affordances within a healthcare context using an urban hospital going through the process of digitalization and various other technology upgrades and how these new technologies can effective or ineffective, or potent, depending on how users interact with the technology that is available to them; Anderson & Robey provide a series of anecdotes of user interactions with new note taking technologies to illustrate how user interactions with these new technologies effect the hospitals objective of keeping better patient records in order to improve patient care; mobile computers, a kind of laptop on wheels was used for record keeping, but some users had issues typing, and some patients perceived that they weren’t being paid attention to while their nurse was taking notes on the computer, a shorter note system was implemented, which saved time, but there were issues with the accuracy and level of details that users, an audio recording system was also used, but there were issues with locating specific information held in the audio recordings, and the audio recordings were time consuming (Anderson & Robey, 2017). In the paper Strategic relevance of organizational virtues enabled by information technology in organizational innovation (Chatterjee et. al. 2015) IT affordances are conceptualized as being comprised of two components: IT capabilities, and appropriations; Anderson’s concept of Actualization Potency ties into Chatterjee’s HITA framework either as subordinate to affordances generally or subordinate via appropriation affordances, or complimentary to appropriation affordances.
+
+Theory, Development, and Conceptualization
+
+	The development of a HITA based index starts with the concept of HITA and attempts to use various parts of a company’s publicly available financial statements to create a measurement of HITA. Chatterjee established a method for ascertaining HITA in Information Technology and organizational innovation: Harmonious information technology affordance and courage-based actualization (Chatterjee et. al. 2020), however, HITA is an important enough conceptual framework that additional methods for assigning a HITA metric to an organization. HITA has value outside of a management and research-based context, and this is an attempt to apply HITA to portfolio management. 
+Intangible assets, a balance sheet item, is being used as a proxy for the IT Infrastructure that an organization has at its disposal. Although it might be more appropriate to use an actual balance sheet item that indicates the actual value of an organization’s information technology infrastructure, there are a number of problems with this approach, first is that IT infrastructure would fall within the plant, property, and equipment line item on a balance sheet, but plant, property, and equipment isn’t always broken down into a more granular way that would allow an investor to see specifically what an organization owns in terms of Information Technology, the second issue is that an organization may either lease IT services and equipment from  IT services provider, or they may pay subscription fees to a cloud computing services provider, in which case the organization’s IT capabilities aren’t captured as an asset on the balance sheet, but rather as an expense on the income statement, and here too the expenses aren’t always broken down in granular detail that would allow an investor to see exactly what an organization is spending on information technology services.
+Revenue, or gross sales, an income statement item, is being used as a proxy for Actualized Affordances. Although it might be possible to use a different metric such as earnings, or some variation of the earnings metric to determine Actualized Affordances, revenue might be perfectly suitable for the purposes of this paper. Profitability is important, and it’s what most people are interested in, but the amount of profit extracted from a given amount of revenue has more to do with cost control than with the variables that are being considered in this paper.
+The Harmony aspect of HITA will be inferred by taking the distance between an organization’s revenue to intangible assets ratio, a proxy for how an organization is actualizing its information technology affordances, then comparing that ratio to the revenue to intangible assets ratio of the sample mean. A value of zero for any company within the sample would suggest that the company would have a HITA value of zero, and thus produce zero innovation relative to the sample. A high positive value would suggest a high positive HITA value as a result of having high level of Harmony, and a high negative value would suggest a high negative HITA value as a result of a high level of dissonance.
+
+Selection
+
+	Three different selection groups of publicly traded companies were selected for analysis. The first group was selected using a random number generator, with a randomly generated number from 1-500 corresponding to a company on the S&P 500. Although the group of companies selected randomly was selected randomly with the hope to get a representative group of companies, it seems to have not done that, over half are healthcare related, Hologic Inc being a healthcare technology company specializing in medical imaging technology, and the rest being pharmaceutical companies depending on how a person looks at Abbot Laboratories. 
+The second group of companies was selected according to a set of criteria; first, the companies had to be considered large cap companies, and they were selected in a way such that sector diversity was an aim of the group selection, and a sector leader was chosen. During the selection process there were a few substitutions, XOM was a sector leader for Energy, and it was also selected during the random selection process as well, but they seem to have nothing listed as an intangible assets on their balance sheet, which is something that is more of an accounting related flaw, rather than an actual truth, XOM, Exxon Mobile, at the very least, has a notable brand, which is an intangible asset. CTRA was also removed during the random selection process for the same reason as XOM, and it seems to be a convention, or some kind of accounting convention among energy companies that they don’t list intangible assets on the balance sheet, or the group them in plant, property, and equipment, which is also considered fixed assets.
+	During the criteria-based selection process there were a few other removal and replacements, LTMAY, LATAM Airlines Group S.A. was the global leader in the industrials sector, however, LTMAY was not selected because it is not traded on a major stock exchange, GE, General Electric Aerospace was not selected due to recent changes in their corporate structure. LLY was already selected during the random selection process, so it was skipped during the criteria-based selection process, and NVO was selected over UNH to increase representation of international organization in the sample selection group.
+
+Conclusion
+
+There were several interesting results that came from this model of ascertaining HITA from publicly available financial statements, as well as a number of interesting insights that came from the process of developing this model. Most of the companies that had a high revenue to intangibles ratio were companies like PKG, APD, DLTR and CHRW, and this can be due to any number of factors. It is possible that these companies do not really derive much revenue from their intangible assets, intellectual property, and similar asset types, PKG makes boxes, APD sells industrial gases, DLTR is in the retail space, and CHRW is a freight broker. In other words: it’s possible that these types of companies derive more revenue as a result of their fixed-asset infrastructure, over their IT infrastructure, but it’s also possible that they would benefit the most from additional information technology investments, and it is also possible that both are true. Take DLTR for example, this would be a company that has significant fixed asset infrastructure in the form of brick and mortar locations, warehouse locations, and a freight network, which would make the first assessment true; at the same time, any visit to a Dollar Tree location would suggest that DLTR could use a technology upgrade: they use point of sell terminals that have to be from the 1970’s, nearly half a century ago.
+	The model has turned out to be interesting, but also problematic in many ways: the value of intangible assets on a balance sheet are probably an indicator of how IT affordances have been actualized, so for some applications it might not be necessary to look at revenue to determine how IT affordances are being actualized, but revenue is still important, capitalizing IT affordances as balance sheet items, as intangible assets, is important, but monetizing on IT affordances as an income statement item, revenue, is also important. This model could definitely use additional refinement, and at least as far as portfolio management, it’s also important that this model uses publicly available information for this purpose.
+
+Randomly Selected
+
+395	Packaging Corp of America	PKG
+	Revenue: 	7,802,000,000
+	Intangible:	1,154,000,000
+	Revenue to Intangibles Ratio	6.76
+	Distance from Average	5.44
+9	Eli Lilly & Co.	LLY
+	Revenue:	34,124,000,000
+	Intangible:	11,846,000,000
+	Revenue to Intangibles Ratio	2.88
+	Distance from Average	1.56
+443	The J.M. Smucker Company	SJM
+	Revenue:	8,529,000,000
+	Intangibles:	9,646,000,000
+	Revenue to Intangibles Ratio	0.88
+	Distance from Average	-0.43
+156	Air Products & Chemicals, Inc.	APD
+	Revenue:	12,600,000,000
+	Intangibles:	1,196,000,000
+	Revenue to Intangibles Ratio	10.54
+	Distance from Average	9.22
+49	Pfizer Inc.	PFE
+	Revenue:	61,996,000,000
+	Intangibles:	132,683,000,000
+	Revenue to Intangibles Ratio	0.47
+	Distance from Average	-0.85
+40	Abbott Laboratories	ABT
+	Revenue:	40,109,000,000
+	Intangibles:	32,494,000,000
+	Revenue to Intangibles Ratio	1.23
+	Distance from Average	-0.08
+463	C.H. Robinson Worldwide, Inc.	CHRW
+	Revenue:	17,596,000,000
+	Intangibles:	1,620,000,000
+	Revenue to Intangibles Ratio	10.86
+	Distance from Average	9.54
+18	Johnson & Johnson	JNJ
+	Revenue:	85,159,000,000
+	Intangibles:	70,733,000,000
+	Revenue to Intangibles Ratio	1.20
+	Distance from Average	-0.11
+368	Hologic Inc	HOLX
+	Revenue:	4,030,000,000
+	Intangibles:	4,170,000,000
+	Revenue to Intangibles Ratio	0.97
+	Distance from Average	-0.35
+190	Metlife, Inc.	MET
+	Revenue:	66,905,000,000
+	Intangibles:	11,793,000,000
+	Revenue to Intangibles Ratio	5.67
+	Distance from Average	4.36
+300	Dollar Tree Inc.	DLTR
+	Revenue:	30,604,000,000
+	Intangibles:	3,064,000,000
+	Revenue to Intangibles Ratio	9.99
+	Distance from Average	8.67
+				
+Sample Averages	Revenue	33,586,727,273
+	Intangibles	25,490,818,182
+	Revenue to Intangibles Ratio	4.68
+	Revenue to Intangibles Ratio, Aggregate	1.32
+
+Criteria Selected, Large Cap
+
+Energy:	CHEVRON CORP	CVX
+	Revenue:	196,913,000,000
+	Intangibles:	4,722,000,000
+	Revenue to Intangibles Ratio	41.70
+	Distance from Average	34.30
+Materials:	LINDE PLC	LIN
+	Revenue:	32,854,000,000
+	Intangibles:	39,150,000,000
+	Revenue to Intangibles Ratio	0.84
+	Distance from Average	-6.57
+Industrials:	CATERPILLAR INC	CAT
+	Revenue:	67,060,000,000
+	Intangibles:	5,872,000,000
+	Revenue to Intangibles Ratio	11.42
+	Distance from Average	4.01
+Con. Disc.:	AMAZON.COM INC	AMZN
+	Revenue:	574,785,000,000
+	Intangibles:	30,476,000,000
+	Revenue to Intangibles Ratio	18.86
+	Distance from Average	11.45
+Con. Stap.:	WALMART INC	WMT
+	Revenue:	645,737,000,000
+	Intangibles:	32,213,000,000
+	Revenue to Intangibles Ratio	20.05
+	Distance from Average	12.64
+Health Care:	NOVO NORDISK A/S	NVO
+	Revenue:	34,445,000,000
+	Intangibles:	8,958,000,000
+	Revenue to Intangibles Ratio	3.85
+	Distance from Average	-3.56
+Financials:	JPMORGAN CHASE & CO	JPM
+	Revenue:	236,311,000,000
+	Intangibles:	64,381,000,000
+	Revenue to Intangibles Ratio	3.67
+	Distance from Average	-3.74
+Info. Tech.:	MICROSOFT CORP	MSFT
+	Revenue:	211,915,000,000
+	Intangibles:	77,252,000,000
+	Revenue to Intangibles Ratio	2.74
+	Distance from Average	-4.66
+Comm. Serv.:	META PLATFORMS INC	META
+	Revenue:	134,902,000,000
+	Intangibles:	21,442,000,000
+	Revenue to Intangibles Ratio	6.29
+	Distance from Average	-1.11
+Utilities:	NEXTERA ENERGY INC	NEE
+	Revenue:	28,114,000,000
+	Intangibles:	6,783,000,000
+	Revenue to Intangibles Ratio	4.14
+	Distance from Average	-3.26
+Real Estate:	PROLOGIS INC	PLD
+	Revenue:	8,428,000,000
+	Intangibles:	1,950,000,000
+	Revenue to Intangibles Ratio	4.32
+	Distance from Average	-3.08
+				
+Sample Averages	Revenue	197,405,818,182
+	Intangibles	26,654,454,545
+	Revenue to Intangibles Ratio	10.72
+	Revenue to Intangibles Ratio, Aggregate	7.41
+
+Criteria Selected, Small Cap
+
+Energy:	SUNOCO LP	SUN
+	Revenue:	23,068,000,000
+	Intangibles:	2,143,000,000
+	Revenue to Intangibles Ratio	10.76
+	Distance from Average	7.82
+Materials:	APTARGROUP INC.	ATR
+	Revenue:	3,487,000,000
+	Intangibles:	1,247,000,000
+	Revenue to Intangibles Ratio	2.80
+	Distance from Average	-0.15
+Industrials:	HUNTINGTON INGALLS INDUSTRIES INC	HII
+	Revenue:	11,454,000,000
+	Intangibles:	3,509,000,000
+	Revenue to Intangibles Ratio	3.26
+	Distance from Average	0.32
+Con. Disc.:	SHARKNINJA INC	SN
+	Revenue:	4,254,000,000
+	Intangibles:	1,312,000,000
+	Revenue to Intangibles Ratio	3.24
+	Distance from Average	0.30
+Con. Stap.:	E L F BEAUTY INC	ELF
+	Revenue:	579,000,000
+	Intangibles:	250,000,000
+	Revenue to Intangibles Ratio	2.32
+	Distance from Average	-0.63
+Health Care:	TELEFLEX INC	TFX
+	Revenue:	2,978,000,000
+	Intangibles:	5,416,000,000
+	Revenue to Intangibles Ratio	0.55
+	Distance from Average	-2.39
+Financials:	JEFFERIES FINANCIAL GROUP INC	JEF
+	Revenue:	7,498,000,000
+	Intangibles:	2,036,000,000
+	Revenue to Intangibles Ratio	3.68
+	Distance from Average	0.74
+Info. Tech.:	UNITY SOFTWARE INC	U
+	Revenue:	2,187,000,000
+	Intangibles:	4,573,000,000
+	Revenue to Intangibles Ratio	0.48
+	Distance from Average	-2.47
+	DOLBY LABORATORIES INC	DLB
+	Revenue:	1,300,000,000
+	Intangibles:	576,000,000
+	Revenue to Intangibles Ratio	2.26
+	Distance from Average	-0.69
+Comm. Serv.:	NEWS CORP	NWSA
+	Revenue:	1,300,000,000
+	Intangibles:	576,000,000
+	Revenue to Intangibles Ratio	2.26
+	Distance from Average	-0.69
+Utilities:	BROOKFIELD RENEWABLE PARTNERS LP	BEP
+	Revenue:	5,038,000,000
+	Intangibles:	1,959,000,000
+	Revenue to Intangibles Ratio	2.57
+	Distance from Average	-0.37
+Real Estate:	REXFORD INDUSTRIAL REALTY INC	REXR
+	Revenue:	798,000,000
+	Intangibles:	159,000,000
+	Revenue to Intangibles Ratio	5.02
+	Distance from Average	2.07
+	CUBE	CUBESMART
+	Revenue:	1,056,000,000
+	Intangibles:	2,000,000
+	Revenue to Intangibles Ratio	528.00
+	Distance from Average	525.06
+	JLL	JONES LANG LASALLE INC
+	Revenue:	20,761,000,000
+	Intangibles:	5,372,000,000
+	Revenue to Intangibles Ratio	3.86
+	Distance from Average	0.92
+				
+Sample Averages	Revenue	6,125,571,429
+	Intangibles	2,080,714,286
+	Revenue to Intangibles Ratio	41
+	Revenue to Intangibles Ratio, Aggregate	2.94
+
+References
+
+Anderson, C., & Robey, D. (2017). Affordance potency: Explaining the actualization of 
+
+technology affordances. Information and Organization, 27(2), 100-115. 
+
+https://doi.org/10.1016/j.infoandorg.2017.03.002
+
+Chan, C. M. L., Teoh, S. Y., Yeow, A., & Pan, G. (2019). Agility in responding to disruptive 
+
+digital innovation: Case study of an SME. Information Systems Journal (Oxford, 
+
+England), 29(2), 436–455. https://doi.org/10.1111/isj.12215
+
+Chatterjee, S., Moody, G., Lowry, P. B., Chakraborty, S., & Hardin, A. (2015). Strategic 
+
+relevance of organizational virtues enabled by information technology in organizational 
+
+innovation. Journal of Management Information Systems, 32(3), 158–196.
+
+https://doi.org/10.1080/07421222.2015.1099180
+
+Chatterjee, S., Sarker, S., & Siponen, M. (2017). How Do Mobile ICTs Enable Organizational 
+
+Fluidity: Toward a Theoretical Framework. Information & Management, 54(1), 1–13. 
+
+https://doi.org/10.1016/j.im.2016.03.007
+
+Chatterjee, S., Moody, G., Lowry, P. B., Chakraborty, S., & Hardin, A. (2020). Information 
+
+technology and organizational innovation: Harmonious information technology 
+
+affordance and courage-based actualization. Journal of Strategic Information Systems, 
+
+29, 101596. https://doi.org/10.1016/j.jsis.2020.101596
+
+Chatterjee, S., Moody, G. D., Lowry, P. B., Chakraborty, S., & Hardin, A. (2021). The nonlinear 
+
+influence of harmonious information technology affordance on organisational innovation. 
+
+Information Systems Journal, 31(3), 294–322. https://doi.org/10.1111/isj.12311
+
+143
+
+Property, Plant, and Equipment & Intangible Assets
+Real-World Company Examples of Financial Accounting Concepts
+
+Kenneth Larot Yamat
+College of Business, The University of Nevada, Las Vegas
+ACC 601: Financial Reporting I
+Scott C. Jackson, Ph.D.
+November 25th, 2024
+
+	The purpose of this paper is to highlight differences in the accounting treatment of Property, Plant, and Equipment & Intangible assets among different companies in a particular sector. Each section of this paper will be broken up by sector and will continue until all sectors are represented, or the paper is cut short due to limitations of space or time.
+Energy: Schlumberger (SLB) and Baker Hughes (BKR) will represent the energy sector. These were selected using Fidelity’s Stock Screener Database tool (Fidelity Management & Research Company 2024). PWC LLP is listed as the auditor for Schlumberger, is listed on the NYSE, and has 5 locations in 4 different countries listed as principal offices and documents its assets on the Consolidated Balance Sheet (Schlumberger, 10-K. 2024). KPMG LLP is listed as the auditor for Baker Hughes and is publicly listed on the Nasdaq and has 2 locations, both in the United States, listed as principal offices and documents it’s assets on the Consolidated Statement of Financial Position (Baker Hughes, 10-K. 2024). When looking at how both companies treat intangible assets there aren’t any differences that seem substantially material. They cite different portions of the FASB codification for guidance over how they treat the “Other Intangibles” category, with Schlumberger citing FASB 350-30-50-1, which deals with the treatment of other intangibles acquired through an acquisition, and Baker Hughes Citing 350-30-45-1 which deals with how other intangibles should be amortized.
+Materials: Packaging Corporation of America (PKG) and International Paper Company (IP) will represent the materials sector. These were selected using the same tool listed above (Fidelity 2024). Both companies have 2 offices listed as principal locations with all office locations listed inside the United States, both companies are publicly listed on the NYSE Packaging Corporation of America lists KPMG as their auditor (Packaging Corporation of America, 10-K, 2024) and International Paper lists Deloitte as their auditor (International Paper Company, 10-K. 2024). One accounting concept that I was hoping to find on their balance sheets was how they treat timberland resources and the relevant depletion of those timberland resources, however, this wasn’t from either company’s balance sheets, notes to financial statements, notes details, or notes tables. FASB 93X Extractive Activities only lists accounting guidance for Mining, Oil, and Gas. FASB 905 Agriculture specifically excludes “growers of timber” at 905-10-15-4 for application of this codification. When looking for guidance regarding depletion of timberland resources from the textbook, Weyerhaeuser Company is listed as an example of a forest products company (Spiceland 2023 p. 567). So, it’s possible that International Paper Company, and Packaging Corporation of America do not actually deal with their own timberland resources themselves, and instead buy these products from a company like Weyerhaeuser Company.
+Industrials: Transunion (TRU) and Equifax (EFX) were selected to represent the Industrial categories from the companies listed under the Research & Consulting Services sub-industry (Fidelity 2024). Both companies are based in the United States and Listed on the NYSE. Experian was the original pick, along with Equifax, however, Experian’s 5 letter ticker symbol (EXPGY) followed by the letters ADR gave it away as being a security that would potentially be difficult to analyze; and in spite of being a well known company, it’s ADR’s are not listed on either the NYSE, or Nasdaq, meaning it’s a pink-sheet security, and there are no 10-K filings listed (Fidelity 2024). This is potentially the most interesting accounting deviation between the 3 different firms: most consumers would think of Experian, Transunion, and Equifax as being substantially similar institutions, however Experian seems to avoid many of the reporting requirements that Equifax and Transunion are subject to. This doesn’t necessarily result in a good thing: Experian’s top 10 owners appear to be private equity firms (“Experian ADR: Ownership Summary,” Fidelity 2024), which are thought of as being very active, aggressive, and extractive owners, Equifax (“Equifax: Ownership Summary,” Fidelity 2024) and TransUnion (“Transunion: Ownership Summary,” Fidelity 2024) top 10 owners appear to be companies like BlackRock, Vanguard, State Street, Fidelity, ETF issuers that take a mostly passive interest in companies they hold shares in.
+Consumer Discretionary: Tapestry, Inc. (TPR) and V.F. Corporation (VFC) were selected to represent the consumer discretionary sector, and both belong to the Apparel, Accessories & Luxury Goods sub-industry (Fidelity 2024). Both of these companies are being selected because they have a huge portfolio of different trademarked products and they are known for being somewhat active with acquiring and divesting from their portfolio of brands: Tapestry as it expands, and VF Corporation as it restructures. The Consumer Discretionary sector seems perfect for covering all categories of intangible assets, but it will be used for understanding how different companies treat the trademark and tradename and branding category of intangible assets. The Automobiles sub-industry would be perfect for a study multiple different asset types, especially Property Plant & Equipment, but nearly anything else as well patents and so on, and restaurants would be interesting for a dive into how the franchise asset types work. After looking at the Notes to Financial Statements for both Tapestry, Inc. (Tapestry, Inc. 10-K 2024) and V.F. Corporation (V.F. Corporation, 10-K 2024), it would appear that both companies consider their trademarks to be indefinite lived assets, and therefore not subject to amortization. FASB 350-30-55-20 outlines that it may in fact be appropriate that trademarks have an indefinite useful life and would only decrease in book value when a trademark is tested for impairment FASB 350-30-55-22. FASB also later states in FASB 350-30-55-25 that even if a trademark is expected to have lower future cash flows in the future, it is still tested for impairment, rather than subject to amortization. It is only until FASB 350-30-55-28 that the amortization of trademarks comes into play, and it’s only when a trademark is determined to have a limited useful life. The textbook also notes that a trademark “can be indefinite” (Spiceland 2023 p. 520) but based on FASB, it almost seems that trademarks never die. This issue with the subjective life of trademarks can prove to be an interesting tool within the context of an acquisitions: how much of a price paid over book value can be considered Goodwill? and how much of that price is related to the brand value of the asset purchased? There might be advantages to allocating more of that purchase price to trademark value over Goodwill, since trademark values can be reduced through impairment, seemingly on an as needed or on an as appropriate basis, Goodwill is amortized on a pre-determined schedule. For the other factoids frequently listed in companies compared: Tapestry lists Deloitte as it’s auditor (Tapestry 10-K 2024) and V.F. Corporation lists PWC as its auditor (V.F. Corporation 10-K 2024) both companies have principal offices in the United States and both companies have their shares registered on the NYSE.
+Consumer Staples: The Procter & Gamble Company (PG) and Colgate-Palmolive (CL) as well as Unilever (UL) for good measure. Unilever is an ADR like the previously discussed Experian; however, Unilever is registered with the NYSE unlike Experian, which is a pink-sheet security. It appears would not file a 10-K report with the Securities and Exchange Commission like Proctor and Gamble and Colgate-Palmolive, but Unilever does file a 20-F report and would not file a 10-K report until the percentage ownership of Unilever reaches a threshold of 50% of outstanding voting shares of a company (Investopedia 2020). The listed auditor for Unilever PLC is KPMG (Unilever, 20-F 2024) Deloitte is the listed auditor for Proctor and Gamble (The Procter & Gamble Company, 10-K 2024) and PWC is listed as the auditor for the Colgate-Palmolive Company (Colgate-Palmolive Company 10-K 2024). One commonality among all of these three companies is that they break up intangible assets according to different lines of products belonging to different lines of business within the larger company.
+Other Points of Interest: It may be interesting to see if there are any companies that have auditors other than the ones, we’ve become familiar with during the course of this paper. Using Fidelity’s stock screener, I’m going to see which companies use unfamiliar auditors, and my guess is that it would be companies with much smaller market caps, or companies that pink-sheet companies, or companies that are thinly traded. Aramark (ARMK) is selected for the small cap data point: Deloitte (Aramark 10-K 2023). Ambev (ABEV): PricewaterhouseCoopers (ABEV 20-F 2024). For a thinly traded stock: Lennar (LEN/B): Deloitte (Lennar 10-K 2024). The Lennar example is potentially not ideal since they have class A and class B shares. Another thinly traded company would be: Universal Logistics (UHL) Grant Thornton LLP (Universal Logistics Holdings, Inc. 10-K 2024). So we have a winner!
+
+References
+
+Baker Hughes Company "Form 10-K Annual Report." Securities and Exchange Commission,  
+ 	 2024, https://www.sec.gov/ix?doc=/Archives/edgar/data/1701605/0001701605240000
+ 33/bkr-20231231.htm
+Colgate-Palmolive Company. "Form 10-K Annual Report." Securities and Exchange    
+ 	Commission, 2024, https://www.sec.gov/ix?doc=/Archives/edgar/data/21665/0000
+ 	02166524000003/cl-20231231.htm
+Fidelity Management & Research Company. (2024). “Sector/Industry/Sub-Industry: Stock 
+ 	Screener Results,” Retrieved from Fidelity database on November 25th, 2024.
+Fidelity Management & Research Company. (2024). “Experian ADR: Ownership Summary”   
+ 	Retrieved from Fidelity database on November 25th, 2024.
+Fidelity Management & Research Company. (2024). “Transunion: Ownership Summary”     
+ 	Retrieved from Fidelity database on November 25th, 2024.
+Fidelity Management & Research Company. (2024). “Equifax: Ownership Summary” Retrieved 
+from Fidelity database on November 25th, 2024.
+Financial Accounting Standards Board. (2024). “Accounting Standards Codification,” Retrieved
+ 	 from FASB Codification database on November 25th, 2024.
+International Paper Company "Form 10-K Annual Report." Securities and Exchange   
+ 	Commission, 2024, https://www.sec.gov/ix?doc=/Archives/edgar/data/51434/000005143
+424000024/ip-20231231.htm
+Investopedia. Kenton, Will “What Is SEC Form 20-F? Definition, Requirements, and Who Files” 
+ 	December 27, 2020. https://www.investopedia.com/terms/s/sec-form-20-f.asp
+Packaging Corporation of America "Form 10-K Annual Report." Securities and Exchange 
+Commission, 2024, https://www.sec.gov/ix?doc=/Archives/edgar/data/75677/000095017
+024022794/pkg-20231231.htm
+Procter & Gamble Company. "Form 10-K Annual Report." Securities and Exchange     
+ 	Commission, 2024, https://www.sec.gov/ix?doc=/Archives/edgar/data/80424
+ 	/000008042424000083/pg-20240630.htm
+Schlumberger N.V. "Form 10-K Annual Report." Securities and Exchange Commission, 2024,
+https://www.sec.gov/ix?doc=/Archives/edgar/data/87347/000095017024006884/slb-
+20231231.htm
+Spiceland, J. D., Nelson, M. W., Thomas, W. B., & Winchel, J. (2023). Intermediate Accounting   
+ 	(11th ed.). McGraw Hill LLC.
+Tapestry, Inc. "Form 10-K Annual Report." Securities and Exchange Commission, 2024, 
+ 	https://www.sec.gov/ix?doc=/Archives/edgar/data/1116132/000111
+613224000018/tpr-20240629.htm
+Unilever PLC. "Form 20-F Annual / Transition Report." Securities and Exchange Commission,  
+ 	 2024, https://www.sec.gov/ix?doc=/Archives/edgar/data/217410/000021741024000
+ 017/ul-20231231.htm
+V.F. Corporation. "Form 10-K Annual Report." Securities and Exchange Commission, 2024, 
+ 	https://www.sec.gov/ix?doc=/Archives/edgar/data/103379/000010337924000008/vfc-
+20240330.htm
+
+144
+
 Benbya, H., Pachidi, S., & Jarvenpaa, S. (2021). Special Issue Editorial: Artificial 
 Intelligence in Organizations: Implications for Information Systems Research. 
 Journal of the Association for Information Systems, 22(2), 281-303. 
