@@ -3039,9 +3039,8 @@ organizations. MIS Quarterly, 27(4), 557-595. https://doi.org/10.2307/30036549
 
 140
 
-
-Slickcharts. (n.d.). S&P 500 ETF Components. Slickcharts. Retrieved from https://www.slickcharts.com/sp500
-
+Slickcharts. (n.d.). S&P 500 ETF Components. Slickcharts. 
+Retrieved from https://www.slickcharts.com/sp500
 
 Develop a way to integrate HITA into investment decisions as an additional variable for portfolio management applications.
 HITA, as it was measured in (non linear influences) might be difficult to use for portfolio management applications.
@@ -3055,6 +3054,8 @@ I don't know. I'm never really sure about
 anything, least of all my abilities.
 Literature
 Revenue per employee
+
+141
 
 Benbya, H., Pachidi, S., & Jarvenpaa, S. (2021). Special Issue Editorial: Artificial 
 Intelligence in Organizations: Implications for Information Systems Research. 
