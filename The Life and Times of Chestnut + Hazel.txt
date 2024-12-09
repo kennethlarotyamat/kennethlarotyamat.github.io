@@ -3442,6 +3442,19 @@ https://doi.org/10.1016/j.ijinfomgt.2020.102225
 
 145
 
+Tabernautomaton: autonomous ghost kitchen food trucks
+
+autonomous ghost kitchen food trucks that operate like 
+a fleet of motherships and dropships
+
+autonomous ghost kitchen food trucks that operate like 
+a fleet of motherships and dropships, the idea is to address 
+the lack of agility and lack of geographic coverage that existing 
+ghost kitchens face as well as the long trip back problem that 
+human delivery workers face when working in sparsely populated suburbs
+
+It's a system that I would find personally useful.
+
 	Yong Li Venture Capital Laboratories, LP
 		If a company cannot be acquired, then this organization would create new companies that would stand in for the 
 			company that could not be acquired.
