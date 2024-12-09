@@ -2779,10 +2779,10 @@ Real Estate:	REXFORD INDUSTRIAL REALTY INC	REXR
 
 134		
 		
-Sample Averages	Revenue	6,125,571,429
-	Intangibles	2,080,714,286
-	Revenue to Intangibles Ratio	41
-	Revenue to Intangibles Ratio, Aggregate	2.94
+Sample Averages	Revenue	                  6,125,571,429
+Intangibles	                                 2,080,714,286
+Revenue to Intangibles Ratio	               41
+Revenue to Intangibles Ratio, Aggregate	   2.94
 
 Property, Plant, and Equipment & Intangible Assets
 Real-World Company Examples of Financial Accounting Concepts
