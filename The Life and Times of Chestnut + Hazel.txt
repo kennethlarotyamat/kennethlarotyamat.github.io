@@ -2995,7 +2995,10 @@ companies-with-the-highest-spending-on-research-and-development/
 
 139
 
-Chatterjee, S., & Sarker, S. (2024). Toward a better digital future: Balancing the utopic and dystopic ramifications of digitalization. The Journal of Strategic Information Systems, 33(2), 101834. https://doi.org/10.1016/j.jsis.2024.101834
+Chatterjee, S., & Sarker, S. (2024). Toward a better digital future: Balancing the 
+utopic and dystopic ramifications of digitalization. The Journal of Strategic 
+Information Systems, 33(2), 101834. https://doi.org/10.1016/j.jsis.2024.101834
+
 Mamonov, S., & Peterson, R. (2021). The role of IT in organizational innovation – A
 systematic literature review. Journal of Strategic Information Systems, 30, 
 101696. https://doi.org/10.1016/j.jsis.2021.101696
@@ -3034,7 +3037,7 @@ Lyytinen, K., & Rose, G. M. (2003). The disruptive nature of information technol
 innovations: The case of internet computing in systems development 
 organizations. MIS Quarterly, 27(4), 557-595. https://doi.org/10.2307/30036549
 
-
+140
 
 
 Slickcharts. (n.d.). S&P 500 ETF Components. Slickcharts. Retrieved from https://www.slickcharts.com/sp500
