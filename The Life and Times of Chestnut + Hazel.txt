@@ -2961,9 +2961,15 @@ Transformation and IT-Enabled Organizational Transformation. Journal of the Asso
 Bertoni, S. (2015, April 15). Twinkie's Miracle Comeback: The Untold, Inside Story of a $2 Billion Feast. Forbes. 
 https://www.forbes.com/sites/stevenbertoni/2015/04/15/twinkie-billion-dollar-comeback-hostess-metropoulos-apollo-jhawar/?sh=159db56e7235
 
-Saab, V., Miller, K., Yamat, K. L.  (2024, April 28). 4.3. Digitalization: Advances and Challenges [PowerPoint slides & Oral presentation]. MIS 764, University of Nevada, Las Vegas, Las Vegas, Nevada.
-Saab, V., Miller, K., & Yamat, K. L. (2024). Module Paper 1: Business Value Of IT [Student Paper] MIS 764, University of Nevada, Las Vegas, Las Vegas, Nevada.
-Saab, V., Miller, K., & Yamat, K. L. (2024).  Module Paper 2: IT-Business Partnership [Student Paper] MIS 764, University of Nevada, Las Vegas, Las Vegas, Nevada.
+Saab, V., Miller, K., Yamat, K. L.  (2024, April 28). 4.3. Digitalization: Advances and Challenges [PowerPoint slides & Oral presentation]. 
+MIS 764, University of Nevada, Las Vegas, Las Vegas, Nevada.
+
+Saab, V., Miller, K., & Yamat, K. L. (2024). Module Paper 1: Business Value Of IT [Student Paper] MIS 764, University of Nevada, Las Vegas, 
+Las Vegas, Nevada.
+
+Saab, V., Miller, K., & Yamat, K. L. (2024).  Module Paper 2: IT-Business Partnership [Student Paper] MIS 764, 
+University of Nevada, Las Vegas, Las Vegas, Nevada.
+
 Saab, V., Miller, K., & Yamat, K. L. (2024).  Module Paper 3: IT-Enabled Innovation [Student Paper] MIS 764, University of Nevada, Las Vegas, Las Vegas, Nevada.
 Saab, V., Miller, K., & Yamat, K. L. (2024).  Module Paper 4: Contemporary Issues in IT and Innovation [Student Paper] MIS 764. University of Nevada, Las Vegas, Las Vegas, Nevada.
 Dyvik, E. H. (2023, November 22). Companies with the highest spending on research and development 2022. Statista. https://www.statista.com/statistics/265645/ranking-of-the-20-companies-with-the-highest-spending-on-research-and-development/
