@@ -2856,8 +2856,21 @@ factoids frequently listed in companies compared: Tapestry lists Deloitte as it�
 PWC as its auditor (V.F. Corporation 10-K 2024) both companies have principal offices in the United States and both companies have their 
 shares registered on the NYSE.
 
-Consumer Staples: The Procter & Gamble Company (PG) and Colgate-Palmolive (CL) as well as Unilever (UL) for good measure. Unilever is an ADR like the previously discussed Experian; however, Unilever is registered with the NYSE unlike Experian, which is a pink-sheet security. It appears would not file a 10-K report with the Securities and Exchange Commission like Proctor and Gamble and Colgate-Palmolive, but Unilever does file a 20-F report and would not file a 10-K report until the percentage ownership of Unilever reaches a threshold of 50% of outstanding voting shares of a company (Investopedia 2020). The listed auditor for Unilever PLC is KPMG (Unilever, 20-F 2024) Deloitte is the listed auditor for Proctor and Gamble (The Procter & Gamble Company, 10-K 2024) and PWC is listed as the auditor for the Colgate-Palmolive Company (Colgate-Palmolive Company 10-K 2024). One commonality among all of these three companies is that they break up intangible assets according to different lines of products belonging to different lines of business within the larger company.
-Other Points of Interest: It may be interesting to see if there are any companies that have auditors other than the ones, we’ve become familiar with during the course of this paper. Using Fidelity’s stock screener, I’m going to see which companies use unfamiliar auditors, and my guess is that it would be companies with much smaller market caps, or companies that pink-sheet companies, or companies that are thinly traded. Aramark (ARMK) is selected for the small cap data point: Deloitte (Aramark 10-K 2023). Ambev (ABEV): PricewaterhouseCoopers (ABEV 20-F 2024). For a thinly traded stock: Lennar (LEN/B): Deloitte (Lennar 10-K 2024). The Lennar example is potentially not ideal since they have class A and class B shares. Another thinly traded company would be: Universal Logistics (UHL) Grant Thornton LLP (Universal Logistics Holdings, Inc. 10-K 2024). So we have a winner!
+Consumer Staples: The Procter & Gamble Company (PG) and Colgate-Palmolive (CL) as well as Unilever (UL) for good measure. Unilever is an ADR 
+like the previously discussed Experian; however, Unilever is registered with the NYSE unlike Experian, which is a pink-sheet security. It 
+appears would not file a 10-K report with the Securities and Exchange Commission like Proctor and Gamble and Colgate-Palmolive, but Unilever 
+does file a 20-F report and would not file a 10-K report until the percentage ownership of Unilever reaches a threshold of 50% of outstanding 
+voting shares of a company (Investopedia 2020). The listed auditor for Unilever PLC is KPMG (Unilever, 20-F 2024) Deloitte is the listed auditor 
+for Proctor and Gamble (The Procter & Gamble Company, 10-K 2024) and PWC is listed as the auditor for the Colgate-Palmolive Company 
+(Colgate-Palmolive Company 10-K 2024). One commonality among all of these three companies is that they break up intangible assets according 
+to different lines of products belonging to different lines of business within the larger company.
+
+Other Points of Interest: It may be interesting to see if there are any companies that have auditors other than the ones, we’ve become familiar 
+with during the course of this paper. Using Fidelity’s stock screener, I’m going to see which companies use unfamiliar auditors, and my guess is 
+that it would be companies with much smaller market caps, or companies that pink-sheet companies, or companies that are thinly traded. Aramark 
+(ARMK) is selected for the small cap data point: Deloitte (Aramark 10-K 2023). Ambev (ABEV): PricewaterhouseCoopers (ABEV 20-F 2024). For a thinly 
+traded stock: Lennar (LEN/B): Deloitte (Lennar 10-K 2024). The Lennar example is potentially not ideal since they have class A and class B shares. 
+Another thinly traded company would be: Universal Logistics (UHL) Grant Thornton LLP (Universal Logistics Holdings, Inc. 10-K 2024). So we have a winner!
 
 References
 
