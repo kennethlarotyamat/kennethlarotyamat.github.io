@@ -2490,7 +2490,7 @@ archeological dig in the shadow of the Ziggurat of Blorginagi I recently uncover
 cache of hypothetical data points that would buttress my use of the regression tool, and would 
 support the conclusions that I drew regarding that aspect of the scenario. Another thing is that 
 the original scenario provided never addressed the availability of the 2 other Ugly Dolls that 
-Organic Ugli, Inc. manufactures, including the Athrophigai model, made of the supplest chupacabra 
+Organic Ugli, Inc. manufactures, including the Anthropophage model, made of the supplest chupacabra 
 leather, and the Torglaanor Model, made of the hairiest sasquatch furs. I have therefore concluded 
 that the actual value of my submission is currently understated by at least 3 points, and I would 
 like to request a 3 point upward adjustment.
@@ -2590,7 +2590,7 @@ tired all the time. Well. I do work every day. I think that I took a day off las
 waste of a day. I slept that day, the whole day, and it didn't really feel like good sleep, or useful relaxation 
 or anything like that. Just a straight up waste of a day.
 
-There is also a kind of dilemma that I've been facing recently. I kind of see the value of a table type computer, 
+There is also a kind of dilemma that I've been facing recently. I kind of see the value of a tablet type computer, 
 and I kind of want one, however, I still need to get a gaming computer for my YouTube business. If I get a gaming 
 computer, well, gaming laptop, I would have 3 laptops at my disposal for whatever kind of portable stuff I need to 
 do. If I get a gaming laptop, I would basically use my least valuable laptop in lieu of a tablet computer, but if 
@@ -2924,11 +2924,9 @@ Anderson, C., & Robey, D. (2017). Affordance potency: Explaining the actualizati
 technology affordances. Information and Organization, 27(2), 100-115. 
 https://doi.org/10.1016/j.infoandorg.2017.03.002
 
-
 Chan, C. M. L., Teoh, S. Y., Yeow, A., & Pan, G. (2019). Agility in responding to disruptive 
 digital innovation: Case study of an SME. Information Systems Journal (Oxford, 
 England), 29(2), 436–455. https://doi.org/10.1111/isj.12215
-
 
 Chatterjee, S., Moody, G., Lowry, P. B., Chakraborty, S., & Hardin, A. (2015). Strategic 
 relevance of organizational virtues enabled by information technology in organizational 
@@ -3475,6 +3473,8 @@ It's a system that I would find personally useful.
 			with a DR Horton or Greystone Lennar component as a subsidiary
 				Would experiment with post-frame, modular, pre-fabricated, and additive construction techniques 
 		Target Companies would relocate their headquarters to one of the various cities in Clark County.
+
+147
 
 intro/motivation: 
 ●	Exploratory innovation as a key turn-around / pivot strategy
