@@ -3492,6 +3492,8 @@ It's a system that I would find personally useful.
 create a system of autonomous food trucks, drone delivery, ghost kitchens 
 synthesize a system invlocing autonomous food trucks, drone delivery, ghost kitchens
 
+148
+
 intro/motivation: 
 ●	Exploratory innovation as a key turn-around / pivot strategy
 ●	Affordance level reappropriation of existing IP catalog as an ancillary strategy
