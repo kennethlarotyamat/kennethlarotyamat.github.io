@@ -3494,6 +3494,10 @@ synthesize a system invlocing autonomous food trucks, drone delivery, ghost kitc
 
 148
 
+I'm feeling really nervous. I have one more final, and I'm not really sure how this will go.
+I'm studying right now, but. to me in many ways I'm not really able to predict what's going to 
+happen.
+
 intro/motivation: 
 ●	Exploratory innovation as a key turn-around / pivot strategy
 ●	Affordance level reappropriation of existing IP catalog as an ancillary strategy
@@ -3523,6 +3527,26 @@ If we want to do last part:
 I'm working on my final paper or final term 
 project for MIS 764. I really need to get this 
 done. something like today.
+
+149
+
+Tabernautomaton: autonomous ghost kitchen food trucks
+
+autonomous ghost kitchen food trucks that operate like 
+a fleet of motherships and dropships
+
+autonomous ghost kitchen food trucks that operate like 
+a fleet of motherships and dropships, the idea is to address 
+the lack of agility and lack of geographic coverage that existing 
+ghost kitchens face as well as the long trip back problem that 
+human delivery workers face when working in sparsely populated suburbs
+
+It's a system that I would find personally useful.
+
+create a system of autonomous food trucks, drone delivery, ghost kitchens 
+synthesize a system invlocing autonomous food trucks, drone delivery, ghost kitchens
+
+150
 
 Digital Information related to or precursor of Digital transformation
 
