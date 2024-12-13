@@ -3559,10 +3559,14 @@ Existing infrastructure is considered old, and a liability
 
 151
 
-Incumbents have a resource advantage over new entrants, but their existing infrastructure can 
+Incumbents have a resource advantage over new entrants, 
+but their existing infrastructure can 
 	be considered old, and as a result, a liability.
 
-Information Systems Journal - 2020 - Chatterjee - The nonlinear influence of harmonious information technology affordance 		
+Information Systems Journal - 2020 - Chatterjee - The nonlinear 
+influence of harmonious information technology affordance
+
+152
 
 4.3.4 Digitalization Ethical Challenge
 
