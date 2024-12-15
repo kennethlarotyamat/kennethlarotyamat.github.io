@@ -3568,6 +3568,8 @@ influence of harmonious information technology affordance
 
 152
 
+This still doesn't seem to have deployed.
+
 4.3.4 Digitalization Ethical Challenge
 
 	Terminology:			How is digitalization - and digitization different?
