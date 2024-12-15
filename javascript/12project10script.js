@@ -4,6 +4,8 @@
 
 
 8
+and then all this other nonsense that I have to deal with what a headache.
+
 
 2024-02-21 03:03:09.680 [info] Log level: Info
 2024-02-21 03:03:09.680 [info] Validating found git in: "C:\Program Files\Git\cmd\git.exe"
