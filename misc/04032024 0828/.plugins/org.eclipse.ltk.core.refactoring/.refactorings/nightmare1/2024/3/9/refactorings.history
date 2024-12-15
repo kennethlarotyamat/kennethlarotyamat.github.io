@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">
-<refactoring comment="Copy package &apos;edu.unlv.mis768.kly.individualassignment1&apos; to &apos;MIS768&apos;&#x0D;&#x0A;- Original project: &apos;nightmare1&apos;&#x0D;&#x0A;- Destination element: &apos;MIS768&apos;&#x0D;&#x0A;- Original element: &apos;nightmare1/src/edu.unlv.mis768.kly.individualassignment1&apos;" description="Copy package" element1="/src&lt;edu.unlv.mis768.kly.individualassignment1" flags="589830" fragments="1" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyPackages" stamp="1709285678874" target="/MIS768" version="1.0"/>
-</session>
