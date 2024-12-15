@@ -3,6 +3,10 @@ package edu.unlv.mis768.kly.individualassignment2;
 import java.util.ArrayList;
 
 import javax.swing.JOptionPane;
+
+// there seems to be a problem with my repository and I think that it has something to do with the java, the src stuff that I have in
+// the repository. I don't know how to deal with all of this garbage.
+// i'm not sure I really want to use eclipse again. Well, I'm not sure I really remember how to use eclipse.
 /*
 
 > git push origin main:main
