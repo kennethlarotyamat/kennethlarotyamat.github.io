@@ -3682,11 +3682,36 @@ unpublished. I may have 6 or 7. I need 10 total.
 
 162
 
-What was I thinking? Well. Fuck. Using punctuation marks. What a pain. Slowly. Nothing I write will make any sense at all.
+    <!-- <form action="mailto:info@chestnutandhazel.com" target="_blank" method="post">
+    <table>
+    <tr>
+    <td style="width:20%; height: 20%;">First Name <br><input type="text" id="firstname" name="firstname"><br><br>Last
+    Name <br>
+    <input type="text" id="lastname" name="lastname"><br><br>Email <br><input type="text" id="email"
+    name="email"><br><br> Telephone <br>
+    <input type="text" id="telephone" name="telephone"><br><br> Website <br><input type="text" id="website"
+    name="website"><br><br> Comments <br>
+    <input style="width: 80%; height: auto; aspect-ratio: 868 / 416;" type="text" id="comments"
+    name="comments"><br><br>
+    <h2>
+    <div>
+    <button id="submitinformationcontactbutton" type="submit">Reach Out</button>
+    </div>
+    </td>
+    </tr>
+    </table>
+    </form>    -->
+163
 
-what i was thinking was that i want to watch a movie. but the last time i went i was disappointed and. honestly. somewhat offended by what i watched.
+What was I thinking? Well. Fuck. Using punctuation marks. 
+What a pain. Slowly. Nothing I write will make any sense at all.
 
-there were a few features that i turned off on my phone keyboard. i really think that the capitalization of letters is somewhat distracting.
+what i was thinking was that i want to watch a movie. but the 
+last time i went i was disappointed and. honestly. somewhat 
+offended by what i watched.
+
+there were a few features that i turned off on my phone keyboard. 
+i really think that the capitalization of letters is somewhat distracting.
 
 i changed other features too. fucking annoying.
 stupid. stupid. stupid.
@@ -3694,6 +3719,8 @@ stupid. stupid. stupid.
 im changing the series title to place the 
 entry number at the beginning. rather than at the end of the title.
 the hell. life is a real nightmare isnt it. 
+
+164
 
 i dont think that i would have gotten out of psychiatric care unless i left Missouri. even if i left Cameron and relocated to kansas city. this move to texas was probably the only way.
 
