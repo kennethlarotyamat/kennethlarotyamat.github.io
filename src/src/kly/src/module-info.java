@@ -11,6 +11,8 @@
 //  * 
 //  * 
 //  * 
+// maybe this will finally deploy. I saw that things haven't
+// deployed since april, which is totally crazy.
 //  * well, let's see where this
 //  * goes/ I basically commented out nearly everything
 //  * 
