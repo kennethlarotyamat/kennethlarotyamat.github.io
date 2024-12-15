@@ -296,7 +296,7 @@ over a million years. */
 
 *, *::before, *::after 
 {
-  text-wrap: wrap;font-size: 1vw;font-weight: 600;box-sizing: border-box;font-family: 'Cinzel', "Century Schoolbook","Times New Roman", Times, Courier,"Georgia", serif;text-decoration: none;
+  text-wrap: wrap;font-size: 2vw;font-weight: 600;box-sizing: border-box;font-family: 'Cinzel', "Century Schoolbook","Times New Roman", Times, Courier,"Georgia", serif;text-decoration: none;
 }
 
 body {
