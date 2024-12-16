@@ -22,7 +22,7 @@ document.getElementById("documentHeader").innerText = newHeadingText2;
 });
 
 document.getElementById('changeSrcBtn3').addEventListener('click', function() {
-var newSource3 = 'https://kennethlarotyamat.github.io/project16/media/text/readme.md'; // Replace this URL with your desired source
+var newSource3 = 'https://kennethlarotyamat.github.io/media/text/readme.md'; // Replace this URL with your desired source
 
 var iframe = document.getElementById('myIframe');
 iframe.src = newSource3;
@@ -35,7 +35,7 @@ document.getElementById("documentHeader").innerText = newHeadingText3;
 // Spanish to English Buttons START
 
 document.getElementById('changeSrcBtn3s1').addEventListener('click', function() {
-var newSource3s1 = 'https://kennethlarotyamat.github.io/project16/media/text/translationFiles/rds1.md'; // Replace this URL with your desired source
+var newSource3s1 = 'https://kennethlarotyamat.github.io/media/text/translationFiles/rds1.md'; // Replace this URL with your desired source
 
 var iframe = document.getElementById('myIframe');
 iframe.src = newSource3s1;
@@ -45,7 +45,7 @@ document.getElementById("documentHeader").innerText = newHeadingText3s1;
 
 
 document.getElementById('changeSrcBtn3s2').addEventListener('click', function() {
-var newSource3s2 = 'https://kennethlarotyamat.github.io/project16/media/text/translationFiles/cvs2.md'; // Replace this URL with your desired source
+var newSource3s2 = 'https://kennethlarotyamat.github.io/media/text/translationFiles/cvs2.md'; // Replace this URL with your desired source
 
 var iframe = document.getElementById('myIframe');
 iframe.src = newSource3s2;
@@ -55,7 +55,7 @@ document.getElementById("documentHeader").innerText = newHeadingText3s2;
 
 
 document.getElementById('changeSrcBtn3s3').addEventListener('click', function() {
-var newSource3s3 = 'https://kennethlarotyamat.github.io/project16/media/text/translationFiles/pns3.md'; // Replace this URL with your desired source
+var newSource3s3 = 'https://kennethlarotyamat.github.io/media/text/translationFiles/pns3.md'; // Replace this URL with your desired source
 
 var iframe = document.getElementById('myIframe');
 iframe.src = newSource3s3;
@@ -65,7 +65,7 @@ document.getElementById("documentHeader").innerText = newHeadingText3s3;
 
 
 document.getElementById('changeSrcBtn3s4').addEventListener('click', function() {
-var newSource3s4 = 'https://kennethlarotyamat.github.io/project16/media/text/translationFiles/mdus4.md'; // Replace this URL with your desired source
+var newSource3s4 = 'https://kennethlarotyamat.github.io/media/text/translationFiles/mdus4.md'; // Replace this URL with your desired source
 
 var iframe = document.getElementById('myIframe');
 iframe.src = newSource3s4;
@@ -74,7 +74,7 @@ document.getElementById("documentHeader").innerText = newHeadingText3s4;
 });
 
 document.getElementById('changeSrcBtn3s5').addEventListener('click', function() {
-var newSource3s5 = 'https://kennethlarotyamat.github.io/project16/media/text/translationFiles/jrs5.md'; // Replace this URL with your desired source
+var newSource3s5 = 'https://kennethlarotyamat.github.io/media/text/translationFiles/jrs5.md'; // Replace this URL with your desired source
 
 var iframe = document.getElementById('myIframe');
 iframe.src = newSource3s5;
@@ -87,7 +87,7 @@ document.getElementById("documentHeader").innerText = newHeadingText3s5;
 // English to Spanish Buttons Start
 
 document.getElementById('changeSrcBtn3e1').addEventListener('click', function() {
-var newSource3e1 = 'https://kennethlarotyamat.github.io/project16/media/text/translationFiles/wcwe1.md '; // Replace this URL with your desired source
+var newSource3e1 = 'https://kennethlarotyamat.github.io/media/text/translationFiles/wcwe1.md '; // Replace this URL with your desired source
 
 var iframe = document.getElementById('myIframe');
 iframe.src = newSource3e1;
@@ -96,7 +96,7 @@ document.getElementById("documentHeader").innerText = newHeadingText3e1;
 });
 
 document.getElementById('changeSrcBtn3e2').addEventListener('click', function() {
-var newSource3e2 = 'https://kennethlarotyamat.github.io/project16/media/text/translationFiles/tsee2.md'; // Replace this URL with your desired source
+var newSource3e2 = 'https://kennethlarotyamat.github.io/media/text/translationFiles/tsee2.md'; // Replace this URL with your desired source
 
 var iframe = document.getElementById('myIframe');
 iframe.src = newSource3e2;
@@ -105,7 +105,7 @@ document.getElementById("documentHeader").innerText = newHeadingText3e2;
 });
 
 document.getElementById('changeSrcBtn3e3').addEventListener('click', function() {
-var newSource3e3 = 'https://kennethlarotyamat.github.io/project16/media/text/translationFiles/wse3.md'; // Replace this URL with your desired source
+var newSource3e3 = 'https://kennethlarotyamat.github.io/media/text/translationFiles/wse3.md'; // Replace this URL with your desired source
 
 var iframe = document.getElementById('myIframe');
 iframe.src = newSource3e3;
@@ -114,7 +114,7 @@ document.getElementById("documentHeader").innerText = newHeadingText3e3;
 });
 
 document.getElementById('changeSrcBtn3e4').addEventListener('click', function() {
-var newSource3e4 = 'https://kennethlarotyamat.github.io/project16/media/text/translationFiles/eece4.md '; // Replace this URL with your desired source
+var newSource3e4 = 'https://kennethlarotyamat.github.io/media/text/translationFiles/eece4.md '; // Replace this URL with your desired source
 
 var iframe = document.getElementById('myIframe');
 iframe.src = newSource3e4;
@@ -127,7 +127,7 @@ document.getElementById("documentHeader").innerText = newHeadingText3e4;
 // Contact Form Buttons START
 
 document.getElementById('changeSrcBtnCF1').addEventListener('click', function() {
-var newSource3e41 = 'https://kennethlarotyamat.github.io/project16/html/newslettersignup2.html'; // Replace this URL with your desired source
+var newSource3e41 = 'https://kennethlarotyamat.github.io/html/newslettersignup2.html'; // Replace this URL with your desired source
 
 var iframe = document.getElementById('myIframe');
 iframe.src = newSource3e41;
@@ -136,7 +136,7 @@ document.getElementById("documentHeader").innerText = newHeadingText3e41;
 });
 
 document.getElementById('changeSrcBtnCF2').addEventListener('click', function() {
-var newSource3e42 = 'https://kennethlarotyamat.github.io/project16/html/newslettersignup.html'; // Replace this URL with your desired source
+var newSource3e42 = 'https://kennethlarotyamat.github.io/html/newslettersignup.html'; // Replace this URL with your desired source
 
 var iframe = document.getElementById('myIframe');
 iframe.src = newSource3e42;
@@ -145,7 +145,7 @@ document.getElementById("documentHeader").innerText = newHeadingText3e42;
 });
 
 document.getElementById('changeSrcBtnCF3').addEventListener('click', function() {
-var newSource3e43 = 'https://kennethlarotyamat.github.io/project16/html/project11contactform.html'; // Replace this URL with your desired source
+var newSource3e43 = 'https://kennethlarotyamat.github.io/html/project11contactform.html'; // Replace this URL with your desired source
 
 var iframe = document.getElementById('myIframe');
 iframe.src = newSource3e43;
@@ -154,7 +154,7 @@ document.getElementById("documentHeader").innerText = newHeadingText3e43;
 });
 
 document.getElementById('changeSrcBtnCF4').addEventListener('click', function() {
-var newSource3e44 = 'https://kennethlarotyamat.github.io/project16/html/project9contactform.html'; // Replace this URL with your desired source
+var newSource3e44 = 'https://kennethlarotyamat.github.io/html/project9contactform.html'; // Replace this URL with your desired source
 
 var iframe = document.getElementById('myIframe');
 iframe.src = newSource3e44;
@@ -176,7 +176,7 @@ document.getElementById('changeSrcBtn3e4MT').addEventListener('click', function(
     });
 
     document.getElementById('changeSrcBtn3s5MT').addEventListener('click', function() {
-        var newSource3e44mts = 'https://kennethlarotyamat.github.io/project16/media/text/translationFiles/spanishMisc.md'; // Replace this URL with your desired source
+        var newSource3e44mts = 'https://kennethlarotyamat.github.io/media/text/translationFiles/spanishMisc.md'; // Replace this URL with your desired source
         
         var iframe = document.getElementById('myIframe');
         iframe.src = newSource3e44mts;
