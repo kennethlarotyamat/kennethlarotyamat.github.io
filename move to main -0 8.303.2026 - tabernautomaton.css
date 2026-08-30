@@ -1,0 +1,609 @@
+/* 
+
+#purheader111120230257{text-align: center;}
+
+#chmrrm111120230553pm{text-align: center;}
+
+*/
+
+
+
+
+.miscTextAlignCenter{text-align: center;}
+
+@import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@400;500;600;700;800;900&family=Playfair+Display:ital,wght@0,400;0,500;0,600;0,700;0,800;0,900;1,400;1,500;1,600;1,700;1,800;1,900&family=Roboto+Serif:ital,opsz,wght@0,8..144,100;0,8..144,200;0,8..144,300;0,8..144,400;0,8..144,500;0,8..144,600;0,8..144,700;0,8..144,800;0,8..144,900;1,8..144,100;1,8..144,200;1,8..144,300;1,8..144,400;1,8..144,500;1,8..144,600;1,8..144,700;1,8..144,800;1,8..144,900&display=swap');
+
+
+/* <iframe  src=".\options-pricing-calculator-project-13-part-2\src\index.html" 
+style="margin: 1vh 1vh 1vh 1vh; padding: 1vh 1vh 1vh 1vh; width:100%; height: auto; aspect-ratio: 50/29; " 
+scrolling="yes"   
+allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+allowfullscreen ></iframe>  */
+
+.divchestnutandhazellandingpageheaderbutton 
+{
+  font-size: 4vw;
+      text-align: center;
+    vertical-align: middle;
+}
+ 
+#centerheadertextbutton 
+{
+    text-align: center;
+    vertical-align: middle;
+    
+}
+.subheadercenterheadertextbutton 
+{
+    text-align: center;
+    vertical-align: middle;
+    grid-area: sbhead;
+    background-color: #ffefea;
+    padding: 2vh;
+    font-size: 4vw;
+    
+    
+}
+button:not(#modalbutton1):not(#modalbutton2) 
+{
+  border-style: outset;
+  border-width: thick;
+  width: auto;
+  border-color: silver;
+  padding: 5px 5px;
+}
+button:hover:not(#modalbutton1):not(#modalbutton2) 
+{
+  border-style: inset;
+  border-width: thick;
+  width: auto;
+  border-color: silver;
+  padding: 5px 5px;
+}
+#submitinformationcontactbutton 
+{
+  border-style: outset;
+  border-width: thick;
+  padding: 1px 1px;
+  width: auto;
+  border-color: silver;
+}
+#submitinformationcontactbutton:hover 
+{
+  border-style: inset;
+  border-width: thick;
+  padding: 1px 1px;
+  width: auto;
+  border-color: silver;
+}
+.headerbutton 
+{
+  text-decoration: none;
+  border-style: outset;
+  border-width: thick;
+  border-color: silver;
+  padding: 6px 6px;
+  background-color: white;
+}
+.headerbutton:hover 
+{
+  text-decoration: none;
+  border-style: inset;
+  border-width: thick;
+  border-color: silver;
+  padding: 6px 6px;
+}
+
+h1 {
+  text-align: center;
+}
+
+h2 {
+  text-align: center;
+
+}
+
+
+.textbodyparagrahindented {
+  text-indent: 50px;
+}
+
+
+
+.wrapper {
+  width: 95%;
+  margin-inline: auto;
+}
+
+.grid-container {
+  display: grid;
+  grid-template-areas:
+    "header header header header header"
+    "sbhead sbhead sbhead sbhead sbhead"
+    "aside-one main main main aside-two"
+    "aside-one main main main aside-two"
+    "footer footer footer footer footer";
+  min-height: 80vh;
+  margin-top: 4rem;
+  gap: 1.15rem;
+}
+
+.grid-item {
+
+  padding: 1rem;
+  margin: 0rem;
+}
+
+
+.header {
+  background-color: #d4e2eb;
+  grid-area: header;
+  display: grid;
+
+}
+
+.main {
+  grid-area: main;
+  background-color: #ecdec9;
+  padding: 3.9vh;
+}
+
+
+
+a:visited {
+  color: black;
+  text-decoration: none;
+}
+a {
+  color: black;
+  text-decoration: none;
+}
+.griditemsasidelefttextdrasideleft:hover {
+  transform: scale(1.08);
+  color: black;
+  text-decoration: none;
+}
+
+.griditemsasidelefttextdrasideleft:visited {
+  color: black;
+  text-decoration: none;
+}
+
+.aside-right {
+  grid-area: aside-right;
+  background-color: #ffffbf;
+}
+#tableasideleft {
+  vertical-align: top;
+}
+
+
+
+
+.contentouter {
+  flex-basis: 0;
+  flex-grow: 1;
+  flex-shrink: 1;
+  background-color: #e6e6fa;
+  margin: 1vh;
+  padding: 1vh;
+
+
+}
+
+
+
+
+
+
+
+
+
+
+.form-check 
+{
+    text-decoration: none;
+}
+
+
+#form-check-labelgreen:hover 
+{
+  transform: scale(1.04);
+  color: green;
+}
+
+#form-check-labelgreenradio:hover 
+{
+  transform: scale(1.04);
+  color: green;
+}
+
+
+.form-check:hover 
+{
+  transform: scale(1.04);
+  color: blue;
+}
+.form-checkgreen 
+{
+    text-decoration: none;
+}
+
+
+
+#form-check-labelgreen:hover 
+{
+  transform: scale(1.04);
+  color: green;
+}
+
+#form-check-labelgreenradio:hover 
+{
+  transform: scale(1.04);
+  color: green;
+}
+
+#form-check-labelgreenradiogreennightmare:hover 
+{
+  transform: scale(1.04);
+  color: green;
+}
+
+
+/* 10252023 0605 what a nightmare. i had a special hover 
+effect specifically in place for the green book response 
+where the hover effect is green, rather than blue, it broke 
+everything and then i had to fix it. it took pretty much 
+over a million years. */
+
+
+
+
+
+
+
+
+.containeroverouter {
+  width: 98%;
+  background-color: #ffffff;
+}
+
+.aside-one 
+{
+  grid-area: aside-one;
+  background-color: #cffdbc;
+}
+
+/* 
+
+    <!-- I swapped the stylesheets but the github version hasn't deployed or posted to the repository yet -->
+     
+    <!-- https://kennethlarotyamat.github.io/CSS/tabernautomaton.css -->
+    <!-- D:\GitHub\kennethlarotyamat.github.io\CSS\tabernautomaton.css -->
+
+    <!-- https://kennethlarotyamat.github.io/CSS/indexTranslations.css -->
+    
+
+
+*/
+
+
+.aside-one:hover 
+{
+    text-decoration: none;
+}
+ 
+.aside-two 
+{
+  grid-area: aside-two;
+  background-color: #ffffbf;
+  vertical-align: top;
+}
+
+
+.aside-two:hover 
+{  
+    text-decoration: none;
+}
+
+*, *::before, *::after 
+{
+  text-wrap: wrap;font-size: 2vw;font-weight: 600;box-sizing: border-box;font-family: 'Cinzel', "Century Schoolbook","Times New Roman", Times, Courier,"Georgia", serif;text-decoration: none;
+}
+
+body {
+  background-color: #ecdec9;
+  color:  #000000;
+  transition: all 0.4s ease-in;
+}
+
+
+/* background-color: #ecdec9; */
+
+/* <!-- this still doesn't seem to have updated. this still hasn't deployed. -->
+ <!-- 157
+
+I don't know what is going wrong here 
+but maybe I fixed it. Maybe I did not 
+fix it. who knows.
+
+158
+
+So. I scraped my blog for a few more poems to put together for a collection, 
+and some of these are shitty. Well. Actually. A whole Hell of a Lot of them 
+are Shitty. A shit ton a whole hell of a lot of them are. Shitty. Really 
+shitty. When I read them I'm really put off by whatever state of mind I was 
+in when I wrote them. Strange stuff. I wonder if I will ever come around to 
+re-reading the things I write here. Or if I will forever be in this state of 
+banging on the keys typing up everything. Or at least. Nearly everything I 
+think as soon as it comes out of my brain. What? What do you think?
+
+159
+
+<!-- <nobr style="color: #79443B;">Tab</nobr><nobr style="color: #A81C07;">erna</nobr><nobr style="color: OliveDrab;">utomaton</nobr> -->
+<!-- I really can't believe this github repository is still functional -->
+<!-- <body class="bodya body backgroundcolortoggler" id="body"> -->
+<!-- it's not really clear to me why this page my github page is not deploying.
+I don't really want to do anything new to my index page.
+
+I'm wondering if I can use a .php rather than a .html page. I don't really know how that would work.-->
+
+160
+
+-->
+
+*/
+/*   background-color: #fae7d4; */
+.backgroundcolortoggler{transition: all 0.4s ease-in;}
+
+h1 {
+  text-align: center;
+  margin-top: 1.25rem;
+}
+
+.colortogglecontainer {
+  margin-top: 0.70rem;
+  display: grid;
+  grid-template-areas:"mode-status slider" ;
+  width: 100%;
+  place-content: center;
+  gap: 1rem;
+  text-align: left;
+}
+
+
+
+.toggle-switch {
+  position: relative;
+  display: inline-block;
+  width: 3.75rem;
+  height: 2.13rem;
+  margin-bottom: 0.1rem;
+  margin-inline: left;
+}
+
+.toggle-switch input {
+  opacity: 0;
+  width: 0;
+  height: 0;
+}
+
+.slider {
+  position: absolute;
+  cursor: pointer;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: #aad9ff;;
+  transition: all 0.4s ease-in;
+  border-radius: 2.13rem; 
+} 
+    
+.slider:before {
+  position: absolute;
+  content: "";
+  height: 1.63rem;
+  width: 1.63rem;
+  left: 0.25rem;
+  bottom: 0.25rem;
+  background-color: white;
+  transition: 0.4s;
+  border-radius: 50%;
+}   
+  
+input:checked + .slider {
+  background-color: #ccc;
+
+}
+
+input:focus + .slider {
+  background-color: #aad9ff;
+  
+  
+}
+
+input:checked:focus + .slider {
+  background-color: #ccc;
+  
+  }
+
+
+
+input:checked + .slider:before {
+  transform: translateX(1.63rem);
+}
+ 
+.footer {
+  text-align: center;
+  background-color: #ffefea;
+  grid-area: footer;
+  display: grid;
+  grid-template-areas:
+    "toptablerow"
+    "bottomtablerow"
+    "bottomtablerow2";
+  place-items: center;
+  }
+
+
+
+
+ 
+
+
+
+
+  .dark-mode {
+    background-color: #ffffff;
+    color:  #000000 !important;
+    transition: all 0.4s ease-in;
+  }
+  .dark-modefields {
+    background-color: #e0f0f0;
+    color:  #000000 !important;
+    transition: all 0.4s ease-in;
+  }
+  .dark-modebsbuttons {
+    background-color: #899499;
+    border-color: silver;
+    color:  #000000 !important;
+    transition: all 0.4s ease-in;
+  }
+
+  
+
+
+
+
+
+
+
+
+
+
+  .mainpll {
+    width: 100%;
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+  }
+   
+  #form-submitted-msg {
+    margin-top: 2rem;
+    border-radius: 3px;
+    background-color: rgb(163, 199, 163);
+    padding: 0.5rem;
+    width: 100%;
+    height: auto; 
+    aspect-ratio: 10.05 / 4.16;
+    text-align: center;
+    color: #fff;
+    display: none;
+  }
+  
+  #exampleForm {
+    width: 100%;
+  }
+  .exampleFormA {
+    color:red;
+    font-size: smaller;
+    
+  }
+
+
+  
+  .input-group {
+    margin-bottom: 1.5rem;
+  }
+  
+  .input-group:not(.radio):not(.checkbox) {
+    gap: 0.25rem;
+    flex-direction: column;
+  }
+  
+  .input-group:not(.radio):not(.checkbox) input {
+    width: 100%;
+    border-radius: 0.375rem !important;
+  }
+   
+  .input-group.checkbox {
+    gap: 1rem;
+  }
+  
+  .input-group.radio {
+    display: flex;
+    gap: 1.5rem;
+    width: 100%;
+  }
+  
+  .input-group.select select {
+    width: 100%;
+  }
+  
+  legend {
+    font-size: 1rem;
+    width: max-content;
+  }
+  
+  .form-btns {
+    display: flex;
+    width: 100%;
+    gap: 1rem;
+    margin-top: 2.5rem;
+  }
+  
+  .form-btns > button {
+    padding: 0.3rem 1.5rem;
+  }
+  
+  .form-btns > .submit {
+    padding-inline: 3rem;
+  }
+  
+  .error-msg {
+    display: none;
+  }
+
+  .fontweightadjustment{ font-weight: 600; }
+
+  .mode-status 
+  {
+    text-decoration: none;
+  }
+
+
+
+/* 
+
+    <!-- this is a little bit of a headache. -->
+
+    <!-- D:\GitHub\kennethlarotyamat.github.io\CSS\tabernautomaton.css -->
+    <!-- new stylesheet needs to be created and swapped -->
+
+*/
+
+
+.questionsbeingasked{font-weight: 750;}
+
+.feedback {
+
+  padding-left: 1vh;
+
+}
+
+.correct-answer {
+
+  color: black;
+}
+#purheader111120230257{text-align: center;}
+
+#chmrrm111120230553pm{text-align: center;}
+
+#pointOneAside
+{ 
+padding: 3vh;
+color: black;
+} 
