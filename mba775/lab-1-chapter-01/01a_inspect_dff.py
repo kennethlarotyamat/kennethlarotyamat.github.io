@@ -12,6 +12,15 @@ performs the checks that should precede any analysis: what did we actually
 get, what type is it, what is missing, and does the coverage match what we
 believe we asked for.
 """
+# when i try to run this program, I get this: 
+# PS D:\GitHub> & C:\Python312\python.exe d:/GitHub/kennethlarotyamat.github.io/mba775/lab-1-chapter-01/01a_inspect_dff.py
+# Traceback (most recent call last):
+#   File "d:\GitHub\kennethlarotyamat.github.io\mba775\lab-1-chapter-01\01a_inspect_dff.py", line 16, in <module>
+# import pandas as pd
+# ModuleNotFoundError: No module named 'pandas'
+# PS D:\GitHub> 
+# i basically had to install pandas
+
 
 import pandas as pd
 
