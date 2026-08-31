@@ -28,6 +28,8 @@ download.
 Requires: pandas. Nothing else.
 """
 
+# is this non-executing code in a .py file: [also: what is the keyboard shortcut for non-executing code in a .py file, and what is a .py file?]
+
 from __future__ import annotations
 
 import shutil
