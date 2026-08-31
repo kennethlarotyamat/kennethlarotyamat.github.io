@@ -80,6 +80,213 @@ if n_duplicates:
     print("coverage figure below is affected. Resolve this before continuing.")
     print(rate.index[rate.index.duplicated(keep=False)].unique()[:10])
 
+
+
+
+    # what is the keyboard shortcut for block comments in a .py file?
+    # so I ran the program after installing pandas, and this is what was produced:  
+
+    # 
+#     PS D:\GitHub> & C:\Python312\python.exe d:/GitHub/kennethlarotyamat.github.io/mba775/lab-1-chapter-01/01a_inspect_dff.py
+
+# 1. What did we get?
+# -------------------
+#                   full history  since 2020-01-01
+# Observations            26,342             2,417
+# First date          1954-07-01        2020-01-01
+# Last date           2026-08-13        2026-08-13
+# Missing                      0                 0
+
+# The lecture note works with the shorter window. Note how different
+# the two columns are -- every summary statistic you report depends on
+# a choice of window that is easy to make without noticing.
+
+# 2. Are the data types right?
+# ----------------------------
+# Values are stored as : float64
+# Index is stored as   : DatetimeIndex
+
+# 3. Is the index itself sound?
+# -----------------------------
+# Dates are unique   : True
+# Duplicate dates    : 0
+# Dates are in order : True
+
+# 4. What is the publication calendar?
+# ------------------------------------
+# Calendar days spanned : 26,342
+# Distinct dates present: 26,342
+# Rows in the file      : 26,342
+# Coverage              : 100.0%
+
+# Essentially every calendar day has a value, so this is a 7-day
+# daily series. Weekend and holiday dates will return data.
+
+# 5. Descriptive statistics
+# -------------------------
+#        full history  since 2020-01-01
+# count     26342.000          2417.000
+# mean          4.596             2.836
+# std           3.545             2.129
+# min           0.040             0.040
+# 25%           1.920             0.090
+# 50%           4.280             3.640
+# 75%           6.130             4.580
+# max          22.360             5.330
+
+# Same series, same units, two defensible samples, and almost nothing
+# in common. A summary statistic is only as meaningful as the sample
+# behind it -- so the sample belongs in the write-up, every time.
+
+# 6. The most recent observations
+# -------------------------------
+#             rate  change
+# date                    
+# 2026-08-04  3.63     0.0
+# 2026-08-05  3.63     0.0
+# 2026-08-06  3.63     0.0
+# 2026-08-07  3.63     0.0
+# 2026-08-08  3.63     0.0
+# 2026-08-09  3.63     0.0
+# 2026-08-10  3.63     0.0
+# 2026-08-11  3.63     0.0
+# 2026-08-12  3.63     0.0
+# 2026-08-13  3.63     0.0
+
+#             monthly mean  days  change  complete
+# date                                            
+# 2025-09-01         4.225    30  -0.105      True
+# 2025-10-01         4.088    31  -0.137      True
+# 2025-11-01         3.876    30  -0.212      True
+# 2025-12-01         3.721    31  -0.156      True
+# 2026-01-01         3.640    31  -0.081      True
+# 2026-02-01         3.640    28   0.000      True
+# 2026-03-01         3.640    31   0.000      True
+# 2026-04-01         3.640    30   0.000      True
+# 2026-05-01         3.628    31  -0.012      True
+# 2026-06-01         3.625    30  -0.002      True
+# 2026-07-01         3.628    31   0.003      True
+# 2026-08-01         3.630    13   0.002     False
+
+# CAUTION: August 2026 is incomplete -- 13 days of 31. Its average covers a different span than the
+# months beside it, so the change into it is not comparable. Drop it,
+# or label it, but do not quietly plot it as though it were finished.
+
+# A policy rate holds flat for long stretches, so the daily tail is
+# mostly zeros in the change column. That is information: it tells you
+# the series is not moving, which a column of identical levels does not.
+
+# Provenance -- record this with your submission
+# ----------------------------------------------
+# Series      : DFF - Federal Funds Effective Rate
+# Source      : Federal Reserve Economic Data (FRED),
+#               Federal Reserve Bank of St. Louis
+# URL         : https://fred.stlouisfed.org/series/DFF
+# Units       : Percent, not seasonally adjusted
+# Date range  : 1954-07-01 to 2026-08-13
+# Rows        : 26,342
+# Retrieved   : see data/README.md in the course repository
+# PS D:\GitHub> & C:\Python312\python.exe d:/GitHub/kennethlarotyamat.github.io/mba775/lab-1-chapter-01/01a_inspect_dff.py
+
+# 1. What did we get?
+# -------------------
+#                   full history  since 2020-01-01
+# Observations            26,342             2,417
+# First date          1954-07-01        2020-01-01
+# Last date           2026-08-13        2026-08-13
+# Missing                      0                 0
+
+# The lecture note works with the shorter window. Note how different
+# the two columns are -- every summary statistic you report depends on
+# a choice of window that is easy to make without noticing.
+
+# 2. Are the data types right?
+# ----------------------------
+# Values are stored as : float64
+# Index is stored as   : DatetimeIndex
+
+# 3. Is the index itself sound?
+# -----------------------------
+# Dates are unique   : True
+# Duplicate dates    : 0
+# Dates are in order : True
+
+# 4. What is the publication calendar?
+# ------------------------------------
+# Calendar days spanned : 26,342
+# Distinct dates present: 26,342
+# Rows in the file      : 26,342
+# Coverage              : 100.0%
+
+# Essentially every calendar day has a value, so this is a 7-day
+# daily series. Weekend and holiday dates will return data.
+
+# 5. Descriptive statistics
+# -------------------------
+#        full history  since 2020-01-01
+# count     26342.000          2417.000
+# mean          4.596             2.836
+# std           3.545             2.129
+# min           0.040             0.040
+# 25%           1.920             0.090
+# 50%           4.280             3.640
+# 75%           6.130             4.580
+# max          22.360             5.330
+
+# Same series, same units, two defensible samples, and almost nothing
+# in common. A summary statistic is only as meaningful as the sample
+# behind it -- so the sample belongs in the write-up, every time.
+
+# 6. The most recent observations
+# -------------------------------
+#             rate  change
+# date                    
+# 2026-08-04  3.63     0.0
+# 2026-08-05  3.63     0.0
+# 2026-08-06  3.63     0.0
+# 2026-08-07  3.63     0.0
+# 2026-08-08  3.63     0.0
+# 2026-08-09  3.63     0.0
+# 2026-08-10  3.63     0.0
+# 2026-08-11  3.63     0.0
+# 2026-08-12  3.63     0.0
+# 2026-08-13  3.63     0.0
+
+#             monthly mean  days  change  complete
+# date                                            
+# 2025-09-01         4.225    30  -0.105      True
+# 2025-10-01         4.088    31  -0.137      True
+# 2025-11-01         3.876    30  -0.212      True
+# 2025-12-01         3.721    31  -0.156      True
+# 2026-01-01         3.640    31  -0.081      True
+# 2026-02-01         3.640    28   0.000      True
+# 2026-03-01         3.640    31   0.000      True
+# 2026-04-01         3.640    30   0.000      True
+# 2026-05-01         3.628    31  -0.012      True
+# 2026-06-01         3.625    30  -0.002      True
+# 2026-07-01         3.628    31   0.003      True
+# 2026-08-01         3.630    13   0.002     False
+
+# CAUTION: August 2026 is incomplete -- 13 days of 31. Its average covers a different span than the
+# months beside it, so the change into it is not comparable. Drop it,
+# or label it, but do not quietly plot it as though it were finished.
+
+# A policy rate holds flat for long stretches, so the daily tail is
+# mostly zeros in the change column. That is information: it tells you
+# the series is not moving, which a column of identical levels does not.
+
+# Provenance -- record this with your submission
+# ----------------------------------------------
+# Series      : DFF - Federal Funds Effective Rate
+# Source      : Federal Reserve Economic Data (FRED),
+#               Federal Reserve Bank of St. Louis
+# URL         : https://fred.stlouisfed.org/series/DFF
+# Units       : Percent, not seasonally adjusted
+# Date range  : 1954-07-01 to 2026-08-13
+# Rows        : 26,342
+# Retrieved   : see data/README.md in the course repository
+# PS D:\GitHub> 
+
 # ---------------------------------------------------------------------------
 banner("4. What is the publication calendar?")
 
