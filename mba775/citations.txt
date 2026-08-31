@@ -12,3 +12,5 @@ Phone: 702-895-3771
 Course Meetings
 Room: BEH 106,and Online
 Time: 17:30 - 18:45
+
+https://fred.stlouisfed.org/docs/api/fred/series_observations.html
