@@ -20,6 +20,7 @@ believe we asked for.
 # ModuleNotFoundError: No module named 'pandas'
 # PS D:\GitHub> 
 # i basically had to install pandas
+# now i'm going to try running this again. 
 
 
 import pandas as pd
