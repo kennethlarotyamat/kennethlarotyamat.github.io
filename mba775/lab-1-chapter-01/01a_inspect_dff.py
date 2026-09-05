@@ -24,7 +24,8 @@ believe we asked for.
 
 
 import pandas as pd
-
+# do I have the setting on or off that allows claude to run code?
+# how do i know that the code execution setting is on if there is not tab to turn it on or off in the capabilities area?
 from _course import banner, load_dff, month_coverage
 
 full = load_dff("dff.csv")

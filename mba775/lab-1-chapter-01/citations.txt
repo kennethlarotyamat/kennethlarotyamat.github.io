@@ -14,5 +14,3 @@ Room: BEH 106,and Online
 Time: 17:30 - 18:45
 
 https://fred.stlouisfed.org/docs/api/fred/series_observations.html
-
-added fred_tools.py to the folder. and I'm going to try running it again.
