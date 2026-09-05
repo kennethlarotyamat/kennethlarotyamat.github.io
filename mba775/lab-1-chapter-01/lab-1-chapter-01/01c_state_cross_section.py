@@ -9,59 +9,6 @@ produce a cross section: the states have to actually be reporting the same
 period. This script checks that before comparing anything.
 """
 
-# assignment notes
-
-# The Forecast Project will count for 10% of the course grade. Each student must submit their own forecasts 
-# in Canvas even if you work with someone else to calculate the forecast. The schedule of forecast periods is 
-# provided below. This project is now built in Python: rather than reading numbers off a web page, you will pull 
-# the series programmatically from FRED using the fredapi package (a free FRED API key takes about a minute to obtain), 
-# and build a forecast from a script you can rerun each period. I will post a starter script that retrieves a series, 
-# plots it, and produces a naive baseline forecast — your job is to beat that baseline and to be able to explain why your approach should work.
-
-# more assignment notes author: john crooker, phd.
-# Forecasting Schedule
-# Submit your forecasts, see Canvas. US Weekly jobless claims are reported on CNBC Thursday mornings. The forecast period is the next period that will be released by the data provider. For the FRED data (all but Las Vegas Visitor Volume), you can see the next date to be released on the data series page.
-
-# All of the FRED series below can be retrieved directly in Python with fredapi, so you should not be transcribing numbers by hand:
-
-# from fredapi import Fred
-# fred = Fred(api_key="YOUR_FREE_KEY")
-# icsa = fred.get_series("ICSA")       # Weekly initial unemployment claims
-# cpi  = fred.get_series("CPIAUCSL")   # Consumer Price Index
-# hst  = fred.get_series("HOUST")      # New privately-owned housing starts
-# nvhpi= fred.get_series("NVSTHPI")    # Nevada House Price Index (quarterly)
-# Las Vegas Visitor Volume is not on FRED and must be taken from the LVCVA visitor statistics page. 
-#
-# [Claude Prompt] 
-
-# Do I need to make any changes to these files to upload consumer 
-# price index data? I need to make a forecast for the CPI - The August 
-# 2026 Consumer Price Index for All Urban Consumers - for the september 11th 2026 release?
-# it's this one: cpi  = fred.get_series("CPIAUCSL")   # Consumer Price Index
-
-# [claude output]
-# This conflicts with how this course's scripts are built. 
-# COURSE_CONTEXT.md says explicitly: "Scripts read local files. They do not download anything."
-# You pull the data yourself and upload it as a CSV
-
-# [claude prompt]
-# I'm about to download this one, would this be the correct one I'm looking for, 
-# one is the assignment, one one is the fred page that I'm about to download the CSV file for.
-# uploaded 2 images to claude.
-
-# [claude output]
-
-# Careful — these don't match. Look at the series 
-# ID on the FRED page in your first screenshot: CPILFESL — that's "All Items Less Food and Energy" (core CPI). But the code line you showed me earlier was:
-# v Go to https://fred.stlouisfed.org/series/CPIAUCSL directly, or
-
-# [claude prompt] [okay, here is the correct file, or double check, I think that this is the correct one.]
-# claude output : One missing value: October 2025 shows a blank/NaN, sitting in the middle of an otherwise complete series.
-# aside. what a nightmare. I have to log into excel right now.
-
-
-
-
 import matplotlib.pyplot as plt
 import pandas as pd
 
