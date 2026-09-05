@@ -93,6 +93,9 @@ if n_duplicates:
 # which version of "In a Sentimental Mood to download." I still buy digital music. Sorry.
 # I'm just trying to see if there is a version I like better than Duke Ellington and John Coltrane.
 #  I won't say that I'm trying to find a "better" version, just one that I like more.
+# there is alway some kind of distraction.
+
+
 # 1. What did we get?
 # -------------------
 #                   full history  since 2020-01-01
