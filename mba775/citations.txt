@@ -16,3 +16,10 @@ Time: 17:30 - 18:45
 https://fred.stlouisfed.org/docs/api/fred/series_observations.html
 
 added fred_tools.py to the folder. and I'm going to try running it again.
+
+Introduction to Data Analytics and Modeling
+Author
+John R. Crooker, PhD
+
+Published
+Sunday, August 30, 2026
