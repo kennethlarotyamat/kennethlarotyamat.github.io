@@ -83,10 +83,10 @@ if n_duplicates:
 
 
 
-    # what is the keyboard shortcut for block comments in a .py file?
-    # so I ran the program after installing pandas, and this is what was produced:  
+# what is the keyboard shortcut for block comments in a .py file?
+# so I ran the program after installing pandas, and this is what was produced:  
 
-# 
+# there really is always some kind of distraction. always. no matter what.
 # PS D:\GitHub> & C:\Python312\python.exe d:/GitHub/kennethlarotyamat.github.io/mba775/lab-1-chapter-01/01a_inspect_dff.py
 # coming back around to this. this shouldn't really take too long, but for some reason I'm having trouble getting around to it. 9.5.2026 1.56 PM
 # distractions, over and over and over. It's kind of the way it goes. I'm figuring out
