@@ -88,7 +88,7 @@ if n_duplicates:
 
     # 
 #     PS D:\GitHub> & C:\Python312\python.exe d:/GitHub/kennethlarotyamat.github.io/mba775/lab-1-chapter-01/01a_inspect_dff.py
-
+# coming back around to this. this shouldn't really take too long, but for some reason I'm having trouble getting around to it. 9.5.2026 1.56 PM
 # 1. What did we get?
 # -------------------
 #                   full history  since 2020-01-01
