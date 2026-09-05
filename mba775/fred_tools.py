@@ -88,6 +88,26 @@ _TRANSPORT_ORDER = ("urllib", "curl", "powershell")
 _PROBE_TIMEOUT = 20.0
 
 
+# from fred_tools import fred_series
+
+# dff = fred_series("DFF", start="2020-01-01").to_frame("federal_funds_rate")
+
+# missing_count = int(dff["federal_funds_rate"].isna().sum())
+
+# print(f"Downloaded {len(dff):,} DFF observations.")
+# print(f"Date range: {dff.index.min().date()} to {dff.index.max().date()}")
+# print(f"Missing rate values: {missing_count:,}")
+
+# dff.to_csv("dff_downloaded.csv")
+# print("Saved data to dff_downloaded.csv")
+
+# Downloaded 2,417 DFF observations.
+# Date range: 2020-01-01 to 2026-08-13
+# Missing rate values: 0
+# Saved data to dff_downloaded.csv
+# dff.head()
+
+
 class FredError(RuntimeError):
     """Raised when FRED cannot supply the requested series."""
 
@@ -241,6 +261,12 @@ def _fetch(url: str, timeout: float, retries: int = DEFAULT_RETRIES) -> str:
               "university network, or call set_cache_dir() and place a "
               "manually downloaded CSV there."
         )
+
+
+
+# Do I need to make any changes to these files to upload consumer price index data? 
+# I need to make a forecast for the CPI - The August 2026 Consumer Price Index for 
+# All Urban Consumers - for the september 11th 2026 release?
 
     last = ""
     for attempt in range(retries + 1):
