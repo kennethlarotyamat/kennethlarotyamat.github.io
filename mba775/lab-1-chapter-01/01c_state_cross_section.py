@@ -63,7 +63,21 @@ period. This script checks that before comparing anything.
 
 # search response - There was no official U.S. Bureau of Labor Statistics 
 # (BLS) CPI forecast for October 1, 2025, because the October 2025 CPI was never 
-# published due to a federal government shutdown that halted data collection
+# published due to a federal government shutdown that halted data collection.
+
+# [claude prompt] what should the october value be based on past octobers as wells as past intervals where 
+# october is a midpoint between september and december
+
+# [claude output] Method	Estimate
+# Raw midpoint: (324.245 + 326.031) / 2	325.138
+# Bias-adjusted using all 78 years' average error (−0.100)	325.038
+# Bias-adjusted using last 10 years' average error (−0.260)	324.878
+
+# [claude prompt]
+# okay so lets run the previous files using the new cpi data, with the 
+# extrapolation: Bias-adjusted using all 78 years' average error (−0.100)325.038, 
+# I would also like to see what an august 2026 figure should look like using our 
+# past method bias adjusted 78 years.
 
 
 
