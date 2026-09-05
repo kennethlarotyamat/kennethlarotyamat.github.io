@@ -36,6 +36,8 @@ LECTURE_START = "2020-01-01"
 recent = full.loc[LECTURE_START:]
 
 # I think that this assignment is just a matter of getting started.
+# The August 2026 Consumer Price Index for All Urban Consumers will be updated on September 11, 2026. Please make your submission by 11:59pm Pacific on September 10, 2026.
+# assignment instructions
 
 rate = full  # the checks below run on the full history
 
