@@ -35,6 +35,8 @@ full = load_dff("dff.csv")
 LECTURE_START = "2020-01-01"
 recent = full.loc[LECTURE_START:]
 
+# I think that this assignment is just a matter of getting started.
+
 rate = full  # the checks below run on the full history
 
 # ---------------------------------------------------------------------------
