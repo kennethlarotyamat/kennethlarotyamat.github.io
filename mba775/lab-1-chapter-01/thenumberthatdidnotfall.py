@@ -22,3 +22,4 @@ print(f"World population grew "
 #   ^^^^^
 #   NameError: name 'world' is not defined
 #   PS D:\GitHub> 
+#   [aside] I'll deal with that later.
