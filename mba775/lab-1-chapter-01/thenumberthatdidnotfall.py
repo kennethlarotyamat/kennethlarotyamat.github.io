@@ -10,15 +10,15 @@ print(f"The COUNT fell by only "
 print(f"World population grew "
       f"{(last.n_poor+last.n_notpoor)/(first.n_poor+first.n_notpoor):.1f} times.")
 
-    #   citations: John Crooker, PhD UNLV Course: Lecture notes Module 2 Sept 7th 2026
-    #  [Aside] I'm going to run this in the terminal and see what happens. I'm so behind, I think that this is last weeks module.
+#   citations: John Crooker, PhD UNLV Course: Lecture notes Module 2 Sept 7th 2026
+#   [Aside] I'm going to run this in the terminal and see what happens. I'm so behind, I think that this is last weeks module.
 
-    # [result] threw an error:
+#   [result] threw an error:
 
-#     PS D:\GitHub> & C:\Python312\python.exe d:/GitHub/kennethlarotyamat.github.io/mba775/lab-1-chapter-01/thenumberthatdidnotfall.py
-# Traceback (most recent call last):
+#   PS D:\GitHub> & C:\Python312\python.exe d:/GitHub/kennethlarotyamat.github.io/mba775/lab-1-chapter-01/thenumberthatdidnotfall.py
+#   Traceback (most recent call last):
 #   File "d:\GitHub\kennethlarotyamat.github.io\mba775\lab-1-chapter-01\thenumberthatdidnotfall.py", line 1, in <module>
-#     peak = world.loc[world["n_poor"].idxmax()]
-#            ^^^^^
-# NameError: name 'world' is not defined
-# PS D:\GitHub> 
+#   peak = world.loc[world["n_poor"].idxmax()]
+#   ^^^^^
+#   NameError: name 'world' is not defined
+#   PS D:\GitHub> 
