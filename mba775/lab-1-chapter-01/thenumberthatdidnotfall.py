@@ -26,3 +26,27 @@ print(f"World population grew "
 #   [aside] I'll deal with that later.
 #   [other thoughts] I think that I spend too much time clearning things. This is kind of a nightmare.
 #   I think that I'll focus on completing laboratory 1 work, and then that's it.
+
+#   [claude prompt] before we get started, i have a question about one of the files, it says mesquite nevada rather than las vegas nevada,
+
+
+
+#   this is the URL, and i've also included a copy of the file that is downloaded. I'm wondering if this is the wronge file because i need one for las vegas, and I'm not really sure mesquite is the same thing, 
+
+
+
+#   Here is the url: 
+
+
+
+#   https://assets.simpleviewcms.com/simpleview/raw/upload/v1/clients/lasvegas/Year_to_Date_Summary_for_2025_revised_cd675d1a-2e15-4a20-aeeb-e6a6d871b10a.xlsx
+
+
+
+#   here is the file:
+
+
+
+
+
+#   is there anyway i would find the correct file, or anyway to extrapolate what the correct url is?
