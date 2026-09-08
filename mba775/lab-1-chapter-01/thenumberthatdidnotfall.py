@@ -52,4 +52,7 @@ print(f"World population grew "
 #   is there anyway i would find the correct file, or anyway to extrapolate what the correct url is?
 
 #   [claude response summary] the file is fine, it's just the mesquite tab, and there are several other tabs, including las vegas
-#   [claude prompt] I'm going to upload the relevant files for this forecasting assignment: There may be duplicates as i had trouble with the tabs and all that. I think it's all years from 2019
+#   [claude prompt] I'm going to upload the relevant files for this forecasting assignment: There may be duplicates as i had 
+#   trouble with the tabs and all that. I think it's all years from 2019 . I'm going to upload the relevant files for this forecasting 
+#   assignment: There may be duplicates as i had trouble with the tabs and all that. I think it's all years from 2019
+#   [claude prompt] here is the one for 2024
