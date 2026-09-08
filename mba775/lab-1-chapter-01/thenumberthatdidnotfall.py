@@ -22,6 +22,7 @@ print(f"World population grew "
 #   ^^^^^
 #   NameError: name 'world' is not defined
 #   PS D:\GitHub> 
+
 #   [aside] I'll deal with that later.
 #   [other thoughts] I think that I spend too much time clearning things. This is kind of a nightmare.
 #   I think that I'll focus on completing laboratory 1 work, and then that's it.
