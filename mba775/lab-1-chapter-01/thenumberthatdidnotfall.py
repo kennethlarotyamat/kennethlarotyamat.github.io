@@ -69,3 +69,8 @@ print(f"World population grew "
 
 # I've uploaded a few data sets from fred, and I'm wondering if any of these show a relationship between them and the las vegas visitor 
 # data. and if so, which ones, and if so, why? are there any that would not have a relationship, and if so, why?
+
+# [claude response] strong relationship | NVUR — Nevada unemployment rate. | TSITTL — Combined Transportation Services Index.
+
+# [claude prompt] could you show me what sort of code was run, or what was run to determine the relationship between the various variables 
+# and the visitor rate, is there anything in FRED that might have a strong correlation or relationship with visitor volume that i can download?
