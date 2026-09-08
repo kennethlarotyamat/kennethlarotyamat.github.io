@@ -74,3 +74,8 @@ print(f"World population grew "
 
 # [claude prompt] could you show me what sort of code was run, or what was run to determine the relationship between the various variables 
 # and the visitor rate, is there anything in FRED that might have a strong correlation or relationship with visitor volume that i can download?
+
+# # [ claude prompt ] could we come up with a forecast for the august 2026 las vegas visitor volume based on past visitor volume for data, while including the 
+
+#  | NVUR — Nevada unemployment rate. | TSITTL — Combined Transportation Services Index.
+# as variables to consider with our forecast, and then show me the code that was run?
