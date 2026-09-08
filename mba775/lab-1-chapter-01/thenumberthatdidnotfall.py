@@ -56,3 +56,16 @@ print(f"World population grew "
 #   trouble with the tabs and all that. I think it's all years from 2019 . I'm going to upload the relevant files for this forecasting 
 #   assignment: There may be duplicates as i had trouble with the tabs and all that. I think it's all years from 2019
 #   [claude prompt] here is the one for 2024
+#   [potential data sets to use for next claude prompt] Unemployment Rate in Nevada (NVUR) | Kerosene-Type Jet Fuel Prices: U.S. Gulf Coast (WJFUELUSGULF) |
+#   Combined Transportation Services Index (TSITTL) | GDP-Based Recession Indicator Index (JHGDPBRINDX) | Job Postings on Indeed in the United States (IHLIDXUS) | 
+#   Risk-ON Risk-Off Index (KCRORO): Equities (KCROROE)
+
+#   [Claude Prompt]
+
+# Unemployment Rate in Nevada (NVUR) | Kerosene-Type Jet Fuel Prices: U.S. Gulf Coast (WJFUELUSGULF) |
+# #   Combined Transportation Services Index (TSITTL) | GDP-Based Recession Indicator Index (JHGDPBRINDX) | Job Postings on Indeed 
+# in the United States (IHLIDXUS) | 
+# #   Risk-ON Risk-Off Index (KCRORO): Equities (KCROROE)
+
+# I've uploaded a few data sets from fred, and I'm wondering if any of these show a relationship between them and the las vegas visitor 
+# data. and if so, which ones, and if so, why? are there any that would not have a relationship, and if so, why?
