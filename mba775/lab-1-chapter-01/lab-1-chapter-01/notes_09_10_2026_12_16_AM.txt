@@ -28,6 +28,12 @@ want to take? would it be better to take private or civilian only employment cos
 costs don't change as much? or would it make more sense to find an index that includes all employment costs? 
 and what index would that be?
 
+[prompt 5]
+
+okay, I'll upload both, and then let's look at how all the data sets, the previously uploaded ones, and the 
+2 new ones, are correlated with initial unemployment claim filings
+
+
 
 
 
