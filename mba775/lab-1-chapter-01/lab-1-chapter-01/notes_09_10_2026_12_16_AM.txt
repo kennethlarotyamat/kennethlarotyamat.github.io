@@ -1,0 +1,24 @@
+[prompt 1]
+
+I have to make another forecast for: The next weekly update for the Weekly Initial Unemployment 
+Claims will be made on Thursday, September 17 (for the week ending Saturday, September 12). I have 
+a few files that I'm going to upload, and I want to see which ones are correlated with the variable 
+I need to make a forecast for.
+
+[prompt 2]
+
+I have to make another forecast for: The next weekly update for the Weekly Initial Unemployment 
+Claims will be made on Thursday, September 17 (for the week ending Saturday, September 12). I have 
+a few files that I'm going to upload, and I want to see which ones are correlated with the variable 
+I need to make a forecast for.
+
+[prompt 3]
+
+would including nvur skew the data in any way, considering that I'm forecasting unemployment based on 
+unemployment of nevada, which i would expect to be correlated anyway? I mean, is this like double counting, 
+or what is the word or concept that I'm thinking of? like basing the forecast on basically itself? or is 
+there no problem with doing this?
+
+
+
+
