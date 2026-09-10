@@ -49,6 +49,10 @@ so the three variables method drifts and the Pure ICSA seasonality has not drift
 in terms of accuracy? like which method more would have more accurately predicted a week in august, or a week in june 
 july and so on? and is the problem with my model primarily with the month vs week units?
 
+[prompt 9]
+
+is there a way to make the regression model seasonal?
+
 
 
 
