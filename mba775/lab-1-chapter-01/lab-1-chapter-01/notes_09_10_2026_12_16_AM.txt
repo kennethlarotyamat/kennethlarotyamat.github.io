@@ -33,6 +33,13 @@ and what index would that be?
 okay, I'll upload both, and then let's look at how all the data sets, the previously uploaded ones, and the 
 2 new ones, are correlated with initial unemployment claim filings
 
+[prompt 6]
+
+for the employment costs indexes, is it possible to shift the data points backward or forward in a way to see 
+if they are correlated in a lagging way? like suppose costs jump, but we don't really see that for a few periods?
+
+
+
 
 
 
