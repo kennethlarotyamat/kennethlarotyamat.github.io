@@ -19,6 +19,17 @@ unemployment of nevada, which i would expect to be correlated anyway? I mean, is
 or what is the word or concept that I'm thinking of? like basing the forecast on basically itself? or is 
 there no problem with doing this?
 
+[prompt 4]
+
+there is another data set that I'm interested in: Employment Cost Index, but I can't figure out which 
+one to use because there are thousands of different ones, like which one would be an index that includes 
+all costs? and not just private only, or civilian only, and is there anything wrong with the approach I 
+want to take? would it be better to take private or civilian only employment costs? because public employment 
+costs don't change as much? or would it make more sense to find an index that includes all employment costs? 
+and what index would that be?
+
+
+
 
 
 
