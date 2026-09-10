@@ -29,3 +29,4 @@ Why a monthly mean and a month-end observation answer different questions, and a
 
 [answer]
 a montly mean answers what the month was like when taken as a whole, while a month-end observation shows where the month ended.
+There are two business situations where one might matter more than the other:
