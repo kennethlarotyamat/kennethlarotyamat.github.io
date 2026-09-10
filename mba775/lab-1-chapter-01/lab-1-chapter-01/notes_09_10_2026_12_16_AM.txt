@@ -38,6 +38,21 @@ okay, I'll upload both, and then let's look at how all the data sets, the previo
 for the employment costs indexes, is it possible to shift the data points backward or forward in a way to see 
 if they are correlated in a lagging way? like suppose costs jump, but we don't really see that for a few periods?
 
+[prompt 7]
+
+let's just come up with a forecast based on the 3 variables that are well correlated with ICSA, as well as past 
+trends for ICSA based on past septembers?
+
+[prompt 8]
+
+so the three variables method drifts and the Pure ICSA seasonality has not drifted? how close or far away are they 
+in terms of accuracy? like which method more would have more accurately predicted a week in august, or a week in june 
+july and so on? and is the problem with my model primarily with the month vs week units?
+
+
+
+
+
 
 
 
