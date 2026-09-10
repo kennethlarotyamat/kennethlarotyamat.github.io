@@ -53,6 +53,18 @@ july and so on? and is the problem with my model primarily with the month vs wee
 
 is there a way to make the regression model seasonal?
 
+[prompt 10]
+
+okay, so what if we cut all data sets to the last 11 years, and then see what the 3 variable regression model comes up with as a forecast.
+
+[prompt 11]
+
+so why would variables that correlate provide a less reliable prediction?
+
+[aside 1] this was probably one of the more annoying conversations that I've had in a while.
+
+
+
 
 
 
